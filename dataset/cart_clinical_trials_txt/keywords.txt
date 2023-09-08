@@ -1,0 +1,2483 @@
+id|nct_id|name|downcase_name
+86094539|NCT02194374|CLL|cll
+86109383|NCT04776330|BCMA|bcma
+86227938|NCT03267173|CAR-T|car-t
+86252116|NCT04499339|CAR|car
+86094537|NCT02194374|Leukemia|leukemia
+86094538|NCT02194374|Chronic lymphocytic leukemia|chronic lymphocytic leukemia
+86094540|NCT02194374|Small lymphocytic lymphoma|small lymphocytic lymphoma
+86094541|NCT02194374|SLL|sll
+86094542|NCT02194374|B cell|b cell
+86094543|NCT02194374|ROR1-specific T cells|ror1-specific t cells
+86094544|NCT02194374|Fludarabine|fludarabine
+86094545|NCT02194374|Fludarabine Phosphate|fludarabine phosphate
+86094546|NCT02194374|Fludara|fludara
+86094547|NCT02194374|Cyclophosphamide|cyclophosphamide
+86094548|NCT02194374|Cytoxan|cytoxan
+86094549|NCT02194374|Neosar|neosar
+86094550|NCT02194374|Rituximab|rituximab
+86094551|NCT02194374|Rituxan|rituxan
+86094552|NCT02194374|Bendamustine|bendamustine
+86094553|NCT02194374|Bendamustine Hydrochloride|bendamustine hydrochloride
+86094554|NCT02194374|Bendamustine HCL|bendamustine hcl
+86094555|NCT02194374|CEP-18083|cep-18083
+86094556|NCT02194374|SDX-105|sdx-105
+86094557|NCT02194374|Treanda|treanda
+86095912|NCT02905188|hepatocellular carcinoma|hepatocellular carcinoma
+86095913|NCT02905188|GPC3-CAR T cells|gpc3-car t cells
+86095914|NCT02905188|GPC3-positive hepatocellular carcinoma|gpc3-positive hepatocellular carcinoma
+86098692|NCT04969354|Carbonic anhydrase|carbonic anhydrase
+86098693|NCT04969354|advanced renal cell carcinoma|advanced renal cell carcinoma
+86098694|NCT04969354|CAR-T|car-t
+86098695|NCT04969354|Chimeric antigen receptor|chimeric antigen receptor
+86098696|NCT04969354|T cell|t cell
+86098697|NCT04969354|CAIX|caix
+86100506|NCT03434769|Cyclophosphamide|cyclophosphamide
+86100507|NCT03434769|Fludarabine|fludarabine
+86100508|NCT03434769|Chimeric antigen receptor T cells|chimeric antigen receptor t cells
+86102727|NCT04430530|4S CAR-T CD22|4s car-t cd22
+86102728|NCT04430530|4S CAR-T CD123|4s car-t cd123
+86102729|NCT04430530|4S CAR-T CD38|4s car-t cd38
+86102730|NCT04430530|4S CAR-T CD10|4s car-t cd10
+86102731|NCT04430530|4S CAR-T CD20|4s car-t cd20
+86102732|NCT04430530|CD19 Negative B cell leukemiaB-ALL|cd19 negative b cell leukemiab-all
+86103140|NCT04861480|Multiple Myeloma|multiple myeloma
+86103141|NCT04861480|CAR-T|car-t
+86103332|NCT04429438|CAR-T|car-t
+86103333|NCT04429438|CD19|cd19
+86103334|NCT04429438|CD20|cd20
+86103335|NCT04429438|CD22|cd22
+86103336|NCT04429438|CD70|cd70
+86103337|NCT04429438|PSMA|psma
+86103338|NCT04429438|CD13|cd13
+86103339|NCT04429438|CD79b|cd79b
+86103340|NCT04429438|GD2|gd2
+86103341|NCT04429438|PMBCL|pmbcl
+86103342|NCT04429438|CNS-BCL|cns-bcl
+86107653|NCT02081937|chimeric antigen receptor|chimeric antigen receptor
+86107654|NCT02081937|immunotherapy|immunotherapy
+86107655|NCT02081937|T lymphocyte|t lymphocyte
+86107656|NCT02081937|mantle cell lymphoma|mantle cell lymphoma
+86109229|NCT05128786|AXL, CAR-T, CCT301-38, sarcoma|axl, car-t, cct301-38, sarcoma
+86109230|NCT05128786|CAR-T|car-t
+86109231|NCT05128786|CCT301-38|cct301-38
+86109232|NCT05128786|sarcoma|sarcoma
+86109376|NCT04782193|CD19|cd19
+86109377|NCT04782193|CD22|cd22
+86109378|NCT04782193|CAR-T|car-t
+86109379|NCT04781634|CD19|cd19
+86109380|NCT04781634|CD22|cd22
+86109381|NCT04781634|CAR-T|car-t
+86109382|NCT04776330|Multiple Myeloma|multiple myeloma
+86109384|NCT04776330|prime Chimeric Antigen Receptor T Cell|prime chimeric antigen receptor t cell
+86109449|NCT04649983|CD19|cd19
+86109450|NCT04649983|CD22|cd22
+86109451|NCT04649983|CAR-T|car-t
+86109452|NCT04648475|CAR-T|car-t
+86109453|NCT04648475|CD19|cd19
+86109454|NCT04648475|CD22|cd22
+86109494|NCT04511871|HER2|her2
+86109495|NCT04511871|CAR-T|car-t
+86109496|NCT04511871|Solid tumors|solid tumors
+86109544|NCT04348643|CAR-T|car-t
+86109545|NCT04348643|Solid Tumor|solid tumor
+86109546|NCT04348643|Lung Cancer|lung cancer
+86109547|NCT04348643|Colorectal Cancer|colorectal cancer
+86109548|NCT04348643|Liver Cancer|liver cancer
+86109549|NCT04348643|Pancreatic Cancer|pancreatic cancer
+86109550|NCT04348643|Gastric Cancer|gastric cancer
+86109551|NCT04348643|Breast Cancer|breast cancer
+86109561|NCT04272151|Multiple Myeloma|multiple myeloma
+86109562|NCT04272151|Chimeric Antigen Receptor T cell|chimeric antigen receptor t cell
+86109563|NCT04272151|BCMA|bcma
+86109564|NCT04272125|Leukemia|leukemia
+86109565|NCT04272125|Acute Myeloid Leukemia|acute myeloid leukemia
+86109566|NCT04272125|CD123|cd123
+86109567|NCT04272125|CAR-T|car-t
+86109568|NCT04271800|Leukemia|leukemia
+86109569|NCT04271800|Lymphoma|lymphoma
+86109570|NCT04271800|CD19|cd19
+86109571|NCT04271800|CAR-T|car-t
+86109572|NCT04271644|Multiple Myeloma|multiple myeloma
+86109573|NCT04271644|BCMA|bcma
+86109574|NCT04271644|Chimeric Antigen Receptor T Cell|chimeric antigen receptor t cell
+86109575|NCT04271410|Leukemia|leukemia
+86109576|NCT04271410|Lymphoma|lymphoma
+86110199|NCT04788472|CD19 CAR-T|cd19 car-t
+86110200|NCT04788472|CD22 CAR-T|cd22 car-t
+86110201|NCT04788472|Ph Chromosome Positive|ph chromosome positive
+86110202|NCT04788472|B-ALL|b-all
+86110203|NCT04788472|Newly diagnosed|newly diagnosed
+86114640|NCT02915445|EpCAM CAR-T, solid tumors, cancer immunotherapy|epcam car-t, solid tumors, cancer immunotherapy
+86115279|NCT04703686|Post Car T-cells therapy|post car t-cells therapy
+86117091|NCT04503980|Solid tumors|solid tumors
+86117092|NCT04503980|CAR T cell|car t cell
+86118695|NCT03488160|lymphoma CAR-T|lymphoma car-t
+86118812|NCT03540303|relapsed/refractory, B cell, lymphoma, CAR|relapsed/refractory, b cell, lymphoma, car
+86120748|NCT05459870|CAR-T|car-t
+86120749|NCT05459870|autoimmune disease|autoimmune disease
+86120750|NCT05459870|autoantibody|autoantibody
+86120751|NCT05459870|CD19|cd19
+86120752|NCT05459870|BCMA|bcma
+86120753|NCT05459870|CD138|cd138
+86120754|NCT05459870|BAFF-R|baff-r
+86121167|NCT04706936|BCMA|bcma
+86121168|NCT04706936|Chimeric antigen receptor T cell|chimeric antigen receptor t cell
+86121169|NCT04706936|Adoptive cell therapy|adoptive cell therapy
+86122955|NCT05393804|Ide-cel (bb2121)|ide-cel (bb2121)
+86122956|NCT05393804|Hematopoietic Cell Transplant|hematopoietic cell transplant
+86122957|NCT05393804|22-118|22-118
+86123128|NCT04952584|CD30-Positive Lymphoma|cd30-positive lymphoma
+86123129|NCT04952584|Hodgkin lymphoma|hodgkin lymphoma
+86123130|NCT04952584|Non-Hodgkin lymphoma|non-hodgkin lymphoma
+86123131|NCT04952584|CD30 CAR|cd30 car
+86124228|NCT03473496|BCMA-CART|bcma-cart
+86124229|NCT03473496|CD138-CART|cd138-cart
+86124230|NCT03473496|CD56-CART|cd56-cart
+86124231|NCT03473496|CD38-CART|cd38-cart
+85895676|NCT03980288|CAR-T|car-t
+86125786|NCT04489862|MSLN-CAR T|msln-car t
+86125787|NCT04489862|PD-1 nanobodies|pd-1 nanobodies
+86126082|NCT05398614|CD7|cd7
+86126083|NCT05398614|T-ALL/T-LBL|t-all/t-lbl
+86127480|NCT03919526|CD19/CD22|cd19/cd22
+86127481|NCT03919526|Bispecific CAR-T|bispecific car-t
+86127482|NCT03919526|leukemia|leukemia
+86127483|NCT03919526|MRD-positive|mrd-positive
+86127484|NCT03919526|B-ALL|b-all
+86127641|NCT03262298|CD22|cd22
+86127642|NCT03262298|CAR-T|car-t
+86127643|NCT03262298|Leukemia|leukemia
+86127644|NCT03262298|Lymphoma|lymphoma
+86128417|NCT05211557|Fully Human B7H3 CAR-T|fully human b7h3 car-t
+86128418|NCT05211557|Recurrent Ovarian Cancer|recurrent ovarian cancer
+86128450|NCT05477446|CAR-T cell therapy|car-t cell therapy
+86128451|NCT05477446|Langerhans Cell histiocytosis|langerhans cell histiocytosis
+86128452|NCT05477446|CD207|cd207
+86128836|NCT03222674|AML|aml
+86128837|NCT03222674|CAR T|car t
+86128838|NCT03222674|Muc1,CLL1, CD33, CD38, CD56, and/or CD123|muc1,cll1, cd33, cd38, cd56, and/or cd123
+86131105|NCT02439788|Neuroblastoma|neuroblastoma
+86131106|NCT02439788|Natural Killer T Cells|natural killer t cells
+86131107|NCT02439788|Gene Therapy|gene therapy
+86131108|NCT02439788|Chimeric Antigen Receptor|chimeric antigen receptor
+86131787|NCT03182816|epidermal growth factor receptor|epidermal growth factor receptor
+86131788|NCT03182816|CTLA-4|ctla-4
+86131789|NCT03182816|PD-1|pd-1
+86131790|NCT03182816|chimeric antigen receptor T cells|chimeric antigen receptor t cells
+86131791|NCT03182816|solid tumor|solid tumor
+86131805|NCT03185468|CAR T|car t
+86131806|NCT03185468|Bladder|bladder
+86132314|NCT02416466|Colorectal cancer|colorectal cancer
+86132315|NCT02416466|Liver metastases|liver metastases
+86132316|NCT02416466|Breast cancer|breast cancer
+86132317|NCT02416466|Gastric cancer|gastric cancer
+86132318|NCT02416466|Pancreas cancer|pancreas cancer
+86132319|NCT02416466|Carcinoembryonic antigen|carcinoembryonic antigen
+86132320|NCT02416466|CAR-T|car-t
+86132321|NCT02416466|Immunotherapy|immunotherapy
+86133986|NCT02535364|acute lymphoblastic leukemia|acute lymphoblastic leukemia
+86133987|NCT02535364|ALL|all
+86133988|NCT02535364|chimeric antigen receptor|chimeric antigen receptor
+86133989|NCT02535364|CAR|car
+86133990|NCT02535364|CAR T cells|car t cells
+86133991|NCT02535364|JCAR015|jcar015
+86133992|NCT02535364|autologous T cell therapy|autologous t cell therapy
+86133993|NCT02535364|cell therapy|cell therapy
+86134357|NCT03070327|B-cell Maturation Antigen (BCMA)|b-cell maturation antigen (bcma)
+86134358|NCT03070327|Targeted EGFRt/BCMA-41BBz|targeted egfrt/bcma-41bbz
+86134359|NCT03070327|Chimeric antigen receptor (CAR)|chimeric antigen receptor (car)
+86134360|NCT03070327|Lenalidomide|lenalidomide
+86134361|NCT03070327|17-025|17-025
+86137509|NCT03473457|CD38-CART|cd38-cart
+86137510|NCT03473457|CD33-CART|cd33-cart
+86137511|NCT03473457|CD56-CART|cd56-cart
+86137512|NCT03473457|CD123-CART|cd123-cart
+86137513|NCT03473457|CD117-CART|cd117-cart
+86137514|NCT03473457|CD133-CART|cd133-cart
+86137515|NCT03473457|CD34-CART|cd34-cart
+86137516|NCT03473457|Mucl-CART|mucl-cart
+86138664|NCT04684563|CLL|cll
+86138665|NCT04684563|NHL|nhl
+86138666|NCT04684563|CAR-T cells|car-t cells
+86143272|NCT03649529|HLA-A2|hla-a2
+86143273|NCT03649529|gp100|gp100
+86143606|NCT03615313|mesothelin, PD-1, CAR T cells, solid tumor|mesothelin, pd-1, car t cells, solid tumor
+86144631|NCT03612739|CAR-T Cells|car-t cells
+86144632|NCT03612739|NKR-2|nkr-2
+86144633|NCT03612739|AML|aml
+86144634|NCT03612739|Epigenetic drug therapy|epigenetic drug therapy
+86145685|NCT03125577|4S CAR-T|4s car-t
+86145686|NCT03125577|CD19|cd19
+86145687|NCT03125577|CD20|cd20
+86145688|NCT03125577|CD22|cd22
+86145689|NCT03125577|CD38|cd38
+86145690|NCT03125577|CD123|cd123
+86145691|NCT03125577|B cell leukemia|b cell leukemia
+86145692|NCT03125577|B-ALL|b-all
+86145693|NCT03125577|CD70|cd70
+86145694|NCT03125577|CD30|cd30
+86146616|NCT03939026|CAR T|car t
+86146617|NCT03939026|Cell Therapy|cell therapy
+86146618|NCT03939026|Allogeneic Cell Therapy|allogeneic cell therapy
+86146619|NCT03939026|Cellular Immuno-therapy|cellular immuno-therapy
+86146620|NCT03939026|AlloCAR T|allocar t
+86146621|NCT03939026|ALLO-501|allo-501
+86146622|NCT03939026|ALLO-647|allo-647
+86146623|NCT03939026|LBCL|lbcl
+86146624|NCT03939026|Lymphoma|lymphoma
+86146625|NCT03939026|Follicular Lymphoma|follicular lymphoma
+86146626|NCT03939026|Large B-Cell Lymphoma|large b-cell lymphoma
+85917095|NCT02414269|CAR T cells|car t cells
+86148180|NCT05396300|CAR-T|car-t
+86148181|NCT05396300|CEA|cea
+86148182|NCT05396300|CEA-positive advanced malignant solid tumors|cea-positive advanced malignant solid tumors
+86148275|NCT05089266|Solid tumors|solid tumors
+86148276|NCT05089266|CAR T cells|car t cells
+86148350|NCT04768608|Castrate-Resistant Prostate Cancer|castrate-resistant prostate cancer
+86148389|NCT04652219|cart|cart
+86148390|NCT04652219|gucy2c|gucy2c
+86148391|NCT04652219|Digestive tract tumor|digestive tract tumor
+86148575|NCT03618381|CAR T cell|car t cell
+86148576|NCT03618381|Pediatric|pediatric
+86148577|NCT03618381|Young Adults|young adults
+86148578|NCT03618381|Non-CNS solid tumor|non-cns solid tumor
+86149561|NCT04545762|Non-Hodgkin Lymphoma|non-hodgkin lymphoma
+86149562|NCT04545762|Anti-CD19 autologous CAR-T cells|anti-cd19 autologous car-t cells
+86149599|NCT04419909|CTL019|ctl019
+86149600|NCT04419909|CTL119|ctl119
+86149601|NCT04419909|CAR T-cell|car t-cell
+86149602|NCT04419909|CART|cart
+86150529|NCT02850536|Colorectal Cancer|colorectal cancer
+86150530|NCT02850536|Liver Metastases|liver metastases
+86150531|NCT02850536|Breast Cancer|breast cancer
+86150532|NCT02850536|Gastric Cancer|gastric cancer
+86150533|NCT02850536|Pancreas Cancer|pancreas cancer
+86150534|NCT02850536|Carcinoembryonic antigen|carcinoembryonic antigen
+86150535|NCT02850536|CAR-T|car-t
+86150536|NCT02850536|Immunotherapy|immunotherapy
+86153947|NCT03327285|Acute lymphoblastic leukemia|acute lymphoblastic leukemia
+86153948|NCT03327285|Hematopoietic stem cell transplantation|hematopoietic stem cell transplantation
+86153949|NCT03327285|Anti-CD19 chimeric antigen receptor T-cell|anti-cd19 chimeric antigen receptor t-cell
+86154605|NCT03321123|B cell Acute Lymphoblastic Leukemia|b cell acute lymphoblastic leukemia
+86154606|NCT03321123|relapsed or refractory|relapsed or refractory
+86154607|NCT03321123|CD-19 Positive|cd-19 positive
+86156364|NCT05334823|CAR-T|car-t
+86156365|NCT05334823|CD19|cd19
+86156366|NCT05334823|B-ALL|b-all
+86163028|NCT03252171|CAR-T cell immunotherapy|car-t cell immunotherapy
+86163029|NCT03252171|GD2|gd2
+86163030|NCT03252171|glioma|glioma
+86164221|NCT05354375|Prostate specific membrane antigen|prostate specific membrane antigen
+86164222|NCT05354375|Castration-resistant Prostate Cancer|castration-resistant prostate cancer
+86164223|NCT05354375|CAR-T|car-t
+86164224|NCT05354375|Chimeric antigen receptor|chimeric antigen receptor
+86164225|NCT05354375|T cell|t cell
+86165192|NCT04715191|15.21.GPC3-CAR T cells|15.21.gpc3-car t cells
+86165193|NCT04715191|GPC3|gpc3
+86165194|NCT04715191|Glypican|glypican
+86165308|NCT04377932|15.GPC3-CAR T cells|15.gpc3-car t cells
+86165309|NCT04377932|GPC3|gpc3
+86165310|NCT04377932|Glypican|glypican
+86165343|NCT04240808|Car T|car t
+86165344|NCT04240808|Car T Cells|car t cells
+86165345|NCT04240808|Cancer|cancer
+86165346|NCT04240808|B-Cell Non-Hodgkin's Lymphoma|b-cell non-hodgkin's lymphoma
+86165347|NCT04240808|B-NHL|b-nhl
+86165391|NCT04049383|Acute Lymphoblastic Leukemia|acute lymphoblastic leukemia
+86165392|NCT04049383|B-cell|b-cell
+86165393|NCT04049383|CAR-T|car-t
+86165858|NCT03564977|CAR-T|car-t
+86165859|NCT03564977|minimal residual disease|minimal residual disease
+86165860|NCT03564977|B cell maliganacy|b cell maliganacy
+86166304|NCT03545815|mesothelin, CRISPR-Cas9, PD-1, TCR|mesothelin, crispr-cas9, pd-1, tcr
+86169520|NCT04934774|Anti-CD7 CAR|anti-cd7 car
+86169521|NCT04934774|CD7CAR|cd7car
+86169522|NCT04934774|T cell leukoma/lymphoma|t cell leukoma/lymphoma
+86169523|NCT04934774|T-ALL|t-all
+86169524|NCT04934774|T-cell acute lymphoblastic leukemia|t-cell acute lymphoblastic leukemia
+86169525|NCT04934774|T-cell acute lymphoblastic lymphoma|t-cell acute lymphoblastic lymphoma
+86171192|NCT04888442|Adoptive T Cell Therapy|adoptive t cell therapy
+86171193|NCT04888442|Chimeric antigen receptor|chimeric antigen receptor
+86171194|NCT04888442|CD19|cd19
+85874869|NCT04648046|HIV|hiv
+85943019|NCT04690595|ALL|all
+86176548|NCT02706405|PD-L1|pd-l1
+86176549|NCT02706405|immunotherapy|immunotherapy
+86176550|NCT02706405|non-Hodgkin lymphoma|non-hodgkin lymphoma
+86176740|NCT03179007|MUC1|muc1
+86176741|NCT03179007|CTLA-4|ctla-4
+86176742|NCT03179007|PD-1|pd-1
+86176743|NCT03179007|chimeric antigen receptor T cells|chimeric antigen receptor t cells
+86176744|NCT03179007|solid tumor|solid tumor
+86176773|NCT02761915|Neuroblastoma|neuroblastoma
+86176774|NCT02761915|Immunotherapy|immunotherapy
+86176775|NCT02761915|1RG-CART|1rg-cart
+86176776|NCT02761915|Cyclophosphamide|cyclophosphamide
+86176777|NCT02761915|Fludarabine|fludarabine
+86176778|NCT02761915|CAR T-cells|car t-cells
+86176779|NCT02761915|Anti-GD2|anti-gd2
+86176780|NCT02761915|GD2|gd2
+86176781|NCT02761915|CAR|car
+86176782|NCT02761915|Chimeric Antigen Receptor|chimeric antigen receptor
+86176783|NCT02761915|Cytokine Release Syndrome|cytokine release syndrome
+86179432|NCT05626322|DLBCL|dlbcl
+86179433|NCT05626322|Lymphoma|lymphoma
+86179434|NCT05626322|Relapsed|relapsed
+86179435|NCT05626322|Refractory|refractory
+86179436|NCT05626322|CD19|cd19
+86179437|NCT05626322|CD47|cd47
+86179438|NCT05626322|Maplirpacept|maplirpacept
+86179439|NCT05626322|Tafasitamab|tafasitamab
+86179440|NCT05626322|Lenalidomide|lenalidomide
+86180266|NCT02107963|GD2-Expressing Tumors|gd2-expressing tumors
+86180267|NCT02107963|Anti-GD2 Chimeric Antigen Receptor|anti-gd2 chimeric antigen receptor
+86180268|NCT02107963|Osteosarcoma|osteosarcoma
+86180269|NCT02107963|Adoptive Immunotherapy|adoptive immunotherapy
+86180270|NCT02107963|Sarcomas|sarcomas
+86183806|NCT02203825|Acute Myeloid Leukemia|acute myeloid leukemia
+86183807|NCT02203825|NKG2D|nkg2d
+86183808|NCT02203825|Multiple Myeloma|multiple myeloma
+86183809|NCT02203825|Cell Therapy|cell therapy
+86187384|NCT04473937|Hematologic Malignancy|hematologic malignancy
+86187385|NCT04473937|Refractory Lymphoma|refractory lymphoma
+86187386|NCT04473937|CAR T cell therapy|car t cell therapy
+86187387|NCT04473937|Radiotherapy|radiotherapy
+86191813|NCT01953900|Osteosarcoma|osteosarcoma
+86191814|NCT01953900|T-Cells|t-cells
+86191815|NCT01953900|varicella zoster virus (VZV)|varicella zoster virus (vzv)
+86191816|NCT01953900|GD2|gd2
+86191817|NCT01953900|Neuroblastoma|neuroblastoma
+86191922|NCT03528421|CAR-T|car-t
+86192447|NCT03927261|AML|aml
+86192448|NCT03927261|MDS|mds
+86193573|NCT04581473|advanced solid tumors|advanced solid tumors
+86193574|NCT04581473|Gastric Cancer|gastric cancer
+86193575|NCT04581473|Pancreatic Cancer|pancreatic cancer
+86193576|NCT04581473|Esophagogastric Junction Cancer|esophagogastric junction cancer
+86193577|NCT04581473|Claudin18.2|claudin18.2
+86193578|NCT04581473|CLDN18.2|cldn18.2
+86193579|NCT04581473|CAR T cell|car t cell
+86195358|NCT03497533|CD19|cd19
+86195359|NCT03497533|CAR-T|car-t
+86195360|NCT03497533|TriCAR-T-CD19|tricar-t-cd19
+86195361|NCT03497533|non-Hodgkin lymphoma|non-hodgkin lymphoma
+86195362|NCT03497533|NHL|nhl
+86197591|NCT02443831|high risk relapsed CD19+ and/or CD22+ hematological malignancies|high risk relapsed cd19+ and/or cd22+ hematological malignancies
+86197852|NCT05191472|CAR-T|car-t
+86198975|NCT04219163|AML|aml
+86199834|NCT05206357|Non-hodgkin Lymphoma|non-hodgkin lymphoma
+86199835|NCT05206357|ABBV-GMAB-3013|abbv-gmab-3013
+86199836|NCT05206357|Epcoritamab|epcoritamab
+86199837|NCT05206357|Burkitt's or Burkitt-like Lymphoma/Leukemia|burkitt's or burkitt-like lymphoma/leukemia
+86199838|NCT05206357|Diffuse Large B-cell Lymphoma|diffuse large b-cell lymphoma
+86199839|NCT05206357|Aggressive Mature (CD20+) B-cell Lymphoma|aggressive mature (cd20+) b-cell lymphoma
+86199840|NCT05206357|Cancer|cancer
+86199841|NCT05206357|Relapsed/Refractory Aggressive Mature B-cell Neoplasms|relapsed/refractory aggressive mature b-cell neoplasms
+86199842|NCT05206357|EPCORE|epcore
+86200123|NCT04577326|Genetically Engineered Autologous T Cells|genetically engineered autologous t cells
+86200124|NCT04577326|20-328|20-328
+85971374|NCT03448393|CD-19 expressing tumor|cd-19 expressing tumor
+85971375|NCT03448393|CD-22 Expressing Tumor|cd-22 expressing tumor
+85971376|NCT03448393|Adoptive Immunotherapy|adoptive immunotherapy
+85971377|NCT03448393|Lymphoma|lymphoma
+86204004|NCT03323944|metastatic adenocarcinoma, pancreas|metastatic adenocarcinoma, pancreas
+85971378|NCT03448393|Philadelphia chromosome + ALL|philadelphia chromosome + all
+86207067|NCT03497819|CART|cart
+86207068|NCT03497819|Pancreatic Cancer|pancreatic cancer
+86207069|NCT03497819|artery infusion|artery infusion
+86209759|NCT05320081|CD30 positive|cd30 positive
+86210256|NCT03593109|Chimeric Antigen Receptor T cells|chimeric antigen receptor t cells
+86210257|NCT03593109|CD19 and CD22|cd19 and cd22
+86213261|NCT04447573|BCMA，MM|bcma，mm
+86213881|NCT03904069|Relapsed/refractory acute myeloid leukemia|relapsed/refractory acute myeloid leukemia
+86213882|NCT03904069|Acute myeloid leukemia|acute myeloid leukemia
+86213883|NCT03904069|Oncology/hematology|oncology/hematology
+86213884|NCT03904069|CAR T cell therapy|car t cell therapy
+86215722|NCT03349255|alpha-fetoprotein|alpha-fetoprotein
+86215723|NCT03349255|AFP|afp
+86215724|NCT03349255|HCC|hcc
+86215725|NCT03349255|CAR T cell therapy|car t cell therapy
+86216894|NCT05430945|multiple myeloma|multiple myeloma
+86216895|NCT05430945|CAR T-cell therapy|car t-cell therapy
+86216896|NCT05430945|BCMA|bcma
+86220974|NCT03356795|Cervical cancer|cervical cancer
+86220975|NCT03356795|CAR-T|car-t
+86220976|NCT03356795|GD2|gd2
+86220977|NCT03356795|PSMA|psma
+86220978|NCT03356795|Muc1|muc1
+86220979|NCT03356795|Mesothelin|mesothelin
+86220980|NCT03356795|HPV|hpv
+86220981|NCT03356795|solid tumor|solid tumor
+85760022|NCT02813837|lymphoma|lymphoma
+86227603|NCT03283631|Malignant Glioma|malignant glioma
+86227604|NCT03283631|INTERCEPT|intercept
+86227605|NCT03283631|Pro00083828|pro00083828
+86227606|NCT03283631|Adult|adult
+86227607|NCT03283631|Chimeric Antigen Receptor|chimeric antigen receptor
+86227608|NCT03283631|CAR T cell|car t cell
+86227609|NCT03283631|EGFRvIII|egfrviii
+86227937|NCT03267173|Pancreatic Cancer|pancreatic cancer
+86227939|NCT03267173|Mesothelin|mesothelin
+86227940|NCT03267173|CEA|cea
+86227941|NCT03267173|HER2|her2
+86229773|NCT04430595|CART|cart
+86229774|NCT04430595|adoptive T cell transfer|adoptive t cell transfer
+86229775|NCT04430595|Her2|her2
+86229776|NCT04430595|GD2|gd2
+86229777|NCT04430595|CD44V6|cd44v6
+86232173|NCT04792593|B-ALL，h19，CAR-T|b-all，h19，car-t
+86236227|NCT04280133|Hematologic Malignancy|hematologic malignancy
+86236228|NCT04280133|CAR-T cell therapy|car-t cell therapy
+86240071|NCT03182803|mesothelin|mesothelin
+86240072|NCT03182803|CTLA-4|ctla-4
+86240073|NCT03182803|PD-1|pd-1
+86240074|NCT03182803|chimeric antigen receptor T cells|chimeric antigen receptor t cells
+86240075|NCT03182803|solid tumor|solid tumor
+86241015|NCT05085431|Sjogren's Syndrome|sjogren's syndrome
+86241016|NCT05085431|CD19 CAR T-cell therapy|cd19 car t-cell therapy
+86241017|NCT05085431|BCMA CAR T-cell therapy|bcma car t-cell therapy
+86241902|NCT04846439|CAR-T|car-t
+86241903|NCT04846439|alloimmune|alloimmune
+86241904|NCT04846439|platelet transfusion refractoriness|platelet transfusion refractoriness
+86242003|NCT02659943|Gene Therapy|gene therapy
+86242004|NCT02659943|Adoptive T Cell Therapy|adoptive t cell therapy
+86242005|NCT02659943|Allogeneic Stem Cell Transplantation|allogeneic stem cell transplantation
+86242006|NCT02659943|T-cell infusion|t-cell infusion
+86242007|NCT02659943|Residual Malignancy|residual malignancy
+86244175|NCT05131763|NKG2D-based CAR T-cells|nkg2d-based car t-cells
+86244176|NCT05131763|solid tumors|solid tumors
+86245480|NCT03090659|multiple myeloma|multiple myeloma
+86245481|NCT03090659|BCMA|bcma
+86245482|NCT03090659|CAR-T|car-t
+86245744|NCT05302037|cancer|cancer
+86245745|NCT05302037|malignancy|malignancy
+86245746|NCT05302037|solid cancer|solid cancer
+86245747|NCT05302037|solid tumours|solid tumours
+86245748|NCT05302037|haematological cancer|haematological cancer
+86245749|NCT05302037|haematological malignancy|haematological malignancy
+86245750|NCT05302037|refractory cancer|refractory cancer
+86245751|NCT05302037|relapsed cancer|relapsed cancer
+86245752|NCT05302037|CAR-T|car-t
+86245753|NCT05302037|cell therapy|cell therapy
+86245754|NCT05302037|gamma delta|gamma delta
+86249510|NCT02442297|CNS Tumors|cns tumors
+86249511|NCT02442297|T cells Expressing HER2-specific Chimeric Antigen Receptors|t cells expressing her2-specific chimeric antigen receptors
+86249512|NCT02442297|HER2-specific T cells|her2-specific t cells
+86249513|NCT02442297|intracranial injection|intracranial injection
+86251253|NCT05457010|Arcellx|arcellx
+86251254|NCT05457010|ARC-T cells|arc-t cells
+86251255|NCT05457010|SparX|sparx
+86251256|NCT05457010|SPRX002|sprx002
+86251257|NCT05457010|ACLX-002|aclx-002
+86251263|NCT05454241|T-ALL/LBL|t-all/lbl
+86251264|NCT05454241|AML|aml
+86252114|NCT04499339|SLAMF7|slamf7
+86252115|NCT04499339|Chimeric antigen receptor|chimeric antigen receptor
+86252117|NCT04499339|CAR-T cell|car-t cell
+86252118|NCT04499339|immunotherapy|immunotherapy
+86252119|NCT04499339|virus-free gene transfer|virus-free gene transfer
+86252775|NCT03549442|Multiple Myeloma|multiple myeloma
+86252776|NCT03549442|BCMA CART|bcma cart
+86252777|NCT03549442|huCART19|hucart19
+86252859|NCT03288493|CAR-T cells|car-t cells
+86253176|NCT01837602|refractory to at least one standard therapy|refractory to at least one standard therapy
+86253177|NCT01837602|newly diagnosed|newly diagnosed
+86253178|NCT01837602|with operable triple negative breast cancer|with operable triple negative breast cancer
+86084358|NCT05429905|Relapsed/ Refractory|relapsed/ refractory
+86087343|NCT02932956|GPC3|gpc3
+86256515|NCT04981691|Mesothelin|mesothelin
+86256516|NCT04981691|Refractory Solid Tumors|refractory solid tumors
+86256517|NCT04981691|Chimeric Antigen Receptor T-Cell|chimeric antigen receptor t-cell
+86256518|NCT04981691|Phase I clinical trial|phase i clinical trial
+86260974|NCT04429451|chimeric antigen receptor|chimeric antigen receptor
+86260975|NCT04429451|adoptive T cell transfer|adoptive t cell transfer
+86260976|NCT04429451|PSMA|psma
+86260977|NCT04429451|Prostate cancer|prostate cancer
+86260978|NCT04429451|Tumor microenvironment|tumor microenvironment
+86260979|NCT04429451|CAR|car
+86261539|NCT05043571|T-ALL|t-all
+86261540|NCT05043571|CAR-T cell therapy|car-t cell therapy
+86261541|NCT05043571|CAR T-cell therapy|car t-cell therapy
+86261880|NCT05030779|Systemic Lupus Erythematosus|systemic lupus erythematosus
+86261881|NCT05030779|CD19 CAR T-cell therapy|cd19 car t-cell therapy
+86261882|NCT05030779|BCMA CAR T-cell therapy|bcma car t-cell therapy
+86262682|NCT05290155|chimeric antigen receptor T cell|chimeric antigen receptor t cell
+86262683|NCT05290155|T lymphoblastic lymphoma/leukemia|t lymphoblastic lymphoma/leukemia
+86262684|NCT05290155|T cell non-Hodgkin lymphoma|t cell non-hodgkin lymphoma
+86262685|NCT05290155|CD7|cd7
+86263233|NCT05281809|CAR T-cell|car t-cell
+86263234|NCT05281809|CD19 (cluster of differentiation antigen) 19|cd19 (cluster of differentiation antigen) 19
+86263310|NCT04796441|AML γδT CAR-|aml γδt car-
+86263792|NCT04790747|radiotherapy|radiotherapy
+86263793|NCT04790747|CAR-T|car-t
+86263794|NCT04790747|extramedullary lesions|extramedullary lesions
+86263795|NCT04790747|relapsed and refractory|relapsed and refractory
+86264238|NCT05474885|BCMA-CA19 CAR|bcma-ca19 car
+86264239|NCT05474885|lupus|lupus
+86264240|NCT05474885|SLE|sle
+86264241|NCT05474885|systemic lupus erythematosus|systemic lupus erythematosus
+86264242|NCT05474885|autoimmune disorders|autoimmune disorders
+86264510|NCT04433221|Sarcoma|sarcoma
+86264511|NCT04433221|Chemotherapy|chemotherapy
+86264512|NCT04433221|Doxorubicin|doxorubicin
+86264513|NCT04433221|CART|cart
+86264514|NCT04433221|Vaccine|vaccine
+86269374|NCT04427449|CAR-T|car-t
+86269375|NCT04427449|CD44v6|cd44v6
+86269376|NCT04427449|Breast cancer|breast cancer
+86269377|NCT04427449|Gastric cancer|gastric cancer
+86269378|NCT04427449|Lymphoma|lymphoma
+86269384|NCT04812691|Primary refractory|primary refractory
+86269771|NCT04134325|Classic Hodgkin Lymphoma|classic hodgkin lymphoma
+86269772|NCT04134325|Relapsed Hodgkin Lymphoma|relapsed hodgkin lymphoma
+86269773|NCT04134325|Refractory Hodgkin Lymphoma|refractory hodgkin lymphoma
+86269774|NCT04134325|Relapsed/Refractory Hodgkin Lymphoma|relapsed/refractory hodgkin lymphoma
+86269775|NCT04134325|CD30|cd30
+86269776|NCT04134325|cell therapy|cell therapy
+86269777|NCT04134325|CAR-T|car-t
+86269778|NCT04134325|modified T cells|modified t cells
+86269779|NCT04134325|PD-1|pd-1
+86271682|NCT05528887|CD19 CAR-T|cd19 car-t
+86271683|NCT05528887|BCMA CAR-T|bcma car-t
+86271684|NCT05528887|CD7 CAR-T|cd7 car-t
+86271685|NCT05528887|CD123 CAR-T|cd123 car-t
+86271871|NCT05523661|CD19/CD22 Bispecific CAR-T|cd19/cd22 bispecific car-t
+86271872|NCT05523661|Ph-positive lymphoblastic leukemia|ph-positive lymphoblastic leukemia
+86271873|NCT05523661|Dasatinib|dasatinib
+86272904|NCT05478343|Multiple Myeloma|multiple myeloma
+86273706|NCT05480501|CAR-T|car-t
+86273707|NCT05480501|B-cell Acute Lymphoblastic Leukemia|b-cell acute lymphoblastic leukemia
+86273818|NCT05472857|Claudin 18.2 CAR-T|claudin 18.2 car-t
+86273912|NCT05477927|CAR-T regional injection|car-t regional injection
+86273913|NCT05477927|Solid Tumors|solid tumors
+86273914|NCT05477927|Serosal Cavity metastases|serosal cavity metastases
+86276292|NCT05421663|CD19/CD20-directed CAR-T cells|cd19/cd20-directed car-t cells
+86283190|NCT03994913|Relapsed and/or Refractory B-cell Non-Hodgkin Lymphoma|relapsed and/or refractory b-cell non-hodgkin lymphoma
+86283191|NCT03994913|CAR T|car t
+86283447|NCT04136275|Leukemia|leukemia
+86283448|NCT04136275|Hematologic Malignancy|hematologic malignancy
+86283449|NCT04136275|Lymphoma|lymphoma
+86283450|NCT04136275|CAR-T|car-t
+86286059|NCT03651128|Multiple Myeloma|multiple myeloma
+86286060|NCT03651128|bb2121|bb2121
+86286061|NCT03651128|Relapsed and Refractory Multiple Myeloma|relapsed and refractory multiple myeloma
+86286062|NCT03651128|High Risk Multiple Myeloma|high risk multiple myeloma
+86288550|NCT04150913|Non Hodgkin Lymphoma|non hodgkin lymphoma
+86288551|NCT04150913|Refractory Non-Hodgkin Lymphoma|refractory non-hodgkin lymphoma
+86288552|NCT04150913|Relapsed Non Hodgkin Lymphoma|relapsed non hodgkin lymphoma
+86288553|NCT04150913|Neurotoxicity|neurotoxicity
+86288554|NCT04150913|Neurotoxicity Syndromes|neurotoxicity syndromes
+86288555|NCT04150913|Cytokine Release Syndrome|cytokine release syndrome
+86289159|NCT01454596|Cell Therapy|cell therapy
+86289160|NCT01454596|Gene Therapy|gene therapy
+86289161|NCT01454596|Immunotherapy|immunotherapy
+86289162|NCT01454596|Brain Cancer|brain cancer
+86289163|NCT01454596|Glioma|glioma
+86289164|NCT01454596|Glioblastoma|glioblastoma
+86289322|NCT02215967|Immunotherapy|immunotherapy
+86289323|NCT02215967|Anti-BCMA-CAR|anti-bcma-car
+86289324|NCT02215967|Gene Therapy|gene therapy
+86289325|NCT02215967|Adoptive T Cell Therapy|adoptive t cell therapy
+86289326|NCT02215967|Plasma Cell Malignancy|plasma cell malignancy
+85998671|NCT03902197|B-ALL|b-all
+85856691|NCT04082910|Metoprolol|metoprolol
+86292632|NCT04684472|Modified CD19 CAR-T|modified cd19 car-t
+86292972|NCT04689659|CAR-T|car-t
+86294059|NCT04034446|Relapsed|relapsed
+86294060|NCT04034446|Refractory|refractory
+86294061|NCT04034446|B-ALL|b-all
+85662114|NCT05654077|CAR-T|car-t
+86299699|NCT03240328|CAR-T HIV therapy|car-t hiv therapy
+86299700|NCT03240328|immunotherapy|immunotherapy
+86299701|NCT03240328|function cure|function cure
+86300337|NCT05240950|colorectal cancer|colorectal cancer
+86300338|NCT05240950|liver metastasis|liver metastasis
+86300339|NCT05240950|CAR-T cell|car-t cell
+86300340|NCT05240950|minimal residue disease|minimal residue disease
+86301012|NCT04690192|autologous stem-cell transplantation|autologous stem-cell transplantation
+86301013|NCT04690192|anti-CD19 CAR T-cell|anti-cd19 car t-cell
+86301014|NCT04690192|large B-cell lymphoma|large b-cell lymphoma
+86301110|NCT04049513|Lymphomas Non-Hodgkin's B-Cell|lymphomas non-hodgkin's b-cell
+86301111|NCT04049513|Chimeric antigen receptor T-cell|chimeric antigen receptor t-cell
+85721895|NCT03744676|NHL|nhl
+85722808|NCT04156269|CS1|cs1
+86305612|NCT05483491|CAR-T|car-t
+86305613|NCT05483491|immunotherapy|immunotherapy
+86305614|NCT05483491|TIL|til
+86305615|NCT05483491|stomach cancer|stomach cancer
+86305616|NCT05483491|lung cancer|lung cancer
+86305617|NCT05483491|breast cancer|breast cancer
+86305618|NCT05483491|triple negative|triple negative
+86305619|NCT05483491|cervical cancer|cervical cancer
+86305620|NCT05483491|cell therapy|cell therapy
+86305621|NCT05483491|gene therapy|gene therapy
+86305622|NCT05483491|tumor infiltrating lymphocytes|tumor infiltrating lymphocytes
+86305623|NCT05483491|T cells|t cells
+86305624|NCT05483491|immune|immune
+85734002|NCT05117008|CAR-T|car-t
+85871148|NCT05225831|CD19|cd19
+85871149|NCT05225831|CD22|cd22
+85871150|NCT05225831|B-ALL|b-all
+85871151|NCT05225831|CAR-T|car-t
+85872749|NCT05393986|Claudin18.2|claudin18.2
+85872750|NCT05393986|CAR-T cell therapy|car-t cell therapy
+85873448|NCT05353530|CAR T Cell|car t cell
+85873449|NCT05353530|Brain Tumor|brain tumor
+85873450|NCT05353530|Brain Cancer|brain cancer
+85873451|NCT05353530|Glioblastoma Multiforme|glioblastoma multiforme
+85873452|NCT05353530|Immunotherapy|immunotherapy
+85873561|NCT05081479|N-AC|n-ac
+85873562|NCT05081479|N-Acetylcysteine|n-acetylcysteine
+85873563|NCT05081479|Lymphoma|lymphoma
+85873564|NCT05081479|CD19 CAR T-cell Therapy|cd19 car t-cell therapy
+85873565|NCT05081479|21-386|21-386
+85873566|NCT05081479|Memorial Sloan Kettering Cancer Center|memorial sloan kettering cancer center
+85873805|NCT04404660|B cell acute lymphoblastic leukemia|b cell acute lymphoblastic leukemia
+85873806|NCT04404660|Relapsed B cell acute lymphoblastic leukemia|relapsed b cell acute lymphoblastic leukemia
+85873807|NCT04404660|Refractory B cell acute lymphoblastic leukemia|refractory b cell acute lymphoblastic leukemia
+85873808|NCT04404660|ALL|all
+85873809|NCT04404660|AUTO1|auto1
+85873810|NCT04404660|CD19-positive CAR T cell|cd19-positive car t cell
+85874094|NCT03144583|CART19|cart19
+85874850|NCT04696432|CD19/CD20-directed CAR-T cells|cd19/cd20-directed car-t cells
+85874870|NCT04648046|HIV/AIDS|hiv/aids
+85874871|NCT04648046|CAR-T cells|car-t cells
+85874872|NCT04648046|HIV cure|hiv cure
+85874873|NCT04648046|HIV reservoir|hiv reservoir
+85874874|NCT04648046|Immunotherapy|immunotherapy
+85874981|NCT04557436|relapsed|relapsed
+85874982|NCT04557436|refractory|refractory
+85706584|NCT02710149|CAR-T|car-t
+85883342|NCT04011293|Relapsed|relapsed
+85883343|NCT04011293|Refractory|refractory
+85883344|NCT04011293|Malignancy|malignancy
+85889140|NCT03980691|Chidamide,CAR cell therapy,TCR cell therapy|chidamide,car cell therapy,tcr cell therapy
+85895675|NCT03980288|Advanced hepatocellular Carcinoma|advanced hepatocellular carcinoma
+85895677|NCT03980288|GPC3|gpc3
+85901653|NCT03919240|Acute Lymphoblastic Leukemia|acute lymphoblastic leukemia
+85901654|NCT03919240|Refractory and relapsed|refractory and relapsed
+85901655|NCT03919240|Chimeric antigen receptor T-cell therapy|chimeric antigen receptor t-cell therapy
+85904688|NCT03879382|CD19/BCMA|cd19/bcma
+85904689|NCT03879382|Bispecific CAR-T Cell|bispecific car-t cell
+85904690|NCT03879382|POMES Syndrome|pomes syndrome
+85904691|NCT03879382|Relapsed and Refractory|relapsed and refractory
+85908090|NCT03796390|AML，CD123|aml，cd123
+85909475|NCT03993743|liver cancer|liver cancer
+85909476|NCT03993743|CD147|cd147
+85909477|NCT03993743|CAR-T|car-t
+85915980|NCT05169489|CAR T|car t
+85915981|NCT05169489|CART|cart
+85915982|NCT05169489|CAR-T|car-t
+85915983|NCT05169489|Cell therapy|cell therapy
+85915984|NCT05169489|Lymphoma|lymphoma
+85915985|NCT05169489|Diffuse large B cell lymphoma (DLBCL)|diffuse large b cell lymphoma (dlbcl)
+85915986|NCT05169489|Primary mediastinal (thymic) large B cell lymphoma (PMBCL)|primary mediastinal (thymic) large b cell lymphoma (pmbcl)
+85915987|NCT05169489|High-grade B cell lymphoma (HGBCL)|high-grade b cell lymphoma (hgbcl)
+85915988|NCT05169489|Follicular lymphoma (FL) 3b|follicular lymphoma (fl) 3b
+85915989|NCT05169489|DLBCL transformed from FL|dlbcl transformed from fl
+85915990|NCT05169489|NHL|nhl
+85915991|NCT05169489|Non hodgkin's|non hodgkin's
+85915992|NCT05169489|Dual targeting|dual targeting
+85915993|NCT05169489|Gene edit|gene edit
+85915994|NCT05169489|T cell|t cell
+85915995|NCT05169489|CD20|cd20
+85915996|NCT05169489|CD79a|cd79a
+85915997|NCT05169489|CBLB|cblb
+85915998|NCT05169489|Non-hodgkin's|non-hodgkin's
+85915999|NCT05169489|Non-hodgkin|non-hodgkin
+85916502|NCT04404595|CAR-T|car-t
+85916580|NCT04231747|Lymphoma|lymphoma
+85916581|NCT04231747|B-cell non-Hodgkin lymphoma|b-cell non-hodgkin lymphoma
+85916582|NCT04231747|Agressive Lymphoma|agressive lymphoma
+85916583|NCT04231747|Diffuse-large B-cell Lymphoma|diffuse-large b-cell lymphoma
+85916584|NCT04231747|DLBCL|dlbcl
+85916585|NCT04231747|NHL|nhl
+85916586|NCT04231747|CC-97540|cc-97540
+85916587|NCT04231747|CD19|cd19
+85916588|NCT04231747|NEX-T chimeric antigen receptor (CAR) T cells|nex-t chimeric antigen receptor (car) t cells
+85916589|NCT04231747|CAR-T|car-t
+85916590|NCT04231747|CART|cart
+85917093|NCT02414269|modified T cells|modified t cells
+85917094|NCT02414269|cyclophosphamide|cyclophosphamide
+85917096|NCT02414269|15-007|15-007
+85917097|NCT02414269|CAR|car
+85917098|NCT02414269|immunotherapy|immunotherapy
+85918108|NCT03720496|CAR-T|car-t
+85918109|NCT03720496|TriCAR-T|tricar-t
+85918110|NCT03720496|CD19-TriCAR-T|cd19-tricar-t
+85918111|NCT03720496|Non-hodgkin Lymphoma|non-hodgkin lymphoma
+85918112|NCT03720496|NHL|nhl
+85918113|NCT03720496|CD19-CAR-T|cd19-car-t
+85921538|NCT03943472|BCMA|bcma
+85921539|NCT03943472|CAR-T|car-t
+85921540|NCT03943472|multiple myeloma|multiple myeloma
+85921541|NCT03943472|Relapsed /Refractory|relapsed /refractory
+85926362|NCT03890198|Gastric cancer|gastric cancer
+85926363|NCT03890198|Pancreatic Ductal Adenocarcinoma|pancreatic ductal adenocarcinoma
+85928666|NCT03448978|Descartes-08|descartes-08
+85928667|NCT03448978|CAR T Cell|car t cell
+85928668|NCT03448978|CART|cart
+85928669|NCT03448978|CAR-T|car-t
+85928670|NCT03448978|CAR T-Cell|car t-cell
+85928671|NCT03448978|Multiple Myeloma|multiple myeloma
+85928672|NCT03448978|BCMA|bcma
+85928673|NCT03448978|B-cell maturation antigen|b-cell maturation antigen
+85928674|NCT03448978|B cell maturation antigen|b cell maturation antigen
+85931805|NCT05239702|CAR T-cell therapy|car t-cell therapy
+85931806|NCT05239702|CD7|cd7
+85931807|NCT05239702|Crohn disease|crohn disease
+85931808|NCT05239702|Ulcerative colitis|ulcerative colitis
+85931809|NCT05239702|Dermatomyositis|dermatomyositis
+85931810|NCT05239702|Still disease|still disease
+85931811|NCT05239702|Refractory autoimmune disease|refractory autoimmune disease
+85941137|NCT04422912|Pemphigus|pemphigus
+85941138|NCT04422912|Pemphigus Vulgaris|pemphigus vulgaris
+85941139|NCT04422912|CAAR-T Therapy|caar-t therapy
+85941140|NCT04422912|CAR-T Therapy|car-t therapy
+85941141|NCT04422912|Desmoglein 3|desmoglein 3
+85941142|NCT04422912|Cell Therapy|cell therapy
+85941143|NCT04422912|Autoimmune Disease|autoimmune disease
+85941144|NCT04422912|Autoimmunity|autoimmunity
+85941145|NCT04422912|Skin Diseases, Vesiculobullous|skin diseases, vesiculobullous
+85941146|NCT04422912|Immunotherapy, Adoptive|immunotherapy, adoptive
+85941147|NCT04422912|Immune System Diseases|immune system diseases
+85941777|NCT03277729|Lymphoid Leukemia|lymphoid leukemia
+85941778|NCT03277729|Non-Hodgkin's Lymphoma|non-hodgkin's lymphoma
+85942787|NCT05352828|cHL|chl
+85942951|NCT04817774|Regulatory T cells|regulatory t cells
+85942952|NCT04817774|Genetically modified cells|genetically modified cells
+85942953|NCT04817774|Chimeric Antigen Receptor|chimeric antigen receptor
+85942954|NCT04817774|Living donor|living donor
+85942955|NCT04817774|Autologous|autologous
+85943018|NCT04690595|B cell|b cell
+85943020|NCT04690595|relapsed or refractory|relapsed or refractory
+85944525|NCT03910842|Non-Hodgkin Lymphoma|non-hodgkin lymphoma
+85944526|NCT03910842|Leukemia|leukemia
+85944527|NCT03910842|children|children
+85944528|NCT03910842|CD19|cd19
+85944529|NCT03910842|CAR-T|car-t
+85944530|NCT03910842|TriCAR-T|tricar-t
+85944531|NCT03910842|TriCAR-SILK|tricar-silk
+85944603|NCT05571540|universal CAR-T|universal car-t
+85944604|NCT05571540|CD19|cd19
+85946111|NCT04155749|BCMA|bcma
+85946112|NCT04155749|Myeloma|myeloma
+85946113|NCT04155749|Chimeric|chimeric
+85948833|NCT03690011|Autologous CAR T cells|autologous car t cells
+85948834|NCT03690011|T-cell acute lymphoblastic lymphoma|t-cell acute lymphoblastic lymphoma
+85948835|NCT03690011|T-non-Hodgkin lymphoma|t-non-hodgkin lymphoma
+85948952|NCT02431988|Relapsed|relapsed
+85948953|NCT02431988|refractory|refractory
+85948954|NCT02431988|DLBCL|dlbcl
+85952989|NCT05404048|PD-L1|pd-l1
+85952990|NCT05404048|CAR T-cell therapy|car t-cell therapy
+85952991|NCT05404048|Imaging|imaging
+85958256|NCT04288726|CD30-Positive Lymphoma|cd30-positive lymphoma
+85958257|NCT04288726|Hodgkin lymphoma|hodgkin lymphoma
+85958258|NCT04288726|non-Hodgkin lymphoma|non-hodgkin lymphoma
+85958259|NCT04288726|CD30 CAR|cd30 car
+85966508|NCT03907527|Platinum resistant|platinum resistant
+85966509|NCT03907527|Ovarian Cancer|ovarian cancer
+85967541|NCT03884751|Hepatocellular Carcinoma|hepatocellular carcinoma
+85967542|NCT03884751|CAR-T|car-t
+85968553|NCT03563326|Epithelial Cell Adhesion Molecule|epithelial cell adhesion molecule
+85968554|NCT03563326|Chimeric Antigen Receptor-modified T cell|chimeric antigen receptor-modified t cell
+85968555|NCT03563326|Gastric carcinoma|gastric carcinoma
+85968556|NCT03563326|Peritoneal metastasis|peritoneal metastasis
+85970856|NCT05103631|15.GPC3-CAR T cells|15.gpc3-car t cells
+85970857|NCT05103631|GPC3|gpc3
+85970858|NCT05103631|Glypican|glypican
+85970859|NCT05103631|Liver cancer|liver cancer
+85970860|NCT05103631|Solid Tumor|solid tumor
+85970861|NCT05094206|B-cell antigens|b-cell antigens
+85970862|NCT05094206|B-cell Non Hodgkin Lymphoma|b-cell non hodgkin lymphoma
+85970863|NCT05094206|B-cell Chronic Lymphocytic Leukemia|b-cell chronic lymphocytic leukemia
+85970864|NCT05094206|CAR-T|car-t
+85970865|NCT05094206|Chimeric antigen receptor T-cell therapy|chimeric antigen receptor t-cell therapy
+85970866|NCT05094206|CAR Therapy|car therapy
+85971144|NCT04464200|19(T2)28z1XX CAR T cells|19(t2)28z1xx car t cells
+85971145|NCT04464200|20-167|20-167
+85971149|NCT04442022|Relapsed/Refractory DLBCL|relapsed/refractory dlbcl
+85971150|NCT04442022|Rituximab-Gemcitabine-Dexamethasone-Platinum (R-GDP)|rituximab-gemcitabine-dexamethasone-platinum (r-gdp)
+85971151|NCT04442022|Selinexor|selinexor
+85971152|NCT04442022|Karyopharm|karyopharm
+85971153|NCT04442022|KCP-330|kcp-330
+85971154|NCT04442022|XPOVIO|xpovio
+85971155|NCT04442022|DLBCL|dlbcl
+85971156|NCT04442022|XPORT-DLBCL-030|xport-dlbcl-030
+85971157|NCT04442022|R-GDP|r-gdp
+85971213|NCT04196491|Multiple Myeloma|multiple myeloma
+85971214|NCT04196491|Newly diagnosed multiple myeloma|newly diagnosed multiple myeloma
+85971215|NCT04196491|BB2121|bb2121
+85971216|NCT04196491|KarMMa-4|karmma-4
+85971217|NCT04196491|Phase I|phase i
+85971218|NCT04196491|NDMM|ndmm
+85971219|NCT04196491|High Risk|high risk
+85971220|NCT04196491|R-ISS III|r-iss iii
+85971221|NCT04196491|KRd|krd
+85971222|NCT04196491|RVd|rvd
+85971223|NCT04196491|Dara-KRd|dara-krd
+85971224|NCT04196491|Dara-RVd|dara-rvd
+85971225|NCT04196491|CyBorD|cybord
+85971226|NCT04196491|BCMA|bcma
+85973215|NCT03287804|Multiple Myeloma|multiple myeloma
+85973216|NCT03287804|Relapsed Multiple Myeloma|relapsed multiple myeloma
+85973217|NCT03287804|Refractory Multiple Myeloma|refractory multiple myeloma
+85973218|NCT03287804|AUTO2|auto2
+85752955|NCT04185038|CNS, CAR T cell, B7-H3, pediatric, young adult, brain tumor, DIPG, DMG|cns, car t cell, b7-h3, pediatric, young adult, brain tumor, dipg, dmg
+85753281|NCT02723942|glypican-3(GPC3)|glypican-3(gpc3)
+85753282|NCT02723942|chimeric antigen receptor-modified T cell(CAR-T)|chimeric antigen receptor-modified t cell(car-t)
+85753283|NCT02723942|hepatocellular carcinoma(HCC)|hepatocellular carcinoma(hcc)
+85753291|NCT05015972|UCAR-T|ucar-t
+85753292|NCT05015972|allogeneic|allogeneic
+85753293|NCT05015972|CD19|cd19
+85753294|NCT05015972|B-ALL|b-all
+85753295|NCT05015972|B-NHL|b-nhl
+85753343|NCT02715362|immunotherapy GPC3 CAR-T HCC|immunotherapy gpc3 car-t hcc
+85757357|NCT04033302|T-ALL|t-all
+85757358|NCT04033302|TCL|tcl
+85757359|NCT04033302|AML|aml
+85757360|NCT04033302|NK lymphoma|nk lymphoma
+85757361|NCT04033302|CAR T|car t
+85757362|NCT04033302|CD7|cd7
+85758607|NCT04169022|AML|aml
+85758608|NCT04169022|Chimeric Antigen Receptor T Cells|chimeric antigen receptor t cells
+85758609|NCT04169022|Immunotherapy|immunotherapy
+85760018|NCT02813837|relapsed|relapsed
+85760019|NCT02813837|refractory|refractory
+85760020|NCT02813837|CD19+|cd19+
+85760021|NCT02813837|leukemia|leukemia
+85760836|NCT04236011|Fast|fast
+85760837|NCT04236011|Chimeric Antigen Receptor T|chimeric antigen receptor t
+85760838|NCT04236011|BCMA|bcma
+85760839|NCT04236011|CD19|cd19
+85760840|NCT04236011|Multiple Myeloma|multiple myeloma
+85764905|NCT02765243|neuroblastoma|neuroblastoma
+85764906|NCT02765243|GD2|gd2
+85764907|NCT02765243|Chimeric antigen receptor|chimeric antigen receptor
+85764908|NCT02765243|Immunotherapy|immunotherapy
+85764909|NCT02765243|Cyclophosphamide|cyclophosphamide
+85764910|NCT02765243|Fludarabine|fludarabine
+85768139|NCT02735291|Leukemia CAR-T|leukemia car-t
+85768432|NCT02737085|CD19-targeted CAR-T Cell|cd19-targeted car-t cell
+85768433|NCT02737085|CD20-targeted CAR-T Cell|cd20-targeted car-t cell
+85768434|NCT02737085|Diffuse Large B Cell Lymphoma|diffuse large b cell lymphoma
+85771243|NCT04162340|CD4-specific CAR T|cd4-specific car t
+85771244|NCT04162340|T cell leukemia|t cell leukemia
+85771245|NCT04162340|T cell lymphoma|t cell lymphoma
+85771246|NCT04162340|CD4CAR|cd4car
+85771803|NCT05263817|CD19 CAR-T|cd19 car-t
+85771804|NCT05263817|BCMA CAR-T|bcma car-t
+85771805|NCT05263817|POEMS Syndrome|poems syndrome
+85771806|NCT05263817|Amyloidosis|amyloidosis
+85771807|NCT05263817|Autoimmune Hemolytic Anemia|autoimmune hemolytic anemia
+85771808|NCT05263817|Vasculitis|vasculitis
+85774313|NCT04156178|CD20|cd20
+85774314|NCT04156178|CD19|cd19
+85774315|NCT04156178|cCAR|ccar
+85774316|NCT04156178|Leukemia|leukemia
+85774317|NCT04156178|Lymphoma|lymphoma
+85775636|NCT04151186|CAR-T cells|car-t cells
+85775637|NCT04151186|Immunologic Factors|immunologic factors
+85775638|NCT04151186|TM4SF1;EpCAM|tm4sf1;epcam
+85779048|NCT02672501|immunotherapy|immunotherapy
+85779049|NCT02672501|CAR-T|car-t
+85779050|NCT02672501|leukemia|leukemia
+85780242|NCT02644655|Recurrent B-Cell Tumor|recurrent b-cell tumor
+85780243|NCT02644655|Refractory B-Cell Tumor|refractory b-cell tumor
+85780244|NCT02644655|New Cluster of Differentiation Antigen 19-chimeric Antigen Receptor T Cells|new cluster of differentiation antigen 19-chimeric antigen receptor t cells
+85780245|NCT02644655|safety|safety
+85780246|NCT02644655|prognosis|prognosis
+85781184|NCT04160195|Autologous T Cells Infusion|autologous t cells infusion
+85781185|NCT04160195|Hu1928-Hu20BB|hu1928-hu20bb
+85781186|NCT04160195|Hodgkin Reed-Sternberg Cells|hodgkin reed-sternberg cells
+85781187|NCT04160195|Adoptive T Cell Therapy|adoptive t cell therapy
+85781188|NCT04160195|Gene Therapy|gene therapy
+85783129|NCT04153799|EGFR|egfr
+85783130|NCT04153799|CAR-T cells|car-t cells
+85783131|NCT04153799|NSCLC|nsclc
+85784355|NCT05574114|Split-Course Bridging Radiotherapy|split-course bridging radiotherapy
+85784356|NCT05574114|CD19 CAR T-Cell Therapies|cd19 car t-cell therapies
+85784357|NCT05574114|22-217|22-217
+85784535|NCT05010564|Relapsed or refractory B-Cell Leukemia|relapsed or refractory b-cell leukemia
+85784536|NCT05010564|TRICAR ALL T-Cells|tricar all t-cells
+85784537|NCT05010564|Cyclophosphamide|cyclophosphamide
+85784538|NCT05010564|Fludarabine|fludarabine
+85784634|NCT04555551|Adoptive T cell therapy|adoptive t cell therapy
+85784635|NCT04555551|Chimeric Antigen Receptor|chimeric antigen receptor
+85784636|NCT04555551|18-367|18-367
+85786555|NCT05298995|Brain tumors|brain tumors
+85786556|NCT05298995|high grade glioma|high grade glioma
+85786557|NCT05298995|medulloblastoma|medulloblastoma
+85786558|NCT05298995|Diffuse Midline Glioma|diffuse midline glioma
+85786559|NCT05298995|Diffuse Intrinsic Pontine Glioma|diffuse intrinsic pontine glioma
+85786560|NCT05298995|CAR T cell|car t cell
+85786561|NCT05298995|GD2-antigen|gd2-antigen
+85786562|NCT05298995|Immunotherapy|immunotherapy
+85786563|NCT05298995|Pediatric Central Nervous System tumours|pediatric central nervous system tumours
+85786564|NCT05298995|Central nervous system tumour young adults|central nervous system tumour young adults
+85418131|NCT05510596|CAR-T CELLS|car-t cells
+85630334|NCT04617704|Fast|fast
+85793585|NCT04094766|Chimeric Antigen Receptor T cells|chimeric antigen receptor t cells
+85793586|NCT04094766|CD19 and CD22|cd19 and cd22
+85801210|NCT03740256|HER2|her2
+85801211|NCT03740256|Human Epidermal Growth Factor Receptor 2|human epidermal growth factor receptor 2
+85801212|NCT03740256|Bladder|bladder
+85801213|NCT03740256|Head and Neck Squamous Cell Carcinoma|head and neck squamous cell carcinoma
+85801214|NCT03740256|Salivary Gland|salivary gland
+85801215|NCT03740256|Lung|lung
+85801216|NCT03740256|Breast|breast
+85801217|NCT03740256|Gastric|gastric
+85801218|NCT03740256|Esophageal|esophageal
+85801219|NCT03740256|Colorectal|colorectal
+85801220|NCT03740256|Pancreatic|pancreatic
+85801221|NCT03740256|Solid Tumor|solid tumor
+85805211|NCT02631044|JCAR017|jcar017
+85805212|NCT02631044|chimeric antigen receptor|chimeric antigen receptor
+85805213|NCT02631044|non-Hodgkin lymphoma|non-hodgkin lymphoma
+85805214|NCT02631044|CAR|car
+85805215|NCT02631044|CAR T cells|car t cells
+85805216|NCT02631044|autologous T cell therapy|autologous t cell therapy
+85805217|NCT02631044|cell therapy|cell therapy
+85805218|NCT02631044|NHL|nhl
+85985185|NCT05239676|ASCT|asct
+85985186|NCT05239676|CD19 CAR-T|cd19 car-t
+85987079|NCT01109095|Glioblastoma Multiforme (GBM)|glioblastoma multiforme (gbm)
+85987080|NCT01109095|HER2|her2
+85987081|NCT01109095|CMV|cmv
+85987082|NCT01109095|Brain Cancer|brain cancer
+85987083|NCT01109095|Autologous HER2.CAR CMV-specific cytotoxic CTL|autologous her2.car cmv-specific cytotoxic ctl
+85987084|NCT01109095|CMV-specific cytotoxic CTL|cmv-specific cytotoxic ctl
+85993441|NCT03874897|Advanced solid tumor|advanced solid tumor
+85993442|NCT03874897|claudin18.2|claudin18.2
+85993443|NCT03874897|CAR-T cell therapy|car-t cell therapy
+85993687|NCT03929107|interleukin 7, Chemokine (C-C Motif) Ligand 19, CAR-T|interleukin 7, chemokine (c-c motif) ligand 19, car-t
+85996687|NCT00924326|B Cell Malignancies|b cell malignancies
+85996688|NCT00924326|T Cell Persistence|t cell persistence
+85996689|NCT00924326|Immunotherapy|immunotherapy
+85996690|NCT00924326|Cell Transfer|cell transfer
+85996691|NCT00924326|Leukemia|leukemia
+85996692|NCT00924326|Chronic Lymphocytic Leukemia|chronic lymphocytic leukemia
+85996693|NCT00924326|CLL|cll
+85996694|NCT00924326|Lymphoma|lymphoma
+85997765|NCT03483688|B-cell Non-Hodgkin Lymphoma|b-cell non-hodgkin lymphoma
+85997766|NCT03483688|Refractory|refractory
+85997767|NCT03483688|Relapsed|relapsed
+85998670|NCT03902197|CD19 hsCAR-T|cd19 hscar-t
+85998672|NCT03902197|Humanized selective CAR|humanized selective car
+86004144|NCT05470777|CD22/CD19 CAR-T|cd22/cd19 car-t
+86004145|NCT05470777|auto-HSCT|auto-hsct
+86004801|NCT04257175|Chimeric antigen receptors; Mixed phenotype acute leukemia; T cells.|chimeric antigen receptors; mixed phenotype acute leukemia; t cells.
+86006251|NCT03814447|MESO|meso
+86006252|NCT03814447|CAR-T|car-t
+86006253|NCT03814447|Ovarian cancer|ovarian cancer
+86006254|NCT03814447|Refractory-Relapsed|refractory-relapsed
+86008505|NCT03790891|CAR-T|car-t
+86008506|NCT03790891|TriCAR-T|tricar-t
+86008507|NCT03790891|CD19-TriCAR-T|cd19-tricar-t
+86008508|NCT03790891|CD19-TriCAR-SILK|cd19-tricar-silk
+86008509|NCT03790891|Non-Hodgkin Lymphoma|non-hodgkin lymphoma
+86009054|NCT05438368|CAR-T|car-t
+86009055|NCT05438368|cancer|cancer
+86009056|NCT05438368|GD2|gd2
+86009057|NCT05438368|CD70|cd70
+86009085|NCT05234190|Regulatory T cells|regulatory t cells
+86009086|NCT05234190|Chimeric Antigen Receptor|chimeric antigen receptor
+86009087|NCT05234190|Autologous|autologous
+86009088|NCT05234190|Genetically modified cells|genetically modified cells
+86009652|NCT03706326|Esophageal cancer|esophageal cancer
+86009653|NCT03706326|Neoplasms, Esophageal|neoplasms, esophageal
+86009654|NCT03706326|Cancer of Esophagus|cancer of esophagus
+86009655|NCT03706326|Solid tumor|solid tumor
+86010163|NCT03064269|CNS B cell acute lymphocytic leukemia|cns b cell acute lymphocytic leukemia
+86011642|NCT03767725|Anti-BCMA, Anti-CD19, CART cell, treatment, Multiple Myeloma|anti-bcma, anti-cd19, cart cell, treatment, multiple myeloma
+86011792|NCT03916679|Ovarian Cancer|ovarian cancer
+86011793|NCT03916679|CAR-T|car-t
+86011794|NCT03916679|MESO|meso
+86011795|NCT03916679|Relapsed and Refractory|relapsed and refractory
+86013209|NCT03289455|Acute Lymphoblastic Leukaemia|acute lymphoblastic leukaemia
+86013210|NCT03289455|CD19 Positive|cd19 positive
+86013211|NCT03289455|CD22 Positive|cd22 positive
+86013212|NCT03289455|Relapsed Acute Lymphoblastic Leukaemia|relapsed acute lymphoblastic leukaemia
+86013213|NCT03289455|Refractory Acute Lymphoblastic Leukaemia|refractory acute lymphoblastic leukaemia
+86013214|NCT03289455|AUTO3|auto3
+86017117|NCT05181501|newly diagnosed|newly diagnosed
+86017118|NCT05181501|multiple myeloma|multiple myeloma
+86017119|NCT05181501|treatment naive|treatment naive
+86017120|NCT05181501|CAR-T|car-t
+86019667|NCT03356782|CART|cart
+86019668|NCT03356782|PD-1|pd-1
+86019669|NCT03356782|PDL-1|pdl-1
+86019670|NCT03356782|CTLA-4|ctla-4
+86019671|NCT03356782|sarcoma|sarcoma
+86019672|NCT03356782|solid tumor|solid tumor
+86019825|NCT05239689|AML|aml
+86019826|NCT05239689|CD38 CAR T-cell therapy|cd38 car t-cell therapy
+86020248|NCT04503538|Relapsed large B-cell lymphoma|relapsed large b-cell lymphoma
+86020249|NCT04503538|Refractory large B-cell lymphoma|refractory large b-cell lymphoma
+86024971|NCT03811457|CAR-T cell, CD19, Lymphoma, Leukemia|car-t cell, cd19, lymphoma, leukemia
+86025604|NCT03798509|CD19|cd19
+86025605|NCT03798509|CAR-T|car-t
+86025606|NCT03798509|leukemia|leukemia
+86025607|NCT03798509|Relapsed /Refractory|relapsed /refractory
+86025608|NCT03798509|B-ALL|b-all
+86025863|NCT03799913|CAR-T|car-t
+86025864|NCT03799913|MESO|meso
+86025865|NCT03799913|Ovarian Cancer|ovarian cancer
+86025866|NCT03799913|Relapsed and Refractory|relapsed and refractory
+86026543|NCT03720457|CD19|cd19
+86026544|NCT03720457|CAR-T|car-t
+86026545|NCT03720457|Diffuse Large B-cell Lymphoma|diffuse large b-cell lymphoma
+86026546|NCT03720457|Follicular Lymphoma|follicular lymphoma
+86026547|NCT03720457|Relapsed /Refractory|relapsed /refractory
+86030374|NCT03198052|Lung Cancer|lung cancer
+86030375|NCT03198052|CAR-T Cell Therapy|car-t cell therapy
+86030376|NCT03198052|PSCA|psca
+86030377|NCT03198052|MUC1|muc1
+86030378|NCT03198052|HER2|her2
+86030379|NCT03198052|Mesothelin|mesothelin
+86030380|NCT03198052|Lewis-Y|lewis-y
+86030381|NCT03198052|GPC3|gpc3
+86030382|NCT03198052|AXL|axl
+86030383|NCT03198052|EGFR|egfr
+86030384|NCT03198052|B7-H3|b7-h3
+86030385|NCT03198052|Claudin18.2|claudin18.2
+86030386|NCT03198052|TGFβ|tgfβ
+86030387|NCT03198052|DAP10|dap10
+86030388|NCT03198052|HPK1|hpk1
+86030389|NCT03198052|PD1|pd1
+86030390|NCT03198052|CTLA4|ctla4
+86030391|NCT03198052|Tigit|tigit
+86030392|NCT03198052|Knockdown|knockdown
+86030393|NCT03198052|SCFV|scfv
+86036649|NCT03361748|Multiple Myeloma|multiple myeloma
+86036650|NCT03361748|Efficacy and Safety|efficacy and safety
+86036651|NCT03361748|BB2121|bb2121
+86036652|NCT03361748|CAR T Cell|car t cell
+86036653|NCT03361748|BCMA|bcma
+86036654|NCT03361748|Relapsed and Refractory|relapsed and refractory
+86039249|NCT03114670|Leukemia|leukemia
+86039250|NCT03114670|Leukemia, Myeloid|leukemia, myeloid
+86039251|NCT03114670|Recurrence|recurrence
+86039252|NCT03114670|Neoplasms by Histologic Type|neoplasms by histologic type
+86039253|NCT03114670|Disease Attributes|disease attributes
+86039254|NCT03114670|Cyclophosphamide|cyclophosphamide
+86039255|NCT03114670|Fludarabine|fludarabine
+86039256|NCT03114670|CD123|cd123
+86039257|NCT03114670|Chimeric Antigen Receptor modified T-cells|chimeric antigen receptor modified t-cells
+86046323|NCT04385173|Chimeric Antigen Receptor (CAR)-T|chimeric antigen receptor (car)-t
+86046324|NCT04385173|Glioblastoma|glioblastoma
+86047278|NCT05309213|CAR-T|car-t
+86047279|NCT05309213|B-cell Acute Lymphoblastic Leukemia|b-cell acute lymphoblastic leukemia
+86047602|NCT01192464|Hodgkin's Lymphoma|hodgkin's lymphoma
+86047603|NCT01192464|Non-Hodgkin's Lymphoma|non-hodgkin's lymphoma
+86049681|NCT03671460|B-cell acute lymphoblastic leukemia|b-cell acute lymphoblastic leukemia
+86049682|NCT03671460|CD19 CAR-T|cd19 car-t
+86050249|NCT03464916|CAR2 Anti-CD38 A2 CAR-T Cells|car2 anti-cd38 a2 car-t cells
+86051612|NCT05420493|CAR-T|car-t
+86052067|NCT03984968|feeding T cell|feeding t cell
+86052068|NCT03984968|CD19 CAR-T therapy|cd19 car-t therapy
+86056835|NCT01355965|completed standard first line therapy|completed standard first line therapy
+86056836|NCT01355965|platinum based double regimen|platinum based double regimen
+86056837|NCT01355965|Progressive Disease|progressive disease
+86056838|NCT01355965|chosen not to pursue primary standard of care therapy|chosen not to pursue primary standard of care therapy
+86059170|NCT05648019|CAR T-cell therapy|car t-cell therapy
+86059171|NCT05648019|Relapse/Refractory|relapse/refractory
+86059172|NCT05648019|B-ALL|b-all
+86059173|NCT05648019|B-Lineage Lymphoma|b-lineage lymphoma
+86059945|NCT04657861|Multiple Myeloma|multiple myeloma
+86059946|NCT04657861|CAR T-cell therapy|car t-cell therapy
+86059947|NCT04657861|BCMA/TACI positive|bcma/taci positive
+86060430|NCT03605238|Neuromyelitis Optica Spectrum Disorder|neuromyelitis optica spectrum disorder
+86060431|NCT03605238|aquaporin4-IgG|aquaporin4-igg
+86060432|NCT03605238|CAR-T therapy|car-t therapy
+86061635|NCT04083495|lymphoma|lymphoma
+86061636|NCT04083495|CD30|cd30
+86061637|NCT04083495|peripheral T cell lymphoma|peripheral t cell lymphoma
+86061718|NCT03648372|Drug therapy|drug therapy
+86062281|NCT05370547|CAR-T|car-t
+86062282|NCT05370547|NOXA|noxa
+86062283|NCT05370547|Chidamide|chidamide
+86062480|NCT02134262|Anti-CD19 CAR Expressing T cells Therapy|anti-cd19 car expressing t cells therapy
+86062481|NCT02134262|CD19 CAR Gene-Transduced Lymphocyte|cd19 car gene-transduced lymphocyte
+86062482|NCT02134262|Adoptive Immunotherapy|adoptive immunotherapy
+86062483|NCT02134262|Genetically Engineered Lymphocyte Therapy|genetically engineered lymphocyte therapy
+86062484|NCT02134262|Retroviral Vector|retroviral vector
+86062485|NCT02134262|Burkitt Lymphoma|burkitt lymphoma
+86062486|NCT02134262|Lymphoma|lymphoma
+86062487|NCT02134262|Lymphoma, Follicular|lymphoma, follicular
+86062488|NCT02134262|Lymphoma, Non-Hodgkin|lymphoma, non-hodgkin
+86062489|NCT02134262|Lymphomatoid Granulomatosis|lymphomatoid granulomatosis
+86062490|NCT02134262|Lymphoma, B-Cell|lymphoma, b-cell
+86062491|NCT02134262|Lymphoma, Large B-Cell, Diffuse|lymphoma, large b-cell, diffuse
+86062492|NCT02134262|Lymphoma, Large-Cell, Immunoblastic|lymphoma, large-cell, immunoblastic
+86062493|NCT02134262|Lymphoma, B-Cell, Marginal Zone|lymphoma, b-cell, marginal zone
+86062494|NCT02134262|Lymphoma, Extranodal NK-T-Cell|lymphoma, extranodal nk-t-cell
+86062495|NCT02134262|Lymphoma, Mantle-Cell|lymphoma, mantle-cell
+86062496|NCT02134262|Neoplasms by Histologic Type|neoplasms by histologic type
+86062497|NCT02134262|Neoplasms|neoplasms
+86062498|NCT02134262|Neoplasms, Experimental|neoplasms, experimental
+86062499|NCT02134262|Immune System Diseases|immune system diseases
+86064894|NCT03181126|Relapsed of Refractory Acute Lymphoblastic Leukemia|relapsed of refractory acute lymphoblastic leukemia
+86064895|NCT03181126|Cancer|cancer
+86064896|NCT03181126|Venetoclax|venetoclax
+86064897|NCT03181126|Navitoclax|navitoclax
+86065301|NCT05391490|CAR T cells|car t cells
+86065302|NCT05391490|leukemia|leukemia
+86065303|NCT05391490|lymphoma|lymphoma
+86065432|NCT05085418|Immune Nephritis|immune nephritis
+86065433|NCT05085418|CD19 CAR T-cell therapy|cd19 car t-cell therapy
+86065434|NCT05085418|BCMA CAR T-cell therapy|bcma car t-cell therapy
+86068331|NCT04512716|CD19+ B-cell malignancy|cd19+ b-cell malignancy
+86068332|NCT04512716|131-I apamistamab|131-i apamistamab
+86068333|NCT04512716|B-cell malignancy|b-cell malignancy
+86068334|NCT04512716|Memorial Sloan Kettering Cancer Center|memorial sloan kettering cancer center
+86068446|NCT04146051|Descartes-08|descartes-08
+86068447|NCT04146051|CART|cart
+86068448|NCT04146051|CAR-T|car-t
+86068449|NCT04146051|Autoimmune|autoimmune
+86068450|NCT04146051|Auto-antibody|auto-antibody
+86068451|NCT04146051|Auto antibody|auto antibody
+86068452|NCT04146051|chimeric antigen receptor|chimeric antigen receptor
+86068453|NCT04146051|T cells|t cells
+86068454|NCT04146051|MG|mg
+86068455|NCT04146051|gMG|gmg
+86068456|NCT04146051|Myasthenia Gravis|myasthenia gravis
+86068457|NCT04146051|Generalized Myasthenia gravis|generalized myasthenia gravis
+86075430|NCT00881920|Lymphocytic|lymphocytic
+86075431|NCT00881920|Leukemia|leukemia
+86075432|NCT00881920|B Cell|b cell
+86075433|NCT00881920|Non-Hodgkin|non-hodgkin
+86075434|NCT00881920|Multiple Myeloma|multiple myeloma
+86075435|NCT00881920|Lymphoma|lymphoma
+86076829|NCT05626400|T-ALL|t-all
+86076830|NCT05626400|T-LBL|t-lbl
+86076831|NCT05626400|CD7|cd7
+86076832|NCT05626400|CAR-T|car-t
+86083907|NCT03525782|CAR-T cell therapy|car-t cell therapy
+86083908|NCT03525782|MUC+|muc+
+86083909|NCT03525782|PD-1 Knockout|pd-1 knockout
+86083910|NCT03525782|Non-small cell lung cancer|non-small cell lung cancer
+86084356|NCT05429905|CAR T-cell therapy|car t-cell therapy
+86084357|NCT05429905|B-ALL|b-all
+86084462|NCT04173988|Allogeneic CAR-T19|allogeneic car-t19
+86087342|NCT02932956|GPC3-CAR T cells|gpc3-car t cells
+86087344|NCT02932956|Glypican|glypican
+86087345|NCT02932956|Liver cancer|liver cancer
+86087431|NCT02290951|Diffuse large B-cell lymphoma (DLBCL)|diffuse large b-cell lymphoma (dlbcl)
+86087432|NCT02290951|Follicular lymphoma (FL)|follicular lymphoma (fl)
+86087433|NCT02290951|Aggressive lymphoma|aggressive lymphoma
+86090373|NCT05038696|B-ALL|b-all
+86090374|NCT05038696|CAR-T cell therapy|car-t cell therapy
+86090375|NCT05038696|CAR T-cell therapy|car t-cell therapy
+86092390|NCT03638167|CNS, CAR T cell, EGFR-positive|cns, car t cell, egfr-positive
+86092391|NCT03638167|pediatric, young adults, brain tumor|pediatric, young adults, brain tumor
+86093465|NCT03576807|B-cell leukemia|b-cell leukemia
+85392914|NCT05436509|CAR-T|car-t
+85808370|NCT04561557|Adoptive T Cell Therapy|adoptive t cell therapy
+85808371|NCT04561557|Chimeric antigen receptor|chimeric antigen receptor
+85808372|NCT04561557|B-cell maturation antigen (BCMA)|b-cell maturation antigen (bcma)
+85808373|NCT04561557|Autoimmune Diseases of the Nervous System|autoimmune diseases of the nervous system
+85813619|NCT00889954|EBV+|ebv+
+85813620|NCT00889954|Her2|her2
+85813621|NCT00889954|TGFBeta|tgfbeta
+85813622|NCT00889954|EBV positive|ebv positive
+85813623|NCT00889954|HER 2 positive malignancy|her 2 positive malignancy
+85813624|NCT00889954|cytotoxic T lymphocytes|cytotoxic t lymphocytes
+85813835|NCT04037566|Leukemia Lymphocytic Acute|leukemia lymphocytic acute
+85813836|NCT04037566|Lymphoma, B-Cell|lymphoma, b-cell
+85824219|NCT04008394|CD-30 CART|cd-30 cart
+85824220|NCT04008394|Refractory/Relapsed|refractory/relapsed
+85824221|NCT04008394|lymphocyte malignancies|lymphocyte malignancies
+85830511|NCT04003168|BCMA|bcma
+85830512|NCT04003168|CAR-T|car-t
+85830513|NCT04003168|multiple myeloma|multiple myeloma
+85830514|NCT04003168|Relapsed/Refractory|relapsed/refractory
+85833162|NCT03573700|Leukemia|leukemia
+85833163|NCT03573700|Leukemia, lymphoid|leukemia, lymphoid
+85833164|NCT03573700|Leukemia, B-cell|leukemia, b-cell
+85833165|NCT03573700|Relapsed|relapsed
+85833166|NCT03573700|Refractory|refractory
+85833167|NCT03573700|Pediatric|pediatric
+85833168|NCT03573700|Chimeric antigen receptor|chimeric antigen receptor
+85833169|NCT03573700|CAR|car
+85833170|NCT03573700|CAR T cell|car t cell
+85833171|NCT03573700|Anti-CD19|anti-cd19
+85833172|NCT03573700|CD19|cd19
+85835371|NCT02547948|CD19|cd19
+85835372|NCT02547948|CAR T Cells|car t cells
+85835373|NCT02547948|Lymphoma|lymphoma
+85835405|NCT04010877|AML|aml
+85835406|NCT04010877|CAR T|car t
+85835407|NCT04010877|CD33, CD123, CLL-1|cd33, cd123, cll-1
+85837402|NCT04089215|JWCAR029|jwcar029
+85837403|NCT04089215|B-Cell Malignancies|b-cell malignancies
+85837404|NCT04089215|non-Hodgkin lymphoma|non-hodgkin lymphoma
+85837405|NCT04089215|CAR T cells|car t cells
+85837406|NCT04089215|Chimeric antigen receptor|chimeric antigen receptor
+85837407|NCT04089215|Relapsed/Refractory|relapsed/refractory
+85649777|NCT01218867|Metastatic Cancer|metastatic cancer
+85842225|NCT04085159|immunotherapy T cell cancer gene therapy|immunotherapy t cell cancer gene therapy
+85842325|NCT04696731|CAR T|car t
+85842326|NCT04696731|Cell Therapy|cell therapy
+85842327|NCT04696731|Allogeneic Cell Therapy|allogeneic cell therapy
+85842328|NCT04696731|Cellular Immuno-therapy|cellular immuno-therapy
+85842329|NCT04696731|AlloCAR T|allocar t
+85842330|NCT04696731|ALLO-316|allo-316
+85842331|NCT04696731|ALLO-647|allo-647
+85842332|NCT04696731|CCRCC|ccrcc
+85842333|NCT04696731|Clear Cell Renal Cell Carcinoma|clear cell renal cell carcinoma
+85843077|NCT04004637|NK/T cell lymphoma|nk/t cell lymphoma
+85843078|NCT04004637|T-lymphoblastic lymphoma|t-lymphoblastic lymphoma
+85843079|NCT04004637|Acute Lymphocytic Leukemia|acute lymphocytic leukemia
+85843239|NCT05277753|T-ALL|t-all
+85843240|NCT05277753|CAR T|car t
+85843241|NCT05277753|CTL|ctl
+85843242|NCT05277753|DC vaccine|dc vaccine
+85845806|NCT05546723|multiple myeloma|multiple myeloma
+85845807|NCT05546723|CAR-T|car-t
+85845808|NCT05546723|BAFF ligand|baff ligand
+85846021|NCT05312801|non-Hodgkin lymphoma.|non-hodgkin lymphoma.
+85849142|NCT03958656|Chimeric Antigen Receptors|chimeric antigen receptors
+85849143|NCT03958656|B-cell Maturation Antigen|b-cell maturation antigen
+85849144|NCT03958656|Immunotherapy|immunotherapy
+85849145|NCT03958656|Adoptive T Cell Therapy|adoptive t cell therapy
+85856692|NCT04082910|cytokine release syndrome|cytokine release syndrome
+85856693|NCT04082910|chimeric antigen receptor T cells|chimeric antigen receptor t cells
+85864577|NCT04045847|glioma|glioma
+85864578|NCT04045847|CD147|cd147
+85864579|NCT04045847|CAR-T|car-t
+85623374|NCT04670055|multiple myeloma|multiple myeloma
+85623375|NCT04670055|CAR T-cell therapy|car t-cell therapy
+85623376|NCT04670055|BCMA|bcma
+85623587|NCT04657965|Infectious diseases|infectious diseases
+85623588|NCT04657965|Hematological Malignancies|hematological malignancies
+85623589|NCT04657965|CAR T-cell therapy|car t-cell therapy
+85623590|NCT04657965|LMP1|lmp1
+85623591|NCT04658004|Acute Myeloid Leukemia|acute myeloid leukemia
+85623592|NCT04658004|CAR T-cell therapy|car t-cell therapy
+85623593|NCT04658004|NKG2D|nkg2d
+85628609|NCT04599543|Acute Myeloid Leukemia|acute myeloid leukemia
+85628610|NCT04599543|CAR T-cell therapy|car t-cell therapy
+85628611|NCT04599543|CD123|cd123
+85629353|NCT04603872|Acute Lymphoblastic Leukemia|acute lymphoblastic leukemia
+85629354|NCT04603872|Non-Hodgkin's Lymphoma|non-hodgkin's lymphoma
+85629355|NCT04603872|Multiple Myeloma|multiple myeloma
+85629356|NCT04603872|CAR T-cell therapy|car t-cell therapy
+85629357|NCT04603872|Dasatinib|dasatinib
+85629388|NCT04626908|lymphoid hematological malignancies|lymphoid hematological malignancies
+85629389|NCT04626908|CAR-T cell therapy|car-t cell therapy
+85629390|NCT04626908|CD19|cd19
+85629391|NCT04626908|CD22|cd22
+85630333|NCT04617704|high-risk|high-risk
+85630335|NCT04617704|Chimeric Antigen Receptor T|chimeric antigen receptor t
+85630336|NCT04617704|BCMA|bcma
+85630337|NCT04617704|CD19|cd19
+85630338|NCT04617704|Multiple Myeloma|multiple myeloma
+85634810|NCT04572308|T-ALL，T-LBL , CD7，CAR-T|t-all，t-lbl , cd7，car-t
+85636147|NCT04546893|B-ALL, CD19 CAR-T|b-all, cd19 car-t
+85636323|NCT04539444|Chimeric antigen receptor T cells|chimeric antigen receptor t cells
+85636324|NCT04539444|Relapsed or refractory B cells non-Hodgkin's lymphoma|relapsed or refractory b cells non-hodgkin's lymphoma
+85636325|NCT04539444|PD-1 inhibitor|pd-1 inhibitor
+85636904|NCT04532268|Acute Lymphoblastic Leukemia|acute lymphoblastic leukemia
+85636905|NCT04532268|Non-Hodgkin's Lymphoma|non-hodgkin's lymphoma
+85636906|NCT04532268|CAR T-cell therapy|car t-cell therapy
+85515358|NCT04416984|ALLO-647|allo-647
+85639015|NCT04537442|Multiple myeloma|multiple myeloma
+85639476|NCT04534634|IFN-α, CAR-T|ifn-α, car-t
+85513849|NCT05420545|CAR-T|car-t
+85552752|NCT04923893|BCMA CAR-T|bcma car-t
+85516548|NCT02315612|ALL|all
+85520547|NCT01853631|refractory|refractory
+85684263|NCT05333302|CD19|cd19
+85649051|NCT04322292|Multiple Myeloma|multiple myeloma
+85649776|NCT01218867|Clinical Response|clinical response
+85649778|NCT01218867|Immunotherapy|immunotherapy
+85649779|NCT01218867|Adoptive Cell Therapy|adoptive cell therapy
+85649780|NCT01218867|Metastatic Melanoma|metastatic melanoma
+85652026|NCT02792114|T-Cell|t-cell
+85652027|NCT02792114|Chimeric antigen receptor (CAR)|chimeric antigen receptor (car)
+85652028|NCT02792114|CAR T cells|car t cells
+85652029|NCT02792114|Triple-negative breast cancer|triple-negative breast cancer
+85652030|NCT02792114|Immunotherapy T-cell therapy|immunotherapy t-cell therapy
+85652031|NCT02792114|16-040|16-040
+85652032|NCT02792114|immunotherapy|immunotherapy
+85652033|NCT02792114|CAR|car
+85655147|NCT04844866|CAR T cells|car t cells
+85655148|NCT04844866|chimeric antigen receptor|chimeric antigen receptor
+85655149|NCT04844866|MB-CART2019.1|mb-cart2019.1
+85655150|NCT04844866|CD20|cd20
+85655151|NCT04844866|CD19|cd19
+85655152|NCT04844866|relapsed refractory|relapsed refractory
+85655153|NCT04844866|Diffuse Large B-cell Lymphoma|diffuse large b-cell lymphoma
+85655154|NCT04844866|DLBCL|dlbcl
+85655155|NCT04844866|Non-Hodgkin Lymphoma|non-hodgkin lymphoma
+85655156|NCT04844866|NHL|nhl
+85655157|NCT04844866|zamtocabtagene autoleucel|zamtocabtagene autoleucel
+85655158|NCT04844866|blood cancer|blood cancer
+85655166|NCT04815356|CD-22 Expressing Tumor|cd-22 expressing tumor
+85655167|NCT04815356|Chimeric Antigen Receptor|chimeric antigen receptor
+85655168|NCT04815356|Adoptive Immunotherapy|adoptive immunotherapy
+85655228|NCT04483778|CAR T cell|car t cell
+85655229|NCT04483778|Pediatric|pediatric
+85655230|NCT04483778|Young adults|young adults
+85655231|NCT04483778|Non-CNS solid tumor|non-cns solid tumor
+85657319|NCT00840853|Stem cell transplant|stem cell transplant
+85657320|NCT00840853|Acute Lymphoblastic Leukemia (ALL)|acute lymphoblastic leukemia (all)
+85657321|NCT00840853|Chronic Lymphocytic Leukemia (CLL)|chronic lymphocytic leukemia (cll)
+85657322|NCT00840853|Non Hodgkin's Lymphoma|non hodgkin's lymphoma
+85657323|NCT00840853|Cytotoxic T lymphocytes|cytotoxic t lymphocytes
+85657324|NCT00840853|CTL|ctl
+85657325|NCT00840853|CD-19|cd-19
+85657326|NCT00840853|chimeric receptor|chimeric receptor
+85661356|NCT02862028|PD-1 antibody|pd-1 antibody
+85661357|NCT02862028|CAR-T cells|car-t cells
+85661358|NCT02862028|EGFR family|egfr family
+85661359|NCT02862028|advanced solid tumor|advanced solid tumor
+85661761|NCT05199961|Quality of Life|quality of life
+85661762|NCT05199961|Digital Health Coaching|digital health coaching
+85661763|NCT05199961|adult|adult
+85661764|NCT05199961|Receptors, Chimeric Antigen|receptors, chimeric antigen
+85662115|NCT05654077|nasopharyngeal carcinoma|nasopharyngeal carcinoma
+85662116|NCT05654077|Recurrent/refractory nasopharyngeal carcinoma|recurrent/refractory nasopharyngeal carcinoma
+85663740|NCT04975555|Siltuximab|siltuximab
+85663741|NCT04975555|Chimeric Antigen Receptor T-cell Therapy|chimeric antigen receptor t-cell therapy
+85663742|NCT04975555|Cytokine release syndrome|cytokine release syndrome
+85663743|NCT04975555|Immune effector Cell associated Neurotoxicity Syndrome|immune effector cell associated neurotoxicity syndrome
+85663744|NCT04975555|Lymphoma|lymphoma
+85663745|NCT04975555|Multiple Myeloma|multiple myeloma
+85663746|NCT04975555|Acute lymphoblastic Leukemia|acute lymphoblastic leukemia
+85666136|NCT04860817|CAR-T|car-t
+85666137|NCT04860817|CD7|cd7
+85666138|NCT04860817|T-ALL/LBL|t-all/lbl
+85667766|NCT05323201|Fully human B7H3 CAR-T|fully human b7h3 car-t
+85667767|NCT05323201|Recurrent Advanced Hepatocellular Carcinoma|recurrent advanced hepatocellular carcinoma
+85672266|NCT04844086|CD19 specific CAR|cd19 specific car
+85672267|NCT04844086|Autologous|autologous
+85673282|NCT05252572|AML|aml
+85673283|NCT05252572|CLL1 CAR T-cell therapy|cll1 car t-cell therapy
+85674693|NCT02846584|CAR T|car t
+85674694|NCT02846584|HSCT|hsct
+85674893|NCT00902044|Refractory Sarcoma|refractory sarcoma
+85674894|NCT00902044|Metastatic Sarcoma|metastatic sarcoma
+85674895|NCT00902044|Sarcoma|sarcoma
+85674896|NCT00902044|HER2-positive|her2-positive
+85674897|NCT00902044|Gene Therapy|gene therapy
+85674898|NCT00902044|HER2-specific T cells|her2-specific t cells
+85675873|NCT04156243|CD19|cd19
+85675874|NCT04156243|CD19 CAR T cell|cd19 car t cell
+85676450|NCT05016778|CAR-T|car-t
+85676451|NCT05016778|GPRC5D|gprc5d
+85676452|NCT05016778|Multiple Myeloma|multiple myeloma
+85677276|NCT02822326|Leukemia|leukemia
+85677277|NCT02822326|CART CD19|cart cd19
+85677278|NCT02822326|Chemotherapy Resistant|chemotherapy resistant
+85677279|NCT02822326|Chemotherapy Refractory|chemotherapy refractory
+85677280|NCT02822326|CD19 +|cd19 +
+85677281|NCT02822326|Lymphoma|lymphoma
+85682884|NCT02728882|Lymphoma CAR-T|lymphoma car-t
+85683213|NCT02713984|HER2 CAR-T|her2 car-t
+85683214|NCT02713984|safety|safety
+85683215|NCT02713984|efficiency|efficiency
+85683216|NCT02713984|refractory and relapsed cancer|refractory and relapsed cancer
+85684261|NCT05333302|immunotherapy|immunotherapy
+85684262|NCT05333302|CAR-T cells|car-t cells
+85319385|NCT05274451|ROR1 positive|ror1 positive
+85688255|NCT04169932|CD20 CAR T Cells|cd20 car t cells
+85688256|NCT04169932|Safety, tolerance and efficacy|safety, tolerance and efficacy
+85708770|NCT02917083|chimeric antigen receptors|chimeric antigen receptors
+85708771|NCT02917083|immunotherapy|immunotherapy
+85708772|NCT02917083|CAR T-cells|car t-cells
+85708773|NCT02917083|lymphoma|lymphoma
+85710641|NCT04295018|Multiple Myeloma|multiple myeloma
+85710785|NCT02575261|CAR-T cell immunotherapy|car-t cell immunotherapy
+85710786|NCT02575261|EphA2|epha2
+85710787|NCT02575261|malignant glioma|malignant glioma
+85711917|NCT03483103|JCAR017|jcar017
+85711918|NCT03483103|lisocabtagene maraleucel|lisocabtagene maraleucel
+85689920|NCT04163302|Lymphoma|lymphoma
+85689921|NCT04163302|Chimeric antigen receptor T cell|chimeric antigen receptor t cell
+85689922|NCT04163302|Chimeric antigen receptor|chimeric antigen receptor
+85689923|NCT04163302|Immunotherapy|immunotherapy
+85689924|NCT04163302|PD-1|pd-1
+85689925|NCT04163302|CD19|cd19
+85715659|NCT05451212|Immunotherapy, Adoptive|immunotherapy, adoptive
+85715660|NCT05451212|Immune System Diseases|immune system diseases
+85715661|NCT05451212|Myasthenia Gravis (MG)|myasthenia gravis (mg)
+85715662|NCT05451212|Muscle-specific tyrosine kinase (MuSK)|muscle-specific tyrosine kinase (musk)
+85715663|NCT05451212|Muscle Weakness|muscle weakness
+85715664|NCT05451212|Neuromuscular Diseases|neuromuscular diseases
+85715665|NCT05451212|Musculoskeletal Diseases|musculoskeletal diseases
+85716342|NCT03635632|Gene Therapy|gene therapy
+85716343|NCT03635632|CAR T-cells|car t-cells
+85716344|NCT03635632|Neuroblastoma|neuroblastoma
+85716345|NCT03635632|chimeric antigen receptor|chimeric antigen receptor
+85716346|NCT03635632|Immunotherapy|immunotherapy
+85716347|NCT03635632|Sarcoma|sarcoma
+85716348|NCT03635632|Uveal Melanoma|uveal melanoma
+85717254|NCT04283006|lymphoid hematological malignancies|lymphoid hematological malignancies
+85717255|NCT04283006|CAR T-cell therapy|car t-cell therapy
+85717256|NCT04283006|CD20/CD22|cd20/cd22
+85721889|NCT03744676|Lisocabtagene maraleucel|lisocabtagene maraleucel
+85721890|NCT03744676|liso-cel|liso-cel
+85721891|NCT03744676|JCAR017|jcar017
+85721892|NCT03744676|relapse|relapse
+85721893|NCT03744676|refractory|refractory
+85721894|NCT03744676|B-Cell Non-Hodgkin Lymphoma|b-cell non-hodgkin lymphoma
+85721896|NCT03744676|chimeric antigen receptor|chimeric antigen receptor
+85721897|NCT03744676|CAR|car
+85721898|NCT03744676|CAR T cell|car t cell
+85721899|NCT03744676|autologous T cell therapy|autologous t cell therapy
+85721900|NCT03744676|immunotherapy|immunotherapy
+85721901|NCT03744676|cell therapy|cell therapy
+85721902|NCT03744676|B-cell malignancies|b-cell malignancies
+85722142|NCT04162353|BCMA|bcma
+85722143|NCT04162353|CD19|cd19
+85722144|NCT04162353|BCMA-CD19 cCAR T cells|bcma-cd19 ccar t cells
+85722145|NCT04162353|multiple myeloma|multiple myeloma
+85722146|NCT04162353|plasmacytoid lymphoma|plasmacytoid lymphoma
+85722250|NCT04162119|BCMA|bcma
+85722251|NCT04162119|Myeloma|myeloma
+85722252|NCT04162119|PD-1|pd-1
+85722253|NCT04162119|Immunotherapy|immunotherapy
+85722254|NCT04162119|Plasmocytoma|plasmocytoma
+85722255|NCT04162119|Chimeric antigen receptor T cell|chimeric antigen receptor t cell
+85722256|NCT04162119|Chimeric antigen receptor|chimeric antigen receptor
+85722257|NCT04162119|B cell maturation antigen|b cell maturation antigen
+85722807|NCT04156269|BCMA|bcma
+85722809|NCT04156269|BCMA-CS1 cCAR T cells|bcma-cs1 ccar t cells
+85722810|NCT04156269|CD269|cd269
+85722811|NCT04156269|SLAMF7|slamf7
+85725772|NCT03741127|CAR-T cells|car-t cells
+85725787|NCT03601078|Multiple Myeloma|multiple myeloma
+85725788|NCT03601078|bb2121|bb2121
+85725789|NCT03601078|Relapsed and Refractory Multiple Myeloma|relapsed and refractory multiple myeloma
+85725790|NCT03601078|High Risk Multiple Myeloma|high risk multiple myeloma
+85725791|NCT03601078|Phase 2|phase 2
+85725792|NCT03601078|Multi-cohort|multi-cohort
+85725793|NCT03601078|Open-label|open-label
+85728244|NCT03614858|CD19|cd19
+85728245|NCT03614858|CD22|cd22
+85728342|NCT05064787|Receptors, chimeric antigen|receptors, chimeric antigen
+85728343|NCT05064787|Adult|adult
+85728344|NCT05064787|hematologic neoplasms|hematologic neoplasms
+85728345|NCT05064787|digital health coaching|digital health coaching
+85733737|NCT05627323|Progressive or recurrent glioblastoma|progressive or recurrent glioblastoma
+85733738|NCT05627323|MMP2+|mmp2+
+85734003|NCT05117008|Chimeric antigen receptor T-cell therapy|chimeric antigen receptor t-cell therapy
+85734004|NCT05117008|CAR Therapy|car therapy
+85734072|NCT04984356|CAR-T therapy|car-t therapy
+85736724|NCT05168748|CAR-T|car-t
+85736725|NCT05168748|IMJ995|imj995
+85736726|NCT05168748|CD19|cd19
+85736727|NCT05168748|CD22|cd22
+85736728|NCT05168748|acute lymphoblastic leukemia (ALL)|acute lymphoblastic leukemia (all)
+85736729|NCT05168748|pediatric|pediatric
+85736730|NCT05168748|adolescent|adolescent
+85741441|NCT05382377|NKG2D|nkg2d
+85741849|NCT05639972|HPV|hpv
+85741850|NCT05639972|Cell therapy|cell therapy
+85741851|NCT05639972|Adoptive cell therapy|adoptive cell therapy
+85741852|NCT05639972|Immunotherapy|immunotherapy
+85741853|NCT05639972|Radiation|radiation
+85741854|NCT05639972|Chemoradiation|chemoradiation
+85741855|NCT05639972|CAR-T, cell therapy|car-t, cell therapy
+85741856|NCT05639972|Tumor infiltrating lymphocyte|tumor infiltrating lymphocyte
+85741857|NCT05639972|TCR|tcr
+85741858|NCT05639972|T cell|t cell
+85741859|NCT05639972|Gene therapy|gene therapy
+85741860|NCT05639972|Cervical cancer|cervical cancer
+85741861|NCT05639972|Oropharyngeal cancer|oropharyngeal cancer
+85741862|NCT05639972|Anal cancer|anal cancer
+85741863|NCT05639972|Vulvar cancer|vulvar cancer
+85741864|NCT05639972|Vaginal cancer|vaginal cancer
+85741865|NCT05639972|Penile cancer|penile cancer
+85741866|NCT05639972|Induction therapy|induction therapy
+85693858|NCT03275493|CD19+ ,CAR-T, CRS|cd19+ ,car-t, crs
+85743747|NCT05588440|Lymphoma|lymphoma
+85743748|NCT05588440|Lymphoma, B-Cell|lymphoma, b-cell
+85743749|NCT05588440|Lymphoma, Large B-Cell, Diffuse|lymphoma, large b-cell, diffuse
+85743750|NCT05588440|Lymphoma, Mantle Cell|lymphoma, mantle cell
+85743751|NCT05588440|Lymphoproliferative Disorders|lymphoproliferative disorders
+85743752|NCT05588440|Lymphatic Diseases|lymphatic diseases
+85743753|NCT05588440|Immunoproliferative Disorders|immunoproliferative disorders
+85323732|NCT05665062|CART|cart
+85323733|NCT05665062|CD19-CART|cd19-cart
+85323734|NCT05665062|Chimeric antigen receptor|chimeric antigen receptor
+85323735|NCT05665062|IL-2|il-2
+85323813|NCT05322330|XPO-1 Inhibitor|xpo-1 inhibitor
+85323814|NCT05322330|CAR-T Cells|car-t cells
+85323815|NCT05322330|Relapsed Refractory B-cell Non-Hodgkin's Lymphoma|relapsed refractory b-cell non-hodgkin's lymphoma
+85325166|NCT05212584|CD7|cd7
+85325167|NCT05212584|CD7CAR|cd7car
+85325168|NCT05212584|leukemia|leukemia
+85325169|NCT05212584|acute lymphoblastic leukemia/lymphoma|acute lymphoblastic leukemia/lymphoma
+85325170|NCT05212584|hematologic malignancies|hematologic malignancies
+85326530|NCT03330834|CAR-T|car-t
+85326531|NCT03330834|advanced lung cancer|advanced lung cancer
+85326532|NCT03330834|single-arm|single-arm
+85326533|NCT03330834|phase I clinical study|phase i clinical study
+85338561|NCT05269914|Diffuse large B-cell lymphoma|diffuse large b-cell lymphoma
+85338562|NCT05269914|Autologous anti-CD19 CAR-T cells|autologous anti-cd19 car-t cells
+85338583|NCT05262673|B-ALL|b-all
+85338584|NCT05262673|CAR T|car t
+85338585|NCT05262673|CTL|ctl
+85338586|NCT05262673|DC vaccine|dc vaccine
+85339471|NCT03373071|CD19-CAR T cell|cd19-car t cell
+85339472|NCT03373071|CD19-malignancy|cd19-malignancy
+85339473|NCT03373071|CAR T cell|car t cell
+85339474|NCT03373071|CD19-ALL|cd19-all
+85339475|NCT03373071|CD19-LNH|cd19-lnh
+85489595|NCT02958384|LeY|ley
+85348269|NCT03098355|CART|cart
+85348270|NCT03098355|CD19|cd19
+85348271|NCT03098355|CD22|cd22
+85348272|NCT03098355|Interleukin-2|interleukin-2
+85126526|NCT05248048|NKG2D|nkg2d
+85136585|NCT03393936|AXL|axl
+85377774|NCT05028933|EpCAM|epcam
+85377775|NCT05028933|CAR-T|car-t
+85703932|NCT02873390|PD-1 Antibody|pd-1 antibody
+85703933|NCT02873390|CAR-T Cells|car-t cells
+85703934|NCT02873390|EGFR family|egfr family
+85703935|NCT02873390|Advanced Malignancies|advanced malignancies
+85377926|NCT03975907|multiple myeloma|multiple myeloma
+85377927|NCT03975907|car-T|car-t
+85168090|NCT04884984|AML|aml
+85705538|NCT02729493|Liver Cancer CAR-T|liver cancer car-t
+85387129|NCT05596266|CD5 CAR-T|cd5 car-t
+85387130|NCT05596266|T-ALL|t-all
+85705908|NCT02725125|Stomach Cancer CAR-T|stomach cancer car-t
+85234350|NCT03287817|AUTO3|auto3
+85706585|NCT02710149|Leukemia|leukemia
+85706586|NCT02710149|Lymphoma|lymphoma
+85392750|NCT03373097|Neuroblastoma|neuroblastoma
+85392751|NCT03373097|GD2 CAR T cell|gd2 car t cell
+85392752|NCT03373097|CAR T|car t
+85392753|NCT03373097|GD2-positive solid tumors|gd2-positive solid tumors
+85392754|NCT03373097|Osteosarcoma|osteosarcoma
+85392755|NCT03373097|Ewing Sarcoma|ewing sarcoma
+85392756|NCT03373097|GD2-positive sarcoma|gd2-positive sarcoma
+85392915|NCT05436509|B cell Malignancies|b cell malignancies
+85392916|NCT05436509|CD19|cd19
+85392917|NCT05436509|CD79b|cd79b
+85392918|NCT05436496|CAR-T|car-t
+85392919|NCT05436496|B cell Malignancies|b cell malignancies
+85392920|NCT05436496|CD19|cd19
+85392921|NCT05436496|CD70|cd70
+85706979|NCT03500991|CNS, CAR T cell, HER2-positive, brain tumor|cns, car t cell, her2-positive, brain tumor
+85706980|NCT03500991|pediatric, young adults|pediatric, young adults
+85708037|NCT04107142|NKG2D|nkg2d
+85708038|NCT04107142|gamma|gamma
+85708039|NCT04107142|delta|delta
+85708040|NCT04107142|T cell|t cell
+85708041|NCT04107142|CAR|car
+85708042|NCT04107142|chimeric antigen receptor|chimeric antigen receptor
+85708043|NCT04107142|solid tumour|solid tumour
+85708044|NCT04107142|cancer immunotherapy|cancer immunotherapy
+85708045|NCT04107142|adoptive cell transfer|adoptive cell transfer
+85711919|NCT03483103|NHL|nhl
+85711920|NCT03483103|chimeric antigen receptor|chimeric antigen receptor
+85711921|NCT03483103|CAR|car
+85711922|NCT03483103|CAR T cell|car t cell
+85711923|NCT03483103|autologous T cell therapy|autologous t cell therapy
+85711924|NCT03483103|immunotherapy|immunotherapy
+85711925|NCT03483103|cell therapy|cell therapy
+85711926|NCT03483103|liso-cel|liso-cel
+85712408|NCT04093648|Hepatocellular Carcinoma|hepatocellular carcinoma
+85712409|NCT04093648|Hepatoblastoma|hepatoblastoma
+85712410|NCT04093648|GPC3-CAR T cells|gpc3-car t cells
+85715654|NCT05451212|CAAR-T (Chimeric Autoantibody Receptor T Cells) Therapy|caar-t (chimeric autoantibody receptor t cells) therapy
+85715655|NCT05451212|CAR-T (Chimeric Antigen Receptor T Cells) Therapy|car-t (chimeric antigen receptor t cells) therapy
+85715656|NCT05451212|Cell Therapy|cell therapy
+85715657|NCT05451212|Autoimmune Disease|autoimmune disease
+85715658|NCT05451212|Autoimmunity|autoimmunity
+85716349|NCT03635632|Breast cancer|breast cancer
+85716350|NCT03635632|GD2 positive cancer|gd2 positive cancer
+85743754|NCT05588440|Immune System Diseases|immune system diseases
+85743755|NCT05588440|Lymphoma, Non-Hodgkin|lymphoma, non-hodgkin
+85743756|NCT05588440|ROR1|ror1
+85743757|NCT05588440|CAR-T cell therapy|car-t cell therapy
+85743758|NCT05588440|Autologous CAR-T cell therapy|autologous car-t cell therapy
+85743759|NCT05588440|Adoptive cellular therapy|adoptive cellular therapy
+85743760|NCT05588440|Cellular immunotherapy|cellular immunotherapy
+85551169|NCT03768310|ALL|all
+85553467|NCT01430390|11-038|11-038
+85617878|NCT05664217|immunotherapy|immunotherapy
+85176346|NCT04767308|Adoptive T Cell Therapy|adoptive t cell therapy
+85747339|NCT05172596|Multiple myeloma|multiple myeloma
+85747340|NCT05172596|B-cell maturation antigen|b-cell maturation antigen
+85747341|NCT05172596|BCMA|bcma
+85747342|NCT05172596|BCMA-directed|bcma-directed
+85747343|NCT05172596|chimeric antigen receptor|chimeric antigen receptor
+85747344|NCT05172596|CAR-T|car-t
+85747345|NCT05172596|PHE885|phe885
+85321914|NCT03198546|Hepatocellular carcinoma|hepatocellular carcinoma
+85321915|NCT03198546|immunotherapy|immunotherapy
+85321916|NCT03198546|CAR-T cell therapy|car-t cell therapy
+85321917|NCT03198546|GPC3 or TGFβ targeting|gpc3 or tgfβ targeting
+85321918|NCT03198546|Phase I clinical study|phase i clinical study
+85321919|NCT03198546|squamous cell lung cancer|squamous cell lung cancer
+85321920|NCT03198546|interventional radiology|interventional radiology
+85321921|NCT03198546|IL7-CCL19-secreting|il7-ccl19-secreting
+85321922|NCT03198546|SCFV against PD1/CTLA4/Tigit|scfv against pd1/ctla4/tigit
+85321923|NCT03198546|knockdown of PD1/HPK1|knockdown of pd1/hpk1
+85321924|NCT03198546|DAP10|dap10
+85322339|NCT03590574|T cell lymphoma|t cell lymphoma
+85322340|NCT03590574|Relapsed T cell Non-Hodgkin Lymphoma|relapsed t cell non-hodgkin lymphoma
+85322341|NCT03590574|Refractory T cell Non-Hodgkin Lymphoma|refractory t cell non-hodgkin lymphoma
+85322342|NCT03590574|AUTO4|auto4
+85137085|NCT04287660|BiRd|bird
+85416247|NCT01864902|CD33 positive acute myeloid leukemia (AML)|cd33 positive acute myeloid leukemia (aml)
+85392882|NCT05437341|CAR-T|car-t
+85392883|NCT05437341|cancer|cancer
+85392884|NCT05437341|CD70|cd70
+85392885|NCT05437341|PSMA|psma
+85392886|NCT05437328|CAR-T|car-t
+85392887|NCT05437328|cancer|cancer
+85392888|NCT05437328|GD2|gd2
+85392889|NCT05437328|CD56|cd56
+85392890|NCT05437315|CAR-T|car-t
+85392891|NCT05437315|Solid tumor|solid tumor
+85392892|NCT05437315|GD2|gd2
+85392893|NCT05437315|PSMA|psma
+85418130|NCT05510596|Neurotoxicity|neurotoxicity
+85418132|NCT05510596|Immune cells associated neurotoxicity syndrome|immune cells associated neurotoxicity syndrome
+85418133|NCT05510596|Cytokine release syndrome|cytokine release syndrome
+85418822|NCT04074330|Drug Therapy|drug therapy
+85421463|NCT01886976|multiple myeloma|multiple myeloma
+85593232|NCT04702841|CD7 Positive T-cell|cd7 positive t-cell
+85593233|NCT04702841|γδT|γδt
+85431119|NCT03117751|Leukemia|leukemia
+85431120|NCT03117751|Lymphoma|lymphoma
+85431121|NCT03117751|Pediatric|pediatric
+85431122|NCT03117751|B-Cell|b-cell
+85431123|NCT03117751|T-Cell|t-cell
+85431164|NCT01840566|Relapsed|relapsed
+85431165|NCT01840566|Refractory|refractory
+85431166|NCT01840566|Autologous Stem Cell Transplantation|autologous stem cell transplantation
+85431167|NCT01840566|HIGH DOSE CHEMOTHERAPY|high dose chemotherapy
+85431168|NCT01840566|19-28z T cells/kg|19-28z t cells/kg
+85431169|NCT01840566|12-117|12-117
+85449829|NCT03765177|Chimeric Antigen Receptor T cells|chimeric antigen receptor t cells
+85449830|NCT03765177|CLIC-1901|clic-1901
+85449831|NCT03765177|anti-CD19 CAR-T cells|anti-cd19 car-t cells
+85453456|NCT05638828|CAR-T Cell|car-t cell
+85453457|NCT05638828|ROR1|ror1
+85454872|NCT05618041|CD19,CD20,BCMA|cd19,cd20,bcma
+85454873|NCT05618041|B-ALL/MM/NHL|b-all/mm/nhl
+85460686|NCT02958397|Myeloid Malignancies|myeloid malignancies
+85460687|NCT02958397|CAR-T|car-t
+85460688|NCT02958397|CD33|cd33
+85162988|NCT02744287|rimiducid|rimiducid
+85109784|NCT03126864|AML|aml
+85137088|NCT04287660|MM|mm
+85476742|NCT01818323|Chimeric antigen receptor|chimeric antigen receptor
+85476743|NCT01818323|Immunotherapy|immunotherapy
+85476744|NCT01818323|Head and Neck Cancer|head and neck cancer
+85476745|NCT01818323|Phase I trial|phase i trial
+85476746|NCT01818323|Maximum tolerated dose|maximum tolerated dose
+85165135|NCT05634785|biobank|biobank
+85298729|NCT01593696|ALL|all
+85093374|NCT01460901|Neuroblastoma|neuroblastoma
+85482383|NCT05020444|Multiple Myeloma|multiple myeloma
+85482384|NCT05020444|Multiple Myeloma in Relapse|multiple myeloma in relapse
+85482385|NCT05020444|Refractory Multiple Myeloma|refractory multiple myeloma
+85257674|NCT04855136|DPd|dpd
+85262213|NCT05312411|osteosarcoma|osteosarcoma
+85204381|NCT05509530|GPRC5D|gprc5d
+85489467|NCT05432882|CAR-T|car-t
+85489468|NCT05432882|B cell Malignancies|b cell malignancies
+85489469|NCT05432882|CD19|cd19
+85489470|NCT05432882|CD22|cd22
+85489593|NCT02958384|Myeloid Malignancies|myeloid malignancies
+85489594|NCT02958384|CAR-T|car-t
+85499492|NCT02968472|4s CAR-T19|4s car-t19
+85499493|NCT02968472|B cell leukemia|b cell leukemia
+85499494|NCT02968472|B-ALL|b-all
+85109787|NCT03126864|Fludarabine|fludarabine
+85508912|NCT02958410|CD30|cd30
+85508913|NCT02958410|CAR-T|car-t
+85513638|NCT05518253|CAR-T|car-t
+85513639|NCT05518253|CD70|cd70
+85513640|NCT05518253|CD70-positive advanced/metastatic solid tumors|cd70-positive advanced/metastatic solid tumors
+85513661|NCT05489991|Chimeric Antigen Receptor (CAR)|chimeric antigen receptor (car)
+85513662|NCT05489991|T-Cells|t-cells
+85513663|NCT05489991|Prostate-Specific Membrane Antigen (PSMA)|prostate-specific membrane antigen (psma)
+85513664|NCT05489991|Prostate Cancer|prostate cancer
+85513745|NCT05468190|CAR-T|car-t
+85513746|NCT05468190|CD70|cd70
+85513747|NCT05468190|CD70-positive advanced/metastatic solid tumors|cd70-positive advanced/metastatic solid tumors
+85513789|NCT05442515|CD-19 expressing tumor|cd-19 expressing tumor
+85513790|NCT05442515|CD-22 Expressing Tumor|cd-22 expressing tumor
+85513791|NCT05442515|Adoptive Immunotherapy|adoptive immunotherapy
+85513792|NCT05442515|Philadelphia chromosome + ALL|philadelphia chromosome + all
+85513793|NCT05442515|Lymphoma|lymphoma
+85513850|NCT05420545|CD70|cd70
+85513851|NCT05420545|CD70-positive advanced/metastatic solid tumors|cd70-positive advanced/metastatic solid tumors
+85513852|NCT05420519|CAR-T|car-t
+85513853|NCT05420519|CD70|cd70
+85513937|NCT05400109|UF-KURE19|uf-kure19
+85513938|NCT05400109|CD19 CAR-T cells|cd19 car-t cells
+85513939|NCT05400109|Non Hodgkin Lymphoma|non hodgkin lymphoma
+85514549|NCT05035407|Vaccine|vaccine
+85514550|NCT05035407|Gene Therapy|gene therapy
+85514551|NCT05035407|Cell Therapy|cell therapy
+85514552|NCT05035407|T Cell Therapy|t cell therapy
+85514553|NCT05035407|Immunotherapy|immunotherapy
+85514554|NCT05035407|CAR T|car t
+85514555|NCT05035407|Tumor infiltrating lymphocyte|tumor infiltrating lymphocyte
+85514556|NCT05035407|Triple Negative Breast Cancer|triple negative breast cancer
+85514557|NCT05035407|Metastatic Solid Tumor|metastatic solid tumor
+85514558|NCT05035407|Metastatic carcinoma|metastatic carcinoma
+85514614|NCT05003895|immuno therapy|immuno therapy
+85514615|NCT05003895|Targeted Therapy|targeted therapy
+85514616|NCT05003895|Leukapheresis|leukapheresis
+85514617|NCT05003895|Gene Therapy|gene therapy
+85515344|NCT04420754|AIC100|aic100
+85515345|NCT04420754|CAR T Cell|car t cell
+85515346|NCT04420754|Anaplastic Thyroid Cancer|anaplastic thyroid cancer
+85515347|NCT04420754|Poorly Differentiated Thyroid Cancer|poorly differentiated thyroid cancer
+85515352|NCT04416984|CAR T|car t
+85515353|NCT04416984|Cell Therapy|cell therapy
+85515354|NCT04416984|Allogeneic Cell Therapy|allogeneic cell therapy
+85515355|NCT04416984|Cellular Immuno-therapy|cellular immuno-therapy
+85515356|NCT04416984|AlloCAR T|allocar t
+85515357|NCT04416984|ALLO-501A|allo-501a
+85515359|NCT04416984|LBCL|lbcl
+85515360|NCT04416984|Lymphoma|lymphoma
+85515361|NCT04416984|Large B-Cell Lymphoma|large b-cell lymphoma
+85515492|NCT04227275|Chimeric Antigen Receptor (CAR)|chimeric antigen receptor (car)
+85515493|NCT04227275|T-cells|t-cells
+85515494|NCT04227275|Prostate-Specific Membrane Antigen (PSMA)|prostate-specific membrane antigen (psma)
+85515495|NCT04227275|Prostate Cancer|prostate cancer
+85516545|NCT02315612|CD-22 Expressing Tumor|cd-22 expressing tumor
+85516546|NCT02315612|Chimeric Antigen Receptor|chimeric antigen receptor
+85516547|NCT02315612|Adoptive Immunotherapy|adoptive immunotherapy
+85516549|NCT02315612|Lymphoma|lymphoma
+85520546|NCT01853631|chronic Lymphocytic Leukemia|chronic lymphocytic leukemia
+85520548|NCT01853631|recurrent|recurrent
+85520549|NCT01853631|aggressive B-cell Lymphoma|aggressive b-cell lymphoma
+85520550|NCT01853631|CD19|cd19
+85520551|NCT01853631|Non-Hodgkin Lymphoma|non-hodgkin lymphoma
+85520552|NCT01853631|CD28|cd28
+85520553|NCT01853631|CD137|cd137
+85520554|NCT01853631|4-1BB|4-1bb
+85520555|NCT01853631|acute lymphocytic leukemia|acute lymphocytic leukemia
+85141971|NCT04662294|Multiple Myeloma|multiple myeloma
+85521693|NCT04601831|CAR-T|car-t
+85521694|NCT04601831|Radiation therapy|radiation therapy
+85521695|NCT04601831|NHL|nhl
+85521696|NCT04601831|DLBCL|dlbcl
+85521697|NCT04601831|RT|rt
+85521875|NCT04036019|B cell lymphoma received prior CD19 CAR-T therapy|b cell lymphoma received prior cd19 car-t therapy
+85147145|NCT04488354|CD19 Positive Disease|cd19 positive disease
+85147146|NCT04488354|Blood Cancer|blood cancer
+85531137|NCT05373147|CAR T cells ,Solid tumors|car t cells ,solid tumors
+85534985|NCT03085173|CAR T Cells Targeting CD19|car t cells targeting cd19
+85534986|NCT03085173|EGFRt/19-28z/4-1BBL|egfrt/19-28z/4-1bbl
+85534987|NCT03085173|16-1570|16-1570
+85537146|NCT04514029|Lymphoma|lymphoma
+85537147|NCT04514029|CAR-T|car-t
+85537148|NCT04514029|Neurotoxicity|neurotoxicity
+85537149|NCT04514029|CRS|crs
+85537150|NCT04514029|Dexamethasone|dexamethasone
+85537151|NCT04514029|Simvastatin|simvastatin
+85543023|NCT04691284|Cancer|cancer
+85543024|NCT04691284|microbiome|microbiome
+85543025|NCT04691284|high dose chemotherapy|high dose chemotherapy
+85543026|NCT04691284|stem cell transplantation|stem cell transplantation
+85543027|NCT04691284|CAR-T cell|car-t cell
+85544315|NCT05667506|CNCT19|cnct19
+85544316|NCT05667506|Cluster of differentiation antigen 19(CD19)|cluster of differentiation antigen 19(cd19)
+85544317|NCT05667506|CD19-directed CAR-T cells|cd19-directed car-t cells
+85544478|NCT05266950|CAR-T|car-t
+85544479|NCT05266950|Leukemia|leukemia
+85544480|NCT05266950|Acute Myeloid Leukemia|acute myeloid leukemia
+85544548|NCT05098613|Relapsed|relapsed
+85544549|NCT05098613|Refractory|refractory
+85545959|NCT02937103|Leukemia|leukemia
+85545960|NCT02937103|Myeloid|myeloid
+85545961|NCT02937103|CD123|cd123
+85545962|NCT02937103|CAR-T|car-t
+85546056|NCT02935153|CD22|cd22
+85546057|NCT02935153|CAR-T|car-t
+85546058|NCT02935153|Leukemia|leukemia
+85546059|NCT02935153|Lymphoma|lymphoma
+85546767|NCT02919046|neuroblastoma|neuroblastoma
+85546768|NCT02919046|CAR-T|car-t
+85549761|NCT05415475|CAR-T|car-t
+85549762|NCT05415475|CEA|cea
+85549763|NCT05415475|CEA-positive advanced malignant solid tumors|cea-positive advanced malignant solid tumors
+85551170|NCT03768310|NHL|nhl
+85551171|NCT03768310|hematopoietic stem cell transplantation (HSCT)|hematopoietic stem cell transplantation (hsct)
+85552749|NCT04923893|Newly Diagnosed Multiple Myeloma|newly diagnosed multiple myeloma
+85552750|NCT04923893|Cellular Therapy|cellular therapy
+85552751|NCT04923893|CAR-T Therapy|car-t therapy
+85553047|NCT04133636|Cellular Therapy|cellular therapy
+85553048|NCT04133636|CAR-T Therapy|car-t therapy
+85553049|NCT04133636|BCMA CAR-T|bcma car-t
+85553464|NCT01430390|In Vitro Expanded Allogeneic Epstein-Barr Virus Specific Cytotoxic|in vitro expanded allogeneic epstein-barr virus specific cytotoxic
+85553465|NCT01430390|T-Lymphocytes (EBV-CTLs)|t-lymphocytes (ebv-ctls)
+85553466|NCT01430390|CD19 specific T-cells|cd19 specific t-cells
+85556245|NCT04655677|CD19/CD20-directed CAR-T cells|cd19/cd20-directed car-t cells
+85556341|NCT04653493|CD19+ B-cell Acute Lymphoblastic Leukemia|cd19+ b-cell acute lymphoblastic leukemia
+85556342|NCT04653493|CAR T cell|car t cell
+85556343|NCT04653493|Relapsed/Refractory B cell acute lymphoblastic leukemia|relapsed/refractory b cell acute lymphoblastic leukemia
+85556576|NCT04637503|CART|cart
+85556577|NCT04637503|chimeric antigen receptor|chimeric antigen receptor
+85556578|NCT04637503|adoptive T cell transfer|adoptive t cell transfer
+85556579|NCT04637503|GD2, PSMA, CD276, B7-H3|gd2, psma, cd276, b7-h3
+85563095|NCT04666168|NHL|nhl
+85563410|NCT04661020|Non Hodgkin Lymphoma|non hodgkin lymphoma
+85563411|NCT04661020|CAR T-cell therapy|car t-cell therapy
+85563412|NCT04661020|CD19|cd19
+85566056|NCT04594135|anti-CD5 CAR|anti-cd5 car
+85566057|NCT04594135|T cell leukemia/lymphoma|t cell leukemia/lymphoma
+85566058|NCT04594135|T-ALL|t-all
+85570399|NCT04546906|CD22 CAR-T， B-ALL|cd22 car-t， b-all
+85570504|NCT04541368|multiple myeloma|multiple myeloma
+85570505|NCT04541368|CAR T-cell therapy|car t-cell therapy
+85570506|NCT04541368|CS1|cs1
+85572212|NCT04532281|Acute Lymphoblastic Leukemia|acute lymphoblastic leukemia
+85572213|NCT04532281|Non-Hodgkin's Lymphoma|non-hodgkin's lymphoma
+85572214|NCT04532281|CAR T-cell therapy|car t-cell therapy
+85572215|NCT04532281|CD19|cd19
+85572224|NCT04532203|Acute Lymphoblastic Leukemia|acute lymphoblastic leukemia
+85572225|NCT04532203|Non-Hodgkin's Lymphoma|non-hodgkin's lymphoma
+85572226|NCT04532203|CAR T-cell therapy|car t-cell therapy
+85231451|NCT05544526|CAR T cells|car t cells
+85231452|NCT05544526|Diffuse Midline Glioma|diffuse midline glioma
+85231453|NCT05544526|DMG|dmg
+85573222|NCT04718883|JWCAR029|jwcar029
+85573223|NCT04718883|B-Cell Malignancies|b-cell malignancies
+85573224|NCT04718883|Non-Hodgkin lymphoma|non-hodgkin lymphoma
+85573225|NCT04718883|CAR T cells|car t cells
+85573226|NCT04718883|Chimeric antigen receptor|chimeric antigen receptor
+85573227|NCT04718883|Relapsed/Refractory|relapsed/refractory
+85573228|NCT04718883|Mantle Cell Lymphoma|mantle cell lymphoma
+85592197|NCT03271515|leukemia|leukemia
+85592198|NCT03271515|lymphoma|lymphoma
+85592199|NCT03271515|CAR-T|car-t
+85592200|NCT03271515|bispecific|bispecific
+85592201|NCT03271515|CD20|cd20
+85592202|NCT03271515|CD19|cd19
+85592455|NCT03271632|multiple myeloma|multiple myeloma
+85592456|NCT03271632|chimeric antigen receptor|chimeric antigen receptor
+85592457|NCT03271632|BCMA|bcma
+85592458|NCT03271632|CD38|cd38
+85592459|NCT03271632|CD56|cd56
+85592460|NCT03271632|CD138|cd138
+85595281|NCT04700319|B cell line|b cell line
+85595282|NCT04700319|hematological malignancies|hematological malignancies
+85596795|NCT02893189|CD19+|cd19+
+85596796|NCT02893189|allogeneic transplant|allogeneic transplant
+85596797|NCT02893189|relapse|relapse
+85600240|NCT04324996|NKG2D-ACE2 CAR-NK|nkg2d-ace2 car-nk
+85600241|NCT04324996|IL15 superagonist|il15 superagonist
+85600242|NCT04324996|GM-CSF-neutralizing scFv|gm-csf-neutralizing scfv
+85600243|NCT04324996|COVID-19|covid-19
+85601415|NCT05639179|universal CAR-T(UCAR-T)|universal car-t(ucar-t)
+85601416|NCT05639179|CD19|cd19
+85602920|NCT02954445|BCMA|bcma
+85602921|NCT02954445|CAR-T|car-t
+85603199|NCT02274584|Hodgkin's lymphoma|hodgkin's lymphoma
+85603200|NCT02274584|Anaplastic large cell lymphoma|anaplastic large cell lymphoma
+85603201|NCT02274584|CD30 positive lymphoma|cd30 positive lymphoma
+85603202|NCT02274584|Peripheral T/Natural Killer (NK) cell lymphoma|peripheral t/natural killer (nk) cell lymphoma
+85605858|NCT05149391|CD19/CD20-directed Chimeric Antigen Receptor T Cells|cd19/cd20-directed chimeric antigen receptor t cells
+85610595|NCT05594797|BCMA|bcma
+85610596|NCT05594797|CAR-T|car-t
+85610597|NCT05594797|Relapsed/Refractory|relapsed/refractory
+85610598|NCT05594797|Multiple Myeloma|multiple myeloma
+85612648|NCT04206943|CAR-T Cell|car-t cell
+85612649|NCT04206943|CD19|cd19
+85612650|NCT04206943|ALL|all
+85612651|NCT04206943|NHL|nhl
+85612652|NCT04206943|Cancer|cancer
+85612653|NCT04206943|Chimeric Antigen Receptor|chimeric antigen receptor
+85617867|NCT05664217|NHL|nhl
+85617868|NCT05664217|LBCL|lbcl
+85617869|NCT05664217|DLBCL|dlbcl
+85617870|NCT05664217|CAR|car
+85617871|NCT05664217|CAR-T|car-t
+85617872|NCT05664217|cell therapy|cell therapy
+85617873|NCT05664217|NKTR-255|nktr-255
+85617874|NCT05664217|chimeric antigen receptor|chimeric antigen receptor
+85617875|NCT05664217|autologous T-cell|autologous t-cell
+85617876|NCT05664217|axi-cel|axi-cel
+85617877|NCT05664217|liso-cel|liso-cel
+85617879|NCT05664217|B-cell malignancies|b-cell malignancies
+85617962|NCT05621291|B-All|b-all
+85617963|NCT05621291|Car-Cure|car-cure
+85617964|NCT05621291|Result Monitoring|result monitoring
+85204380|NCT05509530|BCMA|bcma
+85619130|NCT04099797|Gene Therapy|gene therapy
+85619131|NCT04099797|CAR T-cells|car t-cells
+85619132|NCT04099797|chimeric antigen receptor|chimeric antigen receptor
+85619133|NCT04099797|Brain Cancer|brain cancer
+85619134|NCT04099797|Immunotherapy|immunotherapy
+85619135|NCT04099797|Glioma|glioma
+85619136|NCT04099797|Brain tumor|brain tumor
+85619137|NCT04099797|DIPG|dipg
+85619138|NCT04099797|ETMRs|etmrs
+85619139|NCT04099797|Medulloepithelioma|medulloepithelioma
+85619140|NCT04099797|Atypical teratoid/rhabdoid tumors|atypical teratoid/rhabdoid tumors
+85619152|NCT04013802|cytomegalovirus (CMV)|cytomegalovirus (cmv)
+85619153|NCT04013802|BK virus|bk virus
+85619154|NCT04013802|Epstein-Barr virus (EBV)|epstein-barr virus (ebv)
+85619155|NCT04013802|adenovirus|adenovirus
+85619471|NCT02830724|Metastatic Solid Cancers|metastatic solid cancers
+85619472|NCT02830724|Renal Cell Cancer|renal cell cancer
+85619473|NCT02830724|Cell Therapy|cell therapy
+85619474|NCT02830724|CAR T-Cells|car t-cells
+85619475|NCT02830724|Immunotherapy|immunotherapy
+85093375|NCT01460901|Relapsed|relapsed
+85093376|NCT01460901|Refractory|refractory
+85093426|NCT04888468|CAR-T|car-t
+85093427|NCT04888468|CD19|cd19
+85093428|NCT04888468|B-ALL|b-all
+85093516|NCT04556266|Leukemia|leukemia
+85093517|NCT04556266|Lymphoma|lymphoma
+85093518|NCT04556266|Lymphoma, B-Cell|lymphoma, b-cell
+85093519|NCT04556266|Chimeric Antigen Receptor (CAR) T cells|chimeric antigen receptor (car) t cells
+85093520|NCT04556266|CART cells|cart cells
+85093521|NCT04556266|high-risk B-cell malignancies|high-risk b-cell malignancies
+85093522|NCT04556266|17-331|17-331
+85093523|NCT04556266|Memorial Sloan Kettering Cancer Center|memorial sloan kettering cancer center
+85095829|NCT04196205|acute lymphoblastic leukemia ;Lymphomas|acute lymphoblastic leukemia ;lymphomas
+85172754|NCT02247609|B cell lymphoma|b cell lymphoma
+85172755|NCT02247609|non-Hodgkin's lymphoma|non-hodgkin's lymphoma
+85172756|NCT02247609|Burkitt lymphoma|burkitt lymphoma
+85172757|NCT02247609|diffused large B cell lymphoma|diffused large b cell lymphoma
+85100233|NCT03696784|CAR T cells|car t cells
+85100234|NCT03696784|CD19|cd19
+85100235|NCT03696784|Lymphoma|lymphoma
+85100236|NCT03696784|AP1903|ap1903
+85100237|NCT03696784|Cytokine Release Syndrome|cytokine release syndrome
+85100238|NCT03696784|Neurotoxicity|neurotoxicity
+85100239|NCT03696784|Rimiducid|rimiducid
+85100651|NCT05312476|CAR-T Cells targeting Igβ targets|car-t cells targeting igβ targets
+85100652|NCT05312476|Relapsed Refractory B-cell Non-Hodgkin's Lymphoma|relapsed refractory b-cell non-hodgkin's lymphoma
+85100890|NCT04088890|CD22|cd22
+85100891|NCT04088890|CAR T cells|car t cells
+85172758|NCT02247609|B cell malignancy|b cell malignancy
+85103243|NCT04762485|CD7 Positive|cd7 positive
+85103244|NCT04762485|CAR-T|car-t
+85103618|NCT03030976|CD19|cd19
+85103619|NCT03030976|CAR-T|car-t
+85103620|NCT03030976|SLE|sle
+85105483|NCT03602157|CAR T cells|car t cells
+85105484|NCT03602157|CD30|cd30
+85105485|NCT03602157|CCR4|ccr4
+85105486|NCT03602157|Lymphoma|lymphoma
+85105487|NCT03602157|T lymphocytes|t lymphocytes
+85105588|NCT03049449|Gray Zone Lymphoma|gray zone lymphoma
+85105589|NCT03049449|Immunotherapy|immunotherapy
+85105590|NCT03049449|Peripheral T-Cell Lymphoma|peripheral t-cell lymphoma
+85105591|NCT03049449|Anaplastic Large Cell Lymphoma|anaplastic large cell lymphoma
+85105592|NCT03049449|Angioimmunoblastic T-cell lymphoma|angioimmunoblastic t-cell lymphoma
+85109782|NCT03126864|Hematopoietic/Lymphoid Cancer|hematopoietic/lymphoid cancer
+85109783|NCT03126864|Acute Myeloid Leukemia|acute myeloid leukemia
+85109785|NCT03126864|Relapsed or Refractory CD33-Positive|relapsed or refractory cd33-positive
+85109786|NCT03126864|CD33-CAR-T cells|cd33-car-t cells
+85109788|NCT03126864|Fludarabine phosphate|fludarabine phosphate
+85109789|NCT03126864|Fludara|fludara
+85109790|NCT03126864|Cyclophosphamide|cyclophosphamide
+85109791|NCT03126864|Cytoxan|cytoxan
+85109792|NCT03126864|Neosar|neosar
+85110932|NCT01583686|Metastatic Cancer|metastatic cancer
+85110933|NCT01583686|Immunotherapy|immunotherapy
+85110934|NCT01583686|Gene Therapy|gene therapy
+85110935|NCT01583686|Mesothelioma|mesothelioma
+85110936|NCT01583686|Pancreatic Cancer|pancreatic cancer
+85199324|NCT03030001|mesothelin|mesothelin
+85199325|NCT03030001|PD-1|pd-1
+85199326|NCT03030001|CAR T|car t
+85209896|NCT04394650|CART|cart
+85116724|NCT03029338|lymphoma|lymphoma
+85116725|NCT03029338|non-hodgkin|non-hodgkin
+85116726|NCT03029338|B-cell|b-cell
+85116727|NCT03029338|CD19 CAR T cells|cd19 car t cells
+85116728|NCT03029338|refractory|refractory
+85116729|NCT03029338|relapse|relapse
+85118739|NCT05023707|FLT3,CAR-T,AML|flt3,car-t,aml
+85123482|NCT03196830|Relapse/refractory non-Hodgkin lymphoma|relapse/refractory non-hodgkin lymphoma
+85123483|NCT03196830|CAR - T CD19/CD20/CD22/CD30|car - t cd19/cd20/cd22/cd30
+85124502|NCT04877080|Fast|fast
+85124503|NCT04877080|CAR-T|car-t
+85124504|NCT04877080|CD19|cd19
+85124505|NCT04877080|B-NHL|b-nhl
+85126525|NCT05248048|Refractory Metastatic Colorectal Cancer|refractory metastatic colorectal cancer
+85126527|NCT05248048|CAR-NK|car-nk
+85127257|NCT03166878|CAR-T|car-t
+85127258|NCT03166878|Cancer treatment|cancer treatment
+85127259|NCT03166878|Immunotherapy|immunotherapy
+85127260|NCT03166878|Adoptive cell therapy|adoptive cell therapy
+85127261|NCT03166878|Chimeric antigen receptor|chimeric antigen receptor
+85127262|NCT03166878|Universal CAR-T|universal car-t
+85130363|NCT04268706|r/r Hodgkin Lymphoma, CD30, adult, pediatrics|r/r hodgkin lymphoma, cd30, adult, pediatrics
+85212602|NCT04605666|CAR-T|car-t
+85136582|NCT03393936|CCT301-38|cct301-38
+85136583|NCT03393936|CCT301-59|cct301-59
+85136584|NCT03393936|stage IV metastatic renal cell carcinoma|stage iv metastatic renal cell carcinoma
+85136586|NCT03393936|ROR2|ror2
+85136692|NCT05085444|Scleroderma|scleroderma
+85136693|NCT05085444|CD19 CAR T-cell therapy|cd19 car t-cell therapy
+85136694|NCT05085444|BCMA CAR T-cell therapy|bcma car t-cell therapy
+85137086|NCT04287660|CART|cart
+85137087|NCT04287660|BCMA|bcma
+85137164|NCT04270461|NKG2D-based CAR T-cells|nkg2d-based car t-cells
+85137165|NCT04270461|solid tumors|solid tumors
+85138097|NCT04194931|Relapsed and refractory multiple myeloma; CAR-T|relapsed and refractory multiple myeloma; car-t
+85141967|NCT04662294|CAR T-cell therapy|car t-cell therapy
+85141968|NCT04662294|CD70|cd70
+85141969|NCT04662294|Acute Myeloid Leukemia|acute myeloid leukemia
+85141970|NCT04662294|Non-Hodgkin's lymphoma|non-hodgkin's lymphoma
+85143174|NCT03155191|Acute lymphoblastic leukemia|acute lymphoblastic leukemia
+85143175|NCT03155191|Leukemia|leukemia
+85143176|NCT03155191|Lymphoblastic|lymphoblastic
+85143177|NCT03155191|TBI-1501|tbi-1501
+85143178|NCT03155191|Anti-CD19 CAR Expressing T cells Therapy|anti-cd19 car expressing t cells therapy
+85143179|NCT03155191|CD19 CAR Gene-Transduced Lymphocyte|cd19 car gene-transduced lymphocyte
+85143180|NCT03155191|Adoptive Immunotherapy|adoptive immunotherapy
+85143181|NCT03155191|Genetically Engineered Lymphocyte Therapy|genetically engineered lymphocyte therapy
+85143182|NCT03155191|Retroviral Vector|retroviral vector
+85143183|NCT03155191|Neoplasms by Histologic Type|neoplasms by histologic type
+85143184|NCT03155191|Neoplasms|neoplasms
+85143185|NCT03155191|Neoplasms, Experimental|neoplasms, experimental
+85143186|NCT03155191|Immune System Diseases|immune system diseases
+85143187|NCT03155191|Chimeric antigen receptor|chimeric antigen receptor
+85147142|NCT04488354|CAR-T Cell Therapy|car-t cell therapy
+85147143|NCT04488354|Switchable CAR-T Cell|switchable car-t cell
+85147144|NCT04488354|Autologous Cell Therapy|autologous cell therapy
+85147147|NCT04488354|Hematological malignancy|hematological malignancy
+85147148|NCT04488354|Neoplasms|neoplasms
+85147149|NCT04488354|CD19 CAR-T Cell|cd19 car-t cell
+85147150|NCT04488354|Long Term Follow Up (LTFU)|long term follow up (ltfu)
+85148663|NCT05063682|Glioblastoma|glioblastoma
+85148664|NCT05063682|CAR-T|car-t
+85148665|NCT05063682|EGFRvIII|egfrviii
+85149648|NCT03599375|Chimeric Antigen Receptor-Modified T Cells|chimeric antigen receptor-modified t cells
+85149649|NCT03599375|CART|cart
+85149650|NCT03599375|Recurrent B Cell Acute Lymphoblastic Leukemia|recurrent b cell acute lymphoblastic leukemia
+85149651|NCT03599375|refractory B Cell Acute Lymphoblastic Leukemia|refractory b cell acute lymphoblastic leukemia
+85149652|NCT03599375|ALL|all
+85149807|NCT03407859|CD19-CART|cd19-cart
+85149808|NCT03407859|CD20-CART|cd20-cart
+85149809|NCT03407859|CD10-CART|cd10-cart
+85149810|NCT03407859|CD22-CART|cd22-cart
+85149811|NCT03407859|Relapsed/Refractory B-ALL|relapsed/refractory b-all
+85149812|NCT03407859|MRD|mrd
+85150237|NCT04191941|CD19-TriCAR-T|cd19-tricar-t
+85150238|NCT04191941|1922-TriCAR-T|1922-tricar-t
+85150239|NCT04191941|BCMA-TriCAR-T|bcma-tricar-t
+85152115|NCT04249947|CAR-T cells|car-t cells
+85152116|NCT04249947|metastatic castration-resistant prostate cancer (mCRPC)|metastatic castration-resistant prostate cancer (mcrpc)
+85152149|NCT05619861|T cells|t cells
+85319377|NCT05274451|CAR T-cell therapy|car t-cell therapy
+85319378|NCT05274451|CAR T|car t
+85319379|NCT05274451|CAR T-cell|car t-cell
+85319380|NCT05274451|CAR-T|car-t
+85319381|NCT05274451|CAR-T cell therapy|car-t cell therapy
+85319382|NCT05274451|CAR-T cell|car-t cell
+85319383|NCT05274451|ROR1|ror1
+85319384|NCT05274451|ROR1+|ror1+
+85319386|NCT05274451|cell therapy|cell therapy
+85319387|NCT05274451|immunotherapy|immunotherapy
+85319388|NCT05274451|relapsed|relapsed
+85319389|NCT05274451|refractory|refractory
+85319390|NCT05274451|solid tumor|solid tumor
+85319391|NCT05274451|advanced|advanced
+85319392|NCT05274451|metastatic|metastatic
+85319393|NCT05274451|breast cancer|breast cancer
+85319394|NCT05274451|lung cancer|lung cancer
+85319395|NCT05274451|triple negative breast cancer|triple negative breast cancer
+85319396|NCT05274451|non small cell lung cancer|non small cell lung cancer
+85153867|NCT03018093|Relapsed or refractory acute lymphoblastic leukemia|relapsed or refractory acute lymphoblastic leukemia
+85153868|NCT03018093|Anti-CD19 chimeric antigen receptor T-cell|anti-cd19 chimeric antigen receptor t-cell
+85156289|NCT03915184|CAR-T|car-t
+85156290|NCT03915184|Carcinoma|carcinoma
+85156291|NCT03915184|Carcinoma, Multiple Myeloma|carcinoma, multiple myeloma
+85156292|NCT03915184|CT053|ct053
+85156293|NCT03915184|zevor-cel|zevor-cel
+85158868|NCT03818165|pancreatic carcinoma|pancreatic carcinoma
+85158869|NCT03818165|Cacinomaembryonic antigen postive (CEA +)|cacinomaembryonic antigen postive (cea +)
+85158870|NCT03818165|liver metastases|liver metastases
+85158871|NCT03818165|pancreatic cancer|pancreatic cancer
+85158872|NCT03818165|CEA|cea
+85158873|NCT03818165|metastatic pancreatic carcinoma|metastatic pancreatic carcinoma
+85158874|NCT03818165|metastatic pancreatic cancer|metastatic pancreatic cancer
+85158875|NCT03818165|phase 1|phase 1
+85162982|NCT02744287|prostate stem cell antigen|prostate stem cell antigen
+85162983|NCT02744287|BPX-601|bpx-601
+85162984|NCT02744287|AP1903|ap1903
+85162985|NCT02744287|CAR-T|car-t
+85162986|NCT02744287|PSCA-CAR|psca-car
+85162987|NCT02744287|castration-resistant prostate cancer|castration-resistant prostate cancer
+85162989|NCT02744287|prostate cancer|prostate cancer
+85162990|NCT02744287|PSCA|psca
+85162991|NCT02744287|CRPC|crpc
+85162992|NCT02744287|mCRPC|mcrpc
+85165132|NCT05634785|cellular therapy|cellular therapy
+85165133|NCT05634785|modified T cells|modified t cells
+85165134|NCT05634785|ATLCAR.CD30|atlcar.cd30
+85165136|NCT05634785|repository|repository
+85165137|NCT05634785|specimen|specimen
+85165326|NCT05366179|Brain Tumor|brain tumor
+85165327|NCT05366179|Glioblastoma Multiforme|glioblastoma multiforme
+85165328|NCT05366179|Cell therapy|cell therapy
+85165329|NCT05366179|Relapse|relapse
+85165330|NCT05366179|Recurrent|recurrent
+85165634|NCT04995003|Sarcoma|sarcoma
+85165635|NCT04995003|Her-2 Positive Sarcoma|her-2 positive sarcoma
+85165636|NCT04995003|autologous T cells|autologous t cells
+85165637|NCT04995003|HER2 positive recurrent or progressive sarcoma|her2 positive recurrent or progressive sarcoma
+85165638|NCT04995003|HER2 CAR T cells|her2 car t cells
+85165639|NCT04995003|Osteosarcoma|osteosarcoma
+85165640|NCT04995003|Rhabdomyosarcoma|rhabdomyosarcoma
+85165641|NCT04995003|Ewing sarcoma|ewing sarcoma
+85165642|NCT04995003|Synovial sarcoma|synovial sarcoma
+85165643|NCT04995003|Soft tissue sarcoma|soft tissue sarcoma
+85165644|NCT04995003|Undifferentiated sarcoma|undifferentiated sarcoma
+85166145|NCT03721068|Autologous Chimeric Antigen Receptor (CAR) T Cells|autologous chimeric antigen receptor (car) t cells
+85166146|NCT03721068|Interleukin (IL)-15|interleukin (il)-15
+85166147|NCT03721068|Disialoganglioside (GD2)|disialoganglioside (gd2)
+85166148|NCT03721068|Caspase 9|caspase 9
+85166149|NCT03721068|Pediatric|pediatric
+85166150|NCT03721068|Rimiducid|rimiducid
+85166151|NCT03721068|AP1903|ap1903
+85166152|NCT03721068|modified T cells|modified t cells
+85166153|NCT03721068|CAR T|car t
+85166171|NCT03672318|CAR T cells|car t cells
+85166172|NCT03672318|CD138|cd138
+85166173|NCT03672318|Multiple Myeloma|multiple myeloma
+85166273|NCT03016377|CAR T cells|car t cells
+85166274|NCT03016377|CD19|cd19
+85166275|NCT03016377|Leukemia|leukemia
+85166276|NCT03016377|T Lymphocytes|t lymphocytes
+85166277|NCT03016377|AP1903|ap1903
+85166278|NCT03016377|Cytokine Release Syndrome|cytokine release syndrome
+85166279|NCT03016377|Rimiducid|rimiducid
+85166280|NCT03016377|ICANS|icans
+85166281|NCT03016377|Immune effector cell mediated neurotoxicity syndrome|immune effector cell mediated neurotoxicity syndrome
+85167133|NCT03050190|CART therapy|cart therapy
+85167134|NCT03050190|4SCAR19|4scar19
+85167135|NCT03050190|CD19|cd19
+85167136|NCT03050190|B cell leukemia|b cell leukemia
+85167137|NCT03050190|B-ALL|b-all
+85167884|NCT04121273|chimeric antigen receptor T cell (CAR- T)|chimeric antigen receptor t cell (car- t)
+85167885|NCT04121273|glypican-3 (GPC3)|glypican-3 (gpc3)
+85167886|NCT04121273|hepatocellular carcinoma (HCC)|hepatocellular carcinoma (hcc)
+85168088|NCT04884984|CLL1|cll1
+85168089|NCT04884984|CART|cart
+85168548|NCT04863066|CAR T cells|car t cells
+85168549|NCT04863066|HIV-1 infection|hiv-1 infection
+85168550|NCT04863066|safety|safety
+85168551|NCT04863066|HIV latent reservoir|hiv latent reservoir
+85173143|NCT05613348|CAR T-cell|car t-cell
+85173144|NCT05613348|CAR19T2 T cell|car19t2 t cell
+85173145|NCT05613348|refractory/relapsed B-cell acute lymphoblastic leukemia|refractory/relapsed b-cell acute lymphoblastic leukemia
+85173146|NCT05613348|refractory/relapsed Lymphoma|refractory/relapsed lymphoma
+85234347|NCT03287817|Diffuse Large B Cell Lymphoma|diffuse large b cell lymphoma
+85234348|NCT03287817|Relapsed Diffuse Large B Cell Lymphoma|relapsed diffuse large b cell lymphoma
+85175925|NCT05577000|CAR-T Therapies|car-t therapies
+85176347|NCT04767308|Chimeric antigen receptor|chimeric antigen receptor
+85176348|NCT04767308|CD5 / Lymphocyte antigen T1/Leu-1|cd5 / lymphocyte antigen t1/leu-1
+85176349|NCT04767308|CD5+ hematopoietic malignancies|cd5+ hematopoietic malignancies
+85180053|NCT05287165|Digestive System Neoplasms|digestive system neoplasms
+85180054|NCT05287165|Pancreatic Cancer Resectable|pancreatic cancer resectable
+85180055|NCT05287165|Colorectal (Colon or Rectal) Cancer|colorectal (colon or rectal) cancer
+85181791|NCT04318327|Multiple myeloma|multiple myeloma
+85181792|NCT04318327|B-cell maturation antigen|b-cell maturation antigen
+85181793|NCT04318327|BCMA|bcma
+85181794|NCT04318327|anti-BCMA|anti-bcma
+85181795|NCT04318327|BCMA-directed|bcma-directed
+85181796|NCT04318327|chimeric antigen receptor|chimeric antigen receptor
+85181797|NCT04318327|CAR-T|car-t
+85181798|NCT04318327|PHE885|phe885
+85182178|NCT00085930|Neuroblastoma|neuroblastoma
+85182554|NCT04766840|CAR-T|car-t
+85182555|NCT04766840|Immunotherapy|immunotherapy
+85234349|NCT03287817|Refractory Diffuse Large B Cell Lymphoma|refractory diffuse large b cell lymphoma
+85234351|NCT03287817|PD-1|pd-1
+85234352|NCT03287817|Anti PD-1 antibody|anti pd-1 antibody
+85186928|NCT03086954|CD19 positive lymphoma|cd19 positive lymphoma
+85250463|NCT04740203|CD19 CAR-T|cd19 car-t
+85250466|NCT04740203|B-ALL|b-all
+85193861|NCT05370430|Relapsed or Refractory|relapsed or refractory
+85193862|NCT05370430|Mantle Cell Lymphoma|mantle cell lymphoma
+85193863|NCT05370430|BAFFR-CAR T cells|baffr-car t cells
+85193864|NCT05370430|B-cell Non-Hodgkin's Lymphoma|b-cell non-hodgkin's lymphoma
+85193865|NCT05370430|B-NHL|b-nhl
+85193866|NCT05370430|BAFFR|baffr
+85250630|NCT00586391|Cancer|cancer
+85194223|NCT04381741|diffuse large B-cell lymphoma|diffuse large b-cell lymphoma
+85194224|NCT04381741|Chimeric antigen receptor T cell|chimeric antigen receptor t cell
+85194225|NCT04381741|PD1 monoclonal antibody|pd1 monoclonal antibody
+85251933|NCT05326243|DLBCL|dlbcl
+85198644|NCT02980315|nasopharyngeal carcinoma|nasopharyngeal carcinoma
+85198645|NCT02980315|EBV related cancers|ebv related cancers
+85199327|NCT03030001|solid tumor|solid tumor
+85199618|NCT05583201|NKG2D|nkg2d
+85199619|NCT05583201|CLDN18.2|cldn18.2
+85204379|NCT05509530|Multiple Myeloma|multiple myeloma
+85209890|NCT04394650|Multiple Myeloma|multiple myeloma
+85209891|NCT04394650|Myeloma|myeloma
+85209892|NCT04394650|Myeloma Multiple|myeloma multiple
+85209893|NCT04394650|CC-98633|cc-98633
+85209894|NCT04394650|BCMA|bcma
+85209895|NCT04394650|CAR-T|car-t
+85209897|NCT04394650|BCMA CART|bcma cart
+85209898|NCT04394650|BCMA CAR-T|bcma car-t
+85209940|NCT03081910|Autologous CAR T cells|autologous car t cells
+85209941|NCT03081910|T-cell acute lymphoblastic lymphoma|t-cell acute lymphoblastic lymphoma
+85209942|NCT03081910|T-non-Hodgkin Lymphoma|t-non-hodgkin lymphoma
+85209943|NCT03081910|T-cell Acute Lymphoblastic Leukemia|t-cell acute lymphoblastic leukemia
+85209944|NCT03081910|Allogeneic CAR T cells|allogeneic car t cells
+85264007|NCT03994705|CAR-T|car-t
+85212600|NCT04605666|acute lymphoblastic leukemia|acute lymphoblastic leukemia
+85212601|NCT04605666|minimal residual disease|minimal residual disease
+85219553|NCT05013372|CAR T cells|car t cells
+85219554|NCT05013372|T-cell Non-Hodgkin's lymphoma|t-cell non-hodgkin's lymphoma
+85219555|NCT05013372|CD147|cd147
+85219569|NCT04214886|Leukemia|leukemia
+85219570|NCT04214886|Lymphoma|lymphoma
+85219571|NCT04214886|CAR T|car t
+85219572|NCT04214886|Chimeric|chimeric
+85219573|NCT04214886|CD19|cd19
+85231996|NCT03602612|B-cell Maturation Antigen|b-cell maturation antigen
+85231997|NCT03602612|Immunotherapy|immunotherapy
+85231998|NCT03602612|Chimeric Antigen Receptors|chimeric antigen receptors
+85231999|NCT03602612|Adoptive T Cell Therapy|adoptive t cell therapy
+85239072|NCT04499573|B-ALL|b-all
+85239073|NCT04499573|acute lymphoblastic leukemia|acute lymphoblastic leukemia
+85239074|NCT04499573|CAR-T|car-t
+85245664|NCT02976857|refractory diffuse large B-cell lymphoma|refractory diffuse large b-cell lymphoma
+85245665|NCT02976857|anti-CD19 chimeric antigen receptor T-cell|anti-cd19 chimeric antigen receptor t-cell
+85246261|NCT02975687|Acute|acute
+85246262|NCT02975687|Leukemia|leukemia
+85246263|NCT02975687|Lymphoid|lymphoid
+85246264|NCT02975687|CD19|cd19
+85246265|NCT02975687|Refractory|refractory
+85247577|NCT03430011|JCARH125|jcarh125
+85247578|NCT03430011|chimeric antigen receptor|chimeric antigen receptor
+85247579|NCT03430011|multiple myeloma|multiple myeloma
+85247580|NCT03430011|CAR T cells|car t cells
+85247581|NCT03430011|B-cell maturation antigen|b-cell maturation antigen
+85247582|NCT03430011|BCMA|bcma
+85247583|NCT03430011|autologous T-cell therapy|autologous t-cell therapy
+85247584|NCT03430011|immunotherapy|immunotherapy
+85224965|NCT05431608|Multiple Myeloma|multiple myeloma
+85224966|NCT05431608|Refractory Multiple Myeloma|refractory multiple myeloma
+85224967|NCT05431608|Relapse Multiple Myeloma|relapse multiple myeloma
+85224968|NCT05431608|MCARH109|mcarh109
+85224969|NCT05431608|MCARH125|mcarh125
+85224970|NCT05431608|GPRC5D targeted CAR T cell|gprc5d targeted car t cell
+85224971|NCT05431608|CAR T cells|car t cells
+85224972|NCT05431608|Memorial Sloan Kettering Cancer Center|memorial sloan kettering cancer center
+85224973|NCT05431608|22-052|22-052
+85224992|NCT05397496|Phase I|phase i
+85224993|NCT05397496|Trispecific antibody|trispecific antibody
+85224994|NCT05397496|Non-Hodgkin lymphoma|non-hodgkin lymphoma
+85224995|NCT05397496|Acute Lymphoblastic Leukemia|acute lymphoblastic leukemia
+85224996|NCT05397496|PIT565|pit565
+85250464|NCT04740203|CD22 CAR-T|cd22 car-t
+85250465|NCT04740203|Ph Chromosome Negative|ph chromosome negative
+85250467|NCT04740203|Newly diagnosed|newly diagnosed
+85250629|NCT00586391|B cell Lymphoma|b cell lymphoma
+85250631|NCT00586391|Chronic Lymphocytic Leukemia|chronic lymphocytic leukemia
+85250632|NCT00586391|CD19 CHIMERIC RECEPTOR EXPRESSING T LYMPHOCYTES|cd19 chimeric receptor expressing t lymphocytes
+85250633|NCT00586391|Acute Lymphocytic Leukemia|acute lymphocytic leukemia
+85250947|NCT05445011|FLT3 positive Acute Myeloid Leukemia|flt3 positive acute myeloid leukemia
+85251934|NCT05326243|PMLBCL|pmlbcl
+85251935|NCT05326243|FL|fl
+85253132|NCT03019055|CAR-T|car-t
+85253133|NCT03019055|Chimeric antigen receptor T-cell therapy|chimeric antigen receptor t-cell therapy
+85253134|NCT03019055|CAR Therapy|car therapy
+85256278|NCT05620342|cellular therapy|cellular therapy
+85257021|NCT05257083|Cellular Therapy|cellular therapy
+85257022|NCT05257083|CAR-T Therapy|car-t therapy
+85257023|NCT05257083|BCMA CAR-T|bcma car-t
+85257024|NCT05257083|Newly Diagnosed Multiple Myeloma|newly diagnosed multiple myeloma
+85257471|NCT05032820|Multiple Myeloma|multiple myeloma
+85257472|NCT05032820|CAR T-cells|car t-cells
+85257473|NCT05032820|Anti-Myeloma Agents|anti-myeloma agents
+85257474|NCT05032820|lenalidomide|lenalidomide
+85257475|NCT05032820|Maintenance Therapy|maintenance therapy
+85257476|NCT05032820|Hematologic Disorders|hematologic disorders
+85257477|NCT05032820|Infusion|infusion
+85257504|NCT05000450|CAR T|car t
+85257505|NCT05000450|Cell Therapy|cell therapy
+85257506|NCT05000450|Allogeneic Cell Therapy|allogeneic cell therapy
+85257507|NCT05000450|Cellular Immuno-therapy|cellular immuno-therapy
+85257508|NCT05000450|AlloCAR T|allocar t
+85257509|NCT05000450|ALLO-605|allo-605
+85257510|NCT05000450|ALLO-647|allo-647
+85257511|NCT05000450|Multiple Myeloma|multiple myeloma
+85257670|NCT04855136|ide-cel|ide-cel
+85257671|NCT04855136|CC-220|cc-220
+85257672|NCT04855136|JSMD194|jsmd194
+85257673|NCT04855136|BMS-986405|bms-986405
+85257675|NCT04855136|PVd|pvd
+85257676|NCT04855136|CAR T|car t
+85257677|NCT04855136|KarMMa-7|karmma-7
+85257678|NCT04855136|Phase I|phase i
+85257679|NCT04855136|Phase II|phase ii
+85257680|NCT04855136|DARA|dara
+85257681|NCT04855136|POM|pom
+85257682|NCT04855136|BTZ|btz
+85257737|NCT04792489|Chimeric antigen receptor|chimeric antigen receptor
+85257738|NCT04792489|CAR T|car t
+85257739|NCT04792489|CD19|cd19
+85257740|NCT04792489|CD20|cd20
+85260384|NCT05577091|Recurrent Glioblastoma|recurrent glioblastoma
+85260385|NCT05577091|Immunotherapy|immunotherapy
+85260386|NCT05577091|Adverse Events|adverse events
+85262214|NCT05312411|bone cancer|bone cancer
+85262215|NCT05312411|pediatric sarcoma|pediatric sarcoma
+85262216|NCT05312411|young adult sarcoma|young adult sarcoma
+85262811|NCT04450069|CAR-T Cell Therapy|car-t cell therapy
+85262812|NCT04450069|Switchable CAR-T Cell|switchable car-t cell
+85262813|NCT04450069|Autologous Cell Therapy|autologous cell therapy
+85262814|NCT04450069|CD19 Positive Disease|cd19 positive disease
+85262815|NCT04450069|CD19 CAR-T Cell|cd19 car-t cell
+85262816|NCT04450069|Blood Cancer|blood cancer
+85262817|NCT04450069|Hematological malignancy|hematological malignancy
+85262818|NCT04450069|Neoplasms|neoplasms
+85263241|NCT03684889|CAR T cell, CD19, pediatric, young adults|car t cell, cd19, pediatric, young adults
+85263372|NCT03330691|CD19|cd19
+85263373|NCT03330691|CD22|cd22
+85263374|NCT03330691|CAR T-cell|car t-cell
+85263391|NCT03244306|leukemia|leukemia
+85263392|NCT03244306|CD 22|cd 22
+85263393|NCT03244306|CAR T cell|car t cell
+85263394|NCT03244306|pediatric|pediatric
+85263395|NCT03244306|young adult|young adult
+85263396|NCT03244306|chimeric antigen receptor|chimeric antigen receptor
+85263409|NCT03186118|pediatric|pediatric
+85263410|NCT03186118|young adult|young adult
+85263411|NCT03186118|acute lymphoblastic leukemia|acute lymphoblastic leukemia
+85263412|NCT03186118|CD 19|cd 19
+85263413|NCT03186118|leukemia|leukemia
+85263414|NCT03186118|chimeric antigen receptor|chimeric antigen receptor
+85263415|NCT03186118|T cell|t cell
+85263655|NCT02028455|pediatric|pediatric
+85263656|NCT02028455|young adult|young adult
+85263657|NCT02028455|acute lymphoblastic leukemia|acute lymphoblastic leukemia
+85263658|NCT02028455|CD19|cd19
+85263659|NCT02028455|leukemia|leukemia
+85263660|NCT02028455|Chimeric Antigen Receptor|chimeric antigen receptor
+85263661|NCT02028455|T cell|t cell
+85263711|NCT01683279|pediatric|pediatric
+85263712|NCT01683279|acute lymphoblastic leukemia|acute lymphoblastic leukemia
+85263714|NCT01683279|Chimeric Antigen Receptor|chimeric antigen receptor
+85264008|NCT03994705|CART|cart
+85264009|NCT03994705|CAR T Cell|car t cell
+85264010|NCT03994705|CAR T-Cell|car t-cell
+85264011|NCT03994705|Multiple Myeloma|multiple myeloma
+85264012|NCT03994705|BCMA|bcma
+85264015|NCT03994705|Descartes-11|descartes-11
+85228234|NCT02663297|CAR T cells|car t cells
+85228235|NCT02663297|CD30|cd30
+85228236|NCT02663297|Lymphoma|lymphoma
+85228237|NCT02663297|T Lymphocytes|t lymphocytes
+85271364|NCT05436223|B-cell non-Hodgkin's Lymphoma|b-cell non-hodgkin's lymphoma
+85271365|NCT05436223|CD19|cd19
+85271366|NCT05436223|CAR-T|car-t
+85271367|NCT05436223|Relapsed/Refractory|relapsed/refractory
+85272232|NCT04186520|CAR-T|car-t
+85272233|NCT04186520|Chimeric antigen receptor T-cell therapy|chimeric antigen receptor t-cell therapy
+85272234|NCT04186520|CAR Therapy|car therapy
+85272235|NCT04186520|B-cell Malignancies|b-cell malignancies
+85280753|NCT05531708|Anti-mesothelin CAR-T|anti-mesothelin car-t
+85280754|NCT05531708|Solid tumor|solid tumor
+85280803|NCT05513612|BCMA CAR-T|bcma car-t
+85280804|NCT05513612|CD7 CAR-T|cd7 car-t
+85280805|NCT05513612|Hematopoietic and Lymphoid Malignancies|hematopoietic and lymphoid malignancies
+85233977|NCT02050347|chimeric antigen receptor|chimeric antigen receptor
+85233978|NCT02050347|hematopoietic stem cell transplant|hematopoietic stem cell transplant
+85293225|NCT05190653|palliative care|palliative care
+85293226|NCT05190653|supportive care|supportive care
+85293227|NCT05190653|quality of life|quality of life
+85293228|NCT05190653|symptom burden|symptom burden
+85293229|NCT05190653|hematologic malignancies|hematologic malignancies
+85233976|NCT02050347|CD19.CAR-CD28zeta|cd19.car-cd28zeta
+85240213|NCT04351022|CD38, CART, AML|cd38, cart, aml
+85243120|NCT05362331|Web Application|web application
+85243121|NCT05362331|CAR-T Therapy|car-t therapy
+85257668|NCT04855136|Relapsed/Refractory Multiple Myeloma|relapsed/refractory multiple myeloma
+85257669|NCT04855136|BB2121|bb2121
+85259188|NCT02690545|CAR T cells|car t cells
+85259189|NCT02690545|CD30|cd30
+85259190|NCT02690545|Lymphoma|lymphoma
+85259191|NCT02690545|T Lymphocytes|t lymphocytes
+85263713|NCT01683279|CD19|cd19
+85264013|NCT03994705|B cell maturation antigen|b cell maturation antigen
+85264014|NCT03994705|B-cell maturation antigen|b-cell maturation antigen
+85264293|NCT05651100|CAR-T|car-t
+85264294|NCT05651100|Lymphoma|lymphoma
+85266285|NCT05616468|CAR-T|car-t
+85266286|NCT05616468|nasopharyngeal carcinoma|nasopharyngeal carcinoma
+85266287|NCT05616468|recurrent/metastatic nasopharyngeal carcinoma|recurrent/metastatic nasopharyngeal carcinoma
+85280801|NCT05513612|CD123 CAR-T|cd123 car-t
+85280802|NCT05513612|CD19 CAR-T|cd19 car-t
+85296462|NCT04608487|relapsed/refractory central nervous system (CNS) lymphoma|relapsed/refractory central nervous system (cns) lymphoma
+85296463|NCT04608487|systemic lymphoma with concurrent CNS lymphoma|systemic lymphoma with concurrent cns lymphoma
+85296464|NCT04608487|systemic lymphoma with a history of treated CNS lymphoma|systemic lymphoma with a history of treated cns lymphoma
+85234698|NCT05445765|CD33|cd33
+85234699|NCT05445765|anti-CD33 CAR|anti-cd33 car
+85234700|NCT05445765|leukemia|leukemia
+85234701|NCT05445765|acute myeloid leukemia|acute myeloid leukemia
+85234702|NCT05445765|hematologic malignancies|hematologic malignancies
+85298232|NCT04562298|Epithelial Ovarian Cancer|epithelial ovarian cancer
+85298727|NCT01593696|CD 19 Expressing B Cells|cd 19 expressing b cells
+85298728|NCT01593696|B Cell Lymphoma|b cell lymphoma
+85298730|NCT01593696|Anti-CD19 Chimeric Antigen Receptor|anti-cd19 chimeric antigen receptor
+85298731|NCT01593696|Adoptive Immunotherapy|adoptive immunotherapy
+85300685|NCT04406610|CAR-T cell immunotherapy|car-t cell immunotherapy
+85300686|NCT04406610|GD2|gd2
+85300687|NCT04406610|glioma|glioma
+85302180|NCT03774654|Gene Therapy|gene therapy
+85302181|NCT03774654|CAR T-cells|car t-cells
+85302182|NCT03774654|chimeric antigen receptor|chimeric antigen receptor
+85302183|NCT03774654|B-Cell Malignancies|b-cell malignancies
+85302184|NCT03774654|CD19|cd19
+85309580|NCT04735471|B-cell lymphoma|b-cell lymphoma
+85309581|NCT04735471|CAR-T|car-t
+85309582|NCT04735471|Cell Therapy|cell therapy
+85309583|NCT04735471|Allogeneic Cell Therapy|allogeneic cell therapy
+85309584|NCT04735471|T cells, gamma delta|t cells, gamma delta
+85309585|NCT04735471|Immunotherapy, Adoptive|immunotherapy, adoptive
+85309586|NCT04735471|Antigens, CD20|antigens, cd20
+85314739|NCT04650451|HER2|her2
+85314740|NCT04650451|CAR-T|car-t
+85314741|NCT04650451|breast cancer|breast cancer
+85314742|NCT04650451|solid tumors|solid tumors
+85314743|NCT04650451|gastric cancer|gastric cancer
+85314769|NCT04526834|CD30, r/r NHL, DLBCL, ALCL, ENKTCL, PMBCL, PTCL, adult|cd30, r/r nhl, dlbcl, alcl, enktcl, pmbcl, ptcl, adult
+85314851|NCT04257578|Non-Hodgkin Lymphoma|non-hodgkin lymphoma
+85317473|NCT05315778|CAR-T|car-t
+85317474|NCT05315778|BCMA|bcma
+85320220|NCT04071366|Cytokine release syndrome|cytokine release syndrome
+85320221|NCT04071366|immune effector cell-associated neurotoxicity syndrome|immune effector cell-associated neurotoxicity syndrome
+85320222|NCT04071366|Janus kinase inhibitor|janus kinase inhibitor
+85320223|NCT04071366|immune effector cell therapy|immune effector cell therapy
+85320451|NCT03435796|Long-term follow up|long-term follow up
+85320452|NCT03435796|Gene-Modified T Cells|gene-modified t cells
+85320453|NCT03435796|CAR T Cell|car t cell
+85320877|NCT01087294|CD19|cd19
+85320878|NCT01087294|Chimeric-Antigen-Receptor|chimeric-antigen-receptor
+85320879|NCT01087294|Gene Therapy|gene therapy
+85320880|NCT01087294|Adoptive T Cell Therapy|adoptive t cell therapy
+85320881|NCT01087294|Allogeneic Stem Cell Transplantation|allogeneic stem cell transplantation
+85089223|NCT04410900|CAR T cells|car t cells
+85089224|NCT04410900|infection|infection
+85089225|NCT04410900|vaccine|vaccine
+85089226|NCT04410900|immunity|immunity
+85089350|NCT04025216|Chimeric Antigen Receptor (CAR)|chimeric antigen receptor (car)
+85089351|NCT04025216|T-cells|t-cells
+85089352|NCT04025216|TnMUC1|tnmuc1
+85091662|NCT04318678|CD123+|cd123+
+85091869|NCT03829540|CD4; T-cell; lymphoma; leukemia; chimeric antigen; CAR-T|cd4; t-cell; lymphoma; leukemia; chimeric antigen; car-t

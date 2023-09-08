@@ -1,0 +1,37 @@
+id|nct_id|organization|name|phone|email|extension
+4159800|NCT01865617|Fred Hutchinson Cancer Research Center|Dr. Jordan Gauthier|206-667-2713|jgauthier@fredhutch.org|
+4136102|NCT01218867|National Cancer Institute|Dr. Steven Rosenberg|301- 496-4164|sar@mail.nih.gov|
+4160283|NCT01318317|City of Hope|Dr. Lwaliw Popplewell|626-359-8111|lpopplewell@coh.org|
+4124609|NCT03019055|Froedtert Hospital and the Medical College of Wisconsin|Dr. Nirav Shah, MD|414-805-8900|cccto@mcw.edu|
+4125229|NCT02028455|Seattle Children's|Dr Rebecca Gardner|206-987-2000|icc-plat@seattlechildrens.org|
+4160689|NCT02659943|National Cancer Institute|Dr. James N. Kochenderfer|240-760-6062|kochendj@nih.gov|
+4125944|NCT02650999|University of Pennsylvania, Clinical Research Unit|Ellen Napier, Nurse Pracitioner|215.279.1972|ellen.napier@pennmedicine.upenn.edu|
+4160981|NCT03288493|Poseida Therapeutics|Rajesh Belani, MD, Vice President Clinical Development|858-779-3100|rbelani@poseida.com|
+4160988|NCT02935543|Univ. of Pennsylvania|Regulatory Lead|215-662-4484|psom-ind-ide@pobox.upenn.edu|
+4161004|NCT02030847|Abramson Cancer Center of the University of Pennsylvania|Noelle Frey, MD|215-662-6901|noelle.frey@uphs.upenn.edu|
+4163245|NCT02348216|Kite, A Gilead Company|Medical Information|844-454-5483 (1-844-454-KITE)|medinfo@kitepharma.com|
+4164611|NCT01454596|National Cancer Institute|Dr. Steven A. Rosenberg|240-858-3080|sar@nci.nih.gov|
+4164645|NCT02215967|National Cancer Institute|Dr. James N. Kochenderfer|240-760-6062|kochendj@mail.nih.gov|
+4151526|NCT03338972|Fred Hutchinson Cancer Center|Dr. Damian Green|2066675398|dgreen@fredhutch.org|
+4151641|NCT03287804|Autolus Ltd|Clinical Project Manager|+44 1483 920748|clinicaltrials@autolus.com|
+4128545|NCT01593696|National Cancer Institute|Dr. Nirali N. Shah|240-760-6199|shahnn@nih.gov|
+4152483|NCT00924326|National Cancer Institute|Steven Rosenberg, M.D., Ph.D.|240-858.3080|sar@nih.gov|
+4138814|NCT03624036|Gilead Sciences|Gilead Clinical Study Information Center|1-833-445-3230 (GILEAD-0)|GileadClinicalTrials@gilead.com|
+4153085|NCT03289455|Autolus Ltd|Clinical Project Manager|+44 1483 920748|clinicaltrials@autolus.com|
+4139961|NCT03483103|Bristol-Myers Squibb|Bristol-Myers Squibb Study Director|855-907-3286|Clinical.Trials@bms.com|
+4107157|NCT01460901|Children's Mercy Hospitals and Clinics|Dr. Gary Douglas Myers|8163026817|gdmyers@cmh.edu|7-6817
+4141974|NCT04160195|National Cancer Institute|Dr. James N. Kochenderfer|240-760-6062|kochendj@mail.nih.gov|
+4154658|NCT04097301|AGC Biologics|Anna Stornaiuolo|0221277440|astornaiuolo@agcbio.com|
+4108910|NCT03049449|National Cancer Institute|Dr. James N. Kochenderfer|240-760-6062|kochendj@mail.nih.gov|
+4155210|NCT03318861|Kite, A Gilead Company|Medical Information|844-454-5483(1-844-454-KITE)|medinfo@kitepharma.com|
+4131951|NCT03330834|Sun Yat-sen University Cancer Center|Dr.Yuxiang Ma|86 020 87343894|mayx@sysucc.org.cn|
+4109617|NCT01583686|National Cancer Institute|Dr. Steven A. Rosenberg|240-858-3080|sar@nci.nih.gov|
+4121241|NCT03602612|National Cancer Institute|Dr. James Kochenderfer|240-760-6062|kochendj@mail.nih.gov|
+4132594|NCT03761056|Kite, A Gilead Company|Medical Information|844-454-5483 (1-844-454-KITE)|medinfo@kitepharma.com|
+4145110|NCT02664363|Duke University Medical Center|Principal Investigator|9196845301|dukebrain1@duke.edu|
+4145179|NCT03958656|National Cancer Institute|Dr. James N. Kochendefer|240-760-6062|kochendj@mail.nih.gov|
+4157200|NCT02601313|Kite, A Gilead Company|Medical Information|844-454-5483(1-844-454-KITE)|medinfo@kitepharma.com|
+4157455|NCT02706392|Fred Hutchinson Cancer Center|Dr. David Maloney|2066675616|dmaloney@fredhutch.org|
+4157485|NCT02535364|Juno Therapeutics|Dr. Nikolaus Trede|206-566-5886|Nick.Trede@junotherapeutics.com|
+4158796|NCT02706405|Fred Hutchinson Cancer Center|Dr. Jordan Gauthier|2066672713|jgauthier@fredhutch.org|
+4158801|NCT02761915|Cancer Research UK Centre for Drug Development|Regulatory Affairs Manager|+44 203 4696878|regulatory@cancer.org.uk|

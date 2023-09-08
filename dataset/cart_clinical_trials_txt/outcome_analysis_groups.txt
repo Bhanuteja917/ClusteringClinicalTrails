@@ -1,0 +1,2 @@
+id|nct_id|outcome_analysis_id|result_group_id|ctgov_group_code
+34487691|NCT03483103|17781674|59336764|OG000

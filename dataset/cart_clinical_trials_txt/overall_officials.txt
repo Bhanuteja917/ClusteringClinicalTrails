@@ -1,0 +1,936 @@
+id|nct_id|role|name|affiliation
+31515326|NCT03912480|Principal Investigator|Qin Huang, Doctor|Changhai houspital
+31515377|NCT03910842|Principal Investigator|Xiangling He|Hunan Provincial People's Hospital
+31515405|NCT05571540|Principal Investigator|Li Li, MD|Kunming Hope of Health Hospital
+31218718|NCT02935257|Study Chair|Karl Peggs|University College London Hospitals
+31247583|NCT05370430|Principal Investigator|Elizabeth Budde, MD|City of Hope Medical Center
+31605670|NCT05626322|Study Director|Pfizer CT.gov Call Center|Pfizer
+31338887|NCT03682744|Principal Investigator|Steven C Katz, MD|Roger Williams Medical Center
+31605708|NCT05396885|Study Chair|Tim Welliver, MD, PhD|Arcellx, Inc.
+31339093|NCT05638828|Principal Investigator|Lin Shen, Prof. Dr.|Peking University Cancer Hospital & Institute
+31339395|NCT05618041|Study Director|Jia Wei, MD|Shanxi Bethune Hospital
+31247750|NCT04381741|Principal Investigator|Wenbin Qian, MD, PhD|2nd Affiliated Hospital, School of Medicine, Zhejiang University, China
+31340307|NCT05641428|Principal Investigator|T. (Tom) van Meerten|UMCG / HOVON
+31606006|NCT02107963|Principal Investigator|Rosandra N Kaplan, M.D.|National Cancer Institute (NCI)
+31341122|NCT02958397|Principal Investigator|Cheng Qian, MD, PhD|Biotherapy Center of Southwest Hospital
+31515921|NCT04155749|Study Director|Arcellx, Inc.|Arcellx, Inc.
+31427337|NCT02876978|Principal Investigator|Jiang Liyan, MD|Shanghai Chest Hospital,Shanghai Jiaotong University
+31342989|NCT05432401|Principal Investigator|Heng Mei, MD|Union Hospital, affiliated with TongJi Medical College, HuaZhong University of Science and Technology
+31343385|NCT05576181|Principal Investigator|Yongping Song, Ph.D|The First Affiliated Hospital of Zhengzhou University
+31428758|NCT02873390|Study Director|Jiangtao Wang|Ningbo No.5 Hospital (Ningbo Cancer Hospital)
+31428759|NCT02873390|Study Chair|Huajun Jin|Shanghai Cell Therapy Research Institute
+31428760|NCT02873390|Study Chair|Qijun Qian|Shanghai Cell Therapy Research Institute
+31344023|NCT03960060|Principal Investigator|Yuhong Zhou|Shanghai Zhongshan Hospital
+31345189|NCT01818323|Principal Investigator|John Maher, MD PhD|King's College London
+31429377|NCT02729493|Principal Investigator|Xianping Cheng, PI|associate chief physician
+31607263|NCT02203825|Principal Investigator|Sarah Nikiforow, MD; PhD|Dana-Farber Cancer Institute
+31429526|NCT02725125|Principal Investigator|Yifu He, PI|Associate chief physician
+31429808|NCT02710149|Study Chair|Cheng Qian, MD, PhD|Biotherapy Center of Southwest Hospital
+31346717|NCT05020444|Principal Investigator|Matthew J Frigault, MD|Massachusetts General Hospital
+31346831|NCT04214392|Principal Investigator|Behnam Badie|City of Hope Medical Center
+31429981|NCT03500991|Study Chair|Nicholas Vitanza, MD|Seattle Children's Hospital
+31430608|NCT02917083|Principal Investigator|Carlos A Ramos, MD|Baylor College of Medicine
+31348365|NCT02958384|Principal Investigator|Cheng Qian, MD, PhD|Biotherapy Center of Southwest Hospital
+31430757|NCT04303247|Principal Investigator|Xi Zhang, MD phD|Xinqiao Hospital of Chongqing
+31431327|NCT04295018|Principal Investigator|Daobin Zhou|Peking Union Medical College Hospital
+31431328|NCT04295096|Principal Investigator|Jun Zhu, M.D.|Zhaxin Hospital of Integrated Traditional Chinese and Western Medicine, Shanghai
+31431418|NCT02575261|Study Chair|Lizhi Niu, PhD|Fuda Cancer Hospital
+31431831|NCT03483103|Study Director|Bristol-Myers Squibb|Bristol-Myers Squibb
+31608687|NCT04473937|Principal Investigator|Chirayu G Patel, MD, MPH|Massachusetts General Hospital
+31432024|NCT04093648|Principal Investigator|Andras Heczey, MD|Baylor College of Medicine
+31351351|NCT02963038|Principal Investigator|Jianmin Luo, PhD & MD|The Second Hospital of Hebei Medical University
+31351762|NCT02968472|Study Chair|Huang Jianzhang, Doctor|Shenzhen immune gene therapy research institute
+31249822|NCT03030001|Study Chair|Qijun Qian, PhD|Shanghai Cell Therapy Engineering Research Institute
+31516909|NCT03690011|Principal Investigator|Rayne Rouce, MD|Pediatrics, Baylor College of Medicine
+31516910|NCT03690011|Principal Investigator|LaQuisa Hill, MD|Baylor College of Medicine
+31516911|NCT03690011|Principal Investigator|Maksim Mamonkin, PhD|Baylor College of Medicine
+31516953|NCT02431988|Study Chair|Karl Peggs|University College, London
+31433250|NCT05451212|Study Chair|Medical Director|Cabaletta Bio
+31433340|NCT05077527|Principal Investigator|Ariela Noy|AIDS Malignancy Consortium
+31433543|NCT03635632|Principal Investigator|Bilal Omer, MD|Baylor College of Medicine
+31250332|NCT05241392|Principal Investigator|Nan Ji, Dr.|Beijing Tiantan Hospital
+31517289|NCT05666700|Principal Investigator|Simon Harrison|Peter MacCallum Cancer Centre, Australia
+31517427|NCT03854994|Study Director|Peixian Zhang|Kunming Yan'an Hospital
+31354794|NCT02958410|Principal Investigator|Cheng Qian, MD, PhD|Biotherapy Center of Southwest Hospital
+31354957|NCT02965092|Principal Investigator|Yu Hu, M.D., Ph.D|Wuhan Union Hospital, China
+31435604|NCT03744676|Study Director|Bristol-Myers Squibb|Bristol-Myers Squibb
+31435691|NCT04162353|Principal Investigator|Hongyu Zhang, MD/PhD|Peking University Shenzhen Hospital, China
+31435692|NCT04162353|Principal Investigator|Fang Liu, MD/PhD|Chengdu Military General Hospital
+31435711|NCT04162119|Study Chair|Quanshun Wang|Hainan Hospital of Chinese PLA General Hospital
+31435712|NCT04162119|Study Director|Wenshuai Zheng|Hainan Hospital of Chinese PLA General Hospital
+31435713|NCT04162119|Study Director|Lixun Guan|Hainan Hospital of Chinese PLA General Hospital
+31435714|NCT04162119|Principal Investigator|Lu Wang|Hainan Hospital of Chinese PLA General Hospital
+31435715|NCT04162119|Principal Investigator|Yuanyuan Xu|Hainan Hospital of Chinese PLA General Hospital
+31435716|NCT04162119|Principal Investigator|Zhenyang Guan|Hainan Hospital of Chinese PLA General Hospital
+31435878|NCT04156269|Principal Investigator|Hongyu Zhang, MD, PhD|Peking University Shenzhen Hospital
+31435879|NCT04156269|Principal Investigator|Fang Liu, MD, PhD|Chengdu Military General Hospital
+31356249|NCT05518253|Principal Investigator|Weijia Fang, M.D|The First Affiliated Hospital, Zhejiang University
+31356282|NCT05468190|Principal Investigator|Quanli Gao, M.D|Henan Cancer Hospital
+31356296|NCT05442515|Principal Investigator|Nirali N Shah, M.D.|National Cancer Institute (NCI)
+31356312|NCT05420545|Principal Investigator|Jianfeng Bi, M.D|The Second People's Hospital of Shandong Province
+31356313|NCT05420519|Principal Investigator|Jianfeng Bi, M.D|The Second People's Hospital of Shandong Province
+31356328|NCT05400109|Principal Investigator|Changchun Deng, MD|University Hospitals Cleveland Medical Center, Case Comprehensive Cancer Center
+31356511|NCT05035407|Principal Investigator|Scott M Norberg, D.O.|National Cancer Institute (NCI)
+31356525|NCT05003895|Principal Investigator|Tim F Greten, M.D.|National Cancer Institute (NCI)
+31356740|NCT04420754|Study Director|Sonal Gupta, MD PhD|AffyImmune Therapeutics, Inc.
+31610330|NCT01953900|Principal Investigator|Lisa L Wang, MD|Baylor College of Medicine
+31610331|NCT01953900|Principal Investigator|Sarah Whittle, MD|Pediatrics, Baylor College of Medicine
+31610332|NCT01953900|Principal Investigator|Cliona Rooney, PhD|Baylor College of Medicine
+31356874|NCT04029038|Principal Investigator|Jin S Im|M.D. Anderson Cancer Center
+31436921|NCT03741127|Study Director|Rajesh Belani, M.D.|Sponsor Executive Medical Director
+31357181|NCT02315612|Principal Investigator|Nirali N Shah, M.D.|National Cancer Institute (NCI)
+31436930|NCT03601078|Study Director|Bristol-Myers Squibb|Bristol-Myers Squibb
+31437260|NCT05286164|Principal Investigator|Ron Ram, Prof.|Sourasky Medical Center
+31610553|NCT03927261|Study Director|Amy R. Lankford, PhD|Precigen, Inc
+31437817|NCT03614858|Principal Investigator|Xiaowen Tang, Ph.D.|The First Affiliated Hospital of Soochow University
+31437851|NCT05064787|Principal Investigator|Sherry Adkins, MSN|The University of Texas MD Anderson Cancer Center
+31358545|NCT01853631|Principal Investigator|Carlos A Ramos, MD|Baylor College of Medicine
+31610964|NCT04581473|Principal Investigator|Lin Shen, Professor|Peking University Cancer Hospital & Institute
+31610965|NCT04581473|Principal Investigator|Xianjun Yu, Professor|Fudan University
+31438808|NCT03617198|Principal Investigator|Pablo Tebas, MD|University of Pennsylvania
+31438826|NCT02844062|Principal Investigator|Zhixiong Lin, MD|Capital Medical University
+31518399|NCT05404048|Principal Investigator|Tom van Meerten, MD,PhD|UMCG
+31358940|NCT04316624|Principal Investigator|Dehui Zou|Institute of Hematology & Blood Diseases Hostipal
+31358984|NCT04036019|Principal Investigator|Aibin Liang, MD,Ph.D.|Shanghai Tongji Hospital, Tongji University School of Medicine
+31439727|NCT05627323|Study Director|Jason Litten, MD|Chimeric Therapeutics
+31439821|NCT05117008|Principal Investigator|Meera Mohan, MD, MS|Medical College of Wisconsin
+31439835|NCT04984356|Study Director|Jan Davidson, MD|Wugen, Inc.
+31440734|NCT05168748|Study Director|Novartis Pharmaceuticals|Novartis Pharmaceuticals
+31251740|NCT05509530|Principal Investigator|Kailin Xu, M.D., Ph.D.|Xuzhou Medical University
+31442251|NCT02537977|Principal Investigator|Aibin Liang, MD,Ph.D.|Shanghai Tongji Hospital, Tongji University School of Medicine
+31611801|NCT03497533|Principal Investigator|Ming Zhou|Hunan Provincial People's Hospital
+31442305|NCT05379569|Principal Investigator|Xianmin Song, MD|Shanghai General Hospital, Shanghai Jiao Tong University School of Medicine
+31442704|NCT05639972|Principal Investigator|Christian S Hinrichs, MD|Rutgers Cancer Institute of New Jersey
+31520444|NCT04288726|Principal Investigator|Carlos Ramos, MD|Baylor College of Medicine
+31520573|NCT03685786|Principal Investigator|Weihong Chen, M.D., Ph.D.|The second people's hospital of Shenzhen, The first affiliated hospital of Shenzhen University
+31520574|NCT03685786|Principal Investigator|Xin Du, M.D., Ph.D.|The second people's hospital of Shenzhen, The first affiliated hospital of Shenzhen University
+31520575|NCT03685786|Principal Investigator|Xiaochun Wan, Ph.D.|Shenzhen Institute of Advanced Technology, Chinese Academy of Sciences
+31443374|NCT05588440|Principal Investigator|Michael Wang|MD Anderson
+31443375|NCT05588440|Principal Investigator|Matthew Wei|City of Hope Medical Center
+31252372|NCT04544592|Principal Investigator|Amy Keating, MD|Children's Hospital Colorado
+31612635|NCT02443831|Study Chair|Persis Amrolia|UCL Institute of Child Health
+31522257|NCT03932565|Principal Investigator|Bingmu Fang, M.D|Lishui Country People's Hospital
+31612681|NCT05202782|Principal Investigator|Reem Karmali, MD|Northwestern University
+31522535|NCT03642496|Principal Investigator|He Peng cheng, Doctor|First Affiliated Hospital of Xian JiaotongUniversity
+31612740|NCT05191472|Principal Investigator|Alfred Chung, MD|University of California, San Francisco
+31444704|NCT05172596|Study Director|Novartis Pharmaceuticals|Novartis Pharmaceuticals
+31523315|NCT03574168|Principal Investigator|Peihua Lu, MD, PhD|Hebei Yanda Ludaopei Hospital
+31363259|NCT03085173|Principal Investigator|Jae Park, MD|Memorial Sloan Kettering Cancer Center
+31523649|NCT03907527|Study Director|Amy R. Lankford, PhD|Precigen, Inc
+31523818|NCT03893019|Principal Investigator|Peter Borchmann, Prof.|Universitätsklinikum Köln
+31613157|NCT04219163|Principal Investigator|LaQuisa Hill, MD|Cell and Gene Therapy, Baylor College of Medicine
+31523944|NCT03338972|Principal Investigator|Damian J. Green|Fred Hutch/University of Washington Cancer Consortium
+31524043|NCT03884751|Principal Investigator|Qin shukui, Pro|The 81st Hospital of PLA
+31524044|NCT03884751|Principal Investigator|Zhai bo, Pro|RenJi Hospital
+31253479|NCT04394650|Study Director|Bristol-Myers Squibb|Bristol-Myers Squibb
+31253501|NCT03081910|Principal Investigator|Rayne Rouce, MD|Baylor College of Medicine
+31613497|NCT05206357|Study Director|ABBVIE INC.|AbbVie
+31524386|NCT03563326|Principal Investigator|Jian-Kun Hu, M.D. Ph.D.|West China Hospital
+31613585|NCT04577326|Principal Investigator|Roisin O'Cearbhaill, MD|Memorial Sloan Kettering Cancer Center
+31613685|NCT03792633|Principal Investigator|Shannon Maude, MD, PhD|Children's Hospital of Philadelphia
+31446212|NCT03666000|Study Chair|Monika Vainorius, MD|Precision BioSciences, Inc.
+31364141|NCT04514029|Principal Investigator|Joseph Maakaron, MD|Masonic Cancer Center, University of Minnesota
+31525143|NCT05103631|Principal Investigator|Tannaz Armaghany, MD|Baylor College of Medicine
+31525144|NCT05094206|Principal Investigator|Nirav Shah, MD|Medical College of Wisconsin
+31525217|NCT04633148|Principal Investigator|Ralf Bargou, Prof.|Wuerzburg University Hospital
+31525240|NCT04464200|Principal Investigator|Jae Park, MD|Memorial Sloan Kettering Cancer Center
+31525273|NCT04196491|Study Director|Bristol-Myers Squibb|Bristol-Myers Squibb
+31254094|NCT04605666|Principal Investigator|Qi-fa Liu, MD|Nanfang Hospital, Southern Medical University
+31254100|NCT04531046|Principal Investigator|Roch Houot, PhD|Rennes University Hospital, Rennes, France
+31254101|NCT04531046|Principal Investigator|François Lemonnier, PhD|Henri Mondor Hospital, Créteil, France
+31525330|NCT03448393|Principal Investigator|Haneen Shalabi, D.O.|National Cancer Institute (NCI)
+31446839|NCT04185038|Study Chair|Nick Vitanza, MD|Seattle Children's Hospital
+31446985|NCT02723942|Study Chair|Lizhi Niu, PhD|Fuda Cancer Hospital
+31446998|NCT02715362|Principal Investigator|Xu Aimin, Doctor|RenJi Hospital
+31447244|NCT02706782|Principal Investigator|Xu Aimin, Doctor|RenJi Hospital
+31525987|NCT03287804|Study Director|Autolus Limited|Sponsor GmbH
+31615129|NCT03323944|Principal Investigator|Mark O'Hara, MD|Assistant Professor of Medicine, Penn Medicine
+31449587|NCT02813837|Study Director|Yu Hu, Ph.D|Union Hospital,Tong Ji Medical College,Huazhong University of Science and Technology
+31449588|NCT02813837|Study Director|He Huang, Ph.D|The First Affiliated Hospital of the College of Medicine, Zhejiang University
+31366456|NCT04691284|Study Chair|Luboš Drgoňa, Assoc. Prof.|National Cancer Institute, Slovakia
+31366457|NCT04691284|Study Chair|Michal Mego, prof.|National Cancer Institute, Slovakia
+31255588|NCT05621096|Principal Investigator|Christopher D'Angelo, MD|University of Nebraska
+31616355|NCT03497819|Principal Investigator|Mengtao Zhou, MD|First Affiliated Hospital of Wenzhou Medical University
+31366976|NCT05667506|Principal Investigator|Xiaofan Zhu, M.D|Institute of Hematology & Blood Diseases Hospital
+31450047|NCT02794961|Principal Investigator|KaiLin Xu, MD. Ph.D.|Xuzhou Medical University
+31367026|NCT05266950|Principal Investigator|Jing Pan, MD/PhD|Beijing Gaobo Boren Hospital
+31367056|NCT05098613|Principal Investigator|Manali Kamdar, MD|University of Colorado, Denver
+31617118|NCT01865617|Principal Investigator|Jordan Gauthier|Fred Hutch/University of Washington Cancer Consortium
+31617363|NCT05320081|Principal Investigator|Jianfeng Zhou|Huazhong University of Science and Technology
+31617409|NCT04938115|Principal Investigator|Peihua MD Lu, PhD|Hebei Yanda Ludaopei Hospital
+31617567|NCT03593109|Principal Investigator|Aili He, MD, PhD|Second Affiliated Hospital of Xi'an Jiaotong University
+31617761|NCT04928105|Principal Investigator|Peihua MD Lu, PhD|Hebei Yanda Ludaopei Hospital
+31367454|NCT04723914|Principal Investigator|Li Yu, Dr|Shenzhen University General Hospital
+31528200|NCT05268172|Principal Investigator|quan liu, doctor|Affiliated Hospital of Jiangnan University
+31528201|NCT05268172|Study Director|liu quan, doctor|Affiliated Hospital of Jiangnan University
+31367660|NCT02937103|Study Chair|Cheng Qian, MD, PhD|Biotherapy Center of Southwest Hospital
+31367708|NCT02935153|Study Chair|Cheng Qian, MD, PhD|Biotherapy Center of Southwest Hospital
+31256410|NCT05070156|Principal Investigator|Qing Xu|Shanghai 10th People's Hospital
+31256420|NCT05013372|Principal Investigator|Xiaojun Huang, MD. PhD.|Peking University People's Hospital
+31256428|NCT04214886|Principal Investigator|Nasheed Hossain, MD|Loyola University
+31256445|NCT05621486|Principal Investigator|Jin Li, MD, PhD|Shanghai East Hospital
+31451414|NCT02765243|Principal Investigator|Lihua Yang, M.D., Ph.D.|Southern Medical University, China
+31451415|NCT02765243|Study Director|Lung-Ji Chang, Ph.D.|Shenzhen Genoimmune Medical Institute
+31368022|NCT02919046|Principal Investigator|Yongjun Fang, Ph.D|Nanjing Children's Hospital
+31368023|NCT02919046|Principal Investigator|Kuiran Dong, Ph.D|Children's Hospital of Fudan University
+31618578|NCT04412889|Principal Investigator|Peihua Lu, PhD&MD|Hebei Yanda Ludaopei Hospital
+31618620|NCT04447573|Principal Investigator|Peihua Lu, PhD&MD|Beijing Lu Daopei Hospital
+31452604|NCT02735291|Principal Investigator|Zhimin Zhai, Professor|Chief physician
+31452605|NCT02735291|Study Director|Hui Liao, Doctor|Chief physician
+31618910|NCT03904069|Study Director|MD|Amgen
+31452729|NCT02737085|Principal Investigator|Jieping Chen, MD,PhD|Department of Hematology, Southwest Hospital, Third Military Medical University
+31618959|NCT04506983|Study Director|Gong Li, M.A.|Beijing Tsinghua Changgeng Hospital
+31619059|NCT03380039|Principal Investigator|Siguo Hao, MD|Xin Hua Hospital of Shanghai Jiao Tong University of Medicine
+31453487|NCT05260957|Principal Investigator|Lazaros Lekakis, MD|University of Miami
+31453760|NCT04162340|Principal Investigator|Hongyu Zhang, MD/PhD|Peking University Shenzhen Hospital, China
+31453761|NCT04162340|Principal Investigator|Fang Liu, MD/PhD|Chengdu Military Hospital
+31529544|NCT02186860|Principal Investigator|Liangding Hu, M.D.|Affiliated Hospital to Academy of Military Medical Sciences
+31218906|NCT05204160|Principal Investigator|Ajay K Nooka, MD,MPH,FACP|Emory University
+31453950|NCT05263817|Principal Investigator|He Huang, PhD|First Affiliated Hospital of Zhejiang University
+31619529|NCT05127135|Principal Investigator|Wang Xingbing|The First Affiliated Hospital of USTC (Anhui Provincial Hospital)
+31369285|NCT05415475|Principal Investigator|Jingwang Bi, M.D|The Second People's Hospital of Shandong Province
+31454518|NCT02617134|Principal Investigator|Lin Yang, Ph.D.|PersonGen BioTherapeutics (Suzhou) Co., Ltd.
+31619686|NCT03349255|Principal Investigator|Qibin Song, M.D./Ph.D.|Renmin Hospital of Wuhan University
+31258440|NCT05431608|Principal Investigator|Sham Mailankody, MBBS|Memorial Sloan Kettering Cancer Center
+31454834|NCT04156178|Principal Investigator|Hongyu Zhang, MD, PhD|Peking University Shenzhen Hospital
+31454835|NCT04156178|Principal Investigator|Fang Liu, MD, PhD|Chengdu Military General Hospital
+31530192|NCT02259556|Study Chair|Weidong Han, Ph.D|Chinese PLA General Hospital
+31369866|NCT03768310|Principal Investigator|Rayne H Rouce, MD|Baylor College of Medicine
+31455331|NCT04151186|Study Chair|Helong Zhang, professor|IEC of Institution for National Drug Clinical Trials ,Tangdu Hospital
+31259548|NCT02663297|Principal Investigator|Natalie Grover, MD|Clinical Director of Cellular Therapy Program
+31259560|NCT02159495|Principal Investigator|Lihua E. Budde|City of Hope Medical Center
+31530582|NCT05239676|Principal Investigator|He Huang, PhD|First Affiliated Hospital of Zhejiang University
+31370533|NCT05022849|Study Director|Janssen Research & Development, LLC Clinical Trial|Janssen Research & Development, LLC
+31370555|NCT04923893|Study Director|Janssen Research & Development, LLC Clinical Trial|Janssen Research & Development, LLC
+31370615|NCT04662099|Principal Investigator|Heng Mei, M.D., Ph.D|Wuhan Union Hospital, China
+31455878|NCT02624258|Principal Investigator|Susan Rheingold, MD|Children's Hospital of Philadelphia
+31370723|NCT04181827|Study Director|Janssen Research & Development, LLC Clinical Trial|Janssen Research & Development, LLC
+31370731|NCT04133636|Study Director|Janssen Research & Development, LLC Clinical Trial|Janssen Research & Development, LLC
+31260276|NCT03013712|Study Chair|Xiao-an Li, PhD|First Affiliated Hospital of Chengdu Medical College
+31370912|NCT01430390|Principal Investigator|Kevin Curran, MD|Memorial Sloan Kettering Cancer Center
+31456373|NCT04182581|Principal Investigator|Xiequn Chen, Doctor|First affiliated hospital of air force military medical university(i.e., Xijing Hopital)
+31620531|NCT03322735|Principal Investigator|Yongping Song|Henan Cancer Hospital
+31456589|NCT02672501|Principal Investigator|Jianmin Yang, Doctor|Shanghai Changhai Hospital，The Second Military Medical University
+31531331|NCT01109095|Principal Investigator|Nabil Ahmed, MD|Baylor College of Medicine - Texas Children's Hospital
+31457034|NCT02644655|Study Chair|Qijun Qian, PHD|Eastern Hepatobiliary Surgery Hospital
+31261020|NCT03602612|Principal Investigator|James N Kochenderfer, M.D.|National Cancer Institute (NCI)
+31457379|NCT04160195|Principal Investigator|James N Kochenderfer, M.D.|National Cancer Institute (NCI)
+31371392|NCT04723901|Principal Investigator|Li Yu, Dr|Shenzhen University General Hospital
+31457675|NCT05096234|Principal Investigator|David Miklos, MD, PhD|Stanford University
+31531759|NCT05371093|Study Director|Kite Study Director|Kite, A Gilead Company
+31531760|NCT05364424|Study Director|Clinical Trials|Hoffmann-La Roche
+31531829|NCT04989803|Study Director|Kite Study Director|Kite, A Gilead Company
+31531844|NCT04897321|Principal Investigator|Chris DeRenzo, MD|St. Jude Children's Research Hospital
+31458495|NCT05574114|Principal Investigator|Lia Palomba, MD|Memorial Sloan Kettering Cancer Center
+31458500|NCT05535855|Principal Investigator|Marc Schwartz, MD|University of Colorado, Denver
+31372068|NCT04655677|Principal Investigator|Daobin Zhou, PhD&MD|Peking Union Medical College Hospital
+31458572|NCT05010564|Principal Investigator|Bahey Salem, MD|Baylor College of Medicine
+31458573|NCT05010564|Principal Investigator|Nabil Ahmed, MD|Baylor College of Medicine
+31531939|NCT04196413|Principal Investigator|Michelle Monje|Stanford University
+31458620|NCT04555551|Principal Investigator|Sham Mailankody, MBBS|Memorial Sloan Kettering Cancer Center
+31372134|NCT04653493|Principal Investigator|Tahereh Rostami, M.D|Research Institute for Oncology- Hematology and Cell Therapy (RIOHCT), Tehran University of Medical Sciences, Tehran, Iran
+31372135|NCT04653493|Study Director|Naser Ahmadbeigi, PhD|Gene Therapy Research Center, Shariati hospital, Tehran University of Medical Sciences, Tehran, Iran
+31261843|NCT02050347|Principal Investigator|Carlos A Ramos, MD|Baylor College of Medicine
+31621084|NCT03312205|Study Chair|Peggy Lu, PhD & MD|Hebei Yanda Ludaopei Hospital
+31621198|NCT05044039|Principal Investigator|Armin Ghobadi, M.D.|Washington University School of Medicine
+31372271|NCT04637269|Study Chair|Xi Zhang|Xinqiao Hospital of Chongqing
+31262141|NCT05445765|Principal Investigator|Peihua Lu, MD|Hebei Yanda Lu Daopei Hospital
+31621534|NCT03281551|Principal Investigator|Shengdian Wang|Insitute of Biophysics,Chinese Academy of Sciences
+31621626|NCT03356795|Principal Investigator|Lung-Ji Chang, PhD|Shenzhen Geno-Immune Medical Institute
+31262739|NCT05141253|Principal Investigator|Qinglei Gao, MD. PhD|Tongji Hospital
+31461875|NCT04094766|Principal Investigator|Aili He, MD, PhD|Second Affiliated Hospital of Xi'an Jiaotong University
+31263593|NCT03029273|Principal Investigator|Shiyue Li, MD|Guangzhou Institute of Respiratory Disease, The First Affiliated Hospital of Guangzhou Medical University
+31263594|NCT03029273|Principal Investigator|Chengzhi Zhou, MD|Guangzhou Institute of Respiratory Disease, The First Affiliated Hospital of Guangzhou Medical University
+31463047|NCT02587689|Principal Investigator|Lin Yang, Ph.D.|PersonGen BioTherapeutics (Suzhou) Co., Ltd.
+31533618|NCT03874897|Principal Investigator|Lin Shen|Peking University Cancer Hospital & Institute
+31622029|NCT04500431|Principal Investigator|Aibin Liang, MD, Ph.D|Shanghai Tongji Hospital, Tongji University School of Medicine
+31263911|NCT04499573|Principal Investigator|Michael Maschan|National Research Center for Pediatric Hematology , Moscow, Russian Federation
+31533718|NCT03929107|Principal Investigator|Wenbin Qian, MD，PhD|Zhejiang University
+31622075|NCT03121625|Principal Investigator|Lihong Liu, PhD & MD|Hebei Medical University Fourth Hospital
+31464835|NCT03740256|Principal Investigator|Bora Lim, MD|Baylor College of Medicine
+31622224|NCT03344705|Principal Investigator|Hongmei Jing, MD|Peking University Third Hospital
+31264365|NCT04351022|Principal Investigator|Xiaowen Tang, Ph.D|The First Affiliated Hospital of Soochow University
+31264429|NCT04835519|Principal Investigator|Jing Pan, MD/PhD|Beijing Boren Hospital
+31466124|NCT02631044|Study Director|Bristol-Myers Squibb|Bristol-Myers Squibb
+31466852|NCT04067414|Principal Investigator|Lugui Qiu, MD|Institute of Hematology & Blood Diseases Hospital
+31265412|NCT02959151|Principal Investigator|Wentao Li, doctor|Fudan University
+31467266|NCT04561557|Principal Investigator|Wei Wang, MD|Tongji Hospital
+31265564|NCT05362331|Principal Investigator|Rahul Banerjee, MD|University of California, San Francisco
+31534887|NCT00924326|Principal Investigator|Steven A Rosenberg, M.D., Ph.D.|National Cancer Institute (NCI)
+31266058|NCT02445222|Study Director|Novartis Pharmaceuticals|Novartis Pharmaceuticals
+31622677|NCT05016063|Principal Investigator|xi zhang, PhD/MD|Department of Hematology, Xinqiao Hospital
+31266098|NCT02976857|Principal Investigator|Jianyong Li|The First Affiliated Hospital with Nanjing Medical University
+31266177|NCT04003649|Principal Investigator|Behnam Badie|City of Hope Medical Center
+31469149|NCT00889954|Principal Investigator|Stepehen Gottschalk, MD|Baylor College of Medicine - Texas Children's Hospital
+31469220|NCT04037566|Principal Investigator|Guangxun GAO, Dr.|Xijing Hospital
+31266245|NCT02975687|Principal Investigator|Jianxiang Wang, Dr.|Institute of Hematology & Blood Diseases Hospital
+31535317|NCT03483688|Principal Investigator|Daobin Zhou|Peking Union Medical College Hospital
+31535654|NCT03716856|Principal Investigator|Jie Jin, MD|First Affiliated Hospital of Zhejiang University
+31535655|NCT03716856|Principal Investigator|Haitao Meng, MD|First Affiliated Hospital of Zhejiang University
+31535680|NCT03902197|Principal Investigator|Zhiguo Chen, PhD|Xuanwu Hospital, Beijing
+31535681|NCT03902197|Principal Investigator|Huyong Zheng, MD, PhD|Beijing Children's Hospital
+31266721|NCT03430011|Study Director|Ronald Dubowy, MD|Bristol-Myers Squibb
+31622964|NCT03076437|Principal Investigator|Mingjun Wang, MD,PhD|Shenzhen Institute for Innovation and Translational Medicine
+31622965|NCT03076437|Principal Investigator|Yirong Jiang, MD|Dongguan People's Hospital
+31535982|NCT03881761|Study Chair|Yongping Song, Dr.|Henan Cancer Hospital
+31471365|NCT05350852|Principal Investigator|He Huang, Doctor|The first hospital affiliated Zhejiang University
+31471417|NCT03825718|Principal Investigator|Peihua Lu, MD/PHD|HeiBei YanDa Ludaopei hospital
+31472038|NCT05201781|Study Director|Janssen Research & Development, LLC Clinical Trial|Janssen Research & Development, LLC
+31536731|NCT03711864|Principal Investigator|Daobin Zhou, M.D.|Peking Union Medical College Hospital
+31624182|NCT05179603|Study Director|Clinical Sciences & Operations|Sanofi
+31624215|NCT03283631|Principal Investigator|Daniel Landi, MD|Duke University
+31624216|NCT03283631|Principal Investigator|David Ashley, MBBS, FRACP, PhD|Duke University
+31624331|NCT03267173|Study Director|Wei Yunwei, Dctor|First Affiliated Hospital of Harbin Medical University
+31472776|NCT04008394|Principal Investigator|Heng Mei, M.D. Ph.D|Wuhan Union Hospital, China
+31267926|NCT00586391|Principal Investigator|Carlos Ramos, MD|Baylor College of Medicine
+31268058|NCT05445011|Principal Investigator|Heng Mei|Wuhan Union Hospital, China
+31473094|NCT04048434|Principal Investigator|Sascha David, MD|Hannover Medical School
+31268426|NCT05326243|Study Chair|Chen-Lung Lin, MD|Pell Bio-Med Technology Co., Ltd.
+31538210|NCT04823091|Principal Investigator|Heng Mei|Wuhan Union Hospital, China
+31538618|NCT03814447|Principal Investigator|Hui Zhao, doctor|Shanghai 6th People's Hospital
+31538629|NCT05164042|Principal Investigator|Li Yu, Dr|Shenzhen University General Hospital
+31268964|NCT03019055|Principal Investigator|Nirav Shah, MD|Medical College of Wisconsin
+31475718|NCT03573700|Principal Investigator|Aimee C. Talleur, MD|St. Jude Children's Research Hospital
+31539383|NCT05176275|Principal Investigator|Liyan Miao|The First Affiliated Hospital of Soochow University
+31476425|NCT02547948|Study Chair|Lizhi Niu, PhD|Fuda Cancer Hospital
+31476437|NCT04010877|Principal Investigator|Lung-Ji Chang, Ph.D|Shenzhen Geno-Immune Medical Institute
+31539490|NCT03790891|Principal Investigator|Yao Hongxia|Hainan General Hospital
+31207698|NCT04410900|Principal Investigator|Joshua A. Hill|Fred Hutch/University of Washington Cancer Consortium
+31476727|NCT04119024|Principal Investigator|Anusha Kalbasi|UCLA / Jonsson Comprehensive Cancer Center
+31270092|NCT05620342|Principal Investigator|Jared Weiss|jared_weiss@med.unc.edu
+31477044|NCT04089215|Principal Investigator|Yuqin Song|Peking University Cancer Hospital & Institute
+31540073|NCT03064269|Principal Investigator|Sheng-Li Xue, Ph.D|The First Affiliated Hospital of Soochow University
+31626005|NCT03232619|Principal Investigator|Yunxiao Xu, MD|Second Xiangya Hospital of Central South University
+31374935|NCT04666168|Principal Investigator|Baoen Shan, PhD & MD|Hebei Medical University Fourth Hospital
+31374936|NCT04666168|Principal Investigator|Lihong Liu, PhD & MD|Hebei Medical University Fourth Hospital
+31208237|NCT05650749|Principal Investigator|Lisa Wray, MD|Children's Hospital of Philadelphia
+31374956|NCT04665076|Principal Investigator|Baoen Shan, PhD & MD|Hebei Medical University Fourth Hospital
+31208298|NCT05480449|Principal Investigator|Allison Barz Leahy, MD|Children's Hospital of Philadelphia
+31208299|NCT05480449|Study Director|Stephan Grupp, MD,PhD|Children's Hospital of Philadelphia
+31374957|NCT04665076|Principal Investigator|Lihong Liu, PhD & MD|Hebei Medical University Fourth Hospital
+31270505|NCT05032820|Study Director|Marcelo C Pasquini, MD, MS|Medical College of Wisconsin
+31270506|NCT05032820|Principal Investigator|Alfred Garfall, MD|University of Pennsylvannia
+31270507|NCT05032820|Principal Investigator|Sergio Giralt, MD|Memorial Sloan Kettering Cancer Center
+31208459|NCT04789408|Study Director|Kite Study Director|Kite, A Gilead Company
+31270598|NCT04855136|Study Director|Bristol-Myers Squibb|Bristol-Myers Squibb
+31626052|NCT04792593|Principal Investigator|Peihua MD Lu, PhD|Hebei Yanda Ludaopei Hospital
+31270623|NCT04792489|Study Director|Remi Kaleta|Miltenyi Biomedicine GmbH
+31208531|NCT04318678|Principal Investigator|Swati Naik, MD|St. Jude Children's Research Hospital
+31540540|NCT04903080|Study Chair|Meenakshi Hegde, MD|Baylor College of Medicine
+31208532|NCT04318678|Principal Investigator|Paulina Velasquez, MD|St. Jude Children's Research Hospital
+31208604|NCT03829540|Principal Investigator|Huda Salman, MD|Indiana University
+31270792|NCT04467853|Principal Investigator|Jin Li, MD, PhD|Shanghai East Hospital
+31540691|NCT03916679|Study Chair|Jianwei Zhou, M.D.|Second Affiliated Hospital, School of Medicine, Zhejiang University
+31626103|NCT05473221|Principal Investigator|He Huang, MD|The first hospital affiliated Zhejiang University
+31478993|NCT05590221|Principal Investigator|Yuqin Song, PhD|Peking University Cancer Hospital & Institute
+31209170|NCT01460901|Principal Investigator|Doug Myers, MD|Children's Mercy Hospital Kansas City
+31209187|NCT04888468|Principal Investigator|Jianfeng Zhou, M.D. Ph.D|Tongji Hospital affiliated to Tongji Medical College of Huazhong University of Science and Technology
+31209205|NCT04556266|Principal Investigator|Miguel-Angel Perales, MD|Memorial Sloan Kettering Cancer Center
+31541399|NCT05275062|Principal Investigator|Jianming Xu, M.D.|Chinese PLA General Hospital
+31271253|NCT02690545|Principal Investigator|Anne Beaven, MD|Director, UNC Lineberger Lymphoma Program
+31479808|NCT05546723|Principal Investigator|Leland Metheny, MD|University Hospitals Seidman Cancer Center
+31542636|NCT05181501|Principal Investigator|Lijuan Chen, M.D.|The First Affiliated Hospital with Nanjing Medical University
+31542637|NCT05181501|Principal Investigator|Bing Chen, M.D.|The Affiliated Nanjing Drum Tower Hospital of Nanjing University Medical School
+31479897|NCT05388695|Principal Investigator|Liang Huang, PhD&MD|Tongji Hospital
+31479921|NCT05312801|Principal Investigator|Paolo F. Caimi, MD|Cleveland Clinic Taussig Cancer Institute
+31626275|NCT04745559|Principal Investigator|Frederick Locke, MD|Moffitt Cancer Center
+31626308|NCT05554575|Principal Investigator|Weiping Liu, MD, PhD|Peking University Cancer Hospital & Institute
+31626309|NCT01318317|Principal Investigator|Leslie L Popplewell|City of Hope Medical Center
+31271685|NCT05577091|Study Chair|Tao Jiang, Prof.|Beijing Tiantan Hospital
+31626411|NCT05538195|Principal Investigator|Ning Li, MD|Henan Cancer Hospital
+31543400|NCT03370198|Principal Investigator|Frédéric Lehmann, MD|Celyad Oncology SA
+31543592|NCT03356782|Principal Investigator|Lung-Ji Chang, PhD|Shenzhen Geno-Immune Medical Institute
+31543645|NCT05239689|Principal Investigator|He Huang, PhD|First Affiliated Hospital of Zhejiang University
+31210699|NCT02992834|Principal Investigator|Jingting Jiang, Professor|The First People's Hospital of Changzhou
+31543824|NCT04503538|Principal Investigator|Rakhee Vaidya, MBBS|Wake Forest University Health Sciences
+31375351|NCT04626739|Principal Investigator|Jianmin luo, PhD&MD|The Second Hospital of Hebei Medical University
+31627271|NCT03173417|Principal Investigator|PEIHUA LU, MD|Hebei Yanda Ludaopei Hospital
+31211027|NCT03159819|Principal Investigator|Xianbao Zhan, M.D.|Changhai Hospital
+31480969|NCT02664363|Principal Investigator|David Ashley, MBBS, FRACP, PhD|Duke University Hospital
+31480970|NCT02664363|Principal Investigator|Daniel Landi, MD|Duke University
+31272371|NCT05312411|Principal Investigator|Catherine Albert, MD|Seattle Children's Hospital
+31544664|NCT03840317|Principal Investigator|Peihua Lu, PhD&MD|Hebei Yanda Ludaopei Hospital
+31272550|NCT04571138|Study Chair|Corinne Summers, MD|Seattle Children's Hospital
+31627634|NCT04280133|Principal Investigator|Patrick C Johnson, MD|Massachusetts General Hospital
+31481175|NCT03958656|Principal Investigator|James N Kochenderfer, M.D.|National Cancer Institute (NCI)
+31272743|NCT03684889|Study Chair|Colleen Annesley, MD|Seattle Children's Hospital
+31272809|NCT03330691|Study Chair|Colleen Annesley, MD|Seattle Children's Hospital
+31272820|NCT03244306|Study Chair|Corinne Summers, MD|Seattle Children's Hospital
+31272828|NCT03186118|Study Chair|Colleen Annesley, MD|Seattle Children's Hospital
+31272921|NCT02028455|Study Chair|Colleen Annesley, MD|Seattle Children's Hospital
+31272941|NCT01683279|Study Chair|Rebecca Gardner, MD|Seattle Children's Hospital
+31628079|NCT05422521|Principal Investigator|Philippe VIAU|Centre Hospitalier Universitaire de Nice
+31273152|NCT05651100|Study Chair|li xiangqun, doctor|Kecellitics Biotech Company Ltd
+31211771|NCT03696784|Principal Investigator|Natalie Grover, MD|UNC Lineberger Comprehensive Cancer Center
+31211930|NCT05312476|Study Chair|Depei Wu, M.D|The First Affiliated Hospital of Soochow University
+31212002|NCT04088890|Principal Investigator|Matthew Frank, MD, PhD|Stanford University
+31273376|NCT05416554|Principal Investigator|Brian Scott, MD|Stanford University
+31545553|NCT03811457|Study Director|Cheng-Yi Kuo, PhD|UWELL Biopharma
+31212209|NCT05381181|Principal Investigator|Yi Zhang, Prof.|The First Affiliated Hospital of Zhengzhou University
+31545733|NCT05463640|Principal Investigator|He Huang, MD|The first hospital affiliated Zhejiang University
+31629093|NCT03191773|Study Director|Ying Feng, MD|Second Affiliated Hospital of Guangzhou Medical University
+31629094|NCT03191773|Study Director|Mingjun Wang, MD|Shenzhen Institute for Innovation and Translational Medicine
+31545879|NCT03799913|Study Chair|Jianwei Zhou, M.D.|Zhejiang University
+31629239|NCT03182803|Study Chair|Qijun Qian, Ph.D|Shanghai Cell Therapy Research Institute
+31629240|NCT03182803|Study Chair|Huajun Jin, Ph.D|Shanghai Cell Therapy Research Institute
+31629241|NCT03182803|Study Director|Zhiwei Zhang, Ph.D|Shanghai Cell Therapy Research Institute
+31629242|NCT03182803|Study Director|Yan Sun|Shanghai Cell Therapy Research Institute
+31629243|NCT03182803|Principal Investigator|Jiangtao Wang|Ningbo No.5 Hospital(Ningbo Cancer Hospital)
+31212978|NCT04762485|Principal Investigator|xiaowen tang, Ph.D|The First Affiliated Hospital of Soochow University
+31629571|NCT05385263|Principal Investigator|Ron Ram, Prof.|Sourasky Medical Center
+31629648|NCT05085431|Principal Investigator|He Huang, PhD|First Affiliated Hospital of Zhejiang University
+31213133|NCT03030976|Principal Investigator|Qiang Guo, Doctor|RenJi Hospital
+31375723|NCT04610125|Principal Investigator|Lian Jiang, MD|Hebei Medical University Fourth Hospital
+31482651|NCT03851146|Principal Investigator|Ben Solomon|Peter MacCallum Cancer Centre, Australia
+31630009|NCT04846439|Principal Investigator|Haiping Dai, Ph.D|The First Affiliated Hospital of Soochow University
+31275340|NCT02650999|Principal Investigator|Stephen Schuster, MD|Abramson Cancer Center at Penn Medicine
+31630053|NCT02659943|Principal Investigator|James N Kochenderfer, M.D.|National Cancer Institute (NCI)
+31275498|NCT05436223|Principal Investigator|Peng Liu, M.D. & Ph.D.|Shanghai Zhongshan Hospital
+31630222|NCT05017883|Principal Investigator|Xingbing Wang|No.1, Swan Lake Road, new administrative and Cultural District, Hefei City, Anhui Province
+31630940|NCT05131763|Study Director|kuaile zhao, doctor|Fudan University
+31630941|NCT05131763|Study Director|Changchun Cai, doctor|Xunyang Changchun Shihua Hospital
+31630962|NCT05097443|Principal Investigator|Xin Wang, PhD|Shandong Provincial Hospital
+31213905|NCT03602157|Principal Investigator|Natalie Grover, MD|UNC Lineberger Comprehensive Cancer Center
+31213931|NCT03049449|Principal Investigator|James N Kochenderfer, M.D.|National Cancer Institute (NCI)
+31631485|NCT05302037|Principal Investigator|Raghav Sundar|National University Health System (NUHS)
+31631486|NCT05302037|Study Director|Jieming Zeng, Dr|CytoMed Therapeutics Pte Ltd
+31275809|NCT04186520|Principal Investigator|Nirav Shah, MD|Medical College of Wisconsin
+31214226|NCT05164770|Principal Investigator|Xin Wang, PhD|Shandong Provincial Hospital
+31275954|NCT05349266|Principal Investigator|He Huang, Doctor|First hospital affiliated Zhejiang University
+31275969|NCT05336383|Principal Investigator|Penny Fang, MD|M.D. Anderson Cancer Center
+31276123|NCT04336501|Principal Investigator|xiang yu zhao, MD|Peking University people's hospita
+31547678|NCT03198052|Principal Investigator|Zhenfeng Zhang, MD,PhD|Second Affiliated Hospital of Guangzhou Medical University
+31376043|NCT04594135|Principal Investigator|Hongyu Zhang, MD/PhD|Peking University Shenzhen Hospital, China
+31632707|NCT05633615|Principal Investigator|Brian T Hess|SWOG Cancer Research Network
+31632716|NCT05587543|Principal Investigator|Dongmei Ji, Doctorate|Fudan University
+31632954|NCT02442297|Principal Investigator|Nabil M Ahmed, MD|Baylor College of Medicine - Texas Children's Hospital
+31632955|NCT02442297|Principal Investigator|Shoba Navai, MD|Baylor College of Medicine - Texas Children's Hospital
+31632956|NCT02442297|Principal Investigator|Meenakshi Hegde, MD|Baylor College of Medicine - Texas Children's Hospital
+31215658|NCT03126864|Principal Investigator|William G. Wierda, MD, PHD, BS|M.D. Anderson Cancer Center
+31376133|NCT04213469|Principal Investigator|He Huang, Prof|the First Affliated Hospital, Zhejiang University
+31633534|NCT05623488|Principal Investigator|Julia Tchou, MD, PhD|University of Pennsylvania
+31633612|NCT05457010|Study Chair|Tim Welliver, MD, PhD|Arcellx, Inc.
+31633615|NCT05454241|Principal Investigator|Ying Wang, Dr.|Hematology Hospital, Chinese Academy of Medical Sciences
+31633622|NCT05432635|Principal Investigator|Alex Herrera|City of Hope Medical Center
+31549050|NCT03207178|Principal Investigator|Shengqin Ye, M.D.|Shanghai Longyao Biotechnology Inc., Ltd.
+31633811|NCT04877613|Principal Investigator|Roger Cohen, MD|University of Pennsylvania
+31633904|NCT04499339|Study Director|Prof. Michael Hudecek|University Hospital Wuerzburg
+31484779|NCT04007978|Principal Investigator|Heng Mei, M.D., Ph.D|Wuhan Union Hospital, China
+31633909|NCT04484012|Principal Investigator|Lihua E Budde|City of Hope Comprehensive Cancer Center
+31216114|NCT01583686|Principal Investigator|Steven A Rosenberg, M.D.|National Cancer Institute (NCI)
+31278747|NCT05531708|Principal Investigator|Zhiguo Long|Shanghai Pudong Hospital
+31278760|NCT05513612|Principal Investigator|Zhiguo Long|Shanghai Pudong Hospital
+31634124|NCT03585764|Principal Investigator|Payal D Shah, MD|University of Pennsylvania
+31634139|NCT03549442|Principal Investigator|Alfred Garfall, MD|University of Pennsylvania
+31549336|NCT03118180|Principal Investigator|He Huang, Dr|Zhejiang University
+31634181|NCT03288493|Study Director|Rajesh Belani, M.D.|Sponsor Executive Medical Director
+31634219|NCT03054298|Principal Investigator|Janos L Tanyi, MD, PhD|University of Pennaylvania
+31634228|NCT02935543|Principal Investigator|Noelle Frey, MD|University of Pennsylvania
+31634292|NCT02277522|Principal Investigator|Jakub Svoboda, MD|Abramson Cancer Center at Penn Medicine
+31634300|NCT02030847|Principal Investigator|Noelle Frey, MD|Abramson Cancer Center at Penn Medicine
+31634311|NCT01837602|Principal Investigator|Julia Tchou, MD|Abramson Cancer Center at Penn Medicine
+31216465|NCT03366324|Principal Investigator|YU HU, M.D., Ph.D|Institute of Hematology, Union Hospital, Tongji Medical College, Huazhong University of Science and Technology
+31550093|NCT05008575|Principal Investigator|xi zhang, MD/PhD|Department of Hematology, Xinqiao Hospital
+31550346|NCT03361748|Study Director|Bristol-Myers Squibb|Bristol-Myers Squibb
+31635426|NCT04981691|Principal Investigator|Jun Zhang, MD, PhD|Ruijin Hospital
+31635573|NCT05106907|Study Chair|Zhengyu Li, Ph.D|The Affiliated Hospital of Xuzhou Medical University
+31281425|NCT05190653|Principal Investigator|Reanne Booker, PhD(c)|AHS Calgary
+31218074|NCT05341492|Study Chair|Luo min, PhD|Guangzhou Bio-gene Technology Co., Ltd
+31218089|NCT03310008|Principal Investigator|Frédéric Lehmann, MD|Celyad Oncology SA
+31218465|NCT03029338|Principal Investigator|Dehui Zou, Dr.|Institute of Hematology & Blood Diseases Hospital
+31551454|NCT03114670|Study Director|Hu Chen, M.D., Ph.D.|Affiliated Hospital to Academy of Military Medical Sciences, China
+31551474|NCT04440436|Principal Investigator|Yuqin Song, MD, PhD|Peking University Cancer Hospital & Institute
+31282214|NCT04608487|Principal Investigator|Caron Jacobson, MD|Dana-Farber Cancer Institute
+31282297|NCT03676504|Principal Investigator|Prof. Dr. Michael Schmitt|University Hospital Heidelberg, Department V
+31282298|NCT03676504|Principal Investigator|Prof. Dr. Andreas Kulozik|University Hospital Heidelberg, University Medical Center for Children and Adolescents
+31219272|NCT05023707|Principal Investigator|Xiaowen Tang, Ph.D|The First Affiliated Hospital of Soochow University
+31637356|NCT05043571|Principal Investigator|Allen Yeoh, M.D|National University Hospital, Singapore
+31637357|NCT05043571|Study Director|Dario Campana, M.D, PhD|National University of Singapore
+31637496|NCT05030779|Principal Investigator|He Huang, PhD|First Affiliated Hospital of Zhejiang University
+31282902|NCT04562298|Principal Investigator|Ye Guo, PhD|East Clinical Center of Oncology
+31282903|NCT04562298|Principal Investigator|Yu Kang, PhD|Obstetrics & Gynecology Hospital of Fudan University
+31637785|NCT05290155|Principal Investigator|Xianmin G Song, M.D.|Shanghai General Hospital, Shanghai Jiao Tong University School of Medicine
+31552980|NCT03726515|Principal Investigator|Donald O'Rourke, MD|Abramson Cancer Center at Penn Medicine
+31637956|NCT05281809|Principal Investigator|John Lister, MD|AHN
+31637989|NCT04796441|Principal Investigator|Peihua MD Lu, PhD|Hebei Yanda Ludaopei Hospital
+31637996|NCT04796675|Principal Investigator|Yu Hu|Wuhan Union Hospital, China
+31638000|NCT04803929|Principal Investigator|Jianping Lan|Zhejiang Provincial People's Hospital
+31283083|NCT01593696|Principal Investigator|Nirali N Shah, M.D.|National Cancer Institute (NCI)
+31219877|NCT03291444|Principal Investigator|Yuhua Li, M.D, Ph.D|Zhujiang Hospital
+31553764|NCT04097301|Principal Investigator|Fabio Ciceri, MD|IRCCS San Raffaele
+31638569|NCT05412329|Principal Investigator|Juan Du, MD|Shanghai Changzheng Hospital
+31639013|NCT04951141|Principal Investigator|Yin ying Lu, M.D.|Beijing 302 Hospital
+31554383|NCT03706547|Principal Investigator|Peng Liu, M.D. & Ph.D.|Shanghai Zhongshan Hospital
+31639095|NCT03060343|Principal Investigator|Yu Fenglei, MD, PhD|Central South University
+31639096|NCT03060343|Principal Investigator|Li Peng, PhD|Hunan Zhaotai Yongren Medical Innovation Co. Ltd.
+31554608|NCT05309213|Principal Investigator|Qian Jiang|Peking University People's Hospital
+31488476|NCT05225831|Principal Investigator|Peihua Lu, PhD&MD|Beijing Lu Daopei Hospital
+31554747|NCT01192464|Principal Investigator|Helen E Heslop, MD|Baylor College of Medicine/Center for Cell and Gene Therapy
+31640206|NCT04812691|Principal Investigator|Weili Zhao|Ruijin Hospital
+31284248|NCT03696030|Principal Investigator|Jana L Portnow|City of Hope Medical Center
+31489039|NCT05393986|Principal Investigator|Lin Shen, MD,phD|Department of GI Oncology, Peking University Cancer Hospita
+31555549|NCT03671460|Principal Investigator|Peihua Lu, PhD,MD|Hebei Yanda Ludaopei Hospital
+31640342|NCT04134325|Principal Investigator|Natalie Grover, MD|UNC Lineberger Comprehensive Cancer Center
+31284348|NCT03774654|Principal Investigator|Carlos Ramos, MD|Baylor College of Medicine
+31221691|NCT04877080|Principal Investigator|Sanbin Wang, Doctor|920th Hospital of Joint Logistics Support Force of People's Liberation Army of China
+31221693|NCT05381662|Study Chair|Depei Wu, Ph.D|The First Affiliated Hospital of Soochow University
+31555766|NCT03464916|Principal Investigator|Edward Stadtmauer, MD|University of Pennsylvania
+31489297|NCT05458297|Study Director|Medical Director|Merck Sharp & Dohme LLC
+31489311|NCT05377827|Principal Investigator|Geoffrey Uy, M.D.|Washington University School of Medicine
+31489313|NCT05353530|Principal Investigator|Ashley Ghiaseddin, MD|University of Florida
+31489351|NCT05081479|Principal Investigator|Gunjan Shah, MD|Memorial Sloan Kettering Cancer Center
+31377681|NCT04546906|Principal Investigator|Peihua Lu, PhD&MD|Hebei Yanda Ludaopei Hospital
+31640863|NCT04892277|Principal Investigator|Saad J Kenderian|Mayo Clinic in Rochester
+31556106|NCT03758417|Study Director|Janssen Research&Development,LLC Clinical Trail|Janssen Research & Development, LLC
+31556208|NCT03318861|Study Director|Kite Study Director|Kite, A Gilead Company
+31556266|NCT05420493|Principal Investigator|Jianfeng Bi, M.D|The Second People's Hospital of Shandong Province
+31641047|NCT05528887|Principal Investigator|Ying Lu|The Affiliated People's Hospital of Ningbo University
+31489546|NCT03144583|Principal Investigator|Julio Delgado González, PhD MD|Hospital Clinic of Barcelona
+31641105|NCT05523661|Principal Investigator|Xianmin Song, M.D.|Shanghai General Hospital, Shanghai Jiao Tong University School of Medicine
+31222539|NCT05248048|Principal Investigator|Xuehu Xu, MD|The Third Affiliated Hospital of Guangzhou Medical University
+31489759|NCT04696432|Principal Investigator|Lanfang Li, PhD&MD|Tianjin Medical University Cancer Institute & Hosipital
+31489765|NCT04648046|Principal Investigator|Steven Deeks, MD|University of California, San Francisco
+31489792|NCT04557436|Principal Investigator|Waseem Qasim, Prof|UCL GOSH Institute of Child Health
+31489793|NCT04557436|Study Director|Paul Veys, PhD, MD|Great Ormond Street Hospital
+31489794|NCT04557436|Study Director|Kanchan Rao, PhD, MD|Great Ormond Street Hospital
+31489795|NCT04557436|Study Director|Ajay Vora, Prof, MD|Great Ormond Street Hospital
+31489806|NCT04510051|Principal Investigator|Leo D Wang|City of Hope Medical Center
+31641488|NCT05478343|Principal Investigator|Xiaojing Yan, M.D.|First Hospital of China Medical University
+31641787|NCT05480501|Principal Investigator|Xiaojing Yan, M.D.|Hospital of China Medical University
+31557207|NCT04384393|Principal Investigator|Xingbing Wang|The First Affiliated Hospital of USTC (Anhui Provincial Hospital)
+31641820|NCT05472857|Principal Investigator|Luo Tianhang, MD|Changhai Hospital
+31641860|NCT05477927|Principal Investigator|YongShen Wang, Prof.|West China Hospital
+31285351|NCT04390542|Principal Investigator|Sara Douglas, PhD, RN|Case Western Reserve University
+31557344|NCT04176913|Principal Investigator|Wei Xu, PhD& MD|The first Affiliated Hospital Of Nanjing Medical University(JiangSu Province Hospital)
+31557345|NCT04176913|Principal Investigator|Kaiyang Ding, PhD& MD|Anhui Provincial Cancer Hospital
+31557346|NCT04176913|Principal Investigator|Kai Hu, PhD& MD|Beijing Boren Hospital
+31642417|NCT04973527|Principal Investigator|Kai Hu, MD/PhD|Beijing Boren Hospital
+31642742|NCT05421663|Principal Investigator|John Baird, M.D.|City of Hope Medical Center
+31490652|NCT03502577|Principal Investigator|Andrew Cowan|Fred Hutch/University of Washington Cancer Consortium
+31224012|NCT04268706|Principal Investigator|Helen Heslop, MD|Baylor College of Medicine
+31558288|NCT01355965|Principal Investigator|Andrew Haas, MD, PhD|Abramson Cancer Center at Penn Medicine
+31643702|NCT04219319|Principal Investigator|Wei Xu, PhD& MD|The first Affiliated Hospital Of Nanjing Medical University(JiangSu Province Hospital)
+31643703|NCT04219319|Principal Investigator|Kaiyang Ding, PhD& MD|Anhui Provincial Cancer Hospital
+31643704|NCT04219319|Principal Investigator|Guangxun Gao, PhD& MD|The First Affiliated Hospital of the Air Force Medical University
+31491068|NCT04014881|Principal Investigator|Heng Mei, M.D., Ph.D|Wuhan Union Hospital, China
+31559168|NCT05665725|Principal Investigator|Timothy J Voorhees, MD, MSCR|Ohio State University Comprehensive Cancer Center
+31559234|NCT05648019|Principal Investigator|Shui Yen Soh, MD|KK Women's and Children's Hospital
+31559235|NCT05648019|Principal Investigator|Aloysius Ho, MD|Singapore General Hospital
+31286896|NCT05256641|Principal Investigator|Caspian Oliai, MD|UCLA / Jonsson Comprehensive Cancer Center
+31225585|NCT05108805|Principal Investigator|Olalekan Oluwole, MD|Vanderbilt-Ingram Cancer Center
+31286953|NCT04735471|Study Director|Rose Lai, MD|Adicet Bio
+31286960|NCT04661384|Principal Investigator|Lisa A Feldman|City of Hope Medical Center
+31644888|NCT02348216|Study Director|Kite Study Director|Kite, A Gilead Company
+31559704|NCT03605238|Study Director|Quangang Xu, PhD|Chinese PLA General Hospital
+31559705|NCT03605238|Principal Investigator|Huanfen Zhou, PhD|Chinese PLA General Hospital
+31560182|NCT04083495|Principal Investigator|Anne Beaven, MD|UNC Chapel Hill
+31645538|NCT03994913|Principal Investigator|Jie Jin, Dr.|First Affiliated Hospital of Zhejiang University
+31560201|NCT03873805|Principal Investigator|Tanya B Dorff|City of Hope Medical Center
+31560217|NCT03648372|Study Director|Study Director|Takeda
+31645680|NCT04136275|Principal Investigator|Matthew J. Frigault, MD|Massachusetts General Hospital
+31287475|NCT05620680|Principal Investigator|Li Yu, Dr|Shenzhen University General Hospital
+31226275|NCT03110640|Principal Investigator|Kang Yu, M.D.|First Affiliated Hospital of Wenzhou Medical University
+31226352|NCT03393936|Principal Investigator|Tongyu Zhu|Shanghai Public Health Clinical Center
+31492233|NCT05350787|Principal Investigator|He Huang, Doctor|The first hospital affiliated Zhejiang University
+31226382|NCT05085444|Principal Investigator|He Huang, PhD|First Affiliated Hospital of Zhejiang University
+31560398|NCT02132624|Study Director|Angelica Loskog, PhD|Uppsala University
+31560399|NCT02132624|Principal Investigator|Gunilla Enblad, MD, PhD|Uppsala University Hospital
+31560400|NCT02132624|Principal Investigator|Hans Hagberg, MD, PhD|Uppsala University Hospital
+31560432|NCT05370547|Principal Investigator|Weidong Han, Ph.D|Biotherapeutic Department, Chinese PLA General Hospital
+31560502|NCT02134262|Study Chair|Keiya Ozawa, MD, PhD|Division of Hematology, Department of Medicine, Center for Molecular Medicine, Division of Genetic Therapeutics, Center for Molecular Medicine, Division of Immuno-Gene & Cell Therapy (Takara Bio), Jichi Medical University
+31226541|NCT04287660|Principal Investigator|Xiaowen Tang, Ph.D|The First Affiliated Hospital of Soochow University
+31226574|NCT04270461|Study Director|Changchun Cai|Affiliated hospital of jiujiang university
+31560697|NCT03579888|Principal Investigator|Partow Kebriaei|M.D. Anderson Cancer Center
+31226713|NCT04088864|Principal Investigator|Liora Schultz, MD|Stanford University
+31492564|NCT04008251|Principal Investigator|Heng Mei, M.D., Ph.D|Wuhan Union Hospital, China
+31226807|NCT04007029|Principal Investigator|Sarah Larson, MD|UCLA / Jonsson Comprehensive Cancer Center
+31646642|NCT03651128|Study Director|Bristol-Myers Squibb|Bristol-Myers Squibb
+31561380|NCT03181126|Study Director|AbbVie Inc.|AbbVie
+31561585|NCT05085418|Principal Investigator|He Huang, PhD|First Affiliated Hospital of Zhejiang University
+31561609|NCT03068416|Principal Investigator|Gunilla Enblad, MD, PhD|Uppsala University Hospital, Dept of Oncology
+31561882|NCT04443829|Study Chair|Claire Roddie|University College London Hospital
+31647643|NCT04150913|Principal Investigator|Matt J Frigault, MD|Massachusetts General Hospital
+31647911|NCT01454596|Principal Investigator|Steven A Rosenberg, M.D.|National Cancer Institute (NCI)
+31647962|NCT02215967|Principal Investigator|James N Kochenderfer, M.D.|National Cancer Institute (NCI)
+31603858|NCT04412174|Principal Investigator|Peihua Lu, PhD&MD|Hebei Yanda Ludaopei Hospital
+31288830|NCT04526834|Principal Investigator|Sairah Ahmed|MD Anderson
+31228183|NCT05066022|Principal Investigator|Chengcheng Fu, PhD|World Health Organization
+31562597|NCT05020392|Principal Investigator|Yu Hu|Wuhan Union Hospital, China
+31562610|NCT04881240|Principal Investigator|Aimee C. Talleur, MD|St. Jude Children's Research Hospital
+31562611|NCT04881240|Principal Investigator|Stephen Gottschalk, MD|St. Jude Children's Research Hospital
+31288869|NCT04257578|Principal Investigator|Ajay Gopal|Fred Hutch/University of Washington Cancer Consortium
+31562667|NCT04512716|Principal Investigator|Mark B Geyer, MD|Memorial Sloan Kettering Cancer Center
+31562733|NCT03938987|Principal Investigator|Dr. Michael P Chu, MD|Cross Cancer Institute
+31228533|NCT04014894|Principal Investigator|Heng Mei, M.D., Ph.D|Wuhan Union Hospital, China
+31649230|NCT04684472|Principal Investigator|liqun zou, phd|Sichuan University
+31494573|NCT03980691|Principal Investigator|Weiping Cai, Bachelor|Guangzhou 8th People's Hospital China, Guangdong
+31229602|NCT05066646|Principal Investigator|Lugui Qiu, MD, PhD|Institute of Hematology and Blood Diseases Hospital, Chinese Academy of Medical Sciences and Peking Union Medical College
+31229603|NCT05066646|Principal Investigator|Chunrui Li, MD, PhD|Tongji Hospital affiliated to Tongji Medical College of Huazhong University of Science & Technology
+31564207|NCT03674463|Principal Investigator|Wan-Hong Zhao, MD, PhD|Second Affiliated Hospital of Xi'an Jiaotong University
+31651929|NCT03240328|Principal Investigator|Cai Weiping, Bachelor|Guangzhou 8th People's Hospital
+31652410|NCT04690192|Principal Investigator|Dehui Zou, Dr.|Institute of Hematology & Blood Diseases Hospital, CAMS & PUMC
+31652459|NCT04049513|Principal Investigator|Robert Weinkove, MBBS, PhD|Te Whatu Ora Health New Zealand Capital Coast & Hutt Valley
+31652539|NCT03103971|Principal Investigator|Jordan Gauthier|Fred Hutch/University of Washington Cancer Consortium
+31565129|NCT00881920|Principal Investigator|Carlos Ramos, MD|Baylor College of Medicine - Texas Children's Hospital
+31230911|NCT05063682|Principal Investigator|Kai Reinikainen, MD/PhD|Chembrain LTD
+31230988|NCT05060796|Principal Investigator|Zhenfeng Zhang, MD, PHD|Second Affiliated Hospital of Guangzhou Medical University
+31231371|NCT03407859|Principal Investigator|Yanjie He, Ph.D|Zhujiang Hospital
+31231566|NCT04191941|Principal Investigator|Ming Zhou|Hunan Provincial People's Hospital
+31565917|NCT05208853|Principal Investigator|Huang He, PhD|First Affiliated Hospital of Zhejiang University
+31654188|NCT05483491|Principal Investigator|Christian S Hinrichs, MD|Rutgers Cancer Institute of New Jersey
+31232243|NCT04249947|Study Director|Rajesh Belani, M.D.|Sponsor Executive Medical Director
+31566661|NCT05106946|Study Chair|Zhenyu Li, Ph.D|The Affiliated Hospital of Xuzhou Medical University
+31290470|NCT05464719|Principal Investigator|Paolo Strati, MD|M.D. Anderson Cancer Center
+31290546|NCT05274451|Study Director|Heidi Gillenwater, MD|Lyell Immunopharma, Inc.
+31290749|NCT04432506|Principal Investigator|Paolo Strati|M.D. Anderson Cancer Center
+31290838|NCT04071366|Study Director|Peter Langmuir, MD|Incyte Corporation
+31290925|NCT03435796|Study Director|Bristol-Myers Squibb|Bristol-Myers Squibb
+31497174|NCT03980288|Principal Investigator|Tingbo Liang|The First Affiliated Hospital, Zhejiang University
+31291071|NCT01087294|Principal Investigator|James N Kochenderfer, M.D.|National Cancer Institute (NCI)
+31232883|NCT03018093|Principal Investigator|Li Yu|Chinese PLA General Hospital
+31291357|NCT03198546|Principal Investigator|Zhenfeng Zhang, MD,PhD|Second Affiliated Hospital of Guangzhou Medical University
+31568484|NCT05429905|Principal Investigator|Michaela Seng, MD|KK Women's and Children's Hospital, BMTCT
+31568485|NCT05429905|Study Chair|Wing Hang Leung, MD PhD|KK Women's and Children's Hospital, BMTCT
+31568515|NCT04173988|Study Director|zhai xiaowen, PhD|PI
+31233478|NCT05105867|Principal Investigator|Sanbin Wang, Professor|920th Hospital of Joint Logistics Support Force of People's Liberation Army of China
+31233729|NCT03915184|Principal Investigator|Shaji Kumar, MD|Mayo
+31292102|NCT05322330|Study Chair|Depei Wu, M.D|The First Affiliated Hospital of Soochow University
+31569589|NCT02932956|Principal Investigator|Andras A Heczey, M.D.|Baylor College of Medicine
+31569626|NCT02290951|Study Director|Clinical Trial Management|Regeneron Pharmaceuticals
+31498606|NCT05371132|Principal Investigator|Savita V Dandapani|City of Hope Medical Center
+31569956|NCT05059912|Study Chair|Depei Wu, M.D&Ph.D|The First Affiliated Hospital of Soochow University
+31292721|NCT05212584|Principal Investigator|Peihua Lu, MD|Hebei Yanda Lu Daopei Hospital, China
+31234671|NCT03818165|Principal Investigator|Steven C Katz, MD|Roger Williams Medical Center
+31499243|NCT03919240|Principal Investigator|Depei Wu, M.D., Ph.D.|The First Affiliated Hospital of Soochow University
+31234912|NCT04129099|Principal Investigator|Junfang Yang, Bachelor|Hebei Yanda Ludaopei Hospital
+31293260|NCT03330834|Principal Investigator|Li Zhang, M.D.|Sun Yat-sen University
+31570794|NCT04976218|Principal Investigator|Weidong Han, PhD|Biotherapeutic Department, Chinese PLA General Hospital
+31570870|NCT05038696|Principal Investigator|Allen Yeoh, M.D|National University Hospital, Singapore
+31570871|NCT05038696|Study Director|Dario Campana, M.D, PhD|National University of Singapore
+31383302|NCT04715217|Principal Investigator|Liping Su, M.D.|Hematology Department of ShanXi Cancer Hospital
+31383632|NCT04714827|Principal Investigator|Liping Su, M.D.|Hematology Department of ShanXi Cancer Hospital
+31571311|NCT05150522|Principal Investigator|Li Yu|Shenzhen University General Hospital
+31383977|NCT04714593|Principal Investigator|Liping Su, M.D.|Hematology Department of ShanXi Cancer Hospital
+31571600|NCT03638167|Study Chair|Juliane Gust, MD, PhD|Seattle Children's Hospital
+31572442|NCT02194374|Principal Investigator|William G. Wierda, MD, PHD, BS|M.D. Anderson Cancer Center
+31236143|NCT04037241|Study Director|Ying Yan, MD MS|Sorrento Therapeutics
+31572962|NCT03672253|Principal Investigator|Wan-Hong Zhao, MD, PhD|Second Affiliated Hospital of Xi'an Jiaotong University
+31572968|NCT02905188|Principal Investigator|Tannaz Armaghany, M.D.|Baylor College of Medicine
+31573073|NCT04952272|Principal Investigator|Zhenfeng Zhang, MD, PhD|Second Affiliated Hospital of Guangzhou Medical University
+31295140|NCT04148430|Principal Investigator|Jae Park, MD|Memorial Sloan Kettering Cancer Center
+31385797|NCT03271515|Study Chair|li gangyi|Beijing Doing Biomedical Co., Ltd.
+31385883|NCT03271632|Principal Investigator|Lung-Ji Chang|Shenzhen Geno-Immune Medical Institute
+31386144|NCT04702841|Principal Investigator|Xingbing Wang|No.1, Swan Lake Road, new administrative and Cultural District, Hefei City, Anhui Province
+31237001|NCT05634785|Principal Investigator|Matthew I Milowsky|UNC Lineberger Comprehensive Cancer Center
+31237084|NCT05366179|Principal Investigator|Yasmeen Rauf, MD|UNC Lineberger Comprehensive Cancer Center
+31501873|NCT03796390|Study Chair|Peihua Lu, PhD&MD|Hebei Yanda Ludaopei Hospital
+31237190|NCT04995003|Principal Investigator|Meenakshi Hegde, MD|Baylor College of Medicine
+31237191|NCT04995003|Principal Investigator|Shoba Navai, MD|Baylor College of Medicine
+31237192|NCT04995003|Principal Investigator|Nabil Ahmed, MD|Baylor College of Medicine
+31237199|NCT04977024|Principal Investigator|Chief Medical Officer|GeoVax, Inc.
+31386983|NCT04700319|Principal Investigator|Xingbing Wang|No.1, Swan Lake Road, new administrative and Cultural District, Hefei City, Anhui Province
+31501948|NCT05620732|Principal Investigator|Li Yu, Dr|Shenzhen University General Hospital
+31502025|NCT05495464|Principal Investigator|Preetesh Jain, MD, PHD|M.D. Anderson Cancer Center
+31387497|NCT02893189|Principal Investigator|Karl Peggs|University College London Hospital
+31574075|NCT04969354|Study Director|Junnian Zheng, M.D/Ph.D|The Affiliated Hospital of Xuzhou Medical University
+31574076|NCT04969354|Principal Investigator|Hailong Li, M.D/Ph.D|The Affiliated Hospital of Xuzhou Medical University
+31574077|NCT04969354|Principal Investigator|Qing Zhang, Ph.D|Xuzhou Medical University
+31237418|NCT03721068|Principal Investigator|George Hucks, MD|UNC Lineberger Comprehensive Cancer Center
+31237425|NCT03672318|Principal Investigator|Sascha Tuchman, MD, MHS|Assoc. Professor, Dir. of the UNC MM and Amyloidosis Program, UNC LCCC
+31237483|NCT03016377|Principal Investigator|Natalie S Grover, MD|UNC Lineberger Comprehensive Cancer Center
+31237771|NCT03050190|Principal Investigator|Lung-Ji Chang|Shenzhen Geno-Immune Medical Institute
+31574563|NCT04732845|Principal Investigator|Benjamin Tomlinson, MD|University Hospitals Cleveland Medical Center, Case Comprehensive Cancer Center
+31388798|NCT04516551|Study Chair|Xi Zhang, MD phD|Xinqiao Hospital of Chongqing
+31388799|NCT04516551|Principal Investigator|He Huang, MD|First Affiliated Hospital of Zhejiang University
+31388829|NCT04324996|Principal Investigator|Min Liu, A.B|Chongqing Public Health Center
+31388830|NCT04324996|Principal Investigator|Jimin Gao|Zhejiang Qixin Biotech
+31574747|NCT03434769|Principal Investigator|Benjamin Tomlinson, MD|University Hospitals Cleveland Medical Center, Case Comprehensive Cancer Center
+31389011|NCT04513431|Principal Investigator|Ren Zhao, Medical PhD|Ruijin Hospital
+31389012|NCT04513431|Principal Investigator|Mei Wang, Medical PhD|Ruijin Hospital
+31389013|NCT04513431|Study Chair|Chen xianze, Medical PhD|Ruijin Hospital
+31389014|NCT04513431|Study Chair|Liu Kun, Medical PhD|Ruijin Hospital
+31389015|NCT04513431|Study Chair|Shi Yiqing, Medical PhD|Ruijin Hospital
+31389016|NCT04513431|Study Chair|Wang Chen, Medical PhD|Ruijin Hospital
+31389017|NCT04513431|Study Chair|He Qianyun, Medical PhD|Ruijin Hospital
+31389018|NCT04513431|Study Chair|Mao Dongliang, Medical PhD|Ruijin Hospital
+31238175|NCT04884984|Principal Investigator|Xiaowen Tang, Ph.D|The First Affiliated Hospital of Soochow University
+31389202|NCT05639179|Principal Investigator|Wang Sanbin, Doctor|920th Hospital of Joint Logistics Support Force of People's Liberation Army of China
+31238338|NCT04863066|Principal Investigator|Fu-Sheng Wang, MD|Beijing 302 Hospital of China
+31576198|NCT01475058|Principal Investigator|Cameron Turtle|Fred Hutchinson Cancer Research Center/University of Washington Cancer Consortium
+31389698|NCT02954445|Principal Investigator|Cheng Qian, MD, PhD|Biotherapy Center of Southwest Hospital
+31576536|NCT04697940|Principal Investigator|Weidong Han, M.D.|Chinese PLA Hospital
+31389782|NCT02274584|Principal Investigator|Jun Zhu, MD|Peking University Cancer Hospital & Institute
+31297255|NCT05052528|Principal Investigator|Mehrdad Abedi|University of California, Davis
+31578111|NCT04782193|Principal Investigator|Sanbin Wang, MD|920th Hospital of Joint Logistics Support Force of People's Liberation Army of China
+31578112|NCT04782193|Principal Investigator|Cheng Qian, PhD|Chongqing University Cancer Hospital
+31578113|NCT04781634|Principal Investigator|Sanbin Wang, MD|920th Hospital of Joint Logistics Support Force of People's Liberation Army of China
+31578114|NCT04781634|Principal Investigator|Cheng Qian, PhD|Chongqing University Cancer Hospital
+31578115|NCT04776330|Principal Investigator|Sanbin Wang, MD|920th Hospital of Joint Logistics Support Force of People's Liberation Army of China
+31578116|NCT04776330|Principal Investigator|Cheng Qian, PhD|Chongqing University Cancer Hospital
+31578139|NCT04649983|Principal Investigator|Sanbin Wang, MD|920th Hospital of Joint Logistics Support Force of People's Liberation Army of China
+31578140|NCT04649983|Principal Investigator|Cheng Qian, PhD|Chongqing University Cancer Hospital
+31578141|NCT04648475|Principal Investigator|Cheng Qian, PhD|Chongqing University Cancer Hospital
+31578192|NCT04272151|Principal Investigator|Cheng Qian, PhD|Chongqing University Cancer Hospital
+31578193|NCT04272151|Principal Investigator|Ying Xiang, MD|Chongqing University Cancer Hospital
+31578194|NCT04272125|Principal Investigator|Cheng Qian, PhD|Chongqing University Cancer Hospital
+31578195|NCT04272125|Principal Investigator|Ying Xiang, MD|Chongqing University Cancer Hospital
+31578196|NCT04271800|Principal Investigator|Cheng Qian, PhD|Chongqing University Cancer Hospital
+31578197|NCT04271800|Principal Investigator|Ying Xiang, MD|Chongqing University Cancer Hospital
+31578198|NCT04271644|Principal Investigator|Sanbin Wang, MD|920th Hospital of Joint Logistics Support Force of People's Liberation Army of China
+31578199|NCT04271644|Principal Investigator|Cheng Qian, PhD|Chongqing University Cancer Hospital
+31578200|NCT04271410|Principal Investigator|Sanbin Wang, MD|920th Hospital of Joint Logistics Support Force of People's Liberation Army of China
+31578201|NCT04271410|Principal Investigator|Cheng Qian, PhD|Chongqing University Cancer Hospital
+31578202|NCT04265963|Principal Investigator|Sanbin Wang, MD|920th Hospital of Joint Logistics Support Force of People's Liberation Army of China
+31578203|NCT04265963|Principal Investigator|Cheng Qian, PhD|Chongqing University Cancer Hospital
+31580108|NCT02915445|Principal Investigator|Wei Wang, Ph.D|State Key Laboratory of Biotherapy, Cancer Center, West China Hospital, Sichuan University
+31580380|NCT04703686|Study Chair|Guillaume Cartron, MD,PhD|Lymphoma Study Association
+31580381|NCT04703686|Study Chair|Pierre Sesques, MD|Lymphoma Study Association
+31239464|NCT04780529|Principal Investigator|Yifu he|Anhui Provincial Cancer Hospital
+31580701|NCT03366350|Principal Investigator|YU HU, M.D., Ph.D|Wuhan Union Hospital, China
+31581108|NCT04503980|Principal Investigator|Qing Qu|Shanghai 10th People's Hospital
+31504573|NCT05631912|Principal Investigator|Weidong Han, Ph.D|Biotherapeutic Department, Chinese PLA General Hospital
+31581731|NCT03488160|Principal Investigator|Guolin Wu|Investigator associate chief physician
+31581732|NCT03488160|Principal Investigator|Kaiyang Ding|Chief physician
+31581781|NCT03540303|Study Chair|Yongping Song, M.D|Henan Cancer Hospital
+31504707|NCT05397184|Principal Investigator|Waseem Qasim, Professor|Great Ormond Street Hospital
+31504783|NCT05169489|Study Director|Anna Truppel-Hartmann, MD|2seventy bio, Inc.
+31390598|NCT05143151|Principal Investigator|Li Yu, Dr|Shenzhen University General Hospital
+31390602|NCT05143112|Principal Investigator|Li Yu, Dr|Shenzhen University General Hospital
+31582729|NCT05585996|Principal Investigator|Wenbin Qian, MD, PhD|2nd Affiliated Hospital, School of Medicine, Zhejiang Universit
+31582791|NCT04706936|Principal Investigator|Wenbin Qian|2nd Affiliated Hospital, School of Medicine, Zhejiang University
+31504934|NCT04539366|Principal Investigator|Rosandra N Kaplan|Cancer Immunotherapy Trials Network
+31239735|NCT04796688|Principal Investigator|Heng Mei, M.D., Ph.D|Wuhan Union Hospital, China
+31504954|NCT04404595|Principal Investigator|Harry H Yoon, MD|Mayo
+31504955|NCT04404595|Principal Investigator|Dae Won Kim, MD|Moffitt
+31505003|NCT04231747|Study Director|Bristol-Myers Squibb|Bristol-Myers Squibb
+31583437|NCT05393804|Principal Investigator|Gunjan Shah, MD|Memorial Sloan Kettering Cancer Center
+31583504|NCT04952584|Principal Investigator|Premal Lulla, MD|Baylor College of Medicine
+31239889|NCT02247609|Principal Investigator|Jun Zhu, MD|Peking University Cancer Hospital & Institute
+31583713|NCT02601313|Study Director|Kite Study Director|Kite, A Gilead Company
+31390856|NCT04692948|Principal Investigator|Xingbing Wang|No.1, Swan Lake Road, new administrative and Cultural District, Hefei City, Anhui Province
+31505205|NCT02414269|Principal Investigator|Marjorie Zauderer, MD|Memorial Sloan Kettering Cancer Center
+31583998|NCT03473496|Principal Investigator|Yanjie He|Zhujiang Hospital
+31505215|NCT02208362|Principal Investigator|Behnam Badie|City of Hope Medical Center
+31240065|NCT05613348|Principal Investigator|Lihua Yang|Zhujiang Hospital
+31505340|NCT03870945|Principal Investigator|Peter Borchmann, Prof. Dr.|University Hospital Cologne
+31584595|NCT04489862|Principal Investigator|Xiaorong Dong|Wuhan Union Hospital, China
+31584745|NCT05398614|Study Director|Liang Huang|Tongji Hospital
+31505602|NCT03720496|Principal Investigator|Haifeng Lin|The Second Affiliated Hospital of Hainan Medical University
+31584977|NCT03710421|Principal Investigator|Myo Htut|City of Hope Medical Center
+31240468|NCT01897415|Principal Investigator|Gregory Beatty, MD|Abramson Cancer Center at Penn Medicine
+31585298|NCT03919526|Principal Investigator|Xianmin Song, M.D.|Shanghai General Hospital, Shanghai Jiao Tong University School of Medicine
+31585301|NCT05488132|Principal Investigator|Kailin Xu, M.D., Ph.D.|The Affiliated Hospital of Xuzhou Medical University
+31585328|NCT03265106|Study Director|ZHONG HUA YANG|Shenzhen BinDeBio Ltd.
+31585361|NCT03262298|Principal Investigator|Liangding Chen, M.D.|Affiliated Hospital to Academy of Military Medical Sciences
+31585689|NCT05211557|Study Director|Junnian Zheng, M.D., Ph.D.|The Affiliated Hospital of Xuzhou Medical University, Xuzhou Medical University
+31585690|NCT05211557|Principal Investigator|Longzhen Zhang, M.D., Ph.D.|The Affiliated Hospital of Xuzhou Medical University
+31585691|NCT05211557|Principal Investigator|Gang Wang, Ph.D.|Xuzhou Medical University
+31585699|NCT05477446|Principal Investigator|ZHAO Wang, MD|Beijing Friendship Hospital
+31585884|NCT03222674|Principal Investigator|Lung-Ji Chang|Shenzhen Geno-Immune Medical Institute
+31240947|NCT05123001|Principal Investigator|Surbhi Sidana|Stanford University
+31586203|NCT03208556|Principal Investigator|Jun Zhu, MD|Peking University Cancer Hospital & Institute
+31586204|NCT03208556|Study Director|Zhitao Ying, MD|Peking University Cancer Hospital & Institute
+31586205|NCT03208556|Study Director|Xiaoyu Xiang, PhD|Marino Biotechnology Co., Ltd.
+31241030|NCT05577000|Principal Investigator|Thomas Martin, MD|University of California, San Francisco
+31586314|NCT02303821|Study Director|MD|Amgen
+31506196|NCT05099237|Principal Investigator|Dr Anthony Wilson|Manchester University NHS Foundation Trust
+31586545|NCT05194709|Principal Investigator|Peihua P Lu, MD|Wuxi People's Hospital
+31241148|NCT04767308|Principal Investigator|Jianfeng Zhou, PhD, MD|Huazhong University of Science and Technology
+31586738|NCT02439788|Principal Investigator|Andras A Heczey, MD|Baylor College of Medicine - Texas Children's Hospital
+31587012|NCT03182816|Study Chair|Qijun Qian, Ph.D|Shanghai Cell Therapy Research Institute
+31587013|NCT03182816|Study Chair|Huajun Jin, Ph.D|Shanghai Cell Therapy Research Institute
+31587014|NCT03182816|Study Director|Zhiwei Zhang, Ph.D|Shanghai Cell Therapy Research Institute
+31587015|NCT03182816|Study Director|Yan Sun|Shanghai Cell Therapy Research Institute
+31587016|NCT03182816|Principal Investigator|Jiangtao Wang|Ningbo No.5 Hospital(Ningbo Cancer Hospital)
+31587026|NCT03185468|Principal Investigator|Lung-Ji Chang, PhD|Shenzhen Geno-Immune Medical Institute
+31587266|NCT02706392|Principal Investigator|David Maloney|Fred Hutch/University of Washington Cancer Consortium
+31587270|NCT02416466|Principal Investigator|Steven C Katz, MD|Roger Williams Medical Center
+31392668|NCT05594797|Principal Investigator|Juan Du, Ph.D.|Shanghai Changzheng Hospital
+31392669|NCT05594797|Principal Investigator|Songfu Jiang, Professor|First Affiliated Hospital of Wenzhou Medical University
+31392691|NCT02933775|Principal Investigator|Fangyuan Chen, MD|RenJi Hospital
+31392759|NCT05467254|Principal Investigator|He Huang, MD|The first hospital affiliated Zhejiang University
+31588050|NCT02535364|Study Director|Nikolaus Trede, MD, PhD|Juno Therapeutics, Inc.
+31588183|NCT03070327|Principal Investigator|Sham Mailankody, MD|Memorial Sloan Kettering Cancer Center
+31392960|NCT05467202|Principal Investigator|He Huang, MD|The First Affiliated Hospital, Zhejiang University
+31242563|NCT05287165|Principal Investigator|Lin Shen, Ph.D|Peking University Cancer Hospital & Institute
+31300483|NCT05418088|Principal Investigator|Sumithira Vasu, MD|Ohio State University Comprehensive Cancer Center
+31300639|NCT03098355|Principal Investigator|Li-hua Yang, Ph.D.|Southern Medical University, China
+31300640|NCT03098355|Study Director|Lung-Ji Chang, Ph.D.|Shenzhen Geno-Immune Medical Institute
+31243201|NCT03241940|Principal Investigator|Crystal Mackall|Stanford University
+31243202|NCT03233854|Principal Investigator|Lori Muffly, MD, MS|Stanford University
+31393529|NCT04206943|Study Director|Ercument Ovali, MD|Director
+31243264|NCT00085930|Principal Investigator|Andras A Heczey, MD|Baylor College of Medicine
+31243377|NCT04766840|Principal Investigator|Xiaojun Huang, MD|Peking University People's Hospital
+31393675|NCT05562024|Principal Investigator|Qiang Zhao, Doctor|Tianjin Medical University Cancer Institute and Hospital
+31393676|NCT05562024|Principal Investigator|Jingfu Wang, Doctor|Shandong Cancer Hospital and Institute
+31589140|NCT03672305|Study Chair|Guozhong Ji, archiater|Second affiliated hospital of nanjing medical university
+31589437|NCT03473457|Principal Investigator|Yanjie He|Zhujiang Hospital
+31589513|NCT05155215|Principal Investigator|Hongmei Jing, Ph.D|Peking University Third Hospital
+31604616|NCT03179007|Study Chair|Qijun Qian, Ph.D|Shanghai Cell Therapy Research Institute
+31604617|NCT03179007|Study Chair|Huajun Jin, Ph.D|Shanghai Cell Therapy Research Institute
+31604618|NCT03179007|Study Director|Zhiwei Zhang, Ph.D|Shanghai Cell Therapy Research Institute
+31604619|NCT03179007|Study Director|Yan Sun|Shanghai Cell Therapy Research Institute
+31604620|NCT03179007|Principal Investigator|Jiangtao Wang|Ningbo No.5 Hospital(Ningbo Cancer Hospital)
+31589615|NCT03672851|Principal Investigator|Ai-Li He, MD, PhD|Second Affiliated Hospital of Xi'an Jiaotong University
+31589895|NCT04684563|Principal Investigator|Jakub Svoboda, MD|University of Pennsylvania
+31244977|NCT03086954|Principal Investigator|Jifeng Feng, Professor|Director of medical oncology
+31508511|NCT03890198|Principal Investigator|Enxiao Li, MD,PhD|First Affiliated Hospital Xi'an Jiaotong University
+31508530|NCT03881774|Study Chair|Yongping Song, Dr.|Henan Cancer Hospital
+31590497|NCT03664661|Study Chair|Yongping Song, M.D|Henan Cancer Hospital
+31302318|NCT03761056|Study Director|Kite Study Director|Kite, A Gilead Company
+31395437|NCT05664217|Study Director|Study Director|Nektar Therapeutics
+31395454|NCT05621291|Principal Investigator|Nirali N Shah, M.D.|National Cancer Institute (NCI)
+31395604|NCT04960579|Study Director|Rajesh Belani, M.D.|Vice President, Clinical Development
+31604628|NCT02761915|Principal Investigator|John Anderson, Prof|University College London Institute of Child Health & Great Ormond Street Hospital
+31395687|NCT04530565|Principal Investigator|Yishai Ofran|ECOG-ACRIN Cancer Research Group
+31590677|NCT03658655|Principal Investigator|Qin Huang, Doctor|Changhai houspital
+31395743|NCT04099797|Principal Investigator|Bilal Omer, MD|Baylor College of Medicine
+31395748|NCT04013802|Principal Investigator|John Craddock, MD|Baylor College of Medicine
+31395845|NCT02830724|Principal Investigator|James C Yang, M.D.|National Cancer Institute (NCI)
+31396167|NCT04639739|Study Chair|Xi Zhang|Xinqiao Hospital of Chongqing
+31396683|NCT02930993|Principal Investigator|Jinwen Sun, MD|China Meitan General Hospital
+31509465|NCT03448978|Study Director|Metin Kurtoglu, MD, PhD|Cartesian Therapeutics
+31591336|NCT02529813|Principal Investigator|Partow Kebriaei|M.D. Anderson Cancer Center
+31591679|NCT03649529|Principal Investigator|Haifeng Lin|The Second Affiliated Hospital of Hainan Medical University
+31397625|NCT04665063|Principal Investigator|Baoen Shan, PhD & MD|Hebei Medical University Fourth Hospital
+31397626|NCT04665063|Principal Investigator|Lihong Liu, PhD & MD|Hebei Medical University Fourth Hospital
+31591823|NCT03615313|Study Chair|Qijun Qian, PhD|Shanghai Cell Therapy Research Institute
+31591824|NCT03615313|Study Chair|Huajun Jin, PhD|Shanghai Cell Therapy Research Institute
+31591825|NCT03615313|Principal Investigator|Qing Xu, PhD|Shanghai 10th People's Hospital
+31591826|NCT03615313|Study Director|Zhiwei Zhang, PhD|Shanghai Cell Therapy Research Institute
+31591827|NCT03615313|Study Director|Yan Sun|Shanghai Cell Therapy Research Institute
+31591828|NCT03615313|Study Director|Huimei Li, PhD|Shanghai Cell Therapy Research Institute
+31591829|NCT03615313|Principal Investigator|Juemin Fang, PhD|Shanghai 10th People's Hospital
+31591830|NCT03615313|Principal Investigator|Song Gao, PhD|Shanghai 10th People's Hospital
+31591831|NCT03615313|Principal Investigator|Xianling Guo|Shanghai 10th People's Hospital
+31591832|NCT03615313|Principal Investigator|Hui Wang|Shanghai 10th People's Hospital
+31591833|NCT03615313|Principal Investigator|Zhongzheng Zhu|Shanghai 10th People's Hospital
+31591834|NCT03615313|Principal Investigator|Jianhua Chen|Shanghai 10th People's Hospital
+31510039|NCT05170568|Principal Investigator|Mingzhi Zhang, Doctor|The First Affiliated Hospital of Zhengzhou University
+31510040|NCT05170568|Principal Investigator|Xiaojun Huang, Doctor|Peking University People's Hospital
+31510041|NCT05170568|Principal Investigator|Heng Mei, Doctor|Union Hospital, affiliated with TongJi Medical College, HuaZhong University of Science and Technology
+31510042|NCT05170568|Principal Investigator|Dehui Zou, Doctor|Hematology Hospital of Chinese Academy of Medical Sciences (Hematology Research Center of Chinese Academy of Medical Sciences)
+31510043|NCT05170568|Principal Investigator|He Huang, Doctor|Zhejiang University
+31398517|NCT03455972|Study Chair|depei wu|The First Affiliated Hospital of Soochow University
+31592262|NCT03612739|Study Director|Frederic Lehmann, MD|Celyad SA
+31398781|NCT04626765|Principal Investigator|Jianmin Luo, PhD&MD|The Second Hospital of Hebei Medical University
+31398788|NCT04626726|Principal Investigator|Jianmin Luo, PhD&MD|The Second Hospital of Hebei Medical University
+31308740|NCT05239143|Study Director|Rajesh Belani, M.D.|Sponsor Executive Medical Director
+31308877|NCT04205409|Principal Investigator|Andrew Cowan|Fred Hutch/University of Washington Cancer Consortium
+31398894|NCT02903810|Principal Investigator|Jiang Cao, Doctor|Xuzhou Medical University
+31592400|NCT03146234|Principal Investigator|Bo Zhai, MD|RenJi Hospital
+31399216|NCT04890236|Principal Investigator|Edmund K Waller, MD, PhD|Emory University Hospital/Winship Cancer Institute
+31399466|NCT04601181|Principal Investigator|Xingbing Wang, M.D.|The First Affiliated Hospital of USTC (Anhui Provincial Hospital)
+31592673|NCT03125577|Principal Investigator|Lung-Ji Chang, PhD|Shenzhen Geno-Immune Medical Institute
+31399840|NCT04626752|Principal Investigator|Jianmin Luo, PhD&MD|The Second Hospital of Hebei Medical University
+31309349|NCT05568680|Study Director|Laura Johnson, PhD|Verismo Therapeutics
+31309500|NCT03548207|Study Director|Janssen Research & Development, LLC Clinical Trial|Janssen Research & Development, LLC
+31510710|NCT05239702|Principal Investigator|He Huang, PhD|First Affiliated Hospital of Zhejiang University
+31593156|NCT03142646|Principal Investigator|hui liu, MD|Beijing Hospital
+31311401|NCT05028933|Principal Investigator|Weijia Fang|The First Affiliated Hospital, Zhejiang University
+31311451|NCT03975907|Principal Investigator|Wenming CHEN, MD|Beijing Chao Yang Hospital
+31311452|NCT03975907|Principal Investigator|Zhengzheng FU, MD|The First Affiliated Hospital of Soochow University
+31593644|NCT05396300|Principal Investigator|Weijia Fang, M.D|The First Affiliated Hospital, Zhejiang University
+31593665|NCT05089266|Principal Investigator|jie WANG|National Cancer Center Cancer Hospital Chinese Academy of Medical Sciences
+31593692|NCT04768608|Principal Investigator|Weijia Fang, MD|The First Affiliated Hospital, Zhejiang University
+31593706|NCT04652219|Principal Investigator|Weijia Fang|First Affiliated Hospital,Zhejiang University
+31593761|NCT03618381|Study Chair|Katie Albert, MD|Seattle Children's Hospital
+31402410|NCT04546893|Principal Investigator|Peihua Lu, PhD&MD|Hebei Yanda Ludaopei Hospital
+31402495|NCT04539444|Study Chair|Depei Wu, M.D.|The First Affiliated Hospital of Soochow University
+31314860|NCT05596266|Principal Investigator|Zhiguo Chen, PhD|Xuanwu Hospital, Beijing
+31314861|NCT05596266|Principal Investigator|Huyong Zheng, MD, PhD|Baoding Children's Hospital; Beijing Children's Hospital, Capital Medical University
+31314931|NCT05137275|Principal Investigator|Jin Li, PhD|Shanghai East Hospital
+31402934|NCT04553393|Principal Investigator|Weidong Han, M.D.|Chinese PLA Hospital
+31594116|NCT04545762|Principal Investigator|C. Babis Andreadis, MD|University of California, San Francisco
+31594135|NCT04419909|Principal Investigator|Stephen J Schuster|University of Pennsylvania
+31403503|NCT04537442|Principal Investigator|Hui Liu, MD, PhD|Beijing Hospital
+31403651|NCT04534634|Principal Investigator|xiaowen tang, Ph.D|The First Affiliated Hospital of Soochow University
+31316588|NCT04359784|Principal Investigator|Jordan Gauthier|Fred Hutch/University of Washington Cancer Consortium
+31594530|NCT02850536|Principal Investigator|Steven C. Katz, MD|Roger Williams Medical Center
+31594531|NCT02850536|Principal Investigator|Richard Schulick, MD|University of Colorado, Denver
+31404443|NCT03853616|Principal Investigator|Claudia Rössig, Prof. Dr.|Univeristy Hospital Muenster
+31511168|NCT05620706|Principal Investigator|Li Yu, Dr|Shenzhen University General Hospital
+31407562|NCT01218867|Principal Investigator|Steven A Rosenberg, M.D.|National Cancer Institute (NCI)
+31407768|NCT04317885|Principal Investigator|Aibin Liang, MD, Ph.D|Shanghai Tongji Hospital, Tongji University School of Medicine
+31408291|NCT02792114|Principal Investigator|Shanu Modi, MD|Memorial Sloan Kettering Cancer Center
+31595932|NCT03327285|Principal Investigator|Xiaojun Huang|Peking University People's Hospital
+31409145|NCT04264039|Principal Investigator|Xi Zhang, MD|Xinqiao Hospital of Chongqing
+31596166|NCT03321123|Principal Investigator|Jing Chen, MD,PhD|Shanghai Children Medicine Center
+31409465|NCT04844866|Principal Investigator|Peter Borchmann, Prof. Dr.|University Hospital Cologne
+31409468|NCT04815356|Principal Investigator|Robert J Kreitman, M.D.|National Cancer Institute (NCI)
+31409499|NCT04483778|Principal Investigator|Navin Pinto, MD|Seattle Children's Hospital
+31409837|NCT05625594|Principal Investigator|Tanya Siddiqi|City of Hope Medical Center
+31410145|NCT00840853|Principal Investigator|Carlos A Ramos, MD|Baylor College of Medicine
+31411698|NCT02862028|Study Chair|Naiyan Han|Shanghai International Medical Center
+31411872|NCT05199961|Principal Investigator|Gretchen McNally, PhD|The Ohio State University Comprehensive Cancer Center
+31511420|NCT03778346|Principal Investigator|Bingmu Fang, M.D|Lishui Country People's Hospital
+31412544|NCT02782351|Principal Investigator|KaiLin Xu, MD. Ph.D.|Xuzhou Medical University
+31412594|NCT05340829|Principal Investigator|He Huang, Doctor|First hospital affiliated Zhejiang University
+31412656|NCT04975555|Principal Investigator|Mayur S Narkhede|University of Alabama at Birmingham
+31596809|NCT02981628|Principal Investigator|Maureen M O'Brien|Children's Oncology Group
+31596886|NCT05334823|Principal Investigator|Tianyou Wang, M.D. Ph.D|Beijing Children's Hospital
+31596887|NCT05334823|Principal Investigator|Liang Huang, M.D. Ph.D|Tongji Hospital affiliated to Tongji Medical College of Huazhong University of Science and Technology
+31413645|NCT04860817|Principal Investigator|Sanbin Wang, Doctor|920th Hospital of Joint Logistics Support Force of People's Liberation Army of China
+31326689|NCT05225363|Principal Investigator|Lorna Rodriguez|City of Hope Medical Center
+31326872|NCT04074330|Study Director|Study Director|Takeda
+31414922|NCT04264078|Principal Investigator|Xi Zhang, MD|Xinqiao Hospital of Chongqing
+31415540|NCT04205838|Principal Investigator|John M Timmerman, MD|UCLA / Jonsson Comprehensive Cancer Center
+31597545|NCT03302403|Principal Investigator|Mengtao Zhou, MD|First Affiliated Hospital of Wenzhou Medical University
+31597546|NCT03302403|Principal Investigator|Kang Yu, MD|First Affiliated Hospital of Wenzhou Medical University
+31597547|NCT03302403|Principal Investigator|Songfu Jiang, MD|First Affiliated Hospital of Wenzhou Medical University
+31416055|NCT04844086|Principal Investigator|Shangru Wu, PhD|National Taiwan University Hospital
+31416634|NCT05252572|Principal Investigator|He Huang, PhD|First Affiliated Hospital of Zhejiang University
+31417246|NCT02846584|Principal Investigator|Jieping Chen, MD,PhD|Southwest Hospital, China
+31417333|NCT00902044|Principal Investigator|Nabil M Ahmed, MD|Baylor College of Medicine - Texas Children's Hospital
+31417441|NCT02842138|Principal Investigator|Jun Zhu, MD|Peking University Cancer Hospital & Institute
+31417688|NCT04156243|Principal Investigator|Hongyu Zhang, MD, PhD|Peking University Shenzhen Hospital
+31417689|NCT04156243|Principal Investigator|Fang Liu, MD, PhD|The General Hospital of Western Theater Command
+31417913|NCT05016778|Principal Investigator|Huang He|Hematology
+31598495|NCT04935580|Principal Investigator|Juan Du, MD|Shanghai Changzheng Hospital
+31418222|NCT02822326|Principal Investigator|Jianyu Weng, Dr.|Guangdong Provincial People's Hospital
+31418223|NCT02822326|Principal Investigator|Peilong Lai, Dr.|Guangdong Provincial People's Hospital
+31331498|NCT04693676|Principal Investigator|Jie Jin, PhD&MD|First Affiliated Hospital of Zhejiang University
+31331591|NCT03117751|Principal Investigator|Hiroto Inaba, MD, PhD|St. Jude Children's Research Hospital
+31331616|NCT01840566|Principal Investigator|Mark Geyer, MD|Memorial Sloan Kettering Cancer Center
+31420111|NCT04204161|Study Director|Yang Zhonghua|Shenzhen BinDeBio Tech Co.,Ltd
+31420570|NCT02728882|Principal Investigator|Kangsheng Gu, PI|Chief physician
+31420692|NCT02713984|Principal Investigator|Cheng Qian, MD,PhD|Southwest Hospital, China
+31421072|NCT05333302|Study Director|Olga Aleinikova, MD, Prof|Belarusian Research Center for Pediatric Oncology, Hematology and Immunology
+31422169|NCT02685670|Principal Investigator|Zhi Cheng, M.D.|The Second Affiliated Hospital of Henan University of Traditional Chinese Medicine
+31599499|NCT03252171|Study Chair|Lizhi Niu, PhD|Fuda Cancer Hospital
+31599955|NCT05354375|Study Director|Junnian Zheng, M.D/Ph.D|The Affiliated Hospital of Xuzhou Medical University
+31599956|NCT05354375|Principal Investigator|Hailong Li, M.D/Ph.D|The Affiliated Hospital of Xuzhou Medical University
+31599957|NCT05354375|Principal Investigator|Qing Zhang, Ph.D|Xuzhou Medical University
+31600252|NCT04855253|Principal Investigator|Veronika Bachanova, MD|Masonic Cancer Center, University of Minnesota
+31600276|NCT04715191|Principal Investigator|Andras Heczey, MD|Baylor College of Medicine
+31600277|NCT04715191|Principal Investigator|David Steffin, MD|Baylor College of Medicine
+31600305|NCT04377932|Principal Investigator|Andras Heczey, MD|Baylor College of Medicine
+31600306|NCT04377932|Principal Investigator|David Steffin, MD|Baylor College of Medicine
+31600320|NCT04240808|Study Director|Michael Verneris, MD|University of Colorado Denver, Anschutz Medical Campus
+31600321|NCT04240808|Principal Investigator|Manali Kamdar, MD|University of Colorado Denver, Anschutz Medical Campus
+31600341|NCT04049383|Principal Investigator|Julie-An Talano, MD|Medical College of Wisconsin
+31422755|NCT04169932|Study Chair|Yi Yao, ph.D|Shanghai Longyao Bio-Tech Co., Ltd.
+31423016|NCT02652910|Principal Investigator|Bo Zhu, M.D., Ph.D.|Department of Cancer of Xinqiao Hospital
+31423495|NCT04163302|Study Chair|Quanshun Wang|Hainan Hospital of Chinese PLA General Hospital
+31423496|NCT04163302|Study Director|Wengshuai Zheng|Hainan Hospital of Chinese PLA General Hospital
+31423497|NCT04163302|Principal Investigator|Lixun Guan|Hainan Hospital of Chinese PLA General Hospital
+31423498|NCT04163302|Principal Investigator|Lu Wang|Hainan Hospital of Chinese PLA General Hospital
+31423499|NCT04163302|Principal Investigator|Yuanyuan Xu|Hainan Hospital of Chinese PLA General Hospital
+31423500|NCT04163302|Principal Investigator|Yalei Hu|Hainan Hospital of Chinese PLA General Hospital
+31423501|NCT04163302|Principal Investigator|Zhengyang Gu|Hainan Hospital of Chinese PLA General Hospital
+31423565|NCT04289220|Study Director|Zongliu Hou|Kunming Yan'an Hospital
+31513884|NCT05359211|Principal Investigator|Alexandre Hirayama|Fred Hutch/University of Washington Cancer Consortium
+31424340|NCT03624036|Study Director|Kite Study Director|Kite, A Gilead Company
+31514047|NCT04889716|Principal Investigator|Stephen J. Schuster, MD|University of Pennsylvania
+31514210|NCT04422912|Study Chair|Cabaletta Bio|Cabaletta Bio
+31514438|NCT03277729|Principal Investigator|Mazyar Shadman|Fred Hutch/University of Washington Cancer Consortium
+31425017|NCT03275493|Principal Investigator|Xiaowen Tang, PhD|The First Affiliated Hospital of Soochow University
+31514771|NCT05352828|Principal Investigator|Helen Heslop, MD|Baylor College of Medicine
+31514772|NCT05352828|Principal Investigator|Sairah Ahmed, MD|M.D. Anderson Cancer Center
+31514849|NCT04690595|Principal Investigator|Ibrahim Aldoss, MD|City of Hope Medical Center
+31515072|NCT05632380|Principal Investigator|Dehui Zou, M.D., PH.D.|Institute of Hematology & Blood Diseases Hospital
+31601582|NCT03060356|Principal Investigator|Tara C. Mitchell, MD|University of Pennaylvania
+31601824|NCT03559439|Principal Investigator|Ligen Liu|Shanghai Tong Ren Hospital
+31601943|NCT04934774|Principal Investigator|Hongyu Zhang|Peking University Shenzhen Hospital, China
+31602580|NCT04888442|Principal Investigator|Jianfeng Zhou, M.D. Ph.D|Tongji Hospital affiliated to Tongji Medical College of Huazhong University of Science and Technology
+31604542|NCT02706405|Principal Investigator|Jordan Gauthier|Fred Hutch/University of Washington Cancer Consortium

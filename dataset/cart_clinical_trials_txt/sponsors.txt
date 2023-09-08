@@ -1,0 +1,1868 @@
+id|nct_id|agency_class|lead_or_collaborator|name
+51910512|NCT05451212|INDUSTRY|lead|Cabaletta Bio
+51910663|NCT05077527|NETWORK|lead|AIDS Malignancy Consortium
+51910664|NCT05077527|NIH|collaborator|National Cancer Institute (NCI)
+51910665|NCT05077527|OTHER|collaborator|Memorial Sloan Kettering Cancer Center
+51910666|NCT05077527|INDUSTRY|collaborator|Kite, A Gilead Company
+51910896|NCT04340154|OTHER|lead|Beijing Boren Hospital
+51911012|NCT03635632|OTHER|lead|Baylor College of Medicine
+51911013|NCT03635632|OTHER|collaborator|Center for Cell and Gene Therapy, Baylor College of Medicine
+51911014|NCT03635632|OTHER|collaborator|The Methodist Hospital Research Institute
+51911015|NCT03635632|OTHER|collaborator|Cancer Prevention Research Institute of Texas
+51834071|NCT04700319|INDUSTRY|lead|PersonGen BioTherapeutics (Suzhou) Co., Ltd.
+51834072|NCT04700319|OTHER_GOV|collaborator|Anhui Provincial Hospital
+51614308|NCT05370430|INDUSTRY|lead|PeproMene Bio, Inc.
+51614309|NCT05370430|OTHER|collaborator|City of Hope Medical Center
+51614575|NCT04381741|OTHER|lead|Second Affiliated Hospital, School of Medicine, Zhejiang University
+51761935|NCT03765177|OTHER|lead|Ottawa Hospital Research Institute
+51762623|NCT03682744|INDUSTRY|lead|Sorrento Therapeutics, Inc.
+51762956|NCT05638828|OTHER|lead|Shen Lin
+51617819|NCT02980315|OTHER|lead|The Second Hospital of Nanjing Medical University
+51618303|NCT03030001|INDUSTRY|lead|Ningbo Cancer Hospital
+51618464|NCT05583201|OTHER|lead|jianming xu
+51618465|NCT05583201|OTHER|collaborator|KAEDI
+51763439|NCT05618041|INDUSTRY|lead|Hebei Senlang Biotechnology Inc., Ltd.
+51619192|NCT05241392|OTHER|lead|Beijing Tiantan Hospital
+52060407|NCT05103631|OTHER|lead|Baylor College of Medicine
+52060408|NCT05103631|OTHER|collaborator|Center for Cell and Gene Therapy, Baylor College of Medicine
+52060409|NCT05103631|OTHER|collaborator|The Methodist Hospital Research Institute
+52060410|NCT05094206|OTHER|lead|Medical College of Wisconsin
+52060411|NCT05094206|INDUSTRY|collaborator|Miltenyi Biomedicine GmbH
+51764701|NCT05641428|OTHER|lead|University Medical Center Groningen
+51764702|NCT05641428|OTHER|collaborator|Stichting Hemato-Oncologie voor Volwassenen Nederland
+51621589|NCT05509530|OTHER|lead|Xuzhou Medical University
+52060510|NCT04633148|INDUSTRY|lead|AvenCell Europe GmbH
+52060511|NCT04633148|UNKNOWN|collaborator|PHARMALOG Institut für klinische Forschung GmbH
+52060542|NCT04464200|OTHER|lead|Memorial Sloan Kettering Cancer Center
+52060543|NCT04464200|INDUSTRY|collaborator|Takeda
+52060546|NCT04442022|INDUSTRY|lead|Karyopharm Therapeutics Inc
+51622734|NCT04544592|OTHER|lead|University of Colorado, Denver
+51622735|NCT04544592|NIH|collaborator|National Cancer Institute (NCI)
+52060578|NCT04196491|INDUSTRY|lead|Celgene
+51765963|NCT02958397|OTHER|lead|Southwest Hospital, China
+51624829|NCT04394650|INDUSTRY|lead|Juno Therapeutics, a Subsidiary of Celgene
+51624859|NCT03081910|OTHER|lead|Baylor College of Medicine
+51624860|NCT03081910|OTHER|collaborator|Center for Cell and Gene Therapy, Baylor College of Medicine
+51624861|NCT03081910|OTHER|collaborator|The Methodist Hospital Research Institute
+51625941|NCT04605666|OTHER|lead|Nanfang Hospital, Southern Medical University
+51625946|NCT04531046|OTHER|lead|The Lymphoma Academic Research Organisation
+52060679|NCT03448393|NIH|lead|National Cancer Institute (NCI)
+51628411|NCT05621096|OTHER|lead|University of Nebraska
+51628412|NCT05621096|INDUSTRY|collaborator|Bristol-Myers Squibb
+51629701|NCT05070156|OTHER|lead|Tongji University
+51629702|NCT05070156|INDUSTRY|collaborator|Shanghai Pharmaceuticals Holding Co., Ltd
+51629719|NCT05013372|OTHER|lead|Peking University People's Hospital
+51629729|NCT04214886|OTHER|lead|Loyola University
+51629730|NCT04214886|UNKNOWN|collaborator|Leukemia Research Foundation
+51629760|NCT05621486|OTHER|lead|Shanghai East Hospital
+51629761|NCT05621486|INDUSTRY|collaborator|Bio4T2 LLC
+52210421|NCT01953900|OTHER|lead|Baylor College of Medicine
+52210422|NCT01953900|NIH|collaborator|National Cancer Institute (NCI)
+52210423|NCT01953900|OTHER|collaborator|Center for Cell and Gene Therapy, Baylor College of Medicine
+52210424|NCT01953900|OTHER|collaborator|The Methodist Hospital Research Institute
+51768744|NCT05432401|INDUSTRY|lead|PersonGen BioTherapeutics (Suzhou) Co., Ltd.
+51632930|NCT05431608|OTHER|lead|Memorial Sloan Kettering Cancer Center
+51632952|NCT05397496|INDUSTRY|lead|Novartis Pharmaceuticals
+52210481|NCT03528421|INDUSTRY|lead|Beijing Immunochina Medical Science & Technology Co., Ltd.
+52210482|NCT03528421|OTHER|collaborator|Peking University Cancer Hospital & Institute
+51769435|NCT05576181|INDUSTRY|lead|Fundamenta Therapeutics, Ltd.
+51769436|NCT05576181|OTHER|collaborator|The First Affiliated Hospital of Zhengzhou University
+51769454|NCT05640713|OTHER_GOV|lead|Henan Cancer Hospital
+51769455|NCT05640713|INDUSTRY|collaborator|Fundamenta Therapeutics, Ltd.
+51634906|NCT02663297|OTHER|lead|UNC Lineberger Comprehensive Cancer Center
+51634907|NCT02663297|NIH|collaborator|National Heart, Lung, and Blood Institute (NHLBI)
+51634940|NCT02159495|OTHER|lead|City of Hope Medical Center
+51634941|NCT02159495|NIH|collaborator|National Cancer Institute (NCI)
+51634942|NCT02159495|INDUSTRY|collaborator|Mustang Bio, Inc.
+51636098|NCT03013712|OTHER|lead|First Affiliated Hospital of Chengdu Medical College
+51770470|NCT03960060|INDUSTRY|lead|Shanghai PerHum Therapeutics Co., Ltd.
+51770471|NCT03960060|OTHER|collaborator|Shanghai Zhongshan Hospital
+51637102|NCT05544526|OTHER|lead|University College, London
+51637442|NCT03602612|NIH|lead|National Cancer Institute (NCI)
+51638708|NCT02050347|OTHER|lead|Baylor College of Medicine
+51638709|NCT02050347|OTHER|collaborator|Center for Cell and Gene Therapy, Baylor College of Medicine
+51638710|NCT02050347|OTHER|collaborator|The Methodist Hospital Research Institute
+52061811|NCT03287804|INDUSTRY|lead|Autolus Limited
+51638990|NCT03287817|INDUSTRY|lead|Autolus Limited
+51639171|NCT05445765|INDUSTRY|lead|iCell Gene Therapeutics
+51639172|NCT05445765|UNKNOWN|collaborator|iCar Bio Therapeutics
+51640154|NCT05141253|OTHER|lead|Tongji Hospital
+51640155|NCT05141253|UNKNOWN|collaborator|Shanghai IASO Biotechnology Co., Ltd
+51772292|NCT01818323|OTHER|lead|King's College London
+51772293|NCT01818323|OTHER|collaborator|Guy's and St Thomas' NHS Foundation Trust
+51641500|NCT03029273|OTHER|lead|Guangzhou Institute of Respiratory Disease
+51641501|NCT03029273|UNKNOWN|collaborator|Xiangxue Life Science Research Center
+51641502|NCT03029273|INDUSTRY|collaborator|Guangdong Xiangxue Precision Medical Technology Co., Ltd.
+51641503|NCT03029273|OTHER|collaborator|Xiangxue Pharmaceutical
+52210829|NCT03927261|INDUSTRY|lead|Precigen, Inc
+51642080|NCT04499573|OTHER|lead|Federal Research Institute of Pediatric Hematology, Oncology and Immunology
+51642796|NCT04351022|OTHER|lead|The First Affiliated Hospital of Soochow University
+51642932|NCT04835519|OTHER|lead|Beijing Boren Hospital
+51644572|NCT02959151|INDUSTRY|lead|Shanghai GeneChem Co., Ltd.
+51644573|NCT02959151|OTHER|collaborator|Shanghai Cancer Hospital, China
+51644728|NCT05362331|OTHER|lead|University of California, San Francisco
+51774897|NCT05020444|OTHER|lead|Marcela V. Maus, M.D.,Ph.D.
+51775101|NCT04214392|OTHER|lead|City of Hope Medical Center
+51775102|NCT04214392|NIH|collaborator|National Cancer Institute (NCI)
+52211540|NCT04581473|INDUSTRY|lead|CARsgen Therapeutics Co., Ltd.
+52211541|NCT04581473|OTHER|collaborator|Peking University Cancer Hospital & Institute
+52211542|NCT04581473|OTHER|collaborator|Fudan University
+51645524|NCT04827745|OTHER|lead|University of Maryland, Baltimore
+51645700|NCT02445222|INDUSTRY|lead|Novartis Pharmaceuticals
+51645701|NCT02445222|OTHER|collaborator|University of Pennsylvania
+51645767|NCT02976857|INDUSTRY|lead|Cellular Biomedicine Group Ltd.
+51645768|NCT02976857|OTHER|collaborator|The First Affiliated Hospital with Nanjing Medical University
+51645908|NCT04003649|OTHER|lead|City of Hope Medical Center
+51645909|NCT04003649|NIH|collaborator|National Cancer Institute (NCI)
+51646041|NCT02975687|OTHER|lead|Institute of Hematology & Blood Diseases Hospital
+51646042|NCT02975687|UNKNOWN|collaborator|Union Stem cell & gene engineering Co.LTD
+51646043|NCT02975687|INDUSTRY|collaborator|Juventas Cell Therapy Ltd.
+52063161|NCT03767751|OTHER|lead|Chinese PLA General Hospital
+51646824|NCT03430011|INDUSTRY|lead|Juno Therapeutics, a Subsidiary of Celgene
+51777634|NCT05432882|OTHER|lead|Shenzhen Geno-Immune Medical Institute
+51777684|NCT02958384|OTHER|lead|Southwest Hospital, China
+51648785|NCT04740203|OTHER|lead|Zhejiang University
+51648786|NCT04740203|INDUSTRY|collaborator|Yake Biotechnology Ltd.
+51648937|NCT00586391|OTHER|lead|Baylor College of Medicine
+51648938|NCT00586391|OTHER|collaborator|The Methodist Hospital Research Institute
+51648939|NCT00586391|OTHER|collaborator|Center for Cell and Gene Therapy, Baylor College of Medicine
+51649152|NCT05445011|OTHER|lead|Wuhan Union Hospital, China
+51649153|NCT05445011|INDUSTRY|collaborator|PersonGen BioTherapeutics (Suzhou) Co., Ltd.
+52212892|NCT03497533|INDUSTRY|lead|Timmune Biotech Inc.
+52212893|NCT03497533|OTHER|collaborator|Hunan Provincial People's Hospital
+51649833|NCT05326243|INDUSTRY|lead|Pell Bio-Med Technology Co., Ltd.
+51779384|NCT04727008|OTHER|lead|Sichuan University
+51911589|NCT04283006|OTHER|lead|He Huang
+51911590|NCT04283006|INDUSTRY|collaborator|Yake Biotechnology Ltd.
+52063691|NCT03751293|OTHER|lead|Hebei Yanda Ludaopei Hospital
+51650696|NCT03019055|OTHER|lead|Medical College of Wisconsin
+51650697|NCT03019055|OTHER|collaborator|Children's Hospital and Health System Foundation, Wisconsin
+51782392|NCT02963038|INDUSTRY|lead|Hebei Senlang Biotechnology Inc., Ltd.
+51782393|NCT02963038|OTHER|collaborator|The Second Hospital of Hebei Medical University
+51782951|NCT02968472|OTHER|lead|The First People's Hospital of Yunnan
+51782952|NCT02968472|OTHER|collaborator|Shenzhen Geno-Immune Medical Institute
+51652813|NCT05620342|OTHER|lead|UNC Lineberger Comprehensive Cancer Center
+51652814|NCT05620342|INDUSTRY|collaborator|Bellicum Pharmaceuticals
+51653325|NCT05257083|NETWORK|lead|European Myeloma Network
+51653326|NCT05257083|INDUSTRY|collaborator|Janssen Research & Development, LLC
+51653611|NCT05032820|OTHER|lead|Marcelo Pasquini, MD
+51653612|NCT05032820|NIH|collaborator|National Heart, Lung, and Blood Institute (NHLBI)
+51653613|NCT05032820|NETWORK|collaborator|Blood and Marrow Transplant Clinical Trials Network
+51653614|NCT05032820|NIH|collaborator|National Cancer Institute (NCI)
+51653615|NCT05032820|OTHER|collaborator|National Marrow Donor Program
+51653616|NCT05032820|UNKNOWN|collaborator|Celgene a wholly owned subsidiary of BMS
+51653665|NCT05000450|INDUSTRY|lead|Allogene Therapeutics
+52064436|NCT04077866|OTHER|lead|Second Affiliated Hospital, School of Medicine, Zhejiang University
+52064437|NCT04077866|UNKNOWN|collaborator|Ningbo Yinzhou People's Hospital
+52064438|NCT04077866|OTHER|collaborator|Huizhou Municipal Central Hospital
+52064439|NCT04077866|UNKNOWN|collaborator|BoYuan RunSheng Pharma (Hangzhou) Co., Ltd.
+51653795|NCT04855136|INDUSTRY|lead|Celgene
+51653827|NCT04792489|INDUSTRY|lead|Miltenyi Biomedicine GmbH
+51654102|NCT04467853|OTHER|lead|Shanghai East Hospital
+51654103|NCT04467853|INDUSTRY|collaborator|Nanjing Legend Biotech Co.
+51654362|NCT04093596|INDUSTRY|lead|Allogene Therapeutics
+51654970|NCT02690545|OTHER|lead|UNC Lineberger Comprehensive Cancer Center
+51787033|NCT02958410|OTHER|lead|Southwest Hospital, China
+51787148|NCT04717999|INDUSTRY|lead|UWELL Biopharma
+51787252|NCT02965092|INDUSTRY|lead|Wuhan Sian Medical Technology Co., Ltd
+51787253|NCT02965092|OTHER|collaborator|Wuhan Union Hospital, China
+51787254|NCT02965092|OTHER|collaborator|Jingzhou Central Hospital
+51787255|NCT02965092|OTHER|collaborator|Xiangyang Central Hospital
+51787256|NCT02965092|UNKNOWN|collaborator|People Hospital Of Yichang
+51655698|NCT05577091|OTHER|lead|Beijing Tiantan Hospital
+51655699|NCT05577091|OTHER|collaborator|Beijing Neurosurgical Institute
+51655700|NCT05577091|INDUSTRY|collaborator|Tasly Pharmaceutical Group Co., Ltd
+51789531|NCT05518253|OTHER|lead|Weijia Fang, MD
+51789532|NCT05518253|INDUSTRY|collaborator|Chongqing Precision Biotech Co., Ltd
+51789578|NCT05489991|INDUSTRY|lead|Tceleron Therapeutics, Inc.
+51789604|NCT05468190|INDUSTRY|lead|Chongqing Precision Biotech Co., Ltd
+51789639|NCT05442515|NIH|lead|National Cancer Institute (NCI)
+51789668|NCT05420545|INDUSTRY|lead|Chongqing Precision Biotech Co., Ltd
+51789669|NCT05420519|INDUSTRY|lead|Chongqing Precision Biotech Co., Ltd
+51789690|NCT05400109|OTHER|lead|Changchun Deng, MD
+51657151|NCT05312411|OTHER|lead|Seattle Children's Hospital
+51657152|NCT05312411|UNKNOWN|collaborator|Umoja BioPharma, Inc.
+51657250|NCT05105152|OTHER|lead|Seattle Children's Hospital
+51657251|NCT05105152|INDUSTRY|collaborator|2seventy bio
+51790007|NCT05035407|NIH|lead|National Cancer Institute (NCI)
+51790043|NCT05003895|NIH|lead|National Cancer Institute (NCI)
+52065237|NCT05268172|OTHER|lead|Affiliated Hospital of Jiangnan University
+52065238|NCT05268172|OTHER|collaborator|Sichuan University
+52065239|NCT05268172|OTHER|collaborator|Zhejiang Provincial People's Hospital
+52065240|NCT05268172|OTHER|collaborator|Hunan Cancer Hospital
+52065241|NCT05268172|OTHER|collaborator|West China Hospital
+52065242|NCT05268172|OTHER|collaborator|Wuxi People's Hospital
+52065243|NCT05268172|OTHER|collaborator|Shenzhen Second People's Hospital
+51790451|NCT04420754|INDUSTRY|lead|AffyImmune Therapeutics, Inc.
+51790457|NCT04416984|INDUSTRY|lead|Allogene Therapeutics
+51790557|NCT04227275|INDUSTRY|lead|Tceleron Therapeutics, Inc.
+51790699|NCT04029038|OTHER|lead|M.D. Anderson Cancer Center
+51790700|NCT04029038|NIH|collaborator|National Cancer Institute (NCI)
+51657523|NCT04571138|OTHER|lead|Seattle Children's Hospital
+51657573|NCT04450069|OTHER|lead|Calibr, a division of Scripps Research
+51791217|NCT02315612|NIH|lead|National Cancer Institute (NCI)
+51657836|NCT03684889|OTHER|lead|Seattle Children's Hospital
+51657946|NCT03330691|OTHER|lead|Seattle Children's Hospital
+51657979|NCT03244306|OTHER|lead|Seattle Children's Hospital
+51657991|NCT03186118|OTHER|lead|Seattle Children's Hospital
+51658169|NCT02028455|OTHER|lead|Seattle Children's Hospital
+51658201|NCT01683279|OTHER|lead|Seattle Children's Hospital
+51792753|NCT05539430|INDUSTRY|lead|Legend Biotech USA Inc
+51658325|NCT03994705|INDUSTRY|lead|Cartesian Therapeutics
+51793302|NCT01853631|OTHER|lead|Baylor College of Medicine
+51793303|NCT01853631|OTHER|collaborator|Center for Cell and Gene Therapy, Baylor College of Medicine
+51793304|NCT01853631|OTHER|collaborator|The Methodist Hospital Research Institute
+51658568|NCT05651100|INDUSTRY|lead|Kecellitics Biotech Company Ltd
+51658569|NCT05651100|OTHER|collaborator|Hebei Yanda Ludaopei Hospital
+51658941|NCT05416554|OTHER|lead|Stanford University
+51794009|NCT04601831|OTHER|lead|University of Texas Southwestern Medical Center
+51794063|NCT04316624|OTHER|lead|Institute of Hematology & Blood Diseases Hospital
+51794064|NCT04316624|INDUSTRY|collaborator|Cellular Biomedicine Group Ltd.
+51794123|NCT04036019|OTHER|lead|Shanghai Tongji Hospital, Tongji University School of Medicine
+51794124|NCT04036019|INDUSTRY|collaborator|Cellular Biomedicine Group Ltd.
+52214420|NCT02443831|OTHER|lead|University College, London
+51660018|NCT05616468|OTHER|lead|The Affiliated Hospital of Xuzhou Medical University
+51660019|NCT05616468|UNKNOWN|collaborator|Guangzhou Bioresette Biomedical Technology Co., Ltd.
+52214498|NCT05202782|OTHER|lead|Northwestern University
+52214499|NCT05202782|NIH|collaborator|National Cancer Institute (NCI)
+52214590|NCT05191472|OTHER|lead|Alfred Chung, MD
+52214591|NCT05191472|INDUSTRY|collaborator|Merck Sharp & Dohme LLC
+51798235|NCT05373147|OTHER|lead|Shanghai Mengchao Cancer Hospital
+51798236|NCT05373147|INDUSTRY|collaborator|Shanghai Cell Therapy Group Co.,Ltd
+51662449|NCT02650999|OTHER|lead|Abramson Cancer Center at Penn Medicine
+51800073|NCT03085173|OTHER|lead|Memorial Sloan Kettering Cancer Center
+51800074|NCT03085173|INDUSTRY|collaborator|Juno Therapeutics, Inc.
+51662729|NCT05436223|INDUSTRY|lead|Hrain Biotechnology Co., Ltd.
+51662730|NCT05436223|OTHER|collaborator|Shanghai Zhongshan Hospital
+51801281|NCT04514029|OTHER|lead|Masonic Cancer Center, University of Minnesota
+51663242|NCT04186520|OTHER|lead|Medical College of Wisconsin
+51663517|NCT05349266|OTHER|lead|Zhejiang University
+51663537|NCT05336383|OTHER|lead|M.D. Anderson Cancer Center
+51663629|NCT04337606|OTHER|lead|Chinese PLA General Hospital
+51914694|NCT03744676|INDUSTRY|lead|Juno Therapeutics, a Subsidiary of Celgene
+51914695|NCT03744676|INDUSTRY|collaborator|Bristol-Myers Squibb
+51663856|NCT04336501|INDUSTRY|lead|Beijing Immunochina Medical Science & Technology Co., Ltd.
+52067532|NCT02186860|OTHER|lead|Affiliated Hospital to Academy of Military Medical Sciences
+51914826|NCT04162353|INDUSTRY|lead|iCell Gene Therapeutics
+51914827|NCT04162353|INDUSTRY|collaborator|iCAR Bio Therapeutics Ltd.
+51914828|NCT04162353|OTHER|collaborator|Peking University Shenzhen Hospital
+51914867|NCT04162119|OTHER|lead|Chinese PLA General Hospital
+51915140|NCT04156269|INDUSTRY|lead|iCell Gene Therapeutics
+51915141|NCT04156269|OTHER|collaborator|Peking University Shenzhen Hospital
+51915142|NCT04156269|OTHER|collaborator|Chengdu Military General Hospital
+51915143|NCT04156269|INDUSTRY|collaborator|iCAR Bio Therapeutics Ltd.
+52215370|NCT04219163|OTHER|lead|Baylor College of Medicine
+52215371|NCT04219163|OTHER|collaborator|The Methodist Hospital Research Institute
+52215372|NCT04219163|OTHER|collaborator|Center for Cell and Gene Therapy, Baylor College of Medicine
+52068506|NCT02259556|OTHER|lead|Chinese PLA General Hospital
+51804852|NCT04691284|OTHER_GOV|lead|National Cancer Institute, Slovakia
+51804853|NCT04691284|OTHER_GOV|collaborator|Slovak Academy of Sciences
+51804879|NCT04691713|INDUSTRY|lead|PersonGen BioTherapeutics (Suzhou) Co., Ltd.
+51916833|NCT03741127|INDUSTRY|lead|Poseida Therapeutics, Inc.
+51916834|NCT03741127|OTHER|collaborator|California Institute for Regenerative Medicine (CIRM)
+51916850|NCT03601078|INDUSTRY|lead|Celgene
+51805740|NCT05667506|INDUSTRY|lead|Juventas Cell Therapy Ltd.
+51917431|NCT05286164|OTHER_GOV|lead|Tel-Aviv Sourasky Medical Center
+51917432|NCT05286164|INDUSTRY|collaborator|Novartis
+51805827|NCT05266950|OTHER|lead|Beijing Boren Hospital
+51805880|NCT05098613|OTHER|lead|University of Colorado, Denver
+51667768|NCT04816526|INDUSTRY|lead|Cartesian Therapeutics
+52069138|NCT05239676|OTHER|lead|Zhejiang University
+52069139|NCT05239676|INDUSTRY|collaborator|Yake Biotechnology Ltd.
+51806532|NCT04723914|OTHER|lead|YuLi
+51918289|NCT03614858|INDUSTRY|lead|Shanghai Unicar-Therapy Bio-medicine Technology Co.,Ltd
+51918290|NCT03614858|OTHER|collaborator|The First Affiliated Hospital of Soochow University
+51918353|NCT05064787|INDUSTRY|lead|Pack Health
+51918354|NCT05064787|OTHER|collaborator|M.D. Anderson Cancer Center
+51918355|NCT05064787|INDUSTRY|collaborator|Bristol-Myers Squibb
+51668383|NCT05531708|OTHER|lead|Shanghai Pudong Hospital
+51668384|NCT05531708|INDUSTRY|collaborator|UTC Therapeutics Inc.
+51668408|NCT05513612|OTHER|lead|Shanghai Pudong Hospital
+51668409|NCT05513612|INDUSTRY|collaborator|UTC Therapeutics Inc.
+51806857|NCT02937844|OTHER|lead|Beijing Sanbo Brain Hospital
+51806858|NCT02937844|INDUSTRY|collaborator|Marino Biotechnology Co., Ltd.
+51806890|NCT02937103|OTHER|lead|Southwest Hospital, China
+51806979|NCT02935153|OTHER|lead|Southwest Hospital, China
+51918917|NCT04712864|INDUSTRY|lead|Legend Biotech USA Inc
+51807427|NCT02919046|INDUSTRY|lead|Sinobioway Cell Therapy Co., Ltd.
+51807428|NCT02919046|OTHER|collaborator|Nanjing Children's Hospital
+51807429|NCT02919046|OTHER|collaborator|Children's Hospital of Fudan University
+52215947|NCT05206357|INDUSTRY|lead|AbbVie
+52215948|NCT05206357|INDUSTRY|collaborator|Genmab
+51920131|NCT03617198|OTHER|lead|University of Pennsylvania
+51920174|NCT02844062|OTHER|lead|Beijing Sanbo Brain Hospital
+51920175|NCT02844062|INDUSTRY|collaborator|Marino Biotechnology Co., Ltd.
+51921071|NCT04237428|INDUSTRY|lead|PersonGen BioTherapeutics (Suzhou) Co., Ltd.
+51921072|NCT04237428|OTHER|collaborator|The First Affiliated Hospital of Zhengzhou University
+52216105|NCT04577326|OTHER|lead|Memorial Sloan Kettering Cancer Center
+52216106|NCT04577326|INDUSTRY|collaborator|Atara Biotherapeutics
+51809207|NCT05415475|INDUSTRY|lead|Chongqing Precision Biotech Co., Ltd
+51921795|NCT05627323|INDUSTRY|lead|Chimeric Therapeutics
+51921979|NCT05117008|OTHER|lead|Medical College of Wisconsin
+51922013|NCT04984356|INDUSTRY|lead|Wugen, Inc.
+51809518|NCT05075603|INDUSTRY|lead|NeoImmuneTech
+51672712|NCT05190653|OTHER|lead|Alberta Health Services, Calgary
+51672713|NCT05190653|OTHER|collaborator|Alberta Cancer Foundation
+51672714|NCT05190653|OTHER|collaborator|University of Victoria
+52216313|NCT03792633|OTHER|lead|University of Pennsylvania
+51810229|NCT03768310|OTHER|lead|Baylor College of Medicine
+51810230|NCT03768310|OTHER|collaborator|The Methodist Hospital Research Institute
+51810231|NCT03768310|OTHER|collaborator|Center for Cell and Gene Therapy, Baylor College of Medicine
+52216314|NCT03792633|OTHER|collaborator|Children's Hospital of Philadelphia
+51923497|NCT05168748|INDUSTRY|lead|Novartis Pharmaceuticals
+51924092|NCT02772198|OTHER_GOV|lead|Sheba Medical Center
+51674063|NCT04608487|OTHER|lead|Dana-Farber Cancer Institute
+51674064|NCT04608487|INDUSTRY|collaborator|Kite, A Gilead Company
+52070261|NCT01109095|OTHER|lead|Baylor College of Medicine
+51674202|NCT03676504|OTHER|lead|University Hospital Heidelberg
+52070262|NCT01109095|OTHER|collaborator|The Methodist Hospital Research Institute
+52070263|NCT01109095|OTHER|collaborator|Center for Cell and Gene Therapy, Baylor College of Medicine
+51674912|NCT04562298|OTHER|lead|Shanghai East Hospital
+51674913|NCT04562298|INDUSTRY|collaborator|Nanjing Legend Biotech Co.
+51674914|NCT04562298|UNKNOWN|collaborator|East Clinical Center of Oncology
+51674915|NCT04562298|OTHER_GOV|collaborator|Anhui Provincial Hospital
+51811338|NCT05022849|INDUSTRY|lead|Janssen Research & Development, LLC
+51811370|NCT04923893|INDUSTRY|lead|Janssen Research & Development, LLC
+51811451|NCT04662099|OTHER|lead|Wuhan Union Hospital, China
+51811452|NCT04662099|UNKNOWN|collaborator|Wuhan Si'an Medical Technology Co., Ltd
+51675139|NCT01593696|NIH|lead|National Cancer Institute (NCI)
+51925925|NCT05659628|OTHER|lead|Ningbo No. 1 Hospital
+51925926|NCT05659628|OTHER|collaborator|Zhejiang University
+51925988|NCT02537977|OTHER|lead|Shanghai Tongji Hospital, Tongji University School of Medicine
+51811606|NCT04181827|INDUSTRY|lead|Janssen Research & Development, LLC
+51926092|NCT05379569|OTHER|lead|Shanghai General Hospital, Shanghai Jiao Tong University School of Medicine
+51811627|NCT04133636|INDUSTRY|lead|Janssen Research & Development, LLC
+51926494|NCT05382377|OTHER|lead|jianming xu
+51926495|NCT05382377|OTHER|collaborator|KAEDI
+51926785|NCT05639972|OTHER|lead|Christian Hinrichs
+51926786|NCT05639972|NIH|collaborator|National Cancer Institute (NCI)
+51811908|NCT01430390|OTHER|lead|Memorial Sloan Kettering Cancer Center
+51676267|NCT04406610|OTHER|lead|Fuda Cancer Hospital, Guangzhou
+51928034|NCT05588440|INDUSTRY|lead|Oncternal Therapeutics, Inc
+51812665|NCT04723901|OTHER|lead|Shenzhen University General Hospital
+51677124|NCT03696030|OTHER|lead|City of Hope Medical Center
+51677125|NCT03696030|NIH|collaborator|National Cancer Institute (NCI)
+51677126|NCT03696030|OTHER|collaborator|California Institute for Regenerative Medicine (CIRM)
+51677300|NCT03774654|OTHER|lead|Baylor College of Medicine
+51677301|NCT03774654|OTHER|collaborator|Center for Cell and Gene Therapy, Baylor College of Medicine
+51677302|NCT03774654|OTHER|collaborator|The Methodist Hospital Research Institute
+52071038|NCT05371093|INDUSTRY|lead|Kite, A Gilead Company
+52071040|NCT05364424|INDUSTRY|lead|Hoffmann-La Roche
+51930384|NCT05172596|INDUSTRY|lead|Novartis Pharmaceuticals
+52071157|NCT04989803|INDUSTRY|lead|Kite, A Gilead Company
+52071189|NCT04897321|OTHER|lead|St. Jude Children's Research Hospital
+51813639|NCT04655677|OTHER|lead|Peking Union Medical College Hospital
+51813714|NCT04653649|OTHER|lead|Fundació Institut de Recerca de l'Hospital de la Santa Creu i Sant Pau
+51813715|NCT04653649|OTHER|collaborator|Josep Carreras Leukaemia Research Institute
+51813716|NCT04653649|OTHER_GOV|collaborator|Instituto de Salud Carlos III
+51813718|NCT04653493|INDUSTRY|lead|Sabz Biomedicals
+51813719|NCT04653493|UNKNOWN|collaborator|Gene Therapy Research Center, Shariati Hospital, Tehran University of Medical Sciences, Iran
+51813720|NCT04653493|UNKNOWN|collaborator|Research Institute for Oncology- Hematology and Cell Therapy (RIOHCT), Tehran University of Medical Sciences, Iran
+51813793|NCT04650724|INDUSTRY|lead|PersonGen BioTherapeutics (Suzhou) Co., Ltd.
+51813794|NCT04650724|OTHER|collaborator|Sir Run Run Shaw Hospital
+51813888|NCT04637503|OTHER|lead|Shenzhen Geno-Immune Medical Institute
+51813889|NCT04637503|OTHER_GOV|collaborator|Shenzhen Children's Hospital
+51813915|NCT04637269|OTHER|lead|Xinqiao Hospital of Chongqing
+51813916|NCT04637269|INDUSTRY|collaborator|Carbiogene Therapeutics Co. Ltd.
+52071361|NCT04196413|OTHER|lead|Crystal Mackall, MD
+52071362|NCT04196413|OTHER|collaborator|California Institute for Regenerative Medicine (CIRM)
+52071363|NCT04196413|UNKNOWN|collaborator|CureSearch
+52071364|NCT04196413|NIH|collaborator|National Institutes of Health (NIH)
+51679145|NCT04390542|OTHER|lead|Case Comprehensive Cancer Center
+51933042|NCT03666000|INDUSTRY|lead|Precision BioSciences, Inc.
+51934229|NCT04185038|OTHER|lead|Seattle Children's Hospital
+51934491|NCT02723942|OTHER|lead|Fuda Cancer Hospital, Guangzhou
+51934498|NCT05015972|OTHER|lead|920th Hospital of Joint Logistics Support Force of People's Liberation Army of China
+51934499|NCT05015972|INDUSTRY|collaborator|Nanjing Bioheng Biotech Co., Ltd.
+51934525|NCT02715362|INDUSTRY|lead|Shanghai GeneChem Co., Ltd.
+51934935|NCT02706782|INDUSTRY|lead|Shanghai GeneChem Co., Ltd.
+51935285|NCT04154709|OTHER|lead|Kai Lin Xu; Jun Nian Zheng
+51935286|NCT04154709|INDUSTRY|collaborator|Nanjing Bioheng Biotech Co., Ltd.
+51935475|NCT05344664|OTHER|lead|Peking University
+51937232|NCT04033302|OTHER|lead|Shenzhen Geno-Immune Medical Institute
+51681812|NCT05256641|OTHER|lead|Jonsson Comprehensive Cancer Center
+51681813|NCT05256641|INDUSTRY|collaborator|AstraZeneca
+51681925|NCT04735471|INDUSTRY|lead|Adicet Bio, Inc
+51681934|NCT04661384|OTHER|lead|City of Hope Medical Center
+51681935|NCT04661384|NIH|collaborator|National Cancer Institute (NCI)
+51938169|NCT04169022|OTHER|lead|Centre Hospitalier Universitaire de Besancon
+51938170|NCT04169022|OTHER|collaborator|Centre Hospitalier Universitaire Dijon
+51938171|NCT04169022|OTHER|collaborator|Etablissement Français du Sang
+51938187|NCT04186052|INDUSTRY|lead|PersonGen BioTherapeutics (Suzhou) Co., Ltd.
+51938188|NCT04186052|OTHER|collaborator|Second Affiliated Hospital of Suzhou University
+51682787|NCT05620680|OTHER|lead|Shenzhen University General Hospital
+51939055|NCT04184414|INDUSTRY|lead|PersonGen BioTherapeutics (Suzhou) Co., Ltd.
+51939056|NCT04184414|OTHER|collaborator|Second Affiliated Hospital of Suzhou University
+51939134|NCT02813837|OTHER|lead|Innovative Cellular Therapeutics Co., Ltd.
+52218726|NCT03323944|OTHER|lead|University of Pennsylvania
+51939668|NCT05652920|INDUSTRY|lead|OriCell Therapeutics Co., Ltd.
+51939688|NCT04236011|OTHER|lead|Shanghai Changzheng Hospital
+51939689|NCT04236011|INDUSTRY|collaborator|Gracell Biotechnology Shanghai Co., Ltd.
+51939939|NCT02794961|OTHER|lead|Kai Lin Xu; Jun Nian Zheng
+51939940|NCT02794961|UNKNOWN|collaborator|iCarTAB BioMed Inc.
+52218887|NCT04795882|OTHER|lead|University College, London
+51817812|NCT04666168|INDUSTRY|lead|Hebei Senlang Biotechnology Inc., Ltd.
+51817813|NCT04666168|OTHER|collaborator|Hebei Medical University Fourth Hospital
+51817846|NCT04665076|INDUSTRY|lead|Hebei Senlang Biotechnology Inc., Ltd.
+51817847|NCT04665076|OTHER|collaborator|Hebei Medical University Fourth Hospital
+51817992|NCT04661020|OTHER|lead|Zhejiang University
+51817993|NCT04661020|INDUSTRY|collaborator|Yake Biotechnology Ltd.
+51942084|NCT02765243|OTHER|lead|Zhujiang Hospital
+52074195|NCT03874897|OTHER|lead|Peking University
+52074196|NCT03874897|UNKNOWN|collaborator|CARsgen Pharmaceuticals Co.,Ltd
+51685045|NCT04650451|INDUSTRY|lead|Bellicum Pharmaceuticals
+51685068|NCT04526834|INDUSTRY|lead|Tessa Therapeutics
+51818501|NCT04626739|INDUSTRY|lead|Hebei Senlang Biotechnology Inc., Ltd.
+51685156|NCT04257578|OTHER|lead|University of Washington
+51685157|NCT04257578|INDUSTRY|collaborator|AstraZeneca
+52074360|NCT03929107|OTHER|lead|Wenbin Qian
+52074361|NCT03929107|OTHER|collaborator|Zhejiang Provincial Tongde Hospital
+51944077|NCT02735291|INDUSTRY|lead|Sinobioway Cell Therapy Co., Ltd.
+51944078|NCT02735291|OTHER|collaborator|The Second Hospital of Anhui Medical University
+51944311|NCT02737085|OTHER|lead|Southwest Hospital, China
+51819142|NCT04610125|INDUSTRY|lead|Hebei Senlang Biotechnology Inc., Ltd.
+51819143|NCT04610125|OTHER|collaborator|Hebei Medical University Fourth Hospital
+51944924|NCT02721407|OTHER|lead|Xinqiao Hospital of Chongqing
+51944925|NCT02721407|OTHER|collaborator|Xuzhou Medical University
+51945505|NCT05260957|OTHER|lead|Lazaros Lekakis
+51945506|NCT05260957|INDUSTRY|collaborator|Genentech, Inc.
+51819656|NCT04594135|INDUSTRY|lead|iCell Gene Therapeutics
+51819657|NCT04594135|INDUSTRY|collaborator|iCAR Bio Therapeutics Ltd.
+51819658|NCT04594135|OTHER|collaborator|Peking University Shenzhen Hospital
+51945928|NCT04162340|INDUSTRY|lead|iCell Gene Therapeutics
+51945929|NCT04162340|INDUSTRY|collaborator|iCAR Bio Therapeutics Ltd.
+51945930|NCT04162340|OTHER|collaborator|Peking University Shenzhen Hospital
+51946094|NCT03999697|INDUSTRY|lead|PersonGen BioTherapeutics (Suzhou) Co., Ltd.
+51946095|NCT03999697|OTHER_GOV|collaborator|Anhui Provincial Hospital
+51946260|NCT05263817|OTHER|lead|Zhejiang University
+51946261|NCT05263817|INDUSTRY|collaborator|Yake Biotechnology Ltd.
+51819808|NCT04213469|INDUSTRY|lead|Bioray Laboratories
+51819809|NCT04213469|OTHER|collaborator|First Affiliated Hospital of Zhejiang University
+52220991|NCT03497819|OTHER|lead|First Affiliated Hospital of Wenzhou Medical University
+51947268|NCT02617134|INDUSTRY|lead|PersonGen BioTherapeutics (Suzhou) Co., Ltd.
+51947269|NCT02617134|OTHER|collaborator|The First People's Hospital of Hefei
+51947270|NCT02617134|OTHER|collaborator|Hefei Binhu Hospital
+51686735|NCT05315778|OTHER|lead|The First Affiliated Hospital of Soochow University
+51686736|NCT05315778|INDUSTRY|collaborator|Shanghai Unicar-Therapy Bio-medicine Technology Co.,Ltd
+51947731|NCT04156178|INDUSTRY|lead|iCell Gene Therapeutics
+51947732|NCT04156178|OTHER|collaborator|Peking University Shenzhen Hospital
+51947733|NCT04156178|OTHER|collaborator|Chengdu Military General Hospital
+51947734|NCT04156178|INDUSTRY|collaborator|iCAR Bio Therapeutics Ltd.
+52222533|NCT01865617|OTHER|lead|Fred Hutchinson Cancer Center
+52222534|NCT01865617|NIH|collaborator|National Cancer Institute (NCI)
+52222971|NCT05320081|OTHER|lead|Huazhong University of Science and Technology
+52222972|NCT05320081|OTHER|collaborator|The First Affiliated Hospital of Nanchang University
+52223070|NCT04938115|INDUSTRY|lead|Hebei Senlang Biotechnology Inc., Ltd.
+52076295|NCT05155189|OTHER|lead|Zhejiang University
+52223326|NCT03593109|OTHER|lead|Second Affiliated Hospital of Xi'an Jiaotong University
+52223327|NCT03593109|INDUSTRY|collaborator|Nanjing Legend Biotech Co.
+51948533|NCT04151186|OTHER|lead|suhaichuan
+51948534|NCT04151186|UNKNOWN|collaborator|Shanghai Biomed-union Biotechnology Co., Ltd.
+52076456|NCT00924326|NIH|lead|National Cancer Institute (NCI)
+51687649|NCT05464719|OTHER|lead|M.D. Anderson Cancer Center
+51949319|NCT02624258|OTHER|lead|University of Pennsylvania
+51949320|NCT02624258|OTHER|collaborator|Children's Hospital of Philadelphia
+51687754|NCT05274451|INDUSTRY|lead|Lyell Immunopharma, Inc.
+51950111|NCT04182581|OTHER|lead|Xijing Hospital
+51950112|NCT04182581|OTHER|collaborator|Gracell Biotechnology Ltd.
+51950491|NCT02672501|INDUSTRY|lead|Shanghai GeneChem Co., Ltd.
+51688143|NCT04432506|OTHER|lead|M.D. Anderson Cancer Center
+51688144|NCT04432506|NIH|collaborator|National Cancer Institute (NCI)
+52223770|NCT04928105|INDUSTRY|lead|Hebei Senlang Biotechnology Inc., Ltd.
+51688257|NCT04071366|INDUSTRY|lead|Incyte Corporation
+51951258|NCT02644655|OTHER|lead|Second Military Medical University
+51822135|NCT04546906|INDUSTRY|lead|Hebei Senlang Biotechnology Inc., Ltd.
+52077224|NCT03483688|OTHER|lead|Peking Union Medical College Hospital
+51822193|NCT04541368|OTHER|lead|Zhejiang University
+51822194|NCT04541368|INDUSTRY|collaborator|Yake Biotechnology Ltd.
+51688395|NCT03435796|INDUSTRY|lead|Celgene
+52077225|NCT03483688|INDUSTRY|collaborator|Cellular Biomedicine Group Ltd.
+51951768|NCT04160195|NIH|lead|National Cancer Institute (NCI)
+51952355|NCT05096234|OTHER|lead|Stanford University
+51952356|NCT05096234|INDUSTRY|collaborator|CellSight Technologies, Inc.
+51688628|NCT01087294|NIH|lead|National Cancer Institute (NCI)
+51953062|NCT04153799|OTHER|lead|Sun Yat-sen University
+51953063|NCT04153799|INDUSTRY|collaborator|Guangzhou Bio-gene Technology Co., Ltd
+51953671|NCT05574114|OTHER|lead|Memorial Sloan Kettering Cancer Center
+51953679|NCT05535855|OTHER|lead|University of Colorado, Denver
+51953818|NCT05010564|OTHER|lead|Baylor College of Medicine
+51953819|NCT05010564|OTHER|collaborator|Texas Children's Cancer Center
+51953897|NCT04555551|OTHER|lead|Memorial Sloan Kettering Cancer Center
+51689020|NCT03882840|OTHER|lead|Second Affiliated Hospital of Guangzhou Medical University
+51689021|NCT03882840|OTHER|collaborator|Hunan Zhaotai Yongren Medical Innovation Co. Ltd.
+51689036|NCT03198546|OTHER|lead|Second Affiliated Hospital of Guangzhou Medical University
+51689037|NCT03198546|OTHER|collaborator|Hunan Zhaotai Yongren Medical Innovation Co. Ltd.
+51689038|NCT03198546|OTHER|collaborator|Guangdong Zhaotai InVivo Biomedicine Co. Ltd.
+51689039|NCT03198546|OTHER|collaborator|First Affiliated Hospital, Sun Yat-Sen University
+51955025|NCT05298995|OTHER|lead|Bambino Gesù Hospital and Research Institute
+51689332|NCT03590574|INDUSTRY|lead|Autolus Limited
+52077862|NCT03716856|OTHER|lead|First Affiliated Hospital of Zhejiang University
+52077863|NCT03716856|INDUSTRY|collaborator|CARsgen Therapeutics Co., Ltd.
+51823293|NCT04532281|OTHER|lead|Zhejiang University
+51823294|NCT04532281|INDUSTRY|collaborator|Yake Biotechnology Ltd.
+51823297|NCT04532203|OTHER|lead|Zhejiang University
+52077917|NCT03902197|OTHER|lead|Xuanwu Hospital, Beijing
+52077918|NCT03902197|OTHER|collaborator|Beijing Children's Hospital
+51823913|NCT04718883|INDUSTRY|lead|Shanghai Ming Ju Biotechnology Co., Ltd.
+51958888|NCT04094766|OTHER|lead|Second Affiliated Hospital of Xi'an Jiaotong University
+51958889|NCT04094766|INDUSTRY|collaborator|Nanjing Legend Biotech Co.
+51690214|NCT05665062|INDUSTRY|lead|Synthekine
+51690256|NCT05322330|OTHER|lead|The First Affiliated Hospital of Soochow University
+51690257|NCT05322330|OTHER|collaborator|West China Hospital
+51690258|NCT05322330|UNKNOWN|collaborator|The General Hospital of Western Theater Command PLA
+51690259|NCT05322330|UNKNOWN|collaborator|The Affiliated People's Hospital of Ningbo University Ningbo Yinzhou People's Hospital Community
+51690260|NCT05322330|OTHER|collaborator|The Affiliated Nanjing Drum Tower Hospital of Nanjing University Medical School
+51690261|NCT05322330|OTHER|collaborator|Yixing People's Hospital
+51690262|NCT05322330|OTHER|collaborator|Affiliated Hospital of Jiangnan University
+51690263|NCT05322330|UNKNOWN|collaborator|Wuxi Second People's Hospital
+51960420|NCT05325801|OTHER|lead|Zhejiang University
+52078438|NCT03881761|OTHER_GOV|lead|Henan Cancer Hospital
+52078439|NCT03881761|UNKNOWN|collaborator|Henan Hualong Biotechnology Company
+52225492|NCT04412889|OTHER|lead|Hebei Yanda Ludaopei Hospital
+52225493|NCT04412889|OTHER|collaborator|Gracell Biotechnology Ltd.
+52225587|NCT04447573|INDUSTRY|lead|Hebei Senlang Biotechnology Inc., Ltd.
+52225588|NCT04447573|OTHER|collaborator|Beijing Lu Daopei Hospital
+52225589|NCT04447573|OTHER|collaborator|Hebei Yanda Ludaopei Hospital
+51960711|NCT02587689|INDUSTRY|lead|PersonGen BioTherapeutics (Suzhou) Co., Ltd.
+51960712|NCT02587689|OTHER|collaborator|The First People's Hospital of Hefei
+52226086|NCT03904069|INDUSTRY|lead|Amgen
+51960713|NCT02587689|OTHER|collaborator|Hefei Binhu Hospital
+52226170|NCT04506983|OTHER|lead|Beijing Tsinghua Chang Gung Hospital
+52226171|NCT04506983|INDUSTRY|collaborator|China Immunotech (Beijing) Biotechnology Co., Ltd.
+51961343|NCT02580747|OTHER|lead|Chinese PLA General Hospital
+52226368|NCT03380039|OTHER|lead|Xinhua Hospital, Shanghai Jiao Tong University School of Medicine
+52226369|NCT03380039|INDUSTRY|collaborator|CARsgen Therapeutics Co., Ltd.
+51691409|NCT05212584|INDUSTRY|lead|iCell Gene Therapeutics
+51691410|NCT05212584|UNKNOWN|collaborator|iCar Bio Therapeutics
+51963631|NCT03740256|OTHER|lead|Baylor College of Medicine
+51963632|NCT03740256|OTHER|collaborator|The Methodist Hospital Research Institute
+51965738|NCT02631044|INDUSTRY|lead|Juno Therapeutics, a Subsidiary of Celgene
+52226801|NCT03383965|INDUSTRY|lead|Immune Cell, Inc.
+52226802|NCT03383965|OTHER|collaborator|Weifang People's Hospital
+51966810|NCT04067414|OTHER|lead|Institute of Hematology & Blood Diseases Hospital
+51966811|NCT04067414|UNKNOWN|collaborator|Shanghai Cell Therapy Engineering Technology Research Center Group Co., Ltd.
+51692409|NCT03330834|OTHER|lead|Sun Yat-sen University
+51692410|NCT03330834|OTHER|collaborator|Guangzhou Yiyang Biological Technology Co., Ltd.
+51967643|NCT04561557|OTHER|lead|Tongji Hospital
+51967644|NCT04561557|INDUSTRY|collaborator|Nanjing IASO Biotherapeutics Co.,Ltd
+52079566|NCT03711864|OTHER|lead|Peking Union Medical College Hospital
+52079567|NCT03711864|INDUSTRY|collaborator|Beijing Immunochina Medical Science & Technology Co., Ltd.
+52227234|NCT05127135|INDUSTRY|lead|Fundamenta Therapeutics, Ltd.
+52227235|NCT05127135|OTHER|collaborator|The First Affiliated Hospital of University of Science and Technology of China
+51970555|NCT00889954|OTHER|lead|Baylor College of Medicine
+51970556|NCT00889954|OTHER|collaborator|The Methodist Hospital Research Institute
+51970557|NCT00889954|OTHER|collaborator|Center for Cell and Gene Therapy, Baylor College of Medicine
+51970667|NCT04037566|OTHER|lead|Xijing Hospital
+51970668|NCT04037566|UNKNOWN|collaborator|Xi'An Yufan Biotechnology Co.,Ltd
+51970688|NCT02541370|OTHER|lead|Chinese PLA General Hospital
+52227567|NCT03349255|INDUSTRY|lead|Aeon Therapeutics (Shanghai) Co., Ltd.
+52227568|NCT03349255|OTHER|collaborator|Renmin Hospital of Wuhan University
+52227569|NCT03349255|INDUSTRY|collaborator|Eureka Therapeutics Inc.
+51973645|NCT05350852|OTHER|lead|Zhejiang University
+51973758|NCT03825718|OTHER|lead|Hebei Yanda Ludaopei Hospital
+51973759|NCT03825718|OTHER|collaborator|Gracell Biotechnology Ltd.
+51974878|NCT05201781|INDUSTRY|lead|Janssen Research & Development, LLC
+51976055|NCT04008394|OTHER|lead|Wuhan Union Hospital, China
+51976056|NCT04008394|UNKNOWN|collaborator|Wuhan Bio-Raid Biotechnology Co, Ltd. China
+51976296|NCT05277987|OTHER|lead|Shenzhen Fifth People's Hospital
+51976535|NCT04048434|OTHER|lead|Hannover Medical School
+51976536|NCT04048434|INDUSTRY|collaborator|CytoSorbents, Inc
+51695298|NCT04148430|OTHER|lead|Memorial Sloan Kettering Cancer Center
+51695305|NCT03467256|OTHER|lead|Federal Research Institute of Pediatric Hematology, Oncology and Immunology
+51829401|NCT04715217|OTHER|lead|Shanxi Province Cancer Hospital
+51829402|NCT04715217|UNKNOWN|collaborator|Shanghai Ultra-T Immune Therapeutics Co. LTD
+51977008|NCT05306080|OTHER|lead|University of Pennsylvania
+52002505|NCT03144583|OTHER|lead|Sara V. Latorre
+52002506|NCT03144583|OTHER_GOV|collaborator|Instituto de Salud Carlos III
+52228346|NCT05430945|OTHER|lead|Zhejiang University
+52228347|NCT05430945|INDUSTRY|collaborator|Yake Biotechnology Ltd.
+52081256|NCT05470777|OTHER|lead|The First Affiliated Hospital of Soochow University
+52081257|NCT05470777|UNKNOWN|collaborator|National Natural Science Foundation of China(Grant No. 81970138)
+52081258|NCT05470777|UNKNOWN|collaborator|Jiangsu Province Natural Science Foundation of China (Grant No. BK20210091)
+52081259|NCT05470777|OTHER|collaborator|Jining Medical University
+52081260|NCT05470777|OTHER|collaborator|The Second People's Hospital of Huai'an
+52081261|NCT05470777|OTHER|collaborator|First Affiliated Hospital Bengbu Medical College
+52081262|NCT05470777|OTHER|collaborator|Northern Jiangsu Province People's Hospital
+52081263|NCT05470777|OTHER|collaborator|Affiliated Hospital of Nantong University
+52081264|NCT05470777|OTHER|collaborator|Suzhou Hospital of Traditional Chinese Medicine
+51979237|NCT04003168|INDUSTRY|lead|Hrain Biotechnology Co., Ltd.
+51979238|NCT04003168|OTHER|collaborator|Shanghai Changzheng Hospital
+51979239|NCT04003168|OTHER|collaborator|First Affiliated Hospital of Wenzhou Medical University
+51979240|NCT04003168|OTHER|collaborator|The Second Affiliated Hospital of Henan University of Traditional Chinese Medicine
+52081643|NCT04257175|OTHER_GOV|lead|Sheba Medical Center
+51980703|NCT03573700|OTHER|lead|St. Jude Children's Research Hospital
+52081817|NCT03931421|OTHER|lead|First Affiliated Hospital of Zhejiang University
+52081861|NCT04823091|OTHER|lead|Wuhan Union Hospital, China
+52081862|NCT04823091|UNKNOWN|collaborator|Beijing GoBroad Hospital Management Co.,Ltd
+52081863|NCT04823091|UNKNOWN|collaborator|Shanghai YaKe Biotechnology Ltd.
+51981794|NCT02547948|OTHER|lead|Fuda Cancer Hospital, Guangzhou
+51981819|NCT04010877|OTHER|lead|Shenzhen Geno-Immune Medical Institute
+51829833|NCT04714827|OTHER|lead|Shanxi Province Cancer Hospital
+51829834|NCT04714827|UNKNOWN|collaborator|Shanghai Ultra-T Immune Therapeutics Co. LTD
+51982284|NCT04119024|OTHER|lead|Jonsson Comprehensive Cancer Center
+51982285|NCT04119024|OTHER|collaborator|City of Hope National Medical Center
+51696415|NCT05576220|INDUSTRY|lead|IDION Inc.
+51982776|NCT04089215|INDUSTRY|lead|Shanghai Ming Ju Biotechnology Co., Ltd.
+52082502|NCT03814447|OTHER|lead|Shanghai 6th People's Hospital
+52082503|NCT03814447|INDUSTRY|collaborator|Hrain Biotechnology Co., Ltd.
+52082530|NCT05164042|OTHER|lead|Shenzhen University General Hospital
+52082772|NCT03815383|OTHER|lead|The First Affiliated Hospital with Nanjing Medical University
+51985135|NCT04085159|OTHER|lead|Shenzhen Geno-Immune Medical Institute
+51985136|NCT04085159|OTHER|collaborator|Shenzhen Hospital of Southern Medical University
+51985137|NCT04085159|OTHER_GOV|collaborator|Shenzhen Children's Hospital
+51985179|NCT04696731|INDUSTRY|lead|Allogene Therapeutics
+51985558|NCT04004637|INDUSTRY|lead|PersonGen BioTherapeutics (Suzhou) Co., Ltd.
+51985559|NCT04004637|OTHER|collaborator|The First Affiliated Hospital of Zhengzhou University
+51985661|NCT05277753|OTHER|lead|Shenzhen Geno-Immune Medical Institute
+52229190|NCT03322735|OTHER_GOV|lead|Henan Cancer Hospital
+52229191|NCT03322735|INDUSTRY|collaborator|The Pregene (ShenZhen) Biotechnology Company, Ltd.
+51985810|NCT05590221|OTHER|lead|Peking University Cancer Hospital & Institute
+51985811|NCT05590221|INDUSTRY|collaborator|Shanghai Ming Ju Biotechnology Co., Ltd.
+52083924|NCT05176275|OTHER|lead|The First Affiliated Hospital of Soochow University
+51987156|NCT05546723|INDUSTRY|lead|Luminary Therapeutics
+51987157|NCT05546723|OTHER|collaborator|The Cleveland Clinic
+51987158|NCT05546723|OTHER|collaborator|Case Western Reserve University
+52084122|NCT03790891|INDUSTRY|lead|Timmune Biotech Inc.
+51987272|NCT05388695|INDUSTRY|lead|Hebei Senlang Biotechnology Inc., Ltd.
+51987273|NCT05388695|OTHER|collaborator|Tongji Hospital
+51987317|NCT05312801|INDUSTRY|lead|Luminary Therapeutics
+51987318|NCT05312801|OTHER|collaborator|Case Comprehensive Cancer Center
+52084513|NCT05438368|OTHER|lead|Shenzhen Geno-Immune Medical Institute
+52084531|NCT05234190|INDUSTRY|lead|Quell Therapeutics Limited
+51830260|NCT04714593|OTHER|lead|Shanxi Province Cancer Hospital
+51830261|NCT04714593|UNKNOWN|collaborator|Shanghai Ultra-T Immune Therapeutics Co. LTD
+52084935|NCT03706326|OTHER|lead|The First Affiliated Hospital of Guangdong Pharmaceutical University
+52084936|NCT03706326|INDUSTRY|collaborator|Guangzhou Anjie Biomedical Technology Co., Ltd.
+51988793|NCT02664363|OTHER|lead|Daniel Landi
+52085244|NCT03064269|INDUSTRY|lead|Shanghai Unicar-Therapy Bio-medicine Technology Co.,Ltd
+52085245|NCT03064269|OTHER|collaborator|The First Affiliated Hospital of Soochow University
+51989119|NCT03958656|NIH|lead|National Cancer Institute (NCI)
+52230262|NCT03312205|INDUSTRY|lead|Hebei Senlang Biotechnology Inc., Ltd.
+52230263|NCT03312205|OTHER|collaborator|Hebei Yanda Ludaopei Hospital
+52230264|NCT03312205|OTHER|collaborator|Beijing Lu Daopei Hospital
+51698734|NCT05269914|OTHER|lead|The Affiliated Hospital of Qingdao University
+51698748|NCT05262673|OTHER|lead|Shenzhen Geno-Immune Medical Institute
+52230513|NCT05044039|OTHER|lead|Washington University School of Medicine
+52230514|NCT05044039|INDUSTRY|collaborator|SecuraBio
+52230515|NCT05044039|OTHER|collaborator|The Foundation for Barnes-Jewish Hospital
+52230516|NCT05044039|NIH|collaborator|National Cancer Institute (NCI)
+51698873|NCT05052528|OTHER|lead|Mehrdad Abedi, MD
+51698874|NCT05052528|NIH|collaborator|National Cancer Institute (NCI)
+51699137|NCT04260945|OTHER|lead|Hebei Yanda Ludaopei Hospital
+51699138|NCT04260945|INDUSTRY|collaborator|China Immunotech (Beijing) Biotechnology Co., Ltd.
+51699139|NCT04260932|OTHER|lead|Hebei Yanda Ludaopei Hospital
+51699140|NCT04260932|INDUSTRY|collaborator|China Immunotech (Beijing) Biotechnology Co., Ltd.
+52086131|NCT04903080|NETWORK|lead|Pediatric Brain Tumor Consortium
+52086132|NCT04903080|OTHER|collaborator|Texas Children's Cancer Center
+52086133|NCT04903080|OTHER|collaborator|Baylor College of Medicine
+52231155|NCT03281551|INDUSTRY|lead|Pinze Lifetechnology Co. Ltd.
+52231156|NCT03281551|OTHER_GOV|collaborator|Chinese Academy of Sciences
+52231157|NCT03281551|OTHER|collaborator|Navy General Hospital, Beijing
+52231340|NCT03356795|OTHER|lead|Shenzhen Geno-Immune Medical Institute
+52086306|NCT03767725|OTHER|lead|Shenzhen Second People's Hospital
+51699461|NCT03373071|OTHER|lead|Bambino Gesù Hospital and Research Institute
+52086406|NCT03916679|OTHER|lead|Second Affiliated Hospital, School of Medicine, Zhejiang University
+51991289|NCT03851146|OTHER|lead|Peter MacCallum Cancer Centre, Australia
+52087088|NCT04697290|OTHER|lead|Beijing Tsinghua Chang Gung Hospital
+52087089|NCT04697290|UNKNOWN|collaborator|China Immunotech Pharmaceuticals Co.Ltd.
+52087475|NCT03289455|INDUSTRY|lead|Autolus Limited
+51992818|NCT04082910|OTHER|lead|Chinese PLA General Hospital
+52087803|NCT05275062|INDUSTRY|lead|Beijing Immunochina Medical Science & Technology Co., Ltd.
+52232137|NCT04500431|OTHER|lead|Shanghai Tongji Hospital, Tongji University School of Medicine
+52232229|NCT03121625|INDUSTRY|lead|Hebei Senlang Biotechnology Inc., Ltd.
+52232230|NCT03121625|OTHER|collaborator|Hebei Medical University Fourth Hospital
+52232497|NCT03344705|INDUSTRY|lead|Beijing Immunochina Medical Science & Technology Co., Ltd.
+51994758|NCT04007978|OTHER|lead|Wuhan Union Hospital, China
+51994759|NCT04007978|UNKNOWN|collaborator|Wuhan Bio-Raid Biotechnology Co., Ltd.
+52090017|NCT05181501|INDUSTRY|lead|Nanjing IASO Biotherapeutics Co.,Ltd
+52091274|NCT03370198|INDUSTRY|lead|Celyad Oncology SA
+51703896|NCT05418088|OTHER|lead|Sumithira Vasu
+52233315|NCT05016063|OTHER|lead|Xinqiao Hospital of Chongqing
+52091619|NCT03356782|OTHER|lead|Shenzhen Geno-Immune Medical Institute
+52233316|NCT05016063|INDUSTRY|collaborator|Sichuan Kelun-Biotech Biopharmaceutical Co., Ltd.
+52091714|NCT05239689|OTHER|lead|Zhejiang University
+52091715|NCT05239689|INDUSTRY|collaborator|Yake Biotechnology Ltd.
+52092019|NCT04503538|OTHER|lead|Wake Forest University Health Sciences
+51704253|NCT03098355|OTHER|lead|Zhujiang Hospital
+51704254|NCT03098355|OTHER|collaborator|Shenzhen Geno-Immune Medical Institute
+52233949|NCT03076437|OTHER|lead|Shenzhen Institute for Innovation and Translational Medicine
+52233950|NCT03076437|OTHER_GOV|collaborator|Dongguan People's Hospital
+51997024|NCT04045847|OTHER|lead|Xijing Hospital
+52093516|NCT03840317|INDUSTRY|lead|Hebei Senlang Biotechnology Inc., Ltd.
+52093517|NCT03840317|OTHER|collaborator|Hebei Yanda Ludaopei Hospital
+52095168|NCT03811457|INDUSTRY|lead|UWELL Biopharma
+52095169|NCT03811457|OTHER|collaborator|Liaocheng People's Hospital
+52095516|NCT05463640|OTHER|lead|Zhejiang University
+52095644|NCT03798509|INDUSTRY|lead|Hrain Biotechnology Co., Ltd.
+52095645|NCT03798509|OTHER|collaborator|Shanghai General Hospital, Shanghai Jiao Tong University School of Medicine
+52095805|NCT03799913|OTHER|lead|Zhejiang University
+52095806|NCT03799913|OTHER|collaborator|Second Affiliated Hospital, School of Medicine, Zhejiang University
+52095807|NCT03799913|INDUSTRY|collaborator|Hrain Biotechnology Co., Ltd.
+52096335|NCT03720457|INDUSTRY|lead|Hrain Biotechnology Co., Ltd.
+52096336|NCT03720457|OTHER|collaborator|Shanghai Zhongshan Hospital
+51706998|NCT03761056|INDUSTRY|lead|Kite, A Gilead Company
+52236381|NCT05179603|INDUSTRY|lead|Sanofi
+52236382|NCT05179603|INDUSTRY|collaborator|Merck Sharp & Dohme LLC
+52236424|NCT03283631|OTHER|lead|Gary Archer Ph.D.
+52236425|NCT03283631|NIH|collaborator|National Cancer Institute (NCI)
+52236426|NCT03283631|OTHER|collaborator|Duke Cancer Institute
+51832513|NCT03271515|INDUSTRY|lead|Beijing Doing Biomedical Co., Ltd.
+52236656|NCT03267173|OTHER|lead|First Affiliated Hospital of Harbin Medical University
+52236657|NCT03267173|INDUSTRY|collaborator|Shanghai Unicar-Therapy Bio-medicine Technology Co.,Ltd
+52000552|NCT05225831|INDUSTRY|lead|Hebei Senlang Biotechnology Inc., Ltd.
+52000553|NCT05225831|OTHER|collaborator|Hebei Yanda Ludaopei Hospital
+51832638|NCT03271632|OTHER|lead|Shenzhen Geno-Immune Medical Institute
+52236796|NCT03258047|OTHER|lead|First Affiliated Hospital of Zhejiang University
+52097642|NCT03628612|INDUSTRY|lead|Autolus Limited
+52237010|NCT04966143|OTHER|lead|Shanghai Longyao Biotechnology Inc., Ltd.
+51832987|NCT04702841|INDUSTRY|lead|PersonGen BioTherapeutics (Suzhou) Co., Ltd.
+51832988|NCT04702841|OTHER_GOV|collaborator|Anhui Provincial Hospital
+52238051|NCT04430595|OTHER|lead|Shenzhen Geno-Immune Medical Institute
+52238052|NCT04430595|OTHER|collaborator|The Seventh Affiliated Hospital of Sun Yat-sen University
+52001563|NCT05393986|OTHER|lead|Peking University
+52001564|NCT05393986|INDUSTRY|collaborator|CARsgen Therapeutics Co., Ltd.
+52098996|NCT03198052|OTHER|lead|Second Affiliated Hospital of Guangzhou Medical University
+52098997|NCT03198052|OTHER|collaborator|Hunan Zhaotai Yongren Medical Innovation Co. Ltd.
+52098998|NCT03198052|OTHER|collaborator|Guangdong Zhaotai InVivo Biomedicine Co. Ltd.
+52238384|NCT04864821|INDUSTRY|lead|PersonGen BioTherapeutics (Suzhou) Co., Ltd.
+52238385|NCT04864821|OTHER|collaborator|The First Affiliated Hospital of Zhengzhou University
+52099232|NCT03298828|OTHER|lead|Third Military Medical University
+52002039|NCT05458297|INDUSTRY|lead|Merck Sharp & Dohme LLC
+52002064|NCT05377827|OTHER|lead|Washington University School of Medicine
+52002065|NCT05377827|INDUSTRY|collaborator|Wugen, Inc.
+52002069|NCT05353530|OTHER|lead|University of Florida
+52002070|NCT05353530|FED|collaborator|United States Department of Defense
+52002071|NCT05353530|UNKNOWN|collaborator|AM Rosen Foundation
+52002162|NCT05081479|OTHER|lead|Memorial Sloan Kettering Cancer Center
+52002216|NCT04778579|OTHER|lead|Sara V. Latorre
+52002217|NCT04778579|OTHER|collaborator|Institut d'Investigacions Biomèdiques August Pi i Sunyer
+52002218|NCT04778579|OTHER_GOV|collaborator|Instituto de Salud Carlos III
+52239223|NCT04853277|OTHER|lead|Dartmouth-Hitchcock Medical Center
+52002299|NCT04404660|INDUSTRY|lead|Autolus Limited
+52100196|NCT02456350|OTHER|lead|Shenzhen Second People's Hospital
+52100197|NCT02456350|OTHER|collaborator|Shenzhen Institute for Innovation and Translational Medicine
+52002953|NCT04696432|OTHER|lead|Tianjin Medical University Cancer Institute and Hospital
+52002954|NCT04696432|INDUSTRY|collaborator|Cellular Biomedicine Group Ltd.
+52002967|NCT04648046|OTHER|lead|Steven Deeks
+52002968|NCT04648046|UNKNOWN|collaborator|Caring Cross
+52239750|NCT03232619|INDUSTRY|lead|Bioray Laboratories
+52003023|NCT04557436|OTHER|lead|Great Ormond Street Hospital for Children NHS Foundation Trust
+52003024|NCT04557436|OTHER|collaborator|University College, London
+52239751|NCT03232619|OTHER|collaborator|Second Xiangya Hospital of Central South University
+52003037|NCT04510051|OTHER|lead|City of Hope Medical Center
+52003038|NCT04510051|NIH|collaborator|National Cancer Institute (NCI)
+52239827|NCT04792593|INDUSTRY|lead|Hebei Senlang Biotechnology Inc., Ltd.
+52239930|NCT05473221|OTHER|lead|Zhejiang University
+52240212|NCT04745559|OTHER|lead|H. Lee Moffitt Cancer Center and Research Institute
+52240270|NCT05554575|INDUSTRY|lead|Bioceltech Therapeutics, Ltd.
+52240272|NCT01318317|OTHER|lead|City of Hope Medical Center
+52240273|NCT01318317|NIH|collaborator|National Cancer Institute (NCI)
+52240287|NCT04325841|OTHER|lead|Beijing Boren Hospital
+52240489|NCT05538195|INDUSTRY|lead|Chongqing Precision Biotech Co., Ltd
+52101376|NCT03207178|OTHER|lead|Shanghai Longyao Biotechnology Inc., Ltd.
+52101377|NCT03207178|OTHER|collaborator|Xuzhou Medical University
+52101378|NCT03207178|OTHER|collaborator|Shanghai Jiao Tong University School of Medicine
+52004386|NCT03502577|OTHER|lead|Fred Hutchinson Cancer Center
+52004387|NCT03502577|INDUSTRY|collaborator|Juno Therapeutics, Inc.
+52004388|NCT03502577|OTHER|collaborator|The Leukemia and Lymphoma Society
+52101967|NCT03118180|OTHER|lead|Zhejiang University
+52101968|NCT03118180|OTHER|collaborator|Innovative Cellular Therapeutics Co., Ltd.
+52241862|NCT05515185|OTHER|lead|The First People's Hospital of Lianyungang
+52241911|NCT05514327|OTHER|lead|Peking Union Medical College Hospital
+52005016|NCT04014881|OTHER|lead|Wuhan Union Hospital, China
+52005017|NCT04014881|UNKNOWN|collaborator|Wuhan Bio-Raid Biotechnology Co., Ltd.
+52242049|NCT03173417|INDUSTRY|lead|Beijing Immunochina Medical Science & Technology Co., Ltd.
+52102407|NCT03185494|OTHER|lead|Chinese PLA General Hospital
+52242628|NCT04280133|OTHER|lead|Massachusetts General Hospital
+52103263|NCT05008575|OTHER|lead|Xinqiao Hospital of Chongqing
+52103264|NCT05008575|INDUSTRY|collaborator|Sichuan Kelun-Biotech Biopharmaceutical Co., Ltd.
+51834746|NCT02893189|OTHER|lead|University College, London
+52103705|NCT03361748|INDUSTRY|lead|Celgene
+52243390|NCT05422521|OTHER|lead|Centre Hospitalier Universitaire de Nice
+52006644|NCT05350787|OTHER|lead|Zhejiang University
+52007106|NCT04008251|INDUSTRY|lead|Wuhan Sian Medical Technology Co., Ltd
+52007107|NCT04008251|OTHER|collaborator|Wuhan Union Hospital, China
+52007108|NCT04008251|OTHER|collaborator|Jingzhou Central Hospital
+52007109|NCT04008251|OTHER|collaborator|Xiangyang Central Hospital
+52007110|NCT04008251|UNKNOWN|collaborator|People Hospital Of Yichang
+52007177|NCT04011293|OTHER|lead|Shandong University
+52007178|NCT04011293|INDUSTRY|collaborator|Juventas Cell Therapy Ltd.
+52105547|NCT03114670|OTHER|lead|Affiliated Hospital to Academy of Military Medical Sciences
+52105584|NCT04440436|INDUSTRY|lead|Beijing Immunochina Medical Science & Technology Co., Ltd.
+52105585|NCT04440436|INDUSTRY|collaborator|Jiangsu Simcere Pharmaceutical Co., Ltd.
+52108141|NCT03726515|OTHER|lead|University of Pennsylvania
+52245128|NCT03191773|OTHER|lead|Second Affiliated Hospital of Guangzhou Medical University
+52245129|NCT03191773|OTHER|collaborator|Shenzhen Institute for Innovation and Translational Medicine
+52245130|NCT03191773|OTHER|collaborator|Guangzhou First People's Hospital
+52245131|NCT03191773|OTHER|collaborator|First People's Hospital of Foshan
+52245132|NCT03191773|OTHER_GOV|collaborator|Dongguan People's Hospital
+52245133|NCT03191773|OTHER|collaborator|The First Affiliated Hospital of Guangdong Pharmaceutical University
+52010102|NCT03980691|OTHER|lead|Guangzhou 8th People's Hospital
+52010103|NCT03980691|OTHER|collaborator|Sun Yat-sen University
+52109476|NCT04097301|INDUSTRY|lead|AGC Biologics S.p.A.
+52109477|NCT04097301|OTHER|collaborator|Horizon 2020 - European Commission
+52245420|NCT03182803|OTHER|lead|Shanghai Cell Therapy Research Institute
+52110426|NCT04385173|OTHER|lead|Second Affiliated Hospital, School of Medicine, Zhejiang University
+52110427|NCT04385173|UNKNOWN|collaborator|BoYuan RunSheng Pharma (Hangzhou) Co., Ltd.
+52110698|NCT03706547|OTHER|lead|Peng Liu
+52110699|NCT03706547|UNKNOWN|collaborator|Hrain Biotechnology
+52110700|NCT03706547|OTHER|collaborator|Shanghai East Hospital
+52245931|NCT05385263|OTHER_GOV|lead|Tel-Aviv Sourasky Medical Center
+52246057|NCT05085431|OTHER|lead|Zhejiang University
+52246058|NCT05085431|INDUSTRY|collaborator|Yake Biotechnology Ltd.
+52111096|NCT05309213|INDUSTRY|lead|Beijing Immunochina Medical Science & Technology Co., Ltd.
+52111155|NCT04640909|OTHER|lead|Gruppo Italiano Malattie EMatologiche dell'Adulto
+52111348|NCT01192464|OTHER|lead|Baylor College of Medicine
+52111349|NCT01192464|OTHER|collaborator|Center for Cell and Gene Therapy, Baylor College of Medicine
+52111350|NCT01192464|OTHER|collaborator|The Methodist Hospital Research Institute
+52112768|NCT03671460|INDUSTRY|lead|Tianjin Mycure Medical Technology Co., Ltd
+52246689|NCT04846439|OTHER|lead|The First Affiliated Hospital of Soochow University
+52246690|NCT04846439|OTHER|collaborator|The Second People's Hospital of Huai'an
+52246691|NCT04846439|OTHER|collaborator|The First Affiliated Hospital with Nanjing Medical University
+52246692|NCT04846439|OTHER|collaborator|The Affiliated Nanjing Drum Tower Hospital of Nanjing University Medical School
+52246693|NCT04846439|INDUSTRY|collaborator|Shanghai Unicar-Therapy Bio-medicine Technology Co.,Ltd
+52113216|NCT03464916|INDUSTRY|lead|Sorrento Therapeutics, Inc.
+52246775|NCT02659943|NIH|lead|National Cancer Institute (NCI)
+52113388|NCT03661554|INDUSTRY|lead|The Pregene (ShenZhen) Biotechnology Company, Ltd.
+52113389|NCT03661554|OTHER_GOV|collaborator|Henan Cancer Hospital
+52247034|NCT05017883|INDUSTRY|lead|PersonGen BioTherapeutics (Suzhou) Co., Ltd.
+52247035|NCT05017883|OTHER_GOV|collaborator|Anhui Provincial Hospital
+52113796|NCT03758417|INDUSTRY|lead|Nanjing Legend Biotech Co.
+52113797|NCT03758417|INDUSTRY|collaborator|Janssen Research & Development, LLC
+52113965|NCT03318861|INDUSTRY|lead|Kite, A Gilead Company
+52114073|NCT05420493|INDUSTRY|lead|Chongqing Precision Biotech Co., Ltd
+52114406|NCT03984968|OTHER|lead|The First Affiliated Hospital of Soochow University
+52013727|NCT03980288|OTHER|lead|Zhejiang University
+52013728|NCT03980288|INDUSTRY|collaborator|CARsgen Therapeutics Co., Ltd.
+52115763|NCT04384393|INDUSTRY|lead|Fundamenta Therapeutics, Ltd.
+52115764|NCT04384393|OTHER_GOV|collaborator|Anhui Provincial Hospital
+52116040|NCT04176913|OTHER|lead|The First Affiliated Hospital with Nanjing Medical University
+52116041|NCT04176913|UNKNOWN|collaborator|Nanjing Legend Biotechnology Co.,Ltd.; The First Affiliated Hospital of USTC west district; Beijing Boren Hospital
+51715950|NCT05239143|INDUSTRY|lead|Poseida Therapeutics, Inc.
+51716202|NCT04205409|OTHER|lead|University of Washington
+51716203|NCT04205409|INDUSTRY|collaborator|Bristol-Myers Squibb
+52117571|NCT01355965|OTHER|lead|University of Pennsylvania
+52248362|NCT05131763|OTHER|lead|Fudan University
+52248363|NCT05131763|OTHER|collaborator|KAEDI
+52248407|NCT05097443|OTHER_GOV|lead|Shandong Provincial Hospital
+52015719|NCT05371132|OTHER|lead|City of Hope Medical Center
+52015720|NCT05371132|NIH|collaborator|National Cancer Institute (NCI)
+52118623|NCT03952923|OTHER|lead|Hebei Yanda Ludaopei Hospital
+52118624|NCT03952923|INDUSTRY|collaborator|China Immunotech (Beijing) Biotechnology Co., Ltd.
+52118625|NCT03952923|UNKNOWN|collaborator|Avalon GloboCare Corp.
+52119007|NCT05665725|OTHER|lead|Timothy Voorhees
+52016397|NCT03931720|INDUSTRY|lead|Asclepius Technology Company Group (Suzhou) Co., Ltd.
+52119168|NCT05648019|OTHER_GOV|lead|KK Women's and Children's Hospital
+52119169|NCT05648019|OTHER|collaborator|Singapore General Hospital
+52016787|NCT03919240|OTHER|lead|The First Affiliated Hospital of Soochow University
+52016788|NCT03919240|INDUSTRY|collaborator|Shanghai Unicar-Therapy Bio-medicine Technology Co.,Ltd
+52249225|NCT03090659|INDUSTRY|lead|Nanjing Legend Biotech Co.
+52249226|NCT03090659|OTHER|collaborator|Second Affiliated Hospital of Xi'an Jiaotong University
+52249227|NCT03090659|OTHER|collaborator|Ruijin Hospital
+52249228|NCT03090659|OTHER|collaborator|Jiangsu Provincial People's Hospital
+52249229|NCT03090659|OTHER|collaborator|Shanghai Changzheng Hospital
+52119625|NCT04657861|OTHER|lead|Zhejiang University
+52119626|NCT04657861|INDUSTRY|collaborator|Yake Biotechnology Ltd.
+52119924|NCT03605238|OTHER|lead|Chinese PLA General Hospital
+52249436|NCT05302037|INDUSTRY|lead|CytoMed Therapeutics Pte Ltd
+52249437|NCT05302037|OTHER|collaborator|National University Hospital, Singapore
+51716939|NCT05568680|INDUSTRY|lead|Verismo Therapeutics
+51836573|NCT04516551|OTHER|lead|Xinqiao Hospital of Chongqing
+51836574|NCT04516551|INDUSTRY|collaborator|Gracell Biotechnology Shanghai Co., Ltd.
+52120802|NCT04083495|OTHER|lead|UNC Lineberger Comprehensive Cancer Center
+51836575|NCT04516551|OTHER|collaborator|First Affiliated Hospital of Zhejiang University
+51836576|NCT04516551|OTHER|collaborator|The Second Affiliated Hospital of Chongqing Medical University
+51836577|NCT04516551|OTHER|collaborator|The Affiliated Hospital Of Guizhou Medical University
+51836578|NCT04516551|OTHER|collaborator|The General Hospital of Western Theater Command
+51836579|NCT04516551|OTHER|collaborator|Chongqing University Cancer Hospital
+51836580|NCT04516551|OTHER|collaborator|The First Affiliated Hospital of Anhui Medical University
+51836581|NCT04516551|OTHER|collaborator|Tang-Du Hospital
+51836582|NCT04516551|OTHER|collaborator|920th Hospital of Joint Logistics Support Force of People's Liberation Army of China
+52120874|NCT03873805|OTHER|lead|City of Hope Medical Center
+52120875|NCT03873805|NIH|collaborator|National Cancer Institute (NCI)
+52120907|NCT03648372|INDUSTRY|lead|Takeda
+52121173|NCT02132624|OTHER|lead|Uppsala University
+52121174|NCT02132624|OTHER|collaborator|Uppsala University Hospital
+52121175|NCT02132624|OTHER|collaborator|Karolinska University Hospital
+52121176|NCT02132624|INDUSTRY|collaborator|AFA Insurance
+52121177|NCT02132624|OTHER|collaborator|Swedish Cancer Society
+52121230|NCT05370547|OTHER|lead|Chinese PLA General Hospital
+52121363|NCT02134262|OTHER|lead|Jichi Medical University
+52121364|NCT02134262|INDUSTRY|collaborator|Takara Bio Inc.
+51836637|NCT04324996|OTHER|lead|Chongqing Public Health Medical Center
+51836638|NCT04324996|UNKNOWN|collaborator|Chongqing Sidemu Biotech
+51836639|NCT04324996|UNKNOWN|collaborator|Zhejiang Qixin Biotech
+52121702|NCT03579888|OTHER|lead|M.D. Anderson Cancer Center
+52121703|NCT03579888|UNKNOWN|collaborator|Ziopharm Oncology
+52122329|NCT05190185|INDUSTRY|lead|PersonGen BioTherapeutics (Suzhou) Co., Ltd.
+52122330|NCT05190185|UNKNOWN|collaborator|Department of Immunology, The Fourth Hospital of Hebei Medical University
+51717221|NCT03548207|INDUSTRY|lead|Janssen Research & Development, LLC
+52018658|NCT03879382|INDUSTRY|lead|Hrain Biotechnology Co., Ltd.
+52018659|NCT03879382|OTHER|collaborator|Shanghai Changzheng Hospital
+52122863|NCT03181126|INDUSTRY|lead|AbbVie
+52123066|NCT05391490|OTHER|lead|University College, London
+52123169|NCT05085418|OTHER|lead|Zhejiang University
+52123170|NCT05085418|INDUSTRY|collaborator|Yake Biotechnology Ltd.
+52123218|NCT03068416|OTHER|lead|Uppsala University
+52123219|NCT03068416|OTHER|collaborator|Uppsala University Hospital
+52123220|NCT03068416|INDUSTRY|collaborator|AFA Insurance
+51836905|NCT04513431|OTHER|lead|Ruijin Hospital
+52123714|NCT04443829|OTHER|lead|University College, London
+51836906|NCT04513431|OTHER|collaborator|HuaDao (Shanghai) Biomedical Co., Ltd.
+52125008|NCT05020392|OTHER|lead|Wuhan Union Hospital, China
+52125009|NCT05020392|UNKNOWN|collaborator|Wuhan Si'an Medical Technology Co., Ltd
+52125036|NCT04881240|OTHER|lead|St. Jude Children's Research Hospital
+52125125|NCT04512716|OTHER|lead|Memorial Sloan Kettering Cancer Center
+52125126|NCT04512716|INDUSTRY|collaborator|Actinium Pharmaceuticals
+52125194|NCT04146051|INDUSTRY|lead|Cartesian Therapeutics
+52125239|NCT03938987|OTHER|lead|University of Alberta
+52125240|NCT03938987|OTHER|collaborator|Alberta Cancer Foundation
+52125241|NCT03938987|NETWORK|collaborator|Canadian Cancer Trials Group
+51837189|NCT05639179|OTHER|lead|920th Hospital of Joint Logistics Support Force of People's Liberation Army of China
+52020727|NCT03796390|INDUSTRY|lead|Hebei Senlang Biotechnology Inc., Ltd.
+52020728|NCT03796390|OTHER|collaborator|Hebei Yanda Ludaopei Hospital
+52127863|NCT03674463|OTHER|lead|Second Affiliated Hospital of Xi'an Jiaotong University
+52127864|NCT03674463|INDUSTRY|collaborator|Nanjing Legend Biotech Co.
+52020881|NCT05620732|OTHER|lead|Shenzhen University General Hospital
+52251755|NCT05633615|NETWORK|lead|SWOG Cancer Research Network
+52251756|NCT05633615|NIH|collaborator|National Cancer Institute (NCI)
+52251757|NCT05633615|INDUSTRY|collaborator|Genentech, Inc.
+52251769|NCT05587543|OTHER|lead|Fudan University
+52021023|NCT05495464|OTHER|lead|M.D. Anderson Cancer Center
+52021024|NCT05495464|INDUSTRY|collaborator|Kite, A Gilead Company
+52021025|NCT05495464|OTHER|collaborator|Acerta Pharma, LLC
+52128885|NCT03559764|INDUSTRY|lead|Allife Medical Science and Technology Co., Ltd.
+52129322|NCT00881920|OTHER|lead|Baylor College of Medicine
+52129323|NCT00881920|OTHER|collaborator|The Methodist Hospital Research Institute
+52129324|NCT00881920|OTHER|collaborator|Center for Cell and Gene Therapy, Baylor College of Medicine
+52130149|NCT05626400|INDUSTRY|lead|Hebei Senlang Biotechnology Inc., Ltd.
+52021533|NCT03993743|OTHER|lead|Xijing Hospital
+52130626|NCT05208853|OTHER|lead|Zhejiang University
+52130627|NCT05208853|UNKNOWN|collaborator|Shanghai First Song Therapeutics Co., Ltd
+52252196|NCT02442297|OTHER|lead|Baylor College of Medicine
+52252197|NCT02442297|OTHER|collaborator|Center for Cell and Gene Therapy, Baylor College of Medicine
+52252198|NCT02442297|OTHER|collaborator|The Methodist Hospital Research Institute
+52131849|NCT05106946|INDUSTRY|lead|Fundamenta Therapeutics, Ltd.
+52131850|NCT05106946|OTHER|collaborator|The Affiliated Hospital of Xuzhou Medical University
+51837887|NCT02954445|OTHER|lead|Southwest Hospital, China
+52134623|NCT03525782|OTHER|lead|The First Affiliated Hospital of Guangdong Pharmaceutical University
+52134624|NCT03525782|INDUSTRY|collaborator|Guangzhou Anjie Biomedical Technology Co., Ltd.
+52134625|NCT03525782|OTHER|collaborator|University of Technology, Sydney
+52134937|NCT05429905|OTHER_GOV|lead|KK Women's and Children's Hospital
+52134938|NCT05429905|OTHER|collaborator|Singapore General Hospital
+52134939|NCT05429905|OTHER|collaborator|National University Hospital, Singapore
+52134991|NCT04173988|OTHER|lead|Children's Hospital of Fudan University
+51837996|NCT02274584|OTHER|lead|Peking University
+51837997|NCT02274584|OTHER|collaborator|University of Florida
+52253330|NCT05623488|OTHER|lead|University of Pennsylvania
+52253453|NCT05457010|INDUSTRY|lead|Arcellx, Inc.
+52253466|NCT05454241|OTHER|lead|Ying Wang
+52253473|NCT05442580|OTHER|lead|University of Pennsylvania
+52253481|NCT05432635|OTHER|lead|City of Hope Medical Center
+52253482|NCT05432635|NIH|collaborator|National Cancer Institute (NCI)
+52137002|NCT02932956|OTHER|lead|Baylor College of Medicine
+52137003|NCT02932956|OTHER|collaborator|Center for Cell and Gene Therapy, Baylor College of Medicine
+52137004|NCT02932956|OTHER|collaborator|Cancer Prevention Research Institute of Texas
+52137005|NCT02932956|OTHER|collaborator|The V Foundation
+52137006|NCT02932956|OTHER|collaborator|Cookies for Kids' Cancer
+52137007|NCT02932956|OTHER|collaborator|Curing Kids' Cancer Foundation
+52137072|NCT02290951|INDUSTRY|lead|Regeneron Pharmaceuticals
+52137729|NCT05059912|OTHER|lead|The First Affiliated Hospital of Soochow University
+52137730|NCT05059912|INDUSTRY|collaborator|PersonGen BioTherapeutics (Suzhou) Co., Ltd.
+52137731|NCT05059912|OTHER|collaborator|The Affiliated Nanjing Drum Tower Hospital of Nanjing University Medical School
+52137732|NCT05059912|OTHER|collaborator|Affiliated Hospital of Jiangnan University
+52137733|NCT05059912|OTHER|collaborator|The Affiliated Zhongshan Hospital of Dalian University
+52137734|NCT05059912|OTHER|collaborator|The First Affiliated Hospital of Dalian Medical University
+51719745|NCT03585517|INDUSTRY|lead|Beijing Immunochina Medical Science & Technology Co., Ltd.
+52253866|NCT04877613|OTHER|lead|University of Pennsylvania
+52139024|NCT04976218|OTHER|lead|Chinese PLA General Hospital
+52139182|NCT05038696|OTHER|lead|National University Hospital, Singapore
+52254031|NCT04499339|OTHER|lead|Wuerzburg University Hospital
+52254032|NCT04499339|OTHER|collaborator|European Union
+52254039|NCT04484012|OTHER|lead|City of Hope Medical Center
+52254040|NCT04484012|NIH|collaborator|National Cancer Institute (NCI)
+51720035|NCT05028933|OTHER|lead|Zhejiang University
+52140016|NCT05150522|OTHER|lead|Shenzhen University General Hospital
+51720117|NCT03975907|INDUSTRY|lead|CARsgen Therapeutics Co., Ltd.
+51720118|NCT03975907|OTHER|collaborator|Beijing Chao Yang Hospital
+51720119|NCT03975907|OTHER|collaborator|The First Affiliated Hospital of Soochow University
+51720120|NCT03975907|OTHER|collaborator|Xinhua Hospital, Shanghai Jiao Tong University School of Medicine
+51720121|NCT03975907|OTHER|collaborator|Tianjin Medical University General Hospital
+51720122|NCT03975907|OTHER|collaborator|First Affiliated Hospital of Zhejiang University
+51720123|NCT03975907|OTHER_GOV|collaborator|Beijing Hospital
+51720124|NCT03975907|OTHER|collaborator|Shanghai Tongji Hospital, Tongji University School of Medicine
+51720125|NCT03975907|OTHER|collaborator|First Affiliated Hospital of Wenzhou Medical University
+51720126|NCT03975907|OTHER|collaborator|Xiangya Hospital of Central South University
+51720127|NCT03975907|OTHER|collaborator|Peking University People's Hospital
+52140504|NCT03638167|OTHER|lead|Seattle Children's Hospital
+52140527|NCT03598179|OTHER|lead|The First Affiliated Hospital with Nanjing Medical University
+51720128|NCT03975907|OTHER|collaborator|Qilu Hospital of Shandong University
+51720129|NCT03975907|OTHER|collaborator|Sun Yat-sen University
+51720130|NCT03975907|OTHER|collaborator|First Affiliated Hospital, Sun Yat-Sen University
+52254501|NCT03585764|OTHER|lead|University of Pennsylvania
+52254528|NCT03549442|OTHER|lead|University of Pennsylvania
+52254529|NCT03549442|INDUSTRY|collaborator|Novartis
+52025504|NCT05631912|OTHER|lead|Chinese PLA General Hospital
+52254592|NCT03288493|INDUSTRY|lead|Poseida Therapeutics, Inc.
+52254593|NCT03288493|OTHER|collaborator|California Institute for Regenerative Medicine (CIRM)
+52141344|NCT03576807|OTHER|lead|Xin Wang
+52254683|NCT03054298|OTHER|lead|University of Pennsylvania
+52254684|NCT03054298|NIH|collaborator|National Institutes of Health (NIH)
+52254685|NCT03054298|INDUSTRY|collaborator|Tmunity Therapeutics
+52254700|NCT02935543|OTHER|lead|University of Pennsylvania
+52025729|NCT05397184|OTHER|lead|Great Ormond Street Hospital for Children NHS Foundation Trust
+52025730|NCT05397184|OTHER|collaborator|UCL Great Ormond Street Institute of Child Health
+52025731|NCT05397184|OTHER_GOV|collaborator|Medical Research Council
+52025853|NCT05169489|INDUSTRY|lead|2seventy bio
+52254824|NCT02277522|OTHER|lead|University of Pennsylvania
+52142132|NCT02194374|OTHER|lead|M.D. Anderson Cancer Center
+52142133|NCT02194374|UNKNOWN|collaborator|CLL Global Research Foundation Alliance
+52254847|NCT02030847|OTHER|lead|University of Pennsylvania
+52254866|NCT01837602|OTHER|lead|University of Pennsylvania
+52026184|NCT04539366|NIH|lead|National Cancer Institute (NCI)
+52026229|NCT04404595|INDUSTRY|lead|CARsgen Therapeutics Co., Ltd.
+52026317|NCT04231747|INDUSTRY|lead|Juno Therapeutics, a Subsidiary of Celgene
+52143040|NCT03672253|OTHER|lead|Second Affiliated Hospital of Xi'an Jiaotong University
+52143041|NCT03672253|INDUSTRY|collaborator|Nanjing Legend Biotech Co.
+52143051|NCT02905188|OTHER|lead|Baylor College of Medicine
+52143052|NCT02905188|OTHER|collaborator|Center for Cell and Gene Therapy, Baylor College of Medicine
+52143053|NCT02905188|OTHER|collaborator|The Methodist Hospital Research Institute
+52143054|NCT02905188|OTHER|collaborator|Cancer Prevention Research Institute of Texas
+52143210|NCT04952272|OTHER|lead|Second Affiliated Hospital of Guangzhou Medical University
+52143211|NCT04952272|OTHER|collaborator|Guangdong Zhaotai InVivo Biomedicine Co. Ltd.
+52026672|NCT02414269|OTHER|lead|Memorial Sloan Kettering Cancer Center
+52026673|NCT02414269|INDUSTRY|collaborator|Bellicum Pharmaceuticals
+52026674|NCT02414269|FED|collaborator|United States Department of Defense
+52026700|NCT02208362|OTHER|lead|City of Hope Medical Center
+52026701|NCT02208362|NIH|collaborator|National Cancer Institute (NCI)
+52026702|NCT02208362|FED|collaborator|Food and Drug Administration (FDA)
+51839190|NCT05143151|OTHER|lead|Shenzhen University General Hospital
+51839196|NCT05143112|OTHER|lead|Shenzhen University General Hospital
+52026918|NCT03870945|INDUSTRY|lead|Miltenyi Biomedicine GmbH
+52026919|NCT03870945|INDUSTRY|collaborator|ICON plc
+51839426|NCT05149391|OTHER|lead|Peking University
+51839427|NCT05149391|OTHER|collaborator|Peking University Cancer Hospital & Institute
+52027303|NCT03720496|INDUSTRY|lead|Timmune Biotech Inc.
+51839546|NCT04692948|INDUSTRY|lead|PersonGen BioTherapeutics (Suzhou) Co., Ltd.
+51839547|NCT04692948|OTHER_GOV|collaborator|Anhui Provincial Hospital
+51839935|NCT04691349|INDUSTRY|lead|PersonGen BioTherapeutics (Suzhou) Co., Ltd.
+52028310|NCT05099237|OTHER_GOV|lead|Manchester University NHS Foundation Trust
+52028311|NCT05099237|UNKNOWN|collaborator|Zenzium AI Ltd.
+52028312|NCT05099237|UNKNOWN|collaborator|Aptus Clinical Ltd.
+52028313|NCT05099237|OTHER|collaborator|The Christie NHS Foundation Trust
+52028314|NCT05099237|OTHER|collaborator|University of Manchester
+52028315|NCT05099237|UNKNOWN|collaborator|GM Cancer
+52145060|NCT04969354|OTHER|lead|The Affiliated Hospital of Xuzhou Medical University
+52145061|NCT04969354|OTHER|collaborator|Xuzhou Medical University
+52145960|NCT04732845|OTHER|lead|Benjamin Tomlinson
+52029378|NCT03943472|INDUSTRY|lead|Hrain Biotechnology Co., Ltd.
+52029379|NCT03943472|OTHER|collaborator|Shanghai Changzheng Hospital
+52146187|NCT03434769|OTHER|lead|Benjamin Tomlinson
+52029804|NCT03937544|OTHER|lead|National University of Malaysia
+52029805|NCT03937544|OTHER|collaborator|Gaia Science
+52147780|NCT04430530|OTHER|lead|Shenzhen Geno-Immune Medical Institute
+52147781|NCT04430530|UNKNOWN|collaborator|ShiJiaZhuang Zhongxi Children Hospital
+52147782|NCT04430530|OTHER_GOV|collaborator|Shenzhen Children's Hospital
+52147783|NCT04430530|OTHER|collaborator|The Seventh Affiliated Hospital of Sun Yat-sen University
+52148057|NCT04861480|INDUSTRY|lead|Chongqing Precision Biotech Co., Ltd
+52256615|NCT05091541|INDUSTRY|lead|Nanjing IASO Biotherapeutics Co.,Ltd
+52148211|NCT04429438|OTHER|lead|Shenzhen Geno-Immune Medical Institute
+52148212|NCT04429438|OTHER|collaborator|The Seventh Affiliated Hospital of Sun Yat-sen University
+52148213|NCT04429438|OTHER_GOV|collaborator|Shenzhen Children's Hospital
+52148561|NCT04850560|OTHER|lead|Second Affiliated Hospital, School of Medicine, Zhejiang University
+52257000|NCT04981691|OTHER|lead|Ruijin Hospital
+52257001|NCT04981691|INDUSTRY|collaborator|UTC Therapeutics Inc.
+52149023|NCT01475058|OTHER|lead|Fred Hutchinson Cancer Center
+52149024|NCT01475058|NIH|collaborator|National Cancer Institute (NCI)
+52149375|NCT03463928|OTHER|lead|Chinese PLA General Hospital
+52257302|NCT05106907|INDUSTRY|lead|Fundamenta Therapeutics, Ltd.
+52257303|NCT05106907|OTHER|collaborator|The Affiliated Hospital of Xuzhou Medical University
+52149601|NCT04697940|OTHER|lead|Han weidong
+52150284|NCT04828174|OTHER|lead|Shanghai General Hospital, Shanghai Jiao Tong University School of Medicine
+52151087|NCT02081937|OTHER|lead|Chinese PLA General Hospital
+52032078|NCT03890198|OTHER|lead|First Affiliated Hospital Xi'an Jiaotong University
+52032079|NCT03890198|INDUSTRY|collaborator|Nanjing Legend Biotech Co.
+52032104|NCT03881774|OTHER_GOV|lead|Henan Cancer Hospital
+52032105|NCT03881774|UNKNOWN|collaborator|Henan Hualong Biotechnology Company
+52151605|NCT05472610|OTHER|lead|Shanghai Mengchao Cancer Hospital
+52151606|NCT05472610|INDUSTRY|collaborator|Shanghai Cell Therapy Group Co.,Ltd
+52258506|NCT04436029|INDUSTRY|lead|Cartesian Therapeutics
+52152138|NCT05243212|OTHER_GOV|lead|Sheba Medical Center
+52152174|NCT05128786|INDUSTRY|lead|Shanghai PerHum Therapeutics Co., Ltd.
+52152175|NCT05128786|OTHER|collaborator|Shanghai Zhongshan Hospital
+52258617|NCT05123209|INDUSTRY|lead|Beijing Immunochina Medical Science & Technology Co., Ltd.
+52152281|NCT04782193|INDUSTRY|lead|Chongqing Precision Biotech Co., Ltd
+52152282|NCT04781634|INDUSTRY|lead|Chongqing Precision Biotech Co., Ltd
+52152283|NCT04776330|INDUSTRY|lead|Chongqing Precision Biotech Co., Ltd
+52152327|NCT04649983|INDUSTRY|lead|Chongqing Precision Biotech Co., Ltd
+52152328|NCT04648475|INDUSTRY|lead|Chongqing Precision Biotech Co., Ltd
+52152376|NCT04511871|INDUSTRY|lead|Shanghai PerHum Therapeutics Co., Ltd.
+52152377|NCT04511871|OTHER|collaborator|Shanghai Zhongshan Hospital
+52152404|NCT04348643|INDUSTRY|lead|Chongqing Precision Biotech Co., Ltd
+52152417|NCT04272151|INDUSTRY|lead|Chongqing Precision Biotech Co., Ltd
+52152418|NCT04272125|INDUSTRY|lead|Chongqing Precision Biotech Co., Ltd
+52152419|NCT04271800|INDUSTRY|lead|Chongqing Precision Biotech Co., Ltd
+52152420|NCT04271644|INDUSTRY|lead|Chongqing Precision Biotech Co., Ltd
+52152421|NCT04271410|INDUSTRY|lead|Chongqing Precision Biotech Co., Ltd
+52152422|NCT04265963|INDUSTRY|lead|Chongqing Precision Biotech Co., Ltd
+52152803|NCT04788472|OTHER|lead|Zhejiang University
+52152804|NCT04788472|INDUSTRY|collaborator|Yake Biotechnology Ltd.
+52033302|NCT03448978|INDUSTRY|lead|Cartesian Therapeutics
+52034106|NCT05170568|INDUSTRY|lead|PersonGen BioTherapeutics (Suzhou) Co., Ltd.
+52034107|NCT05170568|OTHER|collaborator|The First Affiliated Hospital of Zhengzhou University
+52034108|NCT05170568|OTHER|collaborator|Peking University People's Hospital
+52034109|NCT05170568|UNKNOWN|collaborator|Union Hospital, affiliated with TongJi Medical College, HuaZhong University of Science and Technology
+52034110|NCT05170568|UNKNOWN|collaborator|Hematology Hospital of Chinese Academy of Medical Sciences (Hematology Research Center of Chinese Academy of Medical Sciences)
+52034111|NCT05170568|OTHER|collaborator|Zhejiang University
+52155761|NCT02915445|OTHER|lead|Sichuan University
+52156266|NCT04703686|OTHER|lead|The Lymphoma Academic Research Organisation
+52260755|NCT04429451|OTHER|lead|Shenzhen Geno-Immune Medical Institute
+52260756|NCT04429451|OTHER_GOV|collaborator|Shenzhen Children's Hospital
+52260757|NCT04429451|OTHER|collaborator|The Seventh Affiliated Hospital of Sun Yat-sen University
+52260758|NCT04429451|OTHER|collaborator|Shenzhen Hospital of Southern Medical University
+52261102|NCT05043571|OTHER|lead|National University Hospital, Singapore
+52156893|NCT03366350|INDUSTRY|lead|Wuhan Sian Medical Technology Co., Ltd
+52156894|NCT03366350|OTHER|collaborator|Wuhan Union Hospital, China
+52156895|NCT03366350|OTHER|collaborator|Jingzhou Central Hospital
+52156896|NCT03366350|OTHER|collaborator|Xiangyang Central Hospital
+52156897|NCT03366350|UNKNOWN|collaborator|People Hospital Of Yichang
+52261405|NCT05030779|OTHER|lead|Zhejiang University
+52261406|NCT05030779|INDUSTRY|collaborator|Yake Biotechnology Ltd.
+52261985|NCT05290155|OTHER|lead|Shanghai General Hospital, Shanghai Jiao Tong University School of Medicine
+52157638|NCT04503980|INDUSTRY|lead|Shanghai Cell Therapy Group Co.,Ltd
+52157639|NCT04503980|OTHER|collaborator|Shanghai 10th People's Hospital
+52035156|NCT05239702|OTHER|lead|Zhejiang University
+52035157|NCT05239702|INDUSTRY|collaborator|Yake Biotechnology Ltd.
+52262338|NCT05281809|OTHER|lead|John Lister
+52262339|NCT05281809|UNKNOWN|collaborator|Lentigen Technology, Inc.
+52262340|NCT05281809|INDUSTRY|collaborator|Miltenyi Biotec, Inc.
+52262341|NCT05281809|UNKNOWN|collaborator|AHN (Allegheny Health Network) Cancer Institute
+52262405|NCT04796441|INDUSTRY|lead|Hebei Senlang Biotechnology Inc., Ltd.
+52262416|NCT04796675|OTHER|lead|Wuhan Union Hospital, China
+52262417|NCT04796675|INDUSTRY|collaborator|Shanghai Simnova Biotechnology Co.,Ltd.
+52262424|NCT04803929|INDUSTRY|lead|Carbiogene Therapeutics Co. Ltd.
+52262425|NCT04803929|OTHER|collaborator|Zhejiang Provincial People's Hospital
+52262468|NCT04785833|INDUSTRY|lead|PersonGen BioTherapeutics (Suzhou) Co., Ltd.
+52262469|NCT04785833|OTHER|collaborator|The First Affiliated Hospital of Soochow University
+52262738|NCT05199519|INDUSTRY|lead|Innovent Biologics (Suzhou) Co. Ltd.
+52262777|NCT04790747|OTHER|lead|Zhejiang University
+52262778|NCT04790747|INDUSTRY|collaborator|Yake Biotechnology Ltd.
+52263118|NCT05474885|INDUSTRY|lead|iCell Gene Therapeutics
+52263119|NCT05474885|UNKNOWN|collaborator|iCAR Bio Therapeutics Ltd. China
+52158797|NCT03488160|INDUSTRY|lead|Sinobioway Cell Therapy Co., Ltd.
+52158886|NCT03540303|OTHER_GOV|lead|Henan Cancer Hospital
+52158887|NCT03540303|INDUSTRY|collaborator|The Pregene (ShenZhen) Biotechnology Company, Ltd.
+52263345|NCT04433221|OTHER|lead|Shenzhen Geno-Immune Medical Institute
+52263346|NCT04433221|OTHER|collaborator|The Seventh Affiliated Hospital of Sun Yat-sen University
+52263347|NCT04433221|OTHER_GOV|collaborator|Shenzhen Children's Hospital
+52263523|NCT05412329|OTHER|lead|Shanghai Changzheng Hospital
+52263524|NCT05412329|INDUSTRY|collaborator|Gracell Biotechnology Shanghai Co., Ltd.
+52263979|NCT04977193|OTHER|lead|Shanghai Longyao Biotechnology Inc., Ltd.
+52263980|NCT04977193|OTHER|collaborator|The Affiliated Hospital of Xuzhou Medical University
+52035936|NCT05620706|OTHER|lead|Shenzhen University General Hospital
+52160351|NCT05459870|OTHER|lead|Shenzhen Geno-Immune Medical Institute
+52160352|NCT05459870|UNKNOWN|collaborator|Guilin Hospital of Chinese Traditional and Western Medicine
+52160540|NCT05585996|OTHER|lead|Second Affiliated Hospital, School of Medicine, Zhejiang University
+52160645|NCT04706936|OTHER|lead|Second Affiliated Hospital, School of Medicine, Zhejiang University
+52160646|NCT04706936|INDUSTRY|collaborator|Carbiogene Therapeutics Co. Ltd.
+52264530|NCT04951141|INDUSTRY|lead|Beijing Immunochina Medical Science & Technology Co., Ltd.
+52264674|NCT03060343|OTHER|lead|Yu Fenglei
+52264675|NCT03060343|OTHER|collaborator|Hunan Zhaotai Yongren Medical Innovation Co. Ltd.
+52264676|NCT03060343|UNKNOWN|collaborator|Hunan Yongren Medical Innovation Co. Ltd.
+52036367|NCT03778346|OTHER|lead|The Sixth Affiliated Hospital of Wenzhou Medical University
+52036368|NCT03778346|UNKNOWN|collaborator|Zhejiang Qixin Biotech
+52161832|NCT05393804|OTHER|lead|Memorial Sloan Kettering Cancer Center
+52162013|NCT04952584|OTHER|lead|Baylor College of Medicine
+52162014|NCT04952584|OTHER|collaborator|The Methodist Hospital Research Institute
+52162340|NCT02601313|INDUSTRY|lead|Kite, A Gilead Company
+52266844|NCT04427449|OTHER|lead|Shenzhen Geno-Immune Medical Institute
+51725292|NCT05596266|OTHER|lead|Xuanwu Hospital, Beijing
+52266845|NCT04427449|OTHER|collaborator|Shenzhen Hospital of Southern Medical University
+52266846|NCT04427449|OTHER|collaborator|The Seventh Affiliated Hospital of Sun Yat-sen University
+52266847|NCT04427449|OTHER_GOV|collaborator|Shenzhen Children's Hospital
+51725293|NCT05596266|OTHER|collaborator|Baoding Children's Hospital
+52266856|NCT04812691|INDUSTRY|lead|Shanghai Ming Ju Biotechnology Co., Ltd.
+52266956|NCT04787263|OTHER|lead|Bambino Gesù Hospital and Research Institute
+52162707|NCT03473496|OTHER|lead|Zhujiang Hospital
+52162708|NCT03473496|OTHER|collaborator|Nanfang Hospital, Southern Medical University
+52162709|NCT03473496|OTHER_GOV|collaborator|The Third Affiliated Hospital of Southern Medical University
+52162710|NCT03473496|OTHER|collaborator|Sun Yat-Sen Memorial Hospital of Sun Yat-Sen University
+52267167|NCT04340167|OTHER|lead|Beijing Boren Hospital
+52267231|NCT04134325|OTHER|lead|UNC Lineberger Comprehensive Cancer Center
+52267232|NCT04134325|OTHER|collaborator|American Society of Clinical Oncology
+51725467|NCT05137275|OTHER|lead|Shanghai East Hospital
+51725468|NCT05137275|INDUSTRY|collaborator|Imbioray (Hangzhou) Biomedicine Co., Ltd.
+51842554|NCT05594797|INDUSTRY|lead|Hrain Biotechnology Co., Ltd.
+51842555|NCT05594797|OTHER|collaborator|Shanghai Changzheng Hospital
+51842556|NCT05594797|OTHER|collaborator|First Affiliated Hospital of Wenzhou Medical University
+52267637|NCT05535673|OTHER|lead|Zhengzhou University
+52267638|NCT05535673|INDUSTRY|collaborator|Fundamenta Therapeutics, Ltd.
+51842589|NCT02933775|OTHER|lead|RenJi Hospital
+51842590|NCT02933775|INDUSTRY|collaborator|CARsgen Therapeutics Co., Ltd.
+52268240|NCT04892277|OTHER|lead|Mayo Clinic
+52268241|NCT04892277|NIH|collaborator|National Cancer Institute (NCI)
+52163839|NCT04489862|OTHER|lead|Wuhan Union Hospital, China
+52163840|NCT04489862|INDUSTRY|collaborator|Shanghai Cell Therapy Group Co.,Ltd
+52164067|NCT05398614|INDUSTRY|lead|Hebei Senlang Biotechnology Inc., Ltd.
+52268564|NCT05528887|OTHER_GOV|lead|The Affiliated People's Hospital of Ningbo University
+52268565|NCT05528887|INDUSTRY|collaborator|UTC Therapeutics Inc.
+51842717|NCT05467254|OTHER|lead|Zhejiang University
+52268696|NCT05523661|OTHER|lead|Shanghai General Hospital, Shanghai Jiao Tong University School of Medicine
+52164441|NCT03710421|OTHER|lead|City of Hope Medical Center
+52164442|NCT03710421|NIH|collaborator|National Cancer Institute (NCI)
+52165053|NCT03919526|OTHER|lead|Shanghai General Hospital, Shanghai Jiao Tong University School of Medicine
+52165058|NCT05488132|OTHER|lead|Xuzhou Medical University
+52269572|NCT05478343|INDUSTRY|lead|Beijing Immunochina Medical Science & Technology Co., Ltd.
+52165106|NCT03265106|INDUSTRY|lead|Shenzhen BinDeBio Ltd.
+52165107|NCT03265106|OTHER|collaborator|Children's Hospital of Fudan University
+52165165|NCT03262298|OTHER|lead|Affiliated Hospital to Academy of Military Medical Sciences
+52270083|NCT05480501|INDUSTRY|lead|Beijing Immunochina Medical Science & Technology Co., Ltd.
+51843054|NCT05467202|OTHER|lead|Zhejiang University
+52270166|NCT05472857|INDUSTRY|lead|Suzhou Immunofoco Biotechnology Co., Ltd
+52270167|NCT05472857|OTHER|collaborator|Changhai Hospital
+52270247|NCT05477927|OTHER|lead|Sichuan University
+52165763|NCT05211557|OTHER|lead|The Affiliated Hospital of Xuzhou Medical University
+52165764|NCT05211557|OTHER|collaborator|Xuzhou Medical University
+52165765|NCT05211557|UNKNOWN|collaborator|IIT MediTech (Jiangsu) Co. Ltd
+52165791|NCT05477446|OTHER|lead|Beijing Friendship Hospital
+52165792|NCT05477446|OTHER|collaborator|Beijing Boren Hospital
+52166146|NCT03222674|OTHER|lead|Shenzhen Geno-Immune Medical Institute
+52166147|NCT03222674|UNKNOWN|collaborator|Zhujiang Hospital, Southern Medical University, Guangzhou, Guangdong, China
+52166148|NCT03222674|OTHER|collaborator|Yunnan Cancer Hospital
+52271240|NCT04973527|OTHER|lead|Beijing Boren Hospital
+52271241|NCT04973527|INDUSTRY|collaborator|Nanjing Legend Biotech Co.
+52166702|NCT03208556|OTHER|lead|Peking University
+52166703|NCT03208556|INDUSTRY|collaborator|Marino Biotechnology Co., Ltd.
+52271735|NCT05421663|INDUSTRY|lead|Cellular Biomedicine Group, Inc.
+52271736|NCT05421663|OTHER|collaborator|City of Hope Medical Center
+52271830|NCT04840875|OTHER|lead|Beijing Boren Hospital
+52166919|NCT02303821|INDUSTRY|lead|Amgen
+52166920|NCT02303821|UNKNOWN|collaborator|Therapeutic Advances in Childhood Leukemia & Lymphoma (TACL) - Study Design & Execution Collaborator
+52166921|NCT02303821|OTHER|collaborator|Innovative Therapies For Children with Cancer Consortium
+52167318|NCT05194709|OTHER|lead|Wuxi People's Hospital
+52167319|NCT05194709|INDUSTRY|collaborator|Imbioray (Hangzhou) Biomedicine Co., Ltd.
+52167650|NCT02439788|OTHER|lead|Baylor College of Medicine
+52167651|NCT02439788|OTHER|collaborator|Center for Cell and Gene Therapy, Baylor College of Medicine
+52167652|NCT02439788|INDUSTRY|collaborator|Alex's Lemonade Stand Foundation
+52273407|NCT04219319|OTHER|lead|The First Affiliated Hospital with Nanjing Medical University
+52273408|NCT04219319|UNKNOWN|collaborator|Nanjing Legend Biotechnology Co. The First Affiliated Hospital of USTC west district；The First Affiliated Hospital of the Air Force Medical University
+52168145|NCT03182816|OTHER|lead|Shanghai Cell Therapy Research Institute
+52168160|NCT03185468|OTHER|lead|Shenzhen Geno-Immune Medical Institute
+52273965|NCT04599556|OTHER|lead|Zhejiang University
+52273966|NCT04599556|INDUSTRY|collaborator|Yake Biotechnology Ltd.
+52168615|NCT02706392|OTHER|lead|Fred Hutchinson Cancer Center
+52168616|NCT02706392|NIH|collaborator|National Cancer Institute (NCI)
+52168626|NCT02416466|OTHER|lead|Roger Williams Medical Center
+52168627|NCT02416466|INDUSTRY|collaborator|Sirtex Medical
+52275160|NCT02348216|INDUSTRY|lead|Kite, A Gilead Company
+52040646|NCT05359211|OTHER|lead|Fred Hutchinson Cancer Center
+52040647|NCT05359211|INDUSTRY|collaborator|Nektar Therapeutics
+52040954|NCT04889716|OTHER|lead|Abramson Cancer Center at Penn Medicine
+52040955|NCT04889716|INDUSTRY|collaborator|Genentech, Inc.
+52170016|NCT02535364|INDUSTRY|lead|Juno Therapeutics, a Subsidiary of Celgene
+52170229|NCT03070327|OTHER|lead|Memorial Sloan Kettering Cancer Center
+52170230|NCT03070327|INDUSTRY|collaborator|Juno Therapeutics, Inc.
+52276219|NCT03994913|INDUSTRY|lead|CARsgen Therapeutics Co., Ltd.
+52276220|NCT03994913|OTHER|collaborator|First Affiliated Hospital of Zhejiang University
+52276221|NCT03994913|OTHER|collaborator|RenJi Hospital
+52276470|NCT04136275|OTHER|lead|Marcela V. Maus, M.D.,Ph.D.
+52041220|NCT04422912|INDUSTRY|lead|Cabaletta Bio
+51843964|NCT04206943|OTHER|lead|Acibadem University
+51843965|NCT04206943|OTHER|collaborator|Acıbadem Atunizade Hospital
+51843966|NCT04206943|OTHER|collaborator|The Scientific and Technological Research Council of Turkey
+51843967|NCT04206943|OTHER|collaborator|Acıbadem Labcell
+52041738|NCT03277729|OTHER|lead|Fred Hutchinson Cancer Center
+52041739|NCT03277729|INDUSTRY|collaborator|Mustang Bio
+52277977|NCT03651128|INDUSTRY|lead|Celgene
+52279440|NCT04150913|OTHER|lead|Marcela V. Maus, M.D.,Ph.D.
+52279441|NCT04150913|INDUSTRY|collaborator|Kite, A Gilead Company
+52279761|NCT01454596|NIH|lead|National Cancer Institute (NCI)
+52279821|NCT02215967|NIH|lead|National Cancer Institute (NCI)
+52172069|NCT03672305|OTHER|lead|The Second Hospital of Nanjing Medical University
+51844171|NCT05562024|INDUSTRY|lead|PersonGen BioTherapeutics (Suzhou) Co., Ltd.
+51844172|NCT05562024|OTHER|collaborator|Tianjin Medical University Cancer Institute and Hospital
+51844173|NCT05562024|OTHER|collaborator|Shandong Cancer Hospital and Institute
+52042401|NCT05352828|INDUSTRY|lead|Tessa Therapeutics
+52042402|NCT05352828|INDUSTRY|collaborator|Bristol-Myers Squibb
+52042519|NCT04817774|INDUSTRY|lead|Sangamo Therapeutics
+52042553|NCT04690595|INDUSTRY|lead|PeproMene Bio, Inc.
+52042554|NCT04690595|OTHER|collaborator|City of Hope Medical Center
+52281546|NCT04684459|OTHER|lead|Sichuan University
+52281906|NCT04684472|OTHER|lead|Liqun Zou
+52172639|NCT03473457|OTHER|lead|Zhujiang Hospital
+52172640|NCT03473457|OTHER|collaborator|Nanfang Hospital, Southern Medical University
+52172641|NCT03473457|OTHER_GOV|collaborator|The Third Affiliated Hospital of Southern Medical University
+52172642|NCT03473457|OTHER|collaborator|Sun Yat-Sen Memorial Hospital of Sun Yat-Sen University
+52282105|NCT04689659|OTHER|lead|Beijing Boren Hospital
+52042948|NCT05632380|OTHER|lead|Institute of Hematology & Blood Diseases Hospital
+52042949|NCT05632380|INDUSTRY|collaborator|Cellular Biomedicine Group Ltd.
+52172737|NCT05155215|INDUSTRY|lead|Beijing Immunochina Medical Science & Technology Co., Ltd.
+52282694|NCT04034446|OTHER|lead|Institute of Hematology & Blood Diseases Hospital
+52282695|NCT04034446|INDUSTRY|collaborator|Juventas Cell Therapy Ltd.
+52172938|NCT03672851|OTHER|lead|Second Affiliated Hospital of Xi'an Jiaotong University
+52172939|NCT03672851|INDUSTRY|collaborator|Nanjing Legend Biotech Co.
+52043439|NCT03912480|INDUSTRY|lead|CAR-T (Shanghai) Biotechnology Co., Ltd.
+52284660|NCT04026100|OTHER|lead|The First Affiliated Hospital with Nanjing Medical University
+52284661|NCT04026100|INDUSTRY|collaborator|Nanjing Bioheng Biotech Co., Ltd.
+52043522|NCT03910842|INDUSTRY|lead|Timmune Biotech Inc.
+52043523|NCT03910842|OTHER|collaborator|Hunan Provincial People's Hospital
+52173472|NCT04684563|OTHER|lead|University of Pennsylvania
+52043571|NCT05571540|OTHER|lead|Kunming Hope of Health Hospital
+51728771|NCT04359784|OTHER|lead|Fred Hutchinson Cancer Center
+51728772|NCT04359784|INDUSTRY|collaborator|Swedish Orphan Biovitrum
+52286606|NCT03240328|OTHER|lead|Guangzhou 8th People's Hospital
+52286607|NCT03240328|OTHER|collaborator|Sun Yat-sen University
+52287025|NCT05240950|OTHER|lead|Changhai Hospital
+52174535|NCT03664661|OTHER_GOV|lead|Henan Cancer Hospital
+52174536|NCT03664661|INDUSTRY|collaborator|The Pregene (ShenZhen) Biotechnology Company, Ltd.
+52287546|NCT04690192|OTHER|lead|Zou Dehui
+52287547|NCT04690192|INDUSTRY|collaborator|Juventas Cell Therapy Ltd.
+52287632|NCT04049513|OTHER|lead|Malaghan Institute of Medical Research
+52287633|NCT04049513|UNKNOWN|collaborator|Wellington Zhaotai Therapies Limited (WZTL)
+52174879|NCT03658655|INDUSTRY|lead|CAR-T (Shanghai) Biotechnology Co., Ltd.
+52287766|NCT03103971|OTHER|lead|Fred Hutchinson Cancer Center
+52287767|NCT03103971|INDUSTRY|collaborator|Juno Therapeutics, Inc.
+52044606|NCT04155749|INDUSTRY|lead|Arcellx, Inc.
+52175404|NCT03648697|OTHER_GOV|lead|Fujian Cancer Hospital
+52175405|NCT03648697|INDUSTRY|collaborator|China Immunotech (Beijing) Biotechnology Co., Ltd.
+51729294|NCT03373097|OTHER|lead|Bambino Gesù Hospital and Research Institute
+51729361|NCT05437341|OTHER|lead|Shenzhen Geno-Immune Medical Institute
+51729362|NCT05437328|OTHER|lead|Shenzhen Geno-Immune Medical Institute
+51729363|NCT05437315|OTHER|lead|Shenzhen Geno-Immune Medical Institute
+51729396|NCT05436509|OTHER|lead|Shenzhen Geno-Immune Medical Institute
+51729397|NCT05436496|OTHER|lead|Shenzhen Geno-Immune Medical Institute
+52176059|NCT03468153|OTHER|lead|Ruijin Hospital
+52176060|NCT03468153|INDUSTRY|collaborator|Shanghai Unicar-Therapy Bio-medicine Technology Co.,Ltd
+52176134|NCT02529813|OTHER|lead|M.D. Anderson Cancer Center
+52176135|NCT02529813|NIH|collaborator|National Cancer Institute (NCI)
+52176136|NCT02529813|UNKNOWN|collaborator|Ziopharm Oncology
+52176828|NCT03649529|INDUSTRY|lead|Timmune Biotech Inc.
+52176829|NCT03649529|OTHER|collaborator|The Second Affiliated Hospital of Hainan Medical University
+52176830|NCT03649529|OTHER|collaborator|Hainan Cancer Hospital
+51847283|NCT05664217|INDUSTRY|lead|Nektar Therapeutics
+51847310|NCT05621291|NIH|lead|National Cancer Institute (NCI)
+52177128|NCT03615313|OTHER|lead|Shanghai Cell Therapy Research Institute
+52046292|NCT03690011|OTHER|lead|Baylor College of Medicine
+52046293|NCT03690011|OTHER|collaborator|The Methodist Hospital Research Institute
+52046294|NCT03690011|OTHER|collaborator|Center for Cell and Gene Therapy, Baylor College of Medicine
+52046371|NCT02431988|OTHER|lead|University College, London
+51847594|NCT04960579|INDUSTRY|lead|Poseida Therapeutics, Inc.
+51847595|NCT04960579|INDUSTRY|collaborator|Roche-Genentech
+52177888|NCT03612739|INDUSTRY|lead|Celyad Oncology SA
+51847713|NCT04637763|INDUSTRY|lead|Caribou Biosciences, Inc.
+51847746|NCT04530565|NIH|lead|National Cancer Institute (NCI)
+51847851|NCT04099797|OTHER|lead|Baylor College of Medicine
+51847852|NCT04099797|OTHER|collaborator|Center for Cell and Gene Therapy, Baylor College of Medicine
+51847853|NCT04099797|UNKNOWN|collaborator|The Faris Foundation
+51847854|NCT04099797|UNKNOWN|collaborator|ChadTough Defeat DIPG Foundation
+51847855|NCT04099797|UNKNOWN|collaborator|Violet Foundation for Pediatric Brain Cancer
+51847867|NCT04013802|OTHER|lead|Baylor College of Medicine
+51847868|NCT04013802|OTHER|collaborator|The Methodist Hospital Research Institute
+52178192|NCT03146234|OTHER|lead|RenJi Hospital
+52178193|NCT03146234|INDUSTRY|collaborator|CARsgen Therapeutics Co., Ltd.
+51848028|NCT02830724|NIH|lead|National Cancer Institute (NCI)
+52046936|NCT05666700|OTHER|lead|Peter MacCallum Cancer Centre, Australia
+52046937|NCT05666700|INDUSTRY|collaborator|Janssen, LP
+52178802|NCT03398967|OTHER|lead|Chinese PLA General Hospital
+52178808|NCT03125577|OTHER|lead|Shenzhen Geno-Immune Medical Institute
+51854078|NCT04601181|INDUSTRY|lead|Fundamenta Therapeutics, Ltd.
+52047156|NCT03854994|OTHER|lead|Yan'an Affiliated Hospital of Kunming Medical University
+52047157|NCT03854994|OTHER|collaborator|KAEDI
+51544970|NCT04410900|OTHER|lead|Fred Hutchinson Cancer Center
+51545056|NCT04025216|INDUSTRY|lead|Tmunity Therapeutics
+52179466|NCT03939026|INDUSTRY|lead|Allogene Therapeutics
+52290565|NCT05483491|OTHER|lead|Christian Hinrichs
+52290566|NCT05483491|UNKNOWN|collaborator|Cancer Immunology and Metabolism Center of Excellence at Rutgers Cancer Institute of New Jersey
+52290567|NCT05483491|NIH|collaborator|National Cancer Institute (NCI)
+52179629|NCT03142646|INDUSTRY|lead|Beijing Immunochina Medical Science & Technology Co., Ltd.
+52047585|NCT03631576|OTHER|lead|Fujian Medical University
+51545916|NCT05650749|OTHER|lead|Stephan Grupp MD PhD
+51545917|NCT05650749|OTHER|collaborator|Children's Hospital of Philadelphia
+51545918|NCT05650749|INDUSTRY|collaborator|Tmunity Therapeutics
+51545919|NCT05650749|OTHER|collaborator|University of Pennsylvania
+52180540|NCT05396300|OTHER|lead|Weijia Fang, MD
+52180541|NCT05396300|INDUSTRY|collaborator|Chongqing Precision Biotech Co., Ltd
+52180598|NCT05089266|INDUSTRY|lead|Shanghai Cell Therapy Group Co.,Ltd
+51546044|NCT05480449|OTHER|lead|Stephan Grupp MD PhD
+51546045|NCT05480449|OTHER|collaborator|Children's Hospital of Philadelphia
+52180645|NCT04768608|OTHER|lead|Zhejiang University
+52180646|NCT04768608|INDUSTRY|collaborator|Bioray Laboratories
+52180668|NCT04652219|OTHER|lead|Weijia Fang, MD
+52180669|NCT04652219|OTHER|collaborator|Innovative Cellular Therapeutics Co., Ltd.
+52180777|NCT03618381|OTHER|lead|Seattle Children's Hospital
+51848562|NCT04639739|OTHER|lead|Xinqiao Hospital of Chongqing
+51848563|NCT04639739|INDUSTRY|collaborator|Chongqing Precision Biotech Co., Ltd
+51546345|NCT04789408|INDUSTRY|lead|Kite, A Gilead Company
+51546486|NCT04318678|OTHER|lead|St. Jude Children's Research Hospital
+51546635|NCT03829540|OTHER|lead|Huda Salman
+51546636|NCT03829540|INDUSTRY|collaborator|iCell Gene Therapeutics
+52181467|NCT04545762|OTHER|lead|C. Babis Andreadis
+52181468|NCT04545762|OTHER|collaborator|University of California, Davis
+52181499|NCT04419909|OTHER|lead|University of Pennsylvania
+51547559|NCT01460901|OTHER|lead|Children's Mercy Hospital Kansas City
+51547560|NCT01460901|OTHER|collaborator|Center for Cell and Gene Therapy, Baylor College of Medicine
+51547584|NCT04888468|INDUSTRY|lead|Chongqing Precision Biotech Co., Ltd
+51547619|NCT04556266|OTHER|lead|Memorial Sloan Kettering Cancer Center
+52182172|NCT02850536|OTHER|lead|Roger Williams Medical Center
+52182173|NCT02850536|OTHER|collaborator|University of Colorado, Denver
+52182174|NCT02850536|INDUSTRY|collaborator|Sorrento Therapeutics, Inc.
+51732966|NCT01735604|OTHER|lead|Chinese PLA General Hospital
+51548829|NCT04196205|OTHER|lead|The First Affiliated Hospital of Nanchang University
+52048794|NCT05404048|OTHER|lead|University Medical Center Groningen
+51549968|NCT02992834|OTHER|lead|jiangjingting
+51550532|NCT03159819|OTHER|lead|Changhai Hospital
+51550533|NCT03159819|INDUSTRY|collaborator|CARsgen Therapeutics Co., Ltd.
+51849528|NCT02930993|OTHER|lead|China Meitan General Hospital
+51849529|NCT02930993|INDUSTRY|collaborator|Marino Biotechnology Co., Ltd.
+51551718|NCT03696784|OTHER|lead|UNC Lineberger Comprehensive Cancer Center
+51551719|NCT03696784|INDUSTRY|collaborator|Bellicum Pharmaceuticals
+51551720|NCT03696784|OTHER|collaborator|The V Foundation
+51551952|NCT05312476|OTHER|lead|The First Affiliated Hospital of Soochow University
+51552061|NCT04088890|OTHER|lead|Stanford University
+51552402|NCT05381181|INDUSTRY|lead|Bioray Laboratories
+51552403|NCT05381181|OTHER|collaborator|The First Affiliated Hospital of Zhengzhou University
+52050043|NCT03754764|OTHER|lead|Chinese PLA General Hospital
+52184699|NCT05117138|INDUSTRY|lead|Beijing Immunochina Medical Science & Technology Co., Ltd.
+51553721|NCT04762485|OTHER|lead|The First Affiliated Hospital of Soochow University
+51553722|NCT04762485|INDUSTRY|collaborator|PersonGen BioTherapeutics (Suzhou) Co., Ltd.
+51850635|NCT04670055|OTHER|lead|Zhejiang University
+51850636|NCT04670055|INDUSTRY|collaborator|Yake Biotechnology Ltd.
+51554031|NCT03030976|INDUSTRY|lead|Shanghai GeneChem Co., Ltd.
+51554032|NCT03030976|OTHER|collaborator|RenJi Hospital
+51850774|NCT04657965|OTHER|lead|Zhejiang University
+51850775|NCT04657965|INDUSTRY|collaborator|Yake Biotechnology Ltd.
+51850778|NCT04658004|OTHER|lead|Zhejiang University
+51850779|NCT04658004|INDUSTRY|collaborator|Yake Biotechnology Ltd.
+52184824|NCT03327285|OTHER|lead|Peking University People's Hospital
+52184825|NCT03327285|INDUSTRY|collaborator|Cellular Biomedicine Group Ltd.
+51850957|NCT04665063|INDUSTRY|lead|Hebei Senlang Biotechnology Inc., Ltd.
+51850958|NCT04665063|OTHER|collaborator|Hebei Medical University Fourth Hospital
+51555369|NCT03602157|OTHER|lead|UNC Lineberger Comprehensive Cancer Center
+51555370|NCT03602157|UNKNOWN|collaborator|University Cancer Research Fund at Lineberger Comprehensive Cancer Center
+51555371|NCT03602157|OTHER|collaborator|Stand Up To Cancer
+51555438|NCT03049449|NIH|lead|National Cancer Institute (NCI)
+52185265|NCT03321123|OTHER|lead|Shanghai Children's Medical Center
+52185266|NCT03321123|INDUSTRY|collaborator|Miltenyi Biomedicine GmbH
+52186583|NCT02981628|NETWORK|lead|Children's Oncology Group
+52186584|NCT02981628|NIH|collaborator|National Cancer Institute (NCI)
+52186670|NCT05334823|INDUSTRY|lead|Chongqing Precision Biotech Co., Ltd
+51555879|NCT05164770|OTHER_GOV|lead|Shandong Provincial Hospital
+52187919|NCT03302403|OTHER|lead|Kang YU
+52187920|NCT03302403|INDUSTRY|collaborator|CARsgen Therapeutics Co., Ltd.
+51852181|NCT04638270|OTHER|lead|Xinqiao Hospital of Chongqing
+51852182|NCT04638270|INDUSTRY|collaborator|Gracell Biotechnology Shanghai Co., Ltd.
+51852183|NCT04638270|OTHER|collaborator|920th Hospital of Joint Logistics Support Force of People's Liberation Army of China
+51852184|NCT04638270|OTHER|collaborator|The Second Affiliated Hospital of Chongqing Medical University
+51852185|NCT04638270|OTHER|collaborator|The Affiliated Hospital Of Guizhou Medical University
+51852186|NCT04638270|OTHER|collaborator|The Second Affiliated Hospital of Kunming Medical University
+51852187|NCT04638270|OTHER|collaborator|Chongqing University Cancer Hospital
+52189554|NCT04935580|OTHER|lead|Shanghai Changzheng Hospital
+52189555|NCT04935580|INDUSTRY|collaborator|Gracell Biotechnology Shanghai Co., Ltd.
+52052378|NCT04288726|OTHER|lead|Baylor College of Medicine
+52052379|NCT04288726|OTHER|collaborator|The Methodist Hospital Research Institute
+52052623|NCT03685786|OTHER|lead|Shenzhen Second People's Hospital
+51852443|NCT03455972|OTHER|lead|The First Affiliated Hospital of Soochow University
+51854079|NCT04601181|UNKNOWN|collaborator|The First Affiliated Hospital of USTC (Anhui Provincial Hospital)
+52191405|NCT03252171|OTHER|lead|Fuda Cancer Hospital, Guangzhou
+51852814|NCT04627740|OTHER|lead|Xinqiao Hospital of Chongqing
+51852815|NCT04627740|INDUSTRY|collaborator|TCRCure Biopharma Ltd.
+52192226|NCT05354375|OTHER|lead|The Affiliated Hospital of Xuzhou Medical University
+52192227|NCT05354375|OTHER|collaborator|Xuzhou Medical University
+51852864|NCT04626765|INDUSTRY|lead|Hebei Senlang Biotechnology Inc., Ltd.
+51852865|NCT04626765|OTHER|collaborator|The Second Hospital of Hebei Medical University
+51852875|NCT04626726|INDUSTRY|lead|Hebei Senlang Biotechnology Inc., Ltd.
+52192864|NCT04855253|OTHER|lead|Masonic Cancer Center, University of Minnesota
+52192901|NCT04715191|OTHER|lead|Baylor College of Medicine
+52192902|NCT04715191|OTHER|collaborator|Center for Cell and Gene Therapy, Baylor College of Medicine
+52192964|NCT04377932|OTHER|lead|Baylor College of Medicine
+52192965|NCT04377932|OTHER|collaborator|Center for Cell and Gene Therapy, Baylor College of Medicine
+52192984|NCT04240808|OTHER|lead|University of Colorado, Denver
+52193032|NCT04049383|OTHER|lead|Medical College of Wisconsin
+52193033|NCT04049383|OTHER|collaborator|Children's Hospital and Health System Foundation, Wisconsin
+51558383|NCT03126864|OTHER|lead|M.D. Anderson Cancer Center
+51558384|NCT03126864|INDUSTRY|collaborator|Intrexon Corporation
+52193390|NCT03564977|OTHER|lead|Qingdao Central Hospital
+52193391|NCT03564977|INDUSTRY|collaborator|Yake Biotechnology Ltd.
+51853074|NCT02903810|OTHER|lead|Xuzhou Medical University
+52193765|NCT03545815|OTHER|lead|Chinese PLA General Hospital
+52195145|NCT03060356|OTHER|lead|University of Pennsylvania
+52195578|NCT03559439|OTHER|lead|Shanghai Tong Ren Hospital
+52195579|NCT03559439|OTHER|collaborator|Gracell Biotechnology Ltd.
+52195834|NCT04934774|INDUSTRY|lead|iCell Gene Therapeutics
+52195835|NCT04934774|INDUSTRY|collaborator|iCAR Bio Therapeutics Ltd.
+52195836|NCT04934774|OTHER|collaborator|Peking University Shenzhen Hospital
+51558894|NCT03383952|INDUSTRY|lead|Immune Cell, Inc.
+51558895|NCT03383952|OTHER|collaborator|Weifang People's Hospital
+51559189|NCT01583686|NIH|lead|National Cancer Institute (NCI)
+52196991|NCT04888442|INDUSTRY|lead|Chongqing Precision Biotech Co., Ltd
+51853612|NCT04890236|OTHER|lead|Emory University
+51853613|NCT04890236|NIH|collaborator|National Cancer Institute (NCI)
+51853614|NCT04890236|INDUSTRY|collaborator|Secura Bio, Inc.
+51853615|NCT04890236|INDUSTRY|collaborator|Novartis
+51559789|NCT03366324|INDUSTRY|lead|Wuhan Sian Medical Technology Co., Ltd
+51559790|NCT03366324|OTHER|collaborator|Wuhan Union Hospital, China
+51559791|NCT03366324|OTHER|collaborator|Jingzhou Central Hospital
+51559792|NCT03366324|OTHER|collaborator|Xiangyang Central Hospital
+51559793|NCT03366324|OTHER|collaborator|The First People's Hospital of Yuhang District
+52053817|NCT05318963|OTHER|lead|Qiu Lugui
+52053818|NCT05318963|INDUSTRY|collaborator|Nanjing Legend Biotech Co.
+51854165|NCT04599543|OTHER|lead|Zhejiang University
+51854166|NCT04599543|INDUSTRY|collaborator|Yake Biotechnology Ltd.
+52199300|NCT04412174|OTHER|lead|Hebei Yanda Ludaopei Hospital
+52199301|NCT04412174|OTHER|collaborator|Gracell Biotechnology Ltd.
+51854677|NCT04603872|OTHER|lead|Zhejiang University
+51854678|NCT04603872|INDUSTRY|collaborator|Yake Biotechnology Ltd.
+51854697|NCT04626908|OTHER|lead|He Huang
+51854698|NCT04626908|OTHER|collaborator|Gracell Biotechnology Ltd.
+51742423|NCT01864889|OTHER|lead|Chinese PLA General Hospital
+51742424|NCT01864902|OTHER|lead|Chinese PLA General Hospital
+51854710|NCT04626752|INDUSTRY|lead|Hebei Senlang Biotechnology Inc., Ltd.
+51562634|NCT05341492|OTHER|lead|Second Affiliated Hospital of Guangzhou Medical University
+51855199|NCT04617704|OTHER|lead|Shanghai Changzheng Hospital
+51855200|NCT04617704|INDUSTRY|collaborator|Gracell Biotechnology Shanghai Co., Ltd.
+51562654|NCT03310008|INDUSTRY|lead|Celyad Oncology SA
+52200470|NCT02706405|OTHER|lead|Fred Hutchinson Cancer Center
+52200471|NCT02706405|INDUSTRY|collaborator|AstraZeneca
+52200472|NCT02706405|INDUSTRY|collaborator|Juno Therapeutics, Inc.
+52200473|NCT02706405|INDUSTRY|collaborator|MedImmune LLC
+52200474|NCT02706405|NIH|collaborator|National Cancer Institute (NCI)
+52200618|NCT03179007|OTHER|lead|Shanghai Cell Therapy Research Institute
+52200681|NCT02761915|OTHER|lead|Cancer Research UK
+51563366|NCT03029338|OTHER|lead|Institute of Hematology & Blood Diseases Hospital
+51563367|NCT03029338|INDUSTRY|collaborator|Juventas Cell Therapy Ltd.
+51743599|NCT05510596|OTHER|lead|University Hospital, Montpellier
+51855840|NCT04595162|OTHER|lead|Peking University Third Hospital
+51855841|NCT04595162|OTHER|collaborator|Gracell Biotechnology Ltd.
+51743750|NCT05225363|OTHER|lead|City of Hope Medical Center
+51743751|NCT05225363|NIH|collaborator|National Cancer Institute (NCI)
+51563797|NCT02935257|OTHER|lead|University College, London
+51744135|NCT04074330|INDUSTRY|lead|Takeda
+51564246|NCT05204160|OTHER|lead|Emory University
+51564247|NCT05204160|INDUSTRY|collaborator|Merck Sharp & Dohme LLC
+51564248|NCT05204160|NIH|collaborator|National Cancer Institute (NCI)
+51564748|NCT05023707|OTHER|lead|The First Affiliated Hospital of Soochow University
+51564749|NCT05023707|OTHER|collaborator|The First Affiliated Hospital with Nanjing Medical University
+51564750|NCT05023707|OTHER|collaborator|The Affiliated Nanjing Drum Tower Hospital of Nanjing University Medical School
+51564751|NCT05023707|OTHER|collaborator|The Second People's Hospital of Huai'an
+51564752|NCT05023707|INDUSTRY|collaborator|PersonGen BioTherapeutics (Suzhou) Co., Ltd.
+51857105|NCT04609241|OTHER|lead|Zhejiang University
+51857106|NCT04609241|INDUSTRY|collaborator|Yake Biotechnology Ltd.
+52202534|NCT05626322|INDUSTRY|lead|Pfizer
+52202535|NCT05626322|INDUSTRY|collaborator|MorphoSys AG
+52202536|NCT05626322|INDUSTRY|collaborator|Incyte Corporation
+52202609|NCT05396885|INDUSTRY|lead|Arcellx, Inc.
+52202610|NCT05396885|INDUSTRY|collaborator|Kite, A Gilead Company
+51565878|NCT03291444|OTHER|lead|Zhujiang Hospital
+51565879|NCT03291444|OTHER|collaborator|Shenzhen Geno-Immune Medical Institute
+51565880|NCT03291444|OTHER|collaborator|Sun Yat-Sen Memorial Hospital of Sun Yat-Sen University
+51745775|NCT01886976|OTHER|lead|Chinese PLA General Hospital
+52203088|NCT02107963|NIH|lead|National Cancer Institute (NCI)
+51858017|NCT04572308|INDUSTRY|lead|Hebei Senlang Biotechnology Inc., Ltd.
+51566953|NCT05605197|INDUSTRY|lead|Shanghai Unicar-Therapy Bio-medicine Technology Co.,Ltd
+51566954|NCT05605197|OTHER|collaborator|Shanghai 10th People's Hospital
+51858501|NCT04991948|INDUSTRY|lead|Celyad Oncology SA
+51858502|NCT04991948|INDUSTRY|collaborator|Merck Sharp & Dohme LLC
+51858798|NCT04546893|INDUSTRY|lead|Hebei Senlang Biotechnology Inc., Ltd.
+51858799|NCT04546893|OTHER|collaborator|Hebei Yanda Ludaopei Hospital
+51858800|NCT04546893|OTHER|collaborator|Beijing Lu Daopei Hospital
+51858892|NCT04539444|OTHER|lead|The First Affiliated Hospital of Soochow University
+51858893|NCT04539444|INDUSTRY|collaborator|Shanghai Unicar-Therapy Bio-medicine Technology Co.,Ltd
+51568480|NCT03196830|OTHER|lead|The First Affiliated Hospital of Soochow University
+51568481|NCT03196830|INDUSTRY|collaborator|Shanghai Unicar-Therapy Bio-medicine Technology Co.,Ltd
+51569178|NCT04877080|OTHER|lead|920th Hospital of Joint Logistics Support Force of People's Liberation Army of China
+51569180|NCT05381662|INDUSTRY|lead|Shanghai Unicar-Therapy Bio-medicine Technology Co.,Ltd
+51569181|NCT05381662|OTHER|collaborator|The First Affiliated Hospital of Soochow University
+51859272|NCT04532268|OTHER|lead|Zhejiang University
+51859273|NCT04532268|INDUSTRY|collaborator|Yake Biotechnology Ltd.
+52205170|NCT02203825|INDUSTRY|lead|Celyad Oncology SA
+52205171|NCT02203825|OTHER|collaborator|Dana-Farber Cancer Institute
+52205172|NCT02203825|NIH|collaborator|National Heart, Lung, and Blood Institute (NHLBI)
+51570654|NCT05248048|OTHER|lead|The Third Affiliated Hospital of Guangzhou Medical University
+51570655|NCT05248048|OTHER|collaborator|Hangzhou Cheetah Cell Therapeutics Co., Ltd
+51570906|NCT04480788|INDUSTRY|lead|PersonGen BioTherapeutics (Suzhou) Co., Ltd.
+51570907|NCT04480788|OTHER|collaborator|The First Affiliated Hospital of Zhengzhou University
+51571145|NCT03166878|OTHER|lead|Chinese PLA General Hospital
+51859567|NCT04553393|OTHER|lead|Chinese PLA General Hospital
+51859784|NCT04550663|OTHER|lead|The Affiliated Nanjing Drum Tower Hospital of Nanjing University Medical School
+51859785|NCT04550663|OTHER|collaborator|KAEDI
+51573102|NCT04268706|INDUSTRY|lead|Tessa Therapeutics
+51860465|NCT04537442|INDUSTRY|lead|Beijing Immunochina Medical Science & Technology Co., Ltd.
+51860756|NCT04534634|OTHER|lead|The First Affiliated Hospital of Soochow University
+51575629|NCT05108805|OTHER|lead|Vanderbilt-Ingram Cancer Center
+51575630|NCT05108805|INDUSTRY|collaborator|Kite, A Gilead Company
+51576731|NCT03110640|OTHER|lead|First Affiliated Hospital of Wenzhou Medical University
+51576732|NCT03110640|INDUSTRY|collaborator|Hrain Biotechnology Co., Ltd.
+51576733|NCT03110640|OTHER|collaborator|Second Affiliated Hospital of Nanchang University
+51576896|NCT03393936|INDUSTRY|lead|Shanghai PerHum Therapeutics Co., Ltd.
+51576897|NCT03393936|OTHER_GOV|collaborator|Shanghai Public Health Clinical Center
+51576958|NCT05085444|OTHER|lead|Zhejiang University
+51576959|NCT05085444|INDUSTRY|collaborator|Yake Biotechnology Ltd.
+51577231|NCT04287660|OTHER|lead|The First Affiliated Hospital of Soochow University
+51577232|NCT04287660|UNKNOWN|collaborator|Changshu Frist People's Hospital
+51577233|NCT04287660|OTHER|collaborator|The Second People's Hospital of Huai'an
+51577234|NCT04287660|OTHER|collaborator|Affiliated Hospital of Jiangnan University
+51577235|NCT04287660|OTHER|collaborator|Jiangsu Province Hospital of Traditional Chinese Medicine
+51577236|NCT04287660|OTHER|collaborator|Jiangyin People's Hospital
+51577237|NCT04287660|OTHER|collaborator|Jingjiang People's Hospital
+51577238|NCT04287660|UNKNOWN|collaborator|The Third People's Hospital of Kunshan
+51577239|NCT04287660|OTHER|collaborator|Lianyungang Hospital Affiliated Bengbu Medical College
+51577240|NCT04287660|OTHER|collaborator|Suzhou Municipal Hospital
+51577241|NCT04287660|OTHER|collaborator|Zhangjiagang First People's Hospital
+51577242|NCT04287660|INDUSTRY|collaborator|Shanghai Unicar-Therapy Bio-medicine Technology Co.,Ltd
+51577243|NCT04287660|OTHER|collaborator|The First Affiliated Hospital with Nanjing Medical University
+51577244|NCT04287660|UNKNOWN|collaborator|The first Affiliated Hospital of Nanjing University Medical School
+51577313|NCT04270461|OTHER_GOV|lead|Jiujiang University Affiliated Hospital
+51577314|NCT04270461|OTHER|collaborator|KAEDI
+51577573|NCT04088864|OTHER|lead|Stanford University
+51577664|NCT04007029|OTHER|lead|Jonsson Comprehensive Cancer Center
+51577665|NCT04007029|OTHER|collaborator|Parker Institute for Cancer Immunotherapy
+51751481|NCT04693676|OTHER|lead|First Affiliated Hospital of Zhejiang University
+51751482|NCT04693676|INDUSTRY|collaborator|Cellular Biomedicine Group Ltd.
+51578000|NCT04194931|OTHER|lead|The First Affiliated Hospital of Nanchang University
+51862001|NCT03853616|INDUSTRY|lead|Miltenyi Biomedicine GmbH
+51751677|NCT03117751|OTHER|lead|St. Jude Children's Research Hospital
+51751678|NCT03117751|INDUSTRY|collaborator|Incyte Corporation
+51751679|NCT03117751|INDUSTRY|collaborator|Amgen
+51751680|NCT03117751|INDUSTRY|collaborator|Servier
+51751732|NCT01840566|OTHER|lead|Memorial Sloan Kettering Cancer Center
+51579966|NCT05066022|OTHER|lead|The First Affiliated Hospital of Soochow University
+51579967|NCT05066022|INDUSTRY|collaborator|CARsgen Therapeutics Co., Ltd.
+51580026|NCT04662294|OTHER|lead|Zhejiang University
+51580027|NCT04662294|INDUSTRY|collaborator|Yake Biotechnology Ltd.
+51580582|NCT04014894|OTHER|lead|Wuhan Union Hospital, China
+51580583|NCT04014894|UNKNOWN|collaborator|Eureka(Beijing) Biotechnology Co., Ltd.
+51580920|NCT03155191|INDUSTRY|lead|Takara Bio Inc.
+51582304|NCT05066646|INDUSTRY|lead|Nanjing IASO Biotherapeutics Co.,Ltd
+51583543|NCT04488354|OTHER|lead|Calibr, a division of Scripps Research
+51583916|NCT05310591|OTHER|lead|Assistance Publique - Hôpitaux de Paris
+51866657|NCT04322292|OTHER|lead|Institute of Hematology & Blood Diseases Hospital
+51867109|NCT01218867|NIH|lead|National Cancer Institute (NCI)
+51867490|NCT04317885|OTHER|lead|Shanghai Tongji Hospital, Tongji University School of Medicine
+51867491|NCT04317885|INDUSTRY|collaborator|Cellular Biomedicine Group Ltd.
+51868433|NCT02792114|OTHER|lead|Memorial Sloan Kettering Cancer Center
+51868434|NCT02792114|FED|collaborator|United States Department of Defense
+51869858|NCT04264039|OTHER|lead|Xinqiao Hospital of Chongqing
+51869859|NCT04264039|INDUSTRY|collaborator|Gracell Biotechnology Shanghai Co., Ltd.
+51869860|NCT04264039|OTHER|collaborator|920th Hospital of Joint Logistics Support Force of People's Liberation Army of China
+51869861|NCT04264039|OTHER|collaborator|The Second Affiliated Hospital of Chongqing Medical University
+51869862|NCT04264039|OTHER|collaborator|The Affiliated Hospital Of Guizhou Medical University
+51869863|NCT04264039|OTHER|collaborator|Central South University
+51869864|NCT04264039|OTHER|collaborator|First Affiliated Hospital of Kunming Medical University
+51869865|NCT04264039|OTHER|collaborator|The General Hospital of Western Theater Command
+51869866|NCT04264039|OTHER|collaborator|Second Affiliated Hospital of Xi'an Jiaotong University
+51869867|NCT04264039|OTHER|collaborator|Nanfang Hospital, Southern Medical University
+51869868|NCT04264039|OTHER|collaborator|Fujian Medical University Union Hospital
+51869869|NCT04264039|OTHER|collaborator|The First Affiliated Hospital of Anhui Medical University
+51869870|NCT04264039|OTHER|collaborator|Tang-Du Hospital
+51870466|NCT04844866|INDUSTRY|lead|Miltenyi Biomedicine GmbH
+51870467|NCT04844866|INDUSTRY|collaborator|ICON plc
+51870471|NCT04815356|NIH|lead|National Cancer Institute (NCI)
+51870533|NCT04483778|OTHER|lead|Seattle Children's Hospital
+51871216|NCT05625594|OTHER|lead|City of Hope Medical Center
+51871217|NCT05625594|NIH|collaborator|National Cancer Institute (NCI)
+51871311|NCT05352542|OTHER|lead|jianming xu
+51871312|NCT05352542|INDUSTRY|collaborator|Nanjing Legend Biotech Co.
+51871941|NCT00840853|OTHER|lead|Baylor College of Medicine
+51871942|NCT00840853|OTHER|collaborator|The Methodist Hospital Research Institute
+51871943|NCT00840853|OTHER|collaborator|Center for Cell and Gene Therapy, Baylor College of Medicine
+51584590|NCT05063682|INDUSTRY|lead|Chembrain LTD
+51584591|NCT05063682|OTHER|collaborator|University of Oulu
+51584592|NCT05063682|OTHER|collaborator|Jyväskylä Central Hospital
+51584593|NCT05063682|OTHER|collaborator|Apollo Hospital, New Delhi, India
+51874472|NCT02862028|INDUSTRY|lead|Shanghai International Medical Center
+51874793|NCT05199961|INDUSTRY|lead|Pack Health
+51874794|NCT05199961|INDUSTRY|collaborator|Novartis
+51874795|NCT05199961|OTHER|collaborator|Ohio State University Comprehensive Cancer Center
+51875005|NCT05654077|OTHER|lead|The Affiliated Hospital of Xuzhou Medical University
+51875006|NCT05654077|UNKNOWN|collaborator|Guangzhou Bioresette Biomedical Technology Co., Ltd.
+51584717|NCT05060796|OTHER|lead|Second Affiliated Hospital of Guangzhou Medical University
+51875940|NCT02782351|OTHER|lead|Kai Lin Xu; Jun Nian Zheng
+51875941|NCT02782351|UNKNOWN|collaborator|iCarTAB BioMed Inc.
+51875942|NCT02782351|UNKNOWN|collaborator|Huaian first people's hospital
+51876040|NCT05340829|OTHER|lead|He Huang
+51876182|NCT04975555|OTHER|lead|University of Alabama at Birmingham
+51876244|NCT04226989|OTHER|lead|He Huang
+51876245|NCT04226989|INDUSTRY|collaborator|Nanjing Bioheng Biotech Co., Ltd.
+51877843|NCT04860817|OTHER|lead|920th Hospital of Joint Logistics Support Force of People's Liberation Army of China
+51878893|NCT05323201|OTHER|lead|The Affiliated Hospital of Xuzhou Medical University
+51878894|NCT05323201|OTHER|collaborator|Xuzhou Medical University
+51878895|NCT05323201|UNKNOWN|collaborator|IIT MediTech Co. Ltd
+51584890|NCT03097770|OTHER|lead|Chinese PLA General Hospital
+51879837|NCT04264078|OTHER|lead|Xinqiao Hospital of Chongqing
+51879838|NCT04264078|INDUSTRY|collaborator|Gracell Biotechnology Shanghai Co., Ltd.
+51879839|NCT04264078|OTHER|collaborator|920th Hospital of Joint Logistics Support Force of People's Liberation Army of China
+51879840|NCT04264078|OTHER|collaborator|The Second Affiliated Hospital of Chongqing Medical University
+51879841|NCT04264078|OTHER|collaborator|The Affiliated Hospital Of Guizhou Medical University
+51879842|NCT04264078|OTHER|collaborator|Central South University
+51879843|NCT04264078|OTHER|collaborator|First Affiliated Hospital of Kunming Medical University
+51879844|NCT04264078|OTHER|collaborator|The General Hospital of Western Theater Command
+51879845|NCT04264078|OTHER|collaborator|Second Affiliated Hospital of Xi'an Jiaotong University
+51879846|NCT04264078|OTHER|collaborator|Nanfang Hospital, Southern Medical University
+51879847|NCT04264078|OTHER|collaborator|Fujian Medical University Union Hospital
+51879848|NCT04264078|OTHER|collaborator|The First Affiliated Hospital of Anhui Medical University
+51879849|NCT04264078|OTHER|collaborator|Tang-Du Hospital
+51880977|NCT04205838|OTHER|lead|Jonsson Comprehensive Cancer Center
+51881876|NCT04844086|INDUSTRY|lead|Eden BioCell Ltd.
+51881877|NCT04844086|OTHER|collaborator|National Taiwan University Hospital
+51882634|NCT05252572|OTHER|lead|Zhejiang University
+51882635|NCT05252572|INDUSTRY|collaborator|Yake Biotechnology Ltd.
+51883560|NCT02846584|OTHER|lead|Southwest Hospital, China
+51883697|NCT00902044|OTHER|lead|Baylor College of Medicine
+51883698|NCT00902044|OTHER|collaborator|Center for Cell and Gene Therapy, Baylor College of Medicine
+51883699|NCT00902044|OTHER|collaborator|The Methodist Hospital Research Institute
+51883700|NCT00902044|OTHER|collaborator|Cancer Prevention Research Institute of Texas
+51883874|NCT02842138|OTHER|lead|Peking University
+51883875|NCT02842138|INDUSTRY|collaborator|Marino Biotechnology Co., Ltd.
+51884302|NCT04156243|INDUSTRY|lead|iCell Gene Therapeutics
+51884303|NCT04156243|OTHER|collaborator|Peking University Shenzhen Hospital
+51884304|NCT04156243|OTHER|collaborator|Chengdu Military General Hospital
+51884305|NCT04156243|INDUSTRY|collaborator|iCAR Bio Therapeutics Ltd.
+51884672|NCT05016778|OTHER|lead|Zhejiang University
+51884673|NCT05016778|INDUSTRY|collaborator|OriCell Therapeutics Co., Ltd.
+51885162|NCT02822326|OTHER|lead|Guangdong Provincial People's Hospital
+51885163|NCT02822326|OTHER_GOV|collaborator|Chinese Academy of Sciences
+51885164|NCT02822326|OTHER|collaborator|Guangdong Zhaotai InVivo Biomedicine Co. Ltd.
+51585183|NCT03599375|OTHER|lead|jiuwei cui
+51888196|NCT04204161|INDUSTRY|lead|Shenzhen BinDeBio Ltd.
+51888197|NCT04204161|OTHER|collaborator|Xiangya Hospital of Central South University
+51888998|NCT02728882|INDUSTRY|lead|Sinobioway Cell Therapy Co., Ltd.
+51888999|NCT02728882|OTHER|collaborator|The First Affiliated Hospital of Anhui Medical University
+51889266|NCT02713984|OTHER|lead|Zhi Yang
+51889982|NCT05333302|OTHER|lead|Belarusian Research Center for Pediatric Oncology, Hematology and Immunology
+51891735|NCT02685670|OTHER|lead|The Second Affiliated Hospital of Henan University of Traditional Chinese Medicine
+51891736|NCT02685670|OTHER|collaborator|Xinqiao Hospital of Chongqing
+51891737|NCT02685670|OTHER|collaborator|Xuzhou Medical University
+51585305|NCT03407859|OTHER|lead|Zhujiang Hospital
+51585306|NCT03407859|OTHER|collaborator|Nanfang Hospital, Southern Medical University
+51892700|NCT04169932|OTHER|lead|Shanghai Longyao Biotechnology Inc., Ltd.
+51893014|NCT02652910|OTHER|lead|Xinqiao Hospital of Chongqing
+51893015|NCT02652910|OTHER|collaborator|Xuzhou Medical University
+51893016|NCT02652910|INDUSTRY|collaborator|Hrain Biotechnology Co., Ltd.
+51893017|NCT02652910|OTHER|collaborator|Shanghai Changzheng Hospital
+51893792|NCT04163302|OTHER|lead|Chinese PLA General Hospital
+51893882|NCT04289220|OTHER|lead|Yan'an Affiliated Hospital of Kunming Medical University
+51895252|NCT03624036|INDUSTRY|lead|Kite, A Gilead Company
+51895271|NCT05210907|OTHER|lead|Seoul National University Hospital
+51896449|NCT03275493|INDUSTRY|lead|Shanghai Unicar-Therapy Bio-medicine Technology Co.,Ltd
+51896450|NCT03275493|OTHER|collaborator|The First Affiliated Hospital of Soochow University
+51585645|NCT04191941|INDUSTRY|lead|Timmune Biotech Inc.
+51585646|NCT04191941|OTHER|collaborator|Hunan Provincial People's Hospital
+51586878|NCT04249947|INDUSTRY|lead|Poseida Therapeutics, Inc.
+51586921|NCT05619861|INDUSTRY|lead|Hebei Senlang Biotechnology Inc., Ltd.
+51586922|NCT05619861|OTHER|collaborator|Cangzhou People's Hospital
+51587606|NCT03154775|INDUSTRY|lead|Cellular Biomedicine Group Ltd.
+51587607|NCT03154775|OTHER|collaborator|Shanghai Tongji Hospital, Tongji University School of Medicine
+51588058|NCT03018093|INDUSTRY|lead|Cellular Biomedicine Group Ltd.
+51588059|NCT03018093|OTHER|collaborator|Chinese PLA General Hospital
+51589247|NCT05105867|OTHER|lead|920th Hospital of Joint Logistics Support Force of People's Liberation Army of China
+51589248|NCT05105867|INDUSTRY|collaborator|Gracell Biotechnology Shanghai Co., Ltd.
+51589249|NCT05105867|OTHER|collaborator|Kunming Hope of Health Hospital
+51589806|NCT03915184|INDUSTRY|lead|CARsgen Therapeutics Co., Ltd.
+52055609|NCT03932565|OTHER|lead|The Sixth Affiliated Hospital of Wenzhou Medical University
+52055610|NCT03932565|UNKNOWN|collaborator|Zhejiang Qixin Biotech
+51900375|NCT02876978|INDUSTRY|lead|CARsgen Therapeutics Co., Ltd.
+51900418|NCT04303520|OTHER|lead|The Second Affiliated Hospital of Henan University of Traditional Chinese Medicine
+51900419|NCT04303520|INDUSTRY|collaborator|Hrain Biotechnology Co., Ltd.
+51900420|NCT04303520|OTHER|collaborator|First Affiliated Hospital of Wenzhou Medical University
+51900421|NCT04303520|OTHER|collaborator|Second Affiliated Hospital of Nanchang University
+51591439|NCT03818165|INDUSTRY|lead|Sorrento Therapeutics, Inc.
+51591871|NCT04129099|OTHER|lead|Hebei Yanda Ludaopei Hospital
+51591872|NCT04129099|OTHER|collaborator|Gracell Biotechnology Ltd.
+51591873|NCT04129099|OTHER|collaborator|Beijing Lu Daopei Hospital
+51592979|NCT04916860|INDUSTRY|lead|Hebei Senlang Biotechnology Inc., Ltd.
+51593811|NCT04943016|OTHER|lead|National Taiwan University Hospital
+51903058|NCT02873390|INDUSTRY|lead|Ningbo Cancer Hospital
+51594270|NCT02744287|INDUSTRY|lead|Bellicum Pharmaceuticals
+51594308|NCT04037241|INDUSTRY|lead|Sorrento Therapeutics, Inc.
+51595993|NCT05634785|OTHER|lead|UNC Lineberger Comprehensive Cancer Center
+51595994|NCT05634785|UNKNOWN|collaborator|University Cancer Research Fund at Lineberger Comprehensive Cancer Center
+51596148|NCT05366179|OTHER|lead|UNC Lineberger Comprehensive Cancer Center
+51596344|NCT04995003|OTHER|lead|Baylor College of Medicine
+51596345|NCT04995003|OTHER|collaborator|Center for Cell and Gene Therapy, Baylor College of Medicine
+51596346|NCT04995003|UNKNOWN|collaborator|The Faris Foundation USA
+51596347|NCT04995003|OTHER|collaborator|Stand Up To Cancer
+51596348|NCT04995003|UNKNOWN|collaborator|Triumph Over Kid Cancer Foundation
+51596349|NCT04995003|OTHER|collaborator|St. Baldrick's Foundation
+51596350|NCT04995003|NIH|collaborator|National Cancer Institute (NCI)
+51596361|NCT04977024|INDUSTRY|lead|GeoVax, Inc.
+51596732|NCT03721068|OTHER|lead|UNC Lineberger Comprehensive Cancer Center
+51596733|NCT03721068|FED|collaborator|United States Department of Defense
+51596734|NCT03721068|INDUSTRY|collaborator|Bellicum Pharmaceuticals
+51596735|NCT03721068|UNKNOWN|collaborator|University Cancer Research Fund at Lineberger Comprehensive Cancer Center
+51596747|NCT03672318|OTHER|lead|UNC Lineberger Comprehensive Cancer Center
+51596859|NCT03016377|OTHER|lead|UNC Lineberger Comprehensive Cancer Center
+51596860|NCT03016377|INDUSTRY|collaborator|Bellicum Pharmaceuticals
+51597351|NCT03050190|OTHER|lead|Shenzhen Geno-Immune Medical Institute
+51597878|NCT04121273|OTHER|lead|The Affiliated Nanjing Drum Tower Hospital of Nanjing University Medical School
+51598044|NCT04884984|OTHER|lead|The First Affiliated Hospital of Soochow University
+51598077|NCT03825731|OTHER|lead|Hebei Yanda Ludaopei Hospital
+51598078|NCT03825731|OTHER|collaborator|Gracell Biotechnology Ltd.
+51598374|NCT04863066|OTHER|lead|Beijing 302 Hospital
+51598375|NCT04863066|OTHER|collaborator|Tsinghua University
+51599973|NCT04822974|OTHER|lead|Institut Paoli-Calmettes
+51599974|NCT04822974|OTHER|collaborator|Hospital Clínico Universitario de Valencia
+51600354|NCT04780529|OTHER|lead|Innovative Cellular Therapeutics Co., Ltd.
+51600355|NCT04780529|OTHER|collaborator|Anhui Provincial Cancer Hospital
+51600806|NCT04796688|OTHER|lead|Wuhan Union Hospital, China
+51600807|NCT04796688|UNKNOWN|collaborator|Chengdu USino Technology Biology Co., Ltd
+51601115|NCT02247609|OTHER|lead|Peking University
+51601116|NCT02247609|OTHER|collaborator|University of Florida
+51601405|NCT05613348|OTHER|lead|Zhujiang Hospital
+51601406|NCT05613348|UNKNOWN|collaborator|Guangdong Zhaotai Cell Bio-tech Co., LTD
+51602232|NCT01897415|OTHER|lead|University of Pennsylvania
+51603103|NCT05123001|OTHER|lead|Stanford University
+51603280|NCT05577000|OTHER|lead|Thomas Martin, MD
+51603281|NCT05577000|INDUSTRY|collaborator|Actavis Inc.
+51603282|NCT05577000|OTHER|collaborator|University of California, Davis
+51603283|NCT05577000|UNKNOWN|collaborator|Eugia Pharma Specialities Limited
+51603527|NCT04767308|OTHER|lead|Huazhong University of Science and Technology
+51603528|NCT04767308|UNKNOWN|collaborator|Shanghai IASO Biotechnology Co., Ltd
+51605870|NCT05287165|INDUSTRY|lead|Beijing Immunochina Medical Science & Technology Co., Ltd.
+51904216|NCT02729493|INDUSTRY|lead|Sinobioway Cell Therapy Co., Ltd.
+51904465|NCT02725125|INDUSTRY|lead|Sinobioway Cell Therapy Co., Ltd.
+52056084|NCT03642496|OTHER|lead|First Affiliated Hospital Xi'an Jiaotong University
+52056085|NCT03642496|INDUSTRY|collaborator|Eureka Therapeutics Inc.
+51606774|NCT04318327|INDUSTRY|lead|Novartis Pharmaceuticals
+51606918|NCT03241940|OTHER|lead|Crystal Mackall, MD
+51606919|NCT03233854|OTHER|lead|Crystal Mackall, MD
+51606920|NCT03233854|OTHER|collaborator|California Institute for Regenerative Medicine (CIRM)
+52057273|NCT03574168|INDUSTRY|lead|Bioceltech Therapeutics, Ltd.
+51607012|NCT00085930|OTHER|lead|Baylor College of Medicine
+51607013|NCT00085930|OTHER|collaborator|Center for Cell and Gene Therapy, Baylor College of Medicine
+51607212|NCT04766840|INDUSTRY|lead|Beijing Immunochina Medical Science & Technology Co., Ltd.
+52057813|NCT03907527|INDUSTRY|lead|Precigen, Inc
+52058085|NCT03893019|INDUSTRY|lead|Miltenyi Biomedicine GmbH
+52058086|NCT03893019|OTHER|collaborator|DLR German Aerospace Center
+52058285|NCT03338972|OTHER|lead|Fred Hutchinson Cancer Center
+52058286|NCT03338972|INDUSTRY|collaborator|Juno Therapeutics, Inc.
+52058287|NCT03338972|NIH|collaborator|National Cancer Institute (NCI)
+52058465|NCT03884751|INDUSTRY|lead|CARsgen Therapeutics Co., Ltd.
+52058466|NCT03884751|OTHER|collaborator|NanJing PLA 81 Hospital
+52058467|NCT03884751|OTHER|collaborator|First Affiliated Hospital of Zhejiang University
+52058468|NCT03884751|OTHER|collaborator|RenJi Hospital
+51904961|NCT02710149|OTHER|lead|Southwest Hospital, China
+51905244|NCT03500991|OTHER|lead|Seattle Children's Hospital
+51905810|NCT04107142|INDUSTRY|lead|CytoMed Therapeutics Pte Ltd
+51906306|NCT02917083|OTHER|lead|Baylor College of Medicine
+51906307|NCT02917083|OTHER|collaborator|The Methodist Hospital Research Institute
+51906574|NCT04303247|OTHER|lead|Xinqiao Hospital of Chongqing
+51906575|NCT04303247|INDUSTRY|collaborator|Gracell Biotechnology Shanghai Co., Ltd.
+51906576|NCT04303247|OTHER|collaborator|920th Hospital of Joint Logistics Support Force of People's Liberation Army of China
+51906577|NCT04303247|OTHER|collaborator|The Affiliated Hospital Of Guizhou Medical University
+51906578|NCT04303247|OTHER|collaborator|Tang-Du Hospital
+51906579|NCT04303247|OTHER|collaborator|The General Hospital of Western Theater Command
+51906580|NCT04303247|OTHER|collaborator|Chongqing University Cancer Hospital
+51907454|NCT04295018|OTHER|lead|Peking Union Medical College Hospital
+51907455|NCT04295018|INDUSTRY|collaborator|Cellular Biomedicine Group Ltd.
+51907456|NCT04295096|OTHER|lead|Jun Zhu
+51907457|NCT04295096|INDUSTRY|collaborator|Nanjing Legend Biotech Co.
+51907575|NCT02575261|OTHER|lead|Fuda Cancer Hospital, Guangzhou
+51908200|NCT03483103|INDUSTRY|lead|Juno Therapeutics, a Subsidiary of Celgene
+51908501|NCT04093648|OTHER|lead|Baylor College of Medicine
+51908502|NCT04093648|OTHER|collaborator|The Methodist Hospital Research Institute
+52059073|NCT03563326|OTHER|lead|Jian-Kun Hu
+52207541|NCT04473937|OTHER|lead|Massachusetts General Hospital
+52207835|NCT04923919|OTHER|lead|920th Hospital of Joint Logistics Support Force of People's Liberation Army of China
+51610044|NCT03086954|INDUSTRY|lead|Sinobioway Cell Therapy Co., Ltd.
+51610045|NCT03086954|OTHER|collaborator|Jiangsu Cancer Institute & Hospital
+51610734|NCT03084380|OTHER|lead|Xinqiao Hospital of Chongqing

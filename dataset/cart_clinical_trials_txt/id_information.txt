@@ -1,0 +1,1348 @@
+id|nct_id|id_source|id_value|id_type|id_type_description|id_link
+42808980|NCT05023707|org_study_id|2021136|||
+43298372|NCT02081937|org_study_id|CN301-XYK-CAR001|||
+43298765|NCT05472610|org_study_id|BZ019R-A-01|||
+43053834|NCT05664217|org_study_id|18-255-01|||
+43053866|NCT05621291|org_study_id|10000792|||
+43053867|NCT05621291|secondary_id|000792-C|||
+43299138|NCT05243212|org_study_id|SHEBA-21-8048-HM-CTIL|||
+43299164|NCT05128786|org_study_id|CCT301-38-SAR|||
+42809823|NCT03291444|org_study_id|2017-XYNK-001|||
+43299249|NCT04782193|org_study_id|PBC026|||
+43299250|NCT04781634|org_study_id|PBC025|||
+43299251|NCT04776330|org_study_id|PBC027|||
+43299285|NCT04649983|org_study_id|PBC012|||
+43299286|NCT04648475|org_study_id|PBC019|||
+43299316|NCT04511871|org_study_id|CCT303-406-mST01|||
+43054201|NCT04960579|org_study_id|P-BCMA-ALLO1-001|||
+43299336|NCT04348643|org_study_id|PBC017|||
+43299346|NCT04272151|org_study_id|PBC015|||
+43299347|NCT04272125|org_study_id|PBC016|||
+43299348|NCT04271800|org_study_id|PBC014|||
+43299349|NCT04271644|org_study_id|PBC002|||
+43299350|NCT04271410|org_study_id|PBC004|||
+43299351|NCT04265963|org_study_id|PBC011|||
+43054312|NCT04637763|org_study_id|CB10A|||
+43054350|NCT04530565|org_study_id|NCI-2020-06381|||
+43054351|NCT04530565|secondary_id|NCI-2020-06381|Registry Identifier|CTRP (Clinical Trial Reporting Program)|
+43054352|NCT04530565|secondary_id|EA9181|Other Identifier|ECOG-ACRIN Cancer Research Group|
+43054353|NCT04530565|secondary_id|EA9181|Other Identifier|CTEP|
+43054354|NCT04530565|secondary_id|U10CA180820|U.S. NIH Grant/Contract||https://reporter.nih.gov/quickSearch/U10CA180820
+42810552|NCT05605197|org_study_id|U87-3|||
+43054503|NCT04099797|org_study_id|H-45668 GAIL-B|||
+43054520|NCT04013802|org_study_id|H-44843 TETRAVI|||
+43299698|NCT04788472|org_study_id|CD19-006|||
+43054703|NCT02830724|org_study_id|160131|||
+43054704|NCT02830724|secondary_id|16-C-0131|||
+42811673|NCT03196830|org_study_id|SZ5601|||
+42812217|NCT04877080|org_study_id|211|||
+42812219|NCT05381662|org_study_id|UCT19-T19 v1.1|||
+43055151|NCT04639739|org_study_id|CAR NK for NHL|||
+42813307|NCT05248048|org_study_id|CART-002|||
+42813485|NCT04480788|org_study_id|PG-CART-07-001|||
+43055904|NCT02930993|org_study_id|K16-4|||
+42813692|NCT03166878|org_study_id|CHN-PLAGH-BT-021|||
+42936240|NCT05239143|org_study_id|P-MUC1C-ALLO1-001|||
+42936449|NCT04205409|org_study_id|RG1005491|||
+42936450|NCT04205409|secondary_id|NCI-2019-08192|Registry Identifier|NCI / CTRP|
+42936451|NCT04205409|secondary_id|10388|Other Identifier|Fred Hutch/University of Washington Cancer Consortium|
+42937125|NCT05568680|org_study_id|STAR-101|||
+42937326|NCT03548207|org_study_id|CR108480|||
+42937327|NCT03548207|secondary_id|2018-000121-32|EudraCT Number||
+42937328|NCT03548207|secondary_id|68284528MMY2001|Other Identifier|Janssen Research & Development, LLC|
+43056776|NCT04670055|org_study_id|hBCMA-ZhejiangU|||
+42815403|NCT04268706|org_study_id|TESSCAR001|||
+43056886|NCT04657965|org_study_id|LMP1-001|||
+43056888|NCT04658004|org_study_id|NKG2D-001|||
+43057008|NCT04665063|org_study_id|2020103|||
+43301954|NCT02915445|org_study_id|SKLB-083|||
+42939310|NCT03585517|org_study_id|YMCART201806|||
+42939518|NCT05028933|org_study_id|IMC001-CT04|||
+42939581|NCT03975907|org_study_id|CT053-MM-01|||
+43302320|NCT04703686|org_study_id|BiCAR|||
+43302710|NCT03366350|org_study_id|CART-CD19-02|||
+43058031|NCT04638270|org_study_id|FasT CAR-T for NHL|||
+42817568|NCT05108805|org_study_id|VICC CTT 2109|||
+43058257|NCT03455972|org_study_id|myeloma-03|||
+43303246|NCT04503980|org_study_id|BZDS1901|||
+43058549|NCT04627740|org_study_id|TCRCureALPPCART|||
+43058586|NCT04626765|org_study_id|CAR-T for Childhood B-ALL|||
+43058596|NCT04626726|org_study_id|CAR-T for adult B-ALL|||
+42818546|NCT03110640|org_study_id|20170316|||
+43058732|NCT02903810|org_study_id|XZCJ20160001|||
+42818679|NCT03393936|org_study_id|CCT301-mRCC01; Phase I/II|||
+42818724|NCT05085444|org_study_id|CD19/BCMA-002|||
+42818928|NCT04287660|org_study_id|BiRd-01|||
+42818967|NCT04270461|org_study_id|JiujiangUH|||
+42943603|NCT05596266|org_study_id|202001|||
+42819160|NCT04088864|org_study_id|IRB-50878|||
+42819161|NCT04088864|secondary_id|CCT6003|Other Identifier|OnCore|
+42819162|NCT04088864|secondary_id|IRB-50878|Other Identifier|Stanford IRB|
+42819163|NCT04088864|secondary_id|NCI-2019-07285|Other Identifier|NCI Trial Identifier|
+42943716|NCT05137275|org_study_id|IBR854-03|||
+42819241|NCT04007029|org_study_id|18-001989|||
+42819242|NCT04007029|secondary_id|NCI-2019-03190|Registry Identifier|CTRP (Clinical Trial Reporting Program)|
+42819243|NCT04007029|secondary_id|18-001989|Other Identifier|UCLA / Jonsson Comprehensive Cancer Center|
+42819508|NCT04194931|org_study_id|2018028|||
+43059170|NCT04890236|org_study_id|STUDY00001001|||
+43059171|NCT04890236|secondary_id|NCI-2020-06380|Registry Identifier|CTRP (Clinical Trial Reporting Program)|
+43059172|NCT04890236|secondary_id|Winship5085-20|Other Identifier|Emory University|
+43059173|NCT04890236|secondary_id|P30CA138292|U.S. NIH Grant/Contract||https://reporter.nih.gov/quickSearch/P30CA138292
+43304065|NCT03488160|org_study_id|sinobiowayCT|||
+43304138|NCT03540303|org_study_id|HenanCH CAR 2-1|||
+43059539|NCT04601181|org_study_id|ThisCART22|||
+43059618|NCT04599543|org_study_id|CD123-001|||
+43060003|NCT04603872|org_study_id|DASA001|||
+42821589|NCT05066022|org_study_id|CT0590-CG6012|||
+43060022|NCT04626908|org_study_id|GC022F-ZhejiangU|||
+43060028|NCT04626752|org_study_id|CAR-T for Multiple myeloma|||
+42821634|NCT04662294|org_study_id|CD70-001|||
+42822063|NCT04014894|org_study_id|ET019003-T|||
+42822301|NCT03155191|org_study_id|1501-01|||
+43060453|NCT04617704|org_study_id|GBF003|||
+42823357|NCT05066646|org_study_id|XL-LCYJ-0007|||
+42946008|NCT04359784|org_study_id|RG1006866|||
+42946009|NCT04359784|secondary_id|NCI-2020-01861|Registry Identifier|CTRP (Clinical Trial Reporting Program)|
+42946010|NCT04359784|secondary_id|10373|Other Identifier|Fred Hutch/University of Washington Cancer Consortium|
+42824295|NCT04488354|org_study_id|CBR-sCAR19-3002|||
+43060954|NCT04595162|org_study_id|PGC0005|||
+43305186|NCT05459870|org_study_id|GIMI-IRB-22010|||
+42824538|NCT05310591|org_study_id|APHP200132|||
+42825046|NCT05063682|org_study_id|6678EGFRvIII|||
+42825128|NCT05060796|org_study_id|ZZBGCART-014|||
+42825283|NCT03097770|org_study_id|CHN-PLAGH-BT-020|||
+42946420|NCT03373097|org_study_id|GD2CAR01|||
+42825505|NCT03599375|org_study_id|FJLU-002|||
+42946477|NCT05437341|org_study_id|GIMI-IRB-22004|||
+42946478|NCT05437328|org_study_id|GIMI-IRB-22006|||
+42946479|NCT05437315|org_study_id|GIMI-IRB-22003|||
+42825597|NCT03407859|org_study_id|2016-XYNK-002|||
+42946500|NCT05436509|org_study_id|GIMI-IRB-22009|||
+42946501|NCT05436496|org_study_id|GIMI-IRB-22008|||
+43305337|NCT05585996|org_study_id|2022-0160|||
+42825868|NCT04191941|org_study_id|2019-24.1|||
+43305398|NCT04706936|org_study_id|IR2020001474|||
+42826747|NCT04249947|org_study_id|P-PSMA-101-001|||
+42826767|NCT05619861|org_study_id|2022/11/09|||
+42827277|NCT03154775|org_study_id|CBMG-C2017003|||
+42827613|NCT03018093|org_study_id|CBMG2016003|||
+43179067|NCT05225831|org_study_id|SL19+22 for B-ALL|||
+43061961|NCT04609241|org_study_id|CD79b-001|||
+42828451|NCT05105867|org_study_id|GC011-411|||
+42828802|NCT03915184|org_study_id|CT053-MM-02 (LUMMICAR STUDY 2)|||
+42830093|NCT03818165|org_study_id|SOR-CART-CEA-001|||
+42830471|NCT04129099|org_study_id|PGC0006|||
+43062784|NCT04572308|org_study_id|CD7 CAR-T for T-ALL/T-LBL|||
+42831290|NCT04916860|org_study_id|SenL-T7 for CD7+leukemia/T-LBL|||
+43306232|NCT05393804|org_study_id|22-118|||
+43179859|NCT05393986|org_study_id|CT048-CG4001|||
+42831884|NCT04943016|org_study_id|202103150MINC|||
+43306341|NCT04952584|org_study_id|H-49736 TESTA|||
+42832223|NCT02744287|org_study_id|BP-012|||
+42832254|NCT04037241|org_study_id|STI-CEA-201|||
+43063275|NCT04991948|org_study_id|CYAD-101-002|||
+43063276|NCT04991948|secondary_id|KEYNOTE-B79|Other Identifier|Celyad Oncology|
+43063518|NCT04546893|org_study_id|1904B for B-ALL|||
+42833449|NCT05634785|org_study_id|LCCC2048-ATL|||
+42833549|NCT05366179|org_study_id|LCCC2059-ATL|||
+42833704|NCT04995003|org_study_id|H-49271 HEROS 3.0|||
+42833705|NCT04995003|secondary_id|R01CA276684|U.S. NIH Grant/Contract||https://reporter.nih.gov/quickSearch/R01CA276684
+42833715|NCT04977024|org_study_id|21163|||
+42833716|NCT04977024|secondary_id|NCI-2021-05556|Registry Identifier|CTRP (Clinical Trial Reporting Program)|
+42833717|NCT04977024|secondary_id|21163|Other Identifier|City of Hope Medical Center|
+42833718|NCT04977024|secondary_id|P30CA033572|U.S. NIH Grant/Contract||https://reporter.nih.gov/quickSearch/P30CA033572
+43063595|NCT04539444|org_study_id|CCPD-1 in lymphoma|||
+42834066|NCT03721068|org_study_id|LCCC 1743-ATL|||
+42834079|NCT03672318|org_study_id|LCCC 1603-ATL|||
+42834195|NCT03016377|org_study_id|LCCC 1541-ATL|||
+42949213|NCT01735604|org_study_id|CHN-PLAGH-BT-001|||
+43063894|NCT04532268|org_study_id|hCD19-001|||
+43306597|NCT02601313|org_study_id|KTE-C19-102|||
+43306598|NCT02601313|secondary_id|2015-005008-27|EudraCT Number||
+42834661|NCT03050190|org_study_id|GIMI-IRB-16001|||
+43180250|NCT05458297|org_study_id|2140-006|||
+43180251|NCT05458297|secondary_id|MK-2140-006|Other Identifier|Merck|
+43180252|NCT05458297|secondary_id|jRCT2011230019|Registry Identifier|Japan Registry of Clinical Trials (jRCT)|
+43180253|NCT05458297|secondary_id|2021-004450-36|EudraCT Number||
+43180274|NCT05377827|org_study_id|202306200|||
+43180279|NCT05353530|org_study_id|IRB202200057|||
+43064141|NCT04553393|org_study_id|CHN-PLAGH-BT-060|||
+42835069|NCT04121273|org_study_id|v1.0 20180620|||
+43180362|NCT05081479|org_study_id|21-386|||
+42835180|NCT04884984|org_study_id|UnicarTherapy2021001|||
+42835205|NCT03825731|org_study_id|PGC0003|||
+43180421|NCT04778579|org_study_id|CART19-BE-02|||
+42835403|NCT04863066|org_study_id|2020-HIV-001|||
+43064330|NCT04550663|org_study_id|2020-172-01|||
+43180526|NCT04404660|org_study_id|FELIX (AUTO1-AL1)|||
+43180527|NCT04404660|secondary_id|2019-001937-16|EudraCT Number||
+43306915|NCT03473496|org_study_id|2017-XYNK-003|||
+43064862|NCT04537442|org_study_id|Immunochina|||
+42836622|NCT04822974|org_study_id|TTV-CART-IPC 2020-063|||
+43180753|NCT03144583|org_study_id|CART19-BE-01|||
+42836942|NCT04780529|org_study_id|ICT-GC|||
+42837316|NCT04796688|org_study_id|Universal AT19 cells|||
+42837525|NCT02247609|org_study_id|19273-4SCAR|||
+42837734|NCT05613348|org_study_id|2022-KY-094|||
+43065089|NCT04534634|org_study_id|IFN-α+CAR-T|||
+42838388|NCT01897415|org_study_id|UPCC 08212|||
+42839105|NCT05123001|org_study_id|IRB-60459|||
+42839106|NCT05123001|secondary_id|CCT5049|Other Identifier|OnCore|
+42839107|NCT05123001|secondary_id|NCI-2022-00603|Registry Identifier|CTRP|
+42839227|NCT05577000|org_study_id|22702|||
+42839228|NCT05577000|secondary_id|22-37359|Other Identifier|University of California, San Francisco|
+43181118|NCT04696432|org_study_id|0702-021|||
+43181128|NCT04648046|org_study_id|20-31976|||
+43181163|NCT04557436|org_study_id|18IC07|||
+42839398|NCT04767308|org_study_id|CT125ACI001|||
+43181177|NCT04510051|org_study_id|19130|||
+43181178|NCT04510051|secondary_id|NCI-2020-05158|Registry Identifier|CTRP (Clinical Trial Reporting Program)|
+43181179|NCT04510051|secondary_id|19130|Other Identifier|City of Hope Comprehensive Cancer Center|
+43181180|NCT04510051|secondary_id|P30CA033572|U.S. NIH Grant/Contract||https://reporter.nih.gov/quickSearch/P30CA033572
+43066102|NCT03853616|org_study_id|M-2017-322|||
+43066103|NCT03853616|secondary_id|2017-002848-32|EudraCT Number||
+43307776|NCT04489862|org_study_id|BZDS1901|||
+42841440|NCT05287165|org_study_id|YMCART9601|||
+43307952|NCT05398614|org_study_id|SENL101 for CD7+|||
+42842198|NCT04318327|org_study_id|CADPT07A12101|||
+42842322|NCT03241940|org_study_id|IRB-41383|||
+42842323|NCT03241940|secondary_id|NCI-2017-01415|Registry Identifier|CTRP (Clinical Trial Reporting Program)|
+42842324|NCT03241940|secondary_id|PEDSCCT5007|Other Identifier|Stanford Cancer Institute|
+42842325|NCT03241940|secondary_id|IRB-41383|Other Identifier|Stanford IRB|
+42842326|NCT03233854|org_study_id|IRB-41382|||
+42842327|NCT03233854|secondary_id|41382|Other Identifier|Stanford IRB|
+42842328|NCT03233854|secondary_id|CCT5001|Other Identifier|OnCore|
+42842422|NCT00085930|org_study_id|13149-NESTLES|||
+42842423|NCT00085930|nct_alias|NCT00609206|||
+42842424|NCT00085930|secondary_id|NESTLES|Other Identifier|BCM CAGT|
+42842585|NCT04766840|org_study_id|YMCART202005|||
+43308241|NCT03710421|org_study_id|17403|||
+43308242|NCT03710421|secondary_id|NCI-2018-02022|Registry Identifier|CTRP (Clinical Trial Reporting Program)|
+43308243|NCT03710421|secondary_id|17403|Other Identifier|City of Hope Medical Center|
+43182357|NCT03502577|org_study_id|9952|||
+43182358|NCT03502577|secondary_id|NCI-2018-00514|Registry Identifier|CTRP (Clinical Trial Reporting Program)|
+43182359|NCT03502577|secondary_id|9952|Other Identifier|Fred Hutch/University of Washington Cancer Consortium|
+43182360|NCT03502577|secondary_id|RG9218033|Other Identifier|Fred Hutch/University of Washington Cancer Consortium|
+43182996|NCT04014881|org_study_id|WHUH-CART-CD123-01|||
+43308676|NCT03919526|org_study_id|SHSYXY-CAR-T MRD+ALL|||
+43308679|NCT05488132|org_study_id|XYFY2022-KL119-01|||
+43308715|NCT03265106|org_study_id|2017FDEK-BinD19|||
+43308758|NCT03262298|org_study_id|307-B-22-CAR-T|||
+43309173|NCT05211557|org_study_id|XYFY2021-KL184-01|||
+43309189|NCT05477446|org_study_id|BRYY-IIT-LCYJ-2022-002|||
+43069951|NCT04322292|org_study_id|QT-2019007-EC-2|||
+43309418|NCT03222674|org_study_id|GIMI-IRB-17015|||
+43070346|NCT01218867|org_study_id|110013|||
+43070347|NCT01218867|secondary_id|11-C-0013|||
+42844832|NCT03086954|org_study_id|WM-CART-02|||
+43070673|NCT04317885|org_study_id|0702-015|||
+43184541|NCT05350787|org_study_id|FT400-004|||
+42845409|NCT03084380|org_study_id|GPC3CAR|||
+43071465|NCT02792114|org_study_id|16-040|||
+43309823|NCT03208556|org_study_id|2017YJZ13|||
+43309992|NCT02303821|org_study_id|CFZ008|||
+43309993|NCT02303821|secondary_id|2014-001633-84|EudraCT Number||
+43184969|NCT04008251|org_study_id|CART-huCD19-01|||
+43185032|NCT04011293|org_study_id|HY001003|||
+43072724|NCT04264039|org_study_id|antiCD19-UCAR-T|||
+43073153|NCT04844866|org_study_id|M-2020-371|||
+43073157|NCT04815356|org_study_id|210019|||
+43073158|NCT04815356|secondary_id|21-C-0019|||
+43073212|NCT04483778|org_study_id|STRIvE-02|||
+43310280|NCT05194709|org_study_id|IBR854-T01|||
+43310281|NCT05194709|secondary_id|WX-IBR-8|Other Identifier|Wuxi People's Hospital|
+43310520|NCT02439788|org_study_id|H-33272, GINAKIT|||
+43073754|NCT05625594|org_study_id|22240|||
+43073755|NCT05625594|secondary_id|NCI-2022-09152|Registry Identifier|CTRP (Clinical Trial Reporting Program)|
+43073756|NCT05625594|secondary_id|22240|Other Identifier|City of Hope Medical Center|
+43073757|NCT05625594|secondary_id|P30CA033572|U.S. NIH Grant/Contract||https://reporter.nih.gov/quickSearch/P30CA033572
+43073758|NCT05625594|secondary_id|R01CA266611|U.S. NIH Grant/Contract||https://reporter.nih.gov/quickSearch/R01CA266611
+43073827|NCT05352542|org_study_id|BM2L202005|||
+42848373|NCT05370430|org_study_id|PMB-102|||
+42848374|NCT05370430|secondary_id|PMB-BAFFR-102|Other Identifier|PeproMeneBio|
+42848576|NCT04381741|org_study_id|IR2020001132|||
+43074280|NCT00840853|org_study_id|23637-MULTIPRAT|||
+43074281|NCT00840853|secondary_id|MultiPRAT|Other Identifier|Baylor College of Medicine|
+43310871|NCT03182816|org_study_id|H2017-03-P01|||
+43310883|NCT03185468|org_study_id|GIMI-IRB-17004|||
+42956641|NCT01864889|org_study_id|CHN-PLAGH-BT-005|||
+42956642|NCT01864902|org_study_id|CHN-PLAGH-BT-006|||
+43311183|NCT02706392|org_study_id|9330|||
+43311184|NCT02706392|secondary_id|NCI-2015-01753|Registry Identifier|CTRP (Clinical Trial Reporting Program)|
+43311185|NCT02706392|secondary_id|9330|Other Identifier|Fred Hutch/University of Washington Cancer Consortium|
+43311186|NCT02706392|secondary_id|RG9215045|Other Identifier|Fred Hutch/University of Washington Cancer Consortium|
+43311187|NCT02706392|secondary_id|2R01CA114536|U.S. NIH Grant/Contract||https://reporter.nih.gov/quickSearch/2R01CA114536
+43311196|NCT02416466|org_study_id|383-74|||
+42850872|NCT02980315|org_study_id|2016-ky-o43|||
+42851249|NCT03030001|org_study_id|H2017-01-P01|||
+42957516|NCT05510596|org_study_id|RECHMPL20_0424|||
+42957611|NCT05225363|org_study_id|20034|||
+42957612|NCT05225363|secondary_id|NCI-2021-10838|Registry Identifier|CTRP (Clinical Trial Reporting Program)|
+42957613|NCT05225363|secondary_id|20034|Other Identifier|City of Hope Medical Center|
+42957614|NCT05225363|secondary_id|P30CA033572|U.S. NIH Grant/Contract||https://reporter.nih.gov/quickSearch/P30CA033572
+42957615|NCT05225363|secondary_id|R01CA266874|U.S. NIH Grant/Contract||https://reporter.nih.gov/quickSearch/R01CA266874
+42851406|NCT05583201|org_study_id|KD-496-XJM|||
+42957879|NCT04074330|org_study_id|TAK-981-1501|||
+42957880|NCT04074330|secondary_id|U1111-1236-0243|Registry Identifier|WHO|
+42957881|NCT04074330|secondary_id|2020-003946-36|EudraCT Number||
+43187676|NCT03980691|org_study_id|20171126V1|||
+43076421|NCT02862028|org_study_id|SIMC-20160101/02/03|||
+42851967|NCT05241392|org_study_id|TX103T-IG005|||
+43076679|NCT05199961|org_study_id|2021C0141|||
+43076874|NCT05654077|org_study_id|BR-EB-10|||
+42959116|NCT01886976|org_study_id|CHN-PLAGH-BT-008|||
+43077621|NCT02782351|org_study_id|XYFY2016-KL002-01|||
+43077678|NCT05340829|org_study_id|FT400-006|||
+43077750|NCT04975555|org_study_id|IRB-300007103|||
+43077794|NCT04226989|org_study_id|BHCT-CT-RD06-03|||
+43312213|NCT02535364|org_study_id|015001|||
+42853862|NCT05509530|org_study_id|XYFY2022-KL118-01|||
+43079048|NCT04860817|org_study_id|GUT03|||
+42854764|NCT04544592|org_study_id|18-2424.cc|||
+42854765|NCT04544592|secondary_id|P30CA046934|U.S. NIH Grant/Contract||https://reporter.nih.gov/quickSearch/P30CA046934
+43312420|NCT03070327|org_study_id|17-025|||
+43079919|NCT05323201|org_study_id|XYFY2021-KL272-02|||
+43080750|NCT04264078|org_study_id|antiCD7-UCAR-T|||
+42856668|NCT04394650|org_study_id|CC-98633-MM-001|||
+42856669|NCT04394650|secondary_id|U1111-1251-3435|Other Identifier|WHO|
+42856695|NCT03081910|org_study_id|H-40466, MAGENTA|||
+43191004|NCT03980288|org_study_id|CISLD-4|||
+43081615|NCT04205838|org_study_id|19-000604|||
+43081616|NCT04205838|secondary_id|NCI-2019-02887|Registry Identifier|CTRP (Clinical Trial Reporting Program)|
+43081617|NCT04205838|secondary_id|19-000604|Other Identifier|UCLA / Jonsson Comprehensive Cancer Center|
+43082379|NCT04844086|org_study_id|Eden 2020-01|||
+43082974|NCT05252572|org_study_id|CLL1-001|||
+42963591|NCT04693676|org_study_id|0702-025|||
+42857993|NCT04605666|org_study_id|CAR-T-ALL-2020|||
+42857994|NCT04605666|secondary_id|NFEC-2020-098|Other Identifier|Nanfang Hospital-Ethics Committee|
+42857997|NCT04531046|org_study_id|ALYCANTE|||
+42963751|NCT03117751|org_study_id|TOT17|||
+42963752|NCT03117751|secondary_id|NCI-2017-00582|Registry Identifier|NCI Clinical Trial Registration Program|
+42963804|NCT01840566|org_study_id|12-117|||
+43083710|NCT02846584|org_study_id|Southwest Hospital，China|||
+43083819|NCT00902044|org_study_id|24489-HEROS|||
+43083820|NCT00902044|secondary_id|HEROS|Other Identifier|Baylor College of Medicine|
+43083985|NCT02842138|org_study_id|2016YJZ12|||
+43313779|NCT03672305|org_study_id|JGZNO1|||
+43084309|NCT04156243|org_study_id|ICG134-001|||
+43084597|NCT05016778|org_study_id|POLARIS|||
+43084982|NCT02822326|org_study_id|No.GDREC2016198H|||
+43192962|NCT05371132|org_study_id|21221|||
+43192963|NCT05371132|secondary_id|NCI-2022-02037|Registry Identifier|CTRP (Clinical Trial Reporting Program)|
+43192964|NCT05371132|secondary_id|21221|Other Identifier|City of Hope Medical Center|
+43192965|NCT05371132|secondary_id|P30CA033572|U.S. NIH Grant/Contract||https://reporter.nih.gov/quickSearch/P30CA033572
+42860404|NCT05621096|org_study_id|0770-22-FB|||
+43314204|NCT03473457|org_study_id|2017-XYNK-002|||
+43193492|NCT03931720|org_study_id|AsclepiusTCG|||
+43314273|NCT05155215|org_study_id|SD46|||
+43314438|NCT03672851|org_study_id|anti-CD123 CAR-T therapy|||
+43193794|NCT03919240|org_study_id|SZ4601|||
+42861507|NCT05070156|org_study_id|B010-A-001|||
+42861518|NCT05013372|org_study_id|CD147-CAR T for R/R T-NHL|||
+42861533|NCT04214886|org_study_id|212594|||
+42861558|NCT05621486|org_study_id|B4T2-PRC-IIT-001|||
+43087316|NCT04204161|org_study_id|2019XY-BDB011|||
+43314816|NCT04684563|org_study_id|UPCC15420; IRB# 844955|||
+43087941|NCT02728882|org_study_id|ACCO-2015-06-02|||
+43088112|NCT02713984|org_study_id|TMMU-BTC-005|||
+43088676|NCT05333302|org_study_id|CD19CAR-T_LL_children|||
+43195263|NCT03879382|org_study_id|HRain-POMES01|||
+42864265|NCT05431608|org_study_id|22-052|||
+42864283|NCT05397496|org_study_id|CPIT565A12101|||
+42864284|NCT05397496|secondary_id|2022-000367-45|EudraCT Number||
+43315638|NCT03664661|org_study_id|HenanCH CAR 2-2|||
+43315883|NCT03658655|org_study_id|KTLC001|||
+42865871|NCT02663297|org_study_id|LCCC 1524-ATL|||
+42865872|NCT02663297|secondary_id|R01HL114564|U.S. NIH Grant/Contract||https://reporter.nih.gov/quickSearch/R01HL114564
+42865895|NCT02159495|org_study_id|13272|||
+42865896|NCT02159495|secondary_id|NCI-2014-01147|Registry Identifier|CTRP (Clinical Trial Reporting Program)|
+42865897|NCT02159495|secondary_id|13272|Other Identifier|City of Hope Medical Center|
+43090073|NCT02685670|org_study_id|DHHUTCM20160106|||
+43196911|NCT03796390|org_study_id|Daopei CD123CAR-T|||
+43316282|NCT03648697|org_study_id|HXYT-001|||
+42866822|NCT03013712|org_study_id|CARTEPC-001|||
+43090799|NCT04169932|org_study_id|20191023V1.1|||
+43197033|NCT05620732|org_study_id|HEM-ONCO-025|||
+43091069|NCT02652910|org_study_id|20151117|||
+42972668|NCT03765177|org_study_id|CLIC-01 Study|||
+43197145|NCT05495464|org_study_id|2020-0872|||
+43197146|NCT05495464|secondary_id|NCI-2022-06281|Other Identifier|NCI-CTRP Clinical Trials Reporting Registry|
+43091666|NCT04163302|org_study_id|HNYY-XYK-02|||
+42867609|NCT05544526|org_study_id|UCL/ 150853|||
+43316738|NCT03468153|org_study_id|Ruijin-CAR-01|||
+43091746|NCT04289220|org_study_id|2019-1-N-25318000002027|||
+43197532|NCT03993743|org_study_id|Chen Zhinan-1|||
+43316790|NCT02529813|org_study_id|2013-1018|||
+43316791|NCT02529813|secondary_id|NCI-2015-01492|Registry Identifier|CTRP (Clinical Trial Reporting Program)|
+43316792|NCT02529813|secondary_id|20152145|||
+43316793|NCT02529813|secondary_id|1159157|||
+43316794|NCT02529813|secondary_id|2013-1018|Other Identifier|M D Anderson Cancer Center|
+42867909|NCT03602612|org_study_id|180125|||
+42867910|NCT03602612|secondary_id|18-C-0125|||
+42973661|NCT03682744|org_study_id|340-74|||
+43317342|NCT03649529|org_study_id|T2018-7|||
+42974160|NCT05638828|org_study_id|BHCT-RD14-01-03|||
+43092746|NCT03624036|org_study_id|KTE-C19-108|||
+43092747|NCT03624036|secondary_id|2018-001923-38|EudraCT Number||
+43092766|NCT05210907|org_study_id|SNUH_CART_CD19ALL|||
+43317531|NCT03615313|org_study_id|SHSY-IEC-4.0/18-09/02|||
+42974767|NCT05618041|org_study_id|20221019|||
+42868943|NCT02050347|org_study_id|H-33133 CARPASCIO|||
+42868944|NCT02050347|secondary_id|CARPASCIO|Other Identifier|Baylor College of Medicine|
+42869168|NCT03287817|org_study_id|AUTO3-DB1|||
+42869169|NCT03287817|secondary_id|2016-004682-11|EudraCT Number||
+42869317|NCT05445765|org_study_id|ICG165-001|||
+43318076|NCT03612739|org_study_id|CYAD-N2T-006|||
+43093715|NCT03275493|org_study_id|UnicarTherapy201701|||
+42870095|NCT05141253|org_study_id|2021-TJ-CART|||
+43318295|NCT03146234|org_study_id|CG1006|||
+42976487|NCT05641428|org_study_id|HO161|||
+42976488|NCT05641428|secondary_id|2021-000937-15|EudraCT Number||
+43318691|NCT03398967|org_study_id|CHN-PLAGH-BT-026|||
+43318697|NCT03125577|org_study_id|GIMI-IRB-17005|||
+42871147|NCT03029273|org_study_id|2016-63|||
+42871582|NCT04499573|org_study_id|NCPHOI-2020-07|||
+42977720|NCT02958397|org_study_id|TMMU-BTC-011|||
+43319208|NCT03939026|org_study_id|ALLO-501-201|||
+42872113|NCT04351022|org_study_id|UnicarTherapy2020001|||
+42872226|NCT04835519|org_study_id|BRYY-IIT-LCYJ-2021-003|||
+43200811|NCT05631912|org_study_id|CHN-PLAGH-BT-073|||
+43319327|NCT03142646|org_study_id|001|||
+43200967|NCT05397184|org_study_id|19IC17|||
+43201067|NCT05169489|org_study_id|CRC-403|||
+43096871|NCT02876978|org_study_id|CG1003|||
+43096908|NCT04303520|org_study_id|Anti-CD19/CD22 CAR-T|||
+43201331|NCT04539366|org_study_id|NCI-2020-06646|||
+43201332|NCT04539366|secondary_id|NCI-2020-06646|Registry Identifier|CTRP (Clinical Trial Reporting Program)|
+43201333|NCT04539366|secondary_id|PED-CITN-02|Other Identifier|Cancer Immunotherapy Trials Network|
+43201334|NCT04539366|secondary_id|PED-CITN-02|Other Identifier|CTEP|
+43201335|NCT04539366|secondary_id|P30CA015704|U.S. NIH Grant/Contract||https://reporter.nih.gov/quickSearch/P30CA015704
+43201336|NCT04539366|secondary_id|U24CA224309|U.S. NIH Grant/Contract||https://reporter.nih.gov/quickSearch/U24CA224309
+43201337|NCT04539366|secondary_id|UM1CA154967|U.S. NIH Grant/Contract||https://reporter.nih.gov/quickSearch/UM1CA154967
+43201366|NCT04404595|org_study_id|CT041-ST-02|||
+43201416|NCT04231747|org_study_id|CC-97540-NHL-001|||
+43201417|NCT04231747|secondary_id|U1111-1244-9049|Registry Identifier|UTN|
+42873561|NCT02959151|org_study_id|CAR-T for liver cancer|||
+42873731|NCT05362331|org_study_id|212527|||
+42873732|NCT05362331|secondary_id|NCI-2022-03845|Registry Identifier|NCI Clinical Trials Reporting Program (CTRP)|
+43320013|NCT05396300|org_study_id|PBC039|||
+43098870|NCT02873390|org_study_id|NBWYKY2016-06-001/002/003|||
+43201774|NCT02414269|org_study_id|15-007|||
+43320068|NCT05089266|org_study_id|BZDS1901-C-01|||
+43201799|NCT02208362|org_study_id|13384|||
+43201800|NCT02208362|secondary_id|NCI-2014-01488|Registry Identifier|CTRP (Clinical Trial Reporting Program)|
+43201801|NCT02208362|secondary_id|13384|Other Identifier|City of Hope Medical Center|
+43201802|NCT02208362|secondary_id|P30CA033572|U.S. NIH Grant/Contract||https://reporter.nih.gov/quickSearch/P30CA033572
+43201803|NCT02208362|secondary_id|R01FD005129|U.S. FDA Grant/Contract||https://reporter.nih.gov/quickSearch/R01FD005129
+43320114|NCT04768608|org_study_id|2020-CAR-00CH2|||
+43320144|NCT04652219|org_study_id|ICT-GC|||
+43202028|NCT03870945|org_study_id|M-2018-331|||
+43320257|NCT03618381|org_study_id|STRIvE-01|||
+42874600|NCT04827745|org_study_id|2099GCCC|||
+43099690|NCT02729493|org_study_id|ACCO-2015-06-03|||
+43202439|NCT03720496|org_study_id|T2018-8|||
+43099895|NCT02725125|org_study_id|ACCO-2015-06-04|||
+42874775|NCT02445222|org_study_id|CCTL019A2205B|||
+42874776|NCT02445222|secondary_id|2014-001673-14|EudraCT Number||
+42874847|NCT02976857|org_study_id|CBMG2016002|||
+42874990|NCT04003649|org_study_id|18251|||
+42874991|NCT04003649|secondary_id|NCI-2018-02764|Registry Identifier|CTRP (Clinical Trial Reporting Program)|
+42874992|NCT04003649|secondary_id|18251|Other Identifier|City of Hope Medical Center|
+42874993|NCT04003649|secondary_id|R01CA236500|U.S. NIH Grant/Contract||https://reporter.nih.gov/quickSearch/R01CA236500
+43100275|NCT02710149|org_study_id|TMMU-BTC-003|||
+42875095|NCT02975687|org_study_id|XH-CD19CART-001|||
+42875096|NCT02975687|secondary_id|HY001001|Other Identifier|Juventas Cell Therapy Ltd.|
+43100507|NCT03500991|org_study_id|BrainChild-01|||
+43100992|NCT04107142|org_study_id|CTM-N2D|||
+43101367|NCT02917083|org_study_id|H-37966, RELY-30|||
+43101368|NCT02917083|secondary_id|RELY-30|Other Identifier|Center for Cell and Gene Therapy|
+43320779|NCT04545762|org_study_id|19703|||
+43320780|NCT04545762|secondary_id|NCI-2020-06711|Registry Identifier|NCI Clinical Trials Reporting Program (CTRP)|
+43320805|NCT04419909|org_study_id|UPCC 40419|||
+43320806|NCT04419909|secondary_id|834286|Other Identifier|University of Pennsylvania Institutional Review Board|
+43101570|NCT04303247|org_study_id|dual CD19/CD22 CAR-T|||
+43203349|NCT05099237|org_study_id|B01227|||
+42875735|NCT03430011|org_study_id|H125001|||
+43102335|NCT04295018|org_study_id|0203-007|||
+43102336|NCT04295096|org_study_id|BM2L201909|||
+43102430|NCT02575261|org_study_id|CAR-T for malignant glioma|||
+43321324|NCT02850536|org_study_id|350-74|||
+43103000|NCT03483103|org_study_id|017006|||
+43204303|NCT03943472|org_study_id|anti-BCMA CART|||
+43103226|NCT04093648|org_study_id|H-43874 TEGAR|||
+43204655|NCT03937544|org_study_id|JEP-2019-003|||
+43204656|NCT03937544|secondary_id|FF-2019-138|Other Identifier|UKM Medical Centre|
+43104783|NCT05451212|org_study_id|CAB-MuSK-101|||
+43104911|NCT05077527|org_study_id|AMC-112|||
+43104912|NCT05077527|secondary_id|NCI-2021-02771|Registry Identifier|CTRP (Clinical Trial Reporting Program)|
+43104913|NCT05077527|secondary_id|AMC-112|Other Identifier|AIDS Malignancy Consortium|
+43104914|NCT05077527|secondary_id|AMC-112|Other Identifier|CTEP|
+43104915|NCT05077527|secondary_id|UM1CA121947|U.S. NIH Grant/Contract||https://reporter.nih.gov/quickSearch/UM1CA121947
+43105107|NCT04340154|org_study_id|BR-1922-C|||
+42877227|NCT04740203|org_study_id|CD19-005|||
+43105240|NCT03635632|org_study_id|H-42207 GAIL-N|||
+42877332|NCT00586391|org_study_id|19384-CRETI-NH|||
+42877333|NCT00586391|nct_alias|NCT00608270|||
+42877521|NCT05445011|org_study_id|Anti-FLT3 CAR-T Cell|||
+43105765|NCT04283006|org_study_id|CD20/CD22-ZhejiangU|||
+42878004|NCT05326243|org_study_id|PL001-NHL-201|||
+42878661|NCT03019055|org_study_id|PRO00028724|||
+43360184|NCT05016063|org_study_id|Dual CD33-CLL1 CAR-T cells|||
+43206566|NCT03890198|org_study_id|MO-GPC01|||
+43206590|NCT03881774|org_study_id|HenanCH CART 2-4|||
+43108271|NCT03744676|org_study_id|017007|||
+43323080|NCT05117138|org_study_id|MHSW016|||
+43108392|NCT04162353|org_study_id|ICG185-001|||
+43108427|NCT04162119|org_study_id|HNYY-XYK-01|||
+43108634|NCT04156269|org_study_id|ICG182-001|||
+43323151|NCT03327285|org_study_id|2017PHB033-01|||
+43323152|NCT03327285|secondary_id|CBMG-C2017004|Other Identifier|CBMG|
+43207600|NCT03448978|org_study_id|241-59-88|||
+43208263|NCT05170568|org_study_id|PG-CART-07-001 (1)|||
+42880323|NCT05620342|org_study_id|LCCC2115-ATL|||
+43323499|NCT03321123|org_study_id|SCMC CART 20170920|||
+43110014|NCT03741127|org_study_id|P-BCMA-101-002|||
+43110024|NCT03601078|org_study_id|BB2121-MM-002|||
+43110025|NCT03601078|secondary_id|U1111-1216-4209|Other Identifier|WHO|
+43110026|NCT03601078|secondary_id|2018-000264-28|EudraCT Number||
+42880754|NCT05257083|org_study_id|EMN28/68284528MMY3005|||
+42880755|NCT05257083|secondary_id|2021-003284-10|EudraCT Number||
+43209134|NCT05239702|org_study_id|CD7-002|||
+43110466|NCT05286164|org_study_id|0248-21|||
+42881003|NCT05032820|org_study_id|BMTCTN1902|||
+42881004|NCT05032820|secondary_id|2U10HL069294-11|U.S. NIH Grant/Contract||https://reporter.nih.gov/quickSearch/2U10HL069294-11
+42881005|NCT05032820|secondary_id|5U24CA076518|U.S. NIH Grant/Contract||https://reporter.nih.gov/quickSearch/5U24CA076518
+42881039|NCT05000450|org_study_id|ALLO-605-201|||
+42881040|NCT05000450|secondary_id|IGNITE Study|Other Identifier|Allogene|
+42881175|NCT04855136|org_study_id|BB2121-MM-007|||
+42881176|NCT04855136|secondary_id|2020-003248-10|EudraCT Number||
+42881211|NCT04792489|org_study_id|M-2018-344|||
+42981533|NCT05432401|org_study_id|PG-pCART-TAA05-001|||
+43209719|NCT05620706|org_study_id|HEM-ONCO-023|||
+43111185|NCT03614858|org_study_id|UnicarTherapy201807|||
+43111231|NCT05064787|org_study_id|2021-0543|||
+43210050|NCT03778346|org_study_id|SixthAHWenzhouMU|||
+42881484|NCT04467853|org_study_id|BM2L201910|||
+43111648|NCT04712864|org_study_id|LB1901-TCL-1001|||
+42881714|NCT04093596|org_study_id|ALLO-715-101|||
+43112641|NCT03617198|org_study_id|831464|||
+43324469|NCT02981628|org_study_id|AALL1621|||
+43324470|NCT02981628|secondary_id|NCI-2016-01494|Registry Identifier|CTRP (Clinical Trial Reporting Program)|
+43324471|NCT02981628|secondary_id|AALL1621|Other Identifier|Children's Oncology Group|
+43324472|NCT02981628|secondary_id|AALL1621|Other Identifier|CTEP|
+43324473|NCT02981628|secondary_id|U10CA180886|U.S. NIH Grant/Contract||https://reporter.nih.gov/quickSearch/U10CA180886
+43112668|NCT02844062|org_study_id|SBNK-2016-015-01|||
+43324593|NCT05334823|org_study_id|PB07|||
+43113344|NCT04237428|org_study_id|PG-CART-19-001|||
+42882298|NCT02690545|org_study_id|LCCC 1532-ATL|||
+43113927|NCT05627323|org_study_id|CHM-1101-001|||
+43114077|NCT05117008|org_study_id|PRO00042276|||
+43114105|NCT04984356|org_study_id|WU-CART-007 1001|||
+43325492|NCT03302403|org_study_id|CGZ001|||
+42882942|NCT05577091|org_study_id|TTSW2021-01|||
+43213384|NCT05359211|org_study_id|RG1122036|||
+43213385|NCT05359211|secondary_id|NCI-2022-02316|Registry Identifier|CTRP (Clinical Trial Reporting Program)|
+43213386|NCT05359211|secondary_id|10802|Other Identifier|Fred Hutch/University of Washington Cancer Consortium|
+43115366|NCT05168748|org_study_id|CIMJ995A12101|||
+43115367|NCT05168748|secondary_id|2021-000677-89|EudraCT Number||
+43213635|NCT04889716|org_study_id|UPCC 48420|||
+43115808|NCT02772198|org_study_id|SHEBA-15-2076-AT-CTIL|||
+43213866|NCT04422912|org_study_id|CAB-101|||
+43326731|NCT04935580|org_study_id|GC012F-32|||
+43214255|NCT03277729|org_study_id|9738|||
+43214256|NCT03277729|secondary_id|NCI-2017-01595|Registry Identifier|CTRP (Clinical Trial Reporting Program)|
+43214257|NCT03277729|secondary_id|9738|Other Identifier|Fred Hutch/University of Washington Cancer Consortium|
+43214258|NCT03277729|secondary_id|RG9217017|Other Identifier|Fred Hutch/University of Washington Cancer Consortium|
+43328104|NCT03252171|org_study_id|CAR-T for GD2 positive glioma|||
+43117332|NCT05659628|org_study_id|Ningbo101|||
+43117380|NCT02537977|org_study_id|TJ1537|||
+43214795|NCT05352828|org_study_id|TESSCAR003|||
+43117454|NCT05379569|org_study_id|SHSYXY-B-ALL|||
+43214868|NCT04817774|org_study_id|TX200 KT02|||
+43214869|NCT04817774|secondary_id|2019-001730-34|EudraCT Number||
+43214891|NCT04690595|org_study_id|PMB-101|||
+43117749|NCT05382377|org_study_id|KD-025-XJM|||
+43215170|NCT05632380|org_study_id|0203-037|||
+43117964|NCT05639972|org_study_id|192104|||
+43117965|NCT05639972|secondary_id|Pro2022000437|Other Identifier|Rutgers, The State University of New Jersey|
+43117966|NCT05639972|secondary_id|3P30CA072720-22S1|U.S. NIH Grant/Contract||https://reporter.nih.gov/quickSearch/3P30CA072720-22S1
+43328733|NCT05354375|org_study_id|XYFY2021-KL172-02|||
+43329206|NCT04855253|org_study_id|2020LS100|||
+43329207|NCT04855253|secondary_id|MT2020-27|Other Identifier|University of Minnesota Masonic Cancer Center|
+43329238|NCT04715191|org_study_id|H-49871 CARE|||
+43329299|NCT04377932|org_study_id|H-47757 AGAR|||
+43329325|NCT04240808|org_study_id|19-2807|||
+43329349|NCT04049383|org_study_id|PRO00045861|||
+43215508|NCT03912480|org_study_id|KTLC002|||
+43329620|NCT03564977|org_study_id|QingdaoCH201805|||
+43215573|NCT03910842|org_study_id|T2018-14|||
+43215613|NCT05571540|org_study_id|PBC049|||
+43329917|NCT03545815|org_study_id|CHN-PLAGH-BT-028|||
+42982574|NCT05576181|org_study_id|ThisCART19 FT400-007|||
+42883994|NCT05312411|org_study_id|ENLIGHTen-01|||
+43331010|NCT03060356|org_study_id|UPCC 11916, 825376|||
+42884073|NCT05105152|org_study_id|PLAT-08|||
+43216445|NCT04155749|org_study_id|ARC-101|||
+43331332|NCT03559439|org_study_id|PTA001|||
+43331496|NCT04934774|org_study_id|ICG177-001|||
+42982612|NCT05640713|org_study_id|ThisCART19A （FT400-011）|||
+42884277|NCT04571138|org_study_id|PLAT-07|||
+43119026|NCT05588440|org_study_id|ONCT-808-101|||
+42884334|NCT04450069|org_study_id|CBR-sCAR19-3001|||
+43332331|NCT04888442|org_study_id|PB02|||
+42884606|NCT03684889|org_study_id|PLAT-06|||
+42884703|NCT03330691|org_study_id|PLAT-05|||
+42884719|NCT03244306|org_study_id|PLAT-04|||
+42884728|NCT03186118|org_study_id|PLAT-03|||
+42884882|NCT02028455|org_study_id|PLAT-02|||
+42884927|NCT01683279|org_study_id|PLAT-01|||
+43217741|NCT03690011|org_study_id|H-43761 - CRIMSON NE|||
+43217800|NCT02431988|org_study_id|UCL/14/0385|||
+43217801|NCT02431988|secondary_id|2015-000348-40|EudraCT Number||
+42885076|NCT03994705|org_study_id|DC11A|||
+43218258|NCT05666700|org_study_id|21/015|||
+42885271|NCT05651100|org_study_id|Kece-4|||
+43218455|NCT03854994|org_study_id|201707202|||
+43218827|NCT03631576|org_study_id|CART-19-04|||
+42885556|NCT05416554|org_study_id|IRB-56813|||
+42885557|NCT05416554|secondary_id|CCT5069|Other Identifier|OnCore|
+43219707|NCT05404048|org_study_id|202100663|||
+43220673|NCT03754764|org_study_id|CHN-PLAGH-BT-038|||
+42886312|NCT05616468|org_study_id|BR-BGT-001|||
+43120913|NCT05172596|org_study_id|CPHE885B12201|||
+43120914|NCT05172596|secondary_id|2021-003747-22|EudraCT Number||
+43334019|NCT04412174|org_study_id|PGC011|||
+43222538|NCT04288726|org_study_id|H-46862 BESTA|||
+43222730|NCT03685786|org_study_id|Weihong Chen06062018|||
+43334938|NCT02706405|org_study_id|9457|||
+43334939|NCT02706405|secondary_id|NCI-2015-02286|Registry Identifier|CTRP (Clinical Trial Reporting Program)|
+43334940|NCT02706405|secondary_id|9457|Other Identifier|Fred Hutch/University of Washington Cancer Consortium|
+43334941|NCT02706405|secondary_id|P30CA015704|U.S. NIH Grant/Contract||https://reporter.nih.gov/quickSearch/P30CA015704
+43334942|NCT02706405|secondary_id|R01CA136551|U.S. NIH Grant/Contract||https://reporter.nih.gov/quickSearch/R01CA136551
+43334943|NCT02706405|secondary_id|RG6616001|Other Identifier|Fred Hutch/University of Washington Cancer Consortium|
+43335052|NCT03179007|org_study_id|H2017-04-P01|||
+43335065|NCT02761915|org_study_id|CRUKD/15/001|||
+43335066|NCT02761915|secondary_id|2013-004554-17|EudraCT Number||
+43223730|NCT05318963|org_study_id|BM2L202102|||
+43225210|NCT03932565|org_study_id|Lishui People's Hospital|||
+43225596|NCT03642496|org_study_id|XJTU1AF2018LSL-C003|||
+43123015|NCT03666000|org_study_id|PBCAR0191-01|||
+43226547|NCT03574168|org_study_id|BT-ALL-001-v2|||
+43226548|NCT03574168|secondary_id|ChiCTR1800016541|Registry Identifier|Chinese Clinical Trial Registry|
+42983853|NCT03960060|org_study_id|CCT301-59-mST01|||
+43226953|NCT03907527|org_study_id|RG1004303|||
+43227167|NCT03893019|org_study_id|M-2015-307|||
+43336460|NCT05626322|org_study_id|C4971003|||
+43336461|NCT05626322|secondary_id|2022-50242721-00|Registry Identifier|CTIS|
+43227315|NCT03338972|org_study_id|9762|||
+43227316|NCT03338972|secondary_id|NCI-2017-01932|Registry Identifier|CTRP (Clinical Trial Reporting Program)|
+43227317|NCT03338972|secondary_id|9762|Other Identifier|Fred Hutch/University of Washington Cancer Consortium|
+43227318|NCT03338972|secondary_id|RG9217023|Other Identifier|Fred Hutch/University of Washington Cancer Consortium|
+43227319|NCT03338972|secondary_id|P01CA018029|U.S. NIH Grant/Contract||https://reporter.nih.gov/quickSearch/P01CA018029
+43336533|NCT05396885|org_study_id|ARC-112A|||
+43227446|NCT03884751|org_study_id|CT011-HCC-01|||
+43123809|NCT04185038|org_study_id|BrainChild-03|||
+43124008|NCT02723942|org_study_id|CAR-T for GPC3+ HCC|||
+43124011|NCT05015972|org_study_id|CTA30X|||
+43124030|NCT02715362|org_study_id|GeneChem GPC3-CART|||
+43227901|NCT03563326|org_study_id|WCH-GC-CART|||
+42888819|NCT02650999|org_study_id|UPCC 46415|||
+43337068|NCT02107963|org_study_id|140059|||
+43337069|NCT02107963|secondary_id|14-C-0059|||
+43124345|NCT02706782|org_study_id|Genechem meso-CART|||
+42889035|NCT05436223|org_study_id|HRAIN01-NHL01-Ⅱ|||
+43124589|NCT04154709|org_study_id|XYFY2019-KL135-02|||
+43124746|NCT05344664|org_study_id|HXYT-I-017|||
+43228985|NCT05103631|org_study_id|H-49796 CATCH|||
+43228986|NCT05094206|org_study_id|PRO00041528|||
+43229093|NCT04633148|org_study_id|UC02-PSMA-01|||
+43229094|NCT04633148|secondary_id|2019-004211-32|EudraCT Number||
+43229130|NCT04464200|org_study_id|20-167|||
+43229132|NCT04442022|org_study_id|XPORT-DLBCL-030|||
+43229133|NCT04442022|secondary_id|2020-000605-84|EudraCT Number||
+43229170|NCT04196491|org_study_id|BB2121-MM-004|||
+43229171|NCT04196491|secondary_id|U1111-1243-5088|Other Identifier|WHO|
+43229256|NCT03448393|org_study_id|180059|||
+43229257|NCT03448393|secondary_id|18-C-0059|||
+42889434|NCT04186520|org_study_id|PRO00037171|||
+43230092|NCT03287804|org_study_id|AUTO2-MM1|||
+43230093|NCT03287804|secondary_id|2016-003893-42|EudraCT Number||
+42889609|NCT05349266|org_study_id|FT400-003|||
+42889623|NCT05336383|org_study_id|2021-1139|||
+42889624|NCT05336383|secondary_id|NCI-2022-03304|Other Identifier|NCI-CTRP Clinical Trials Reporting Registry|
+43338987|NCT02203825|org_study_id|CM-14-001|||
+43338988|NCT02203825|secondary_id|5R44HL099217-03|U.S. NIH Grant/Contract||https://reporter.nih.gov/quickSearch/5R44HL099217-03
+42889702|NCT04337606|org_study_id|CHN-PLAGH-BT-046|||
+43231238|NCT03767751|org_study_id|CHN-PLAGH-BT-037|||
+42889861|NCT04336501|org_study_id|YMCART20190423|||
+43231641|NCT03751293|org_study_id|0203-006|||
+43126112|NCT04033302|org_study_id|GIMI-IRB-19005|||
+43232267|NCT04077866|org_study_id|SAHZJU-RCT-BP102|||
+43232907|NCT05268172|org_study_id|1362566548|||
+43126790|NCT04169022|org_study_id|P/2018/402|||
+43126804|NCT04186052|org_study_id|PG-CART-BCMA-001|||
+43340908|NCT04473937|org_study_id|19-861|||
+43341162|NCT04923919|org_study_id|BG-CT-19-005|||
+43127399|NCT04184414|org_study_id|PA-P19-001|||
+43127456|NCT02813837|org_study_id|SCT019-01|||
+43127835|NCT05652920|org_study_id|Ori-C101-P1|||
+43127850|NCT04236011|org_study_id|GBF002|||
+43128035|NCT02794961|org_study_id|AF-08/04.2|||
+43234793|NCT02186860|org_study_id|307-CTC-CAR T|||
+43343219|NCT01953900|org_study_id|H-32335 VEGAS|||
+43343220|NCT01953900|secondary_id|VEGAS|Other Identifier|CAGT|
+43343221|NCT01953900|secondary_id|P01CA094237|U.S. NIH Grant/Contract||https://reporter.nih.gov/quickSearch/P01CA094237
+43343270|NCT03528421|org_study_id|YMCART201705|||
+43343525|NCT03927261|org_study_id|PRGN3006-001|||
+43344050|NCT04581473|org_study_id|CT041-ST-01|||
+43345011|NCT03497533|org_study_id|ChiCTR1800014528|||
+43235536|NCT02259556|org_study_id|CHN-PLAGH-BT-011|||
+43129813|NCT02765243|org_study_id|2016-EKZX-001|||
+43236090|NCT05239676|org_study_id|AUTO-CART-001|||
+43346125|NCT02443831|org_study_id|UCL 14/0529|||
+43346182|NCT05202782|org_study_id|NU 20H09|||
+43346183|NCT05202782|secondary_id|NCI-2021-08866|Registry Identifier|CTRP (Clinical Trial Reporting Program)|
+43346184|NCT05202782|secondary_id|STU00215064|||
+43346185|NCT05202782|secondary_id|NU 20H09|Other Identifier|Northwestern University|
+43346186|NCT05202782|secondary_id|P30CA060553|U.S. NIH Grant/Contract||https://reporter.nih.gov/quickSearch/P30CA060553
+43346261|NCT05191472|org_study_id|212530|||
+43346262|NCT05191472|secondary_id|NCI-2021-13897|Registry Identifier|NCI Clinical Trials Reporting Program (CTRP)|
+43346834|NCT04219163|org_study_id|H-43516-CARMEN|||
+43131345|NCT02735291|org_study_id|2015-06-01|||
+43347323|NCT05206357|org_study_id|M20-429|||
+43347324|NCT05206357|secondary_id|2021-004555-16|EudraCT Number||
+43131499|NCT02737085|org_study_id|Southwest Hospital, China|||
+43237010|NCT01109095|org_study_id|H-24487 - HERT GBM|||
+43347473|NCT04577326|org_study_id|20-328|||
+43347678|NCT03792633|org_study_id|831916|||
+43347679|NCT03792633|secondary_id|18CT014|Other Identifier|CHOP|
+43131990|NCT02721407|org_study_id|CD22CART|||
+43237584|NCT05371093|org_study_id|KT-US-473-0133|||
+43237585|NCT05371093|secondary_id|2021-003260-28|EudraCT Number||
+43237587|NCT05364424|org_study_id|GO43693|||
+43132429|NCT05260957|org_study_id|20210828|||
+43237716|NCT04989803|org_study_id|KT-US-499-0150|||
+43237717|NCT04989803|secondary_id|2020-000562-41|EudraCT Number||
+43237754|NCT04897321|org_study_id|3CAR|||
+43237905|NCT04196413|org_study_id|IRB-52934|||
+43237906|NCT04196413|secondary_id|PEDSCCT6005|Other Identifier|OnCore|
+43237907|NCT04196413|secondary_id|NCI-2020-05891|Other Identifier|CTRP|
+43132746|NCT04162340|org_study_id|ICG155-001|||
+43132904|NCT03999697|org_study_id|PG-CART-22-I-001|||
+43133030|NCT05263817|org_study_id|CD19/BCMA-005|||
+43133852|NCT02617134|org_study_id|PG-021-002|||
+43134217|NCT04156178|org_study_id|ICG133-001|||
+43349879|NCT03323944|org_study_id|827644 (UPCC 14217)|||
+43350016|NCT04795882|org_study_id|UCL 129642|||
+42892876|NCT04816526|org_study_id|DC-08-B|||
+43240180|NCT03874897|org_study_id|CT041-CG4006|||
+43134882|NCT04151186|org_study_id|CART-TM4SF1/CART-EpCAM-CAN-01|||
+43240295|NCT03929107|org_study_id|lymphoma center Q003|||
+43135556|NCT02624258|org_study_id|14BT055, 821157|||
+43136185|NCT04182581|org_study_id|PGC0008|||
+43351475|NCT03497819|org_study_id|YXA-meso19|||
+43136503|NCT02672501|org_study_id|Genechem|||
+43241600|NCT05155189|org_study_id|0921-028|||
+42893657|NCT05531708|org_study_id|2021-IIT-004-E02|||
+43241729|NCT00924326|org_study_id|090082|||
+43241730|NCT00924326|nct_alias|NCT00862069|||
+43241731|NCT00924326|secondary_id|09-C-0082|||
+42893688|NCT05513612|org_study_id|2020-IIT-002-E03|||
+43137102|NCT02644655|org_study_id|EHBHKY2015-02-007|||
+43242280|NCT03483688|org_study_id|CBMG-C2017007|||
+43137498|NCT04160195|org_study_id|200008|||
+43137499|NCT04160195|secondary_id|20-C-0008|||
+43242750|NCT03716856|org_study_id|CG6003|||
+43242786|NCT03902197|org_study_id|CD19hsCAR20190401|||
+43352555|NCT01865617|org_study_id|2639.00|||
+43352556|NCT01865617|secondary_id|NCI-2013-00073|Registry Identifier|CTRP (Clinical Trial Reporting Program)|
+43352557|NCT01865617|secondary_id|2639|||
+43352558|NCT01865617|secondary_id|RG9213011|Other Identifier|Fred Hutch/University of Washington Cancer Consortium|
+43352559|NCT01865617|secondary_id|P50CA107399|U.S. NIH Grant/Contract||https://reporter.nih.gov/quickSearch/P50CA107399
+43352560|NCT01865617|secondary_id|R01CA136551|U.S. NIH Grant/Contract||https://reporter.nih.gov/quickSearch/R01CA136551
+43243146|NCT03881761|org_study_id|HenanCH CART 2-3|||
+42985684|NCT01818323|org_study_id|2012-001654-25|||
+43137944|NCT05096234|org_study_id|IRB-56655|||
+43137945|NCT05096234|secondary_id|CCT5038|Other Identifier|OnCore|
+43352891|NCT05320081|org_study_id|MA-ML-Ⅱ-001|||
+43352960|NCT04938115|org_study_id|CD7+ mixed lineage leukemia|||
+43353177|NCT03593109|org_study_id|Legend-CART-201803-Ⅱ|||
+43138556|NCT04153799|org_study_id|B2019-136-01|||
+43244116|NCT03711864|org_study_id|YMCART201804|||
+43353492|NCT04928105|org_study_id|Senl-T7 CART for CD7+ lymphoma|||
+43139063|NCT05574114|org_study_id|22-217|||
+43139073|NCT05535855|org_study_id|22-0054.cc|||
+43139176|NCT05010564|org_study_id|H-49235 TRICAR-ALL|||
+43139260|NCT04555551|org_study_id|18-367|||
+43245495|NCT05470777|org_study_id|SZCART02|||
+43245802|NCT04257175|org_study_id|6482-19-SMC|||
+43245915|NCT03931421|org_study_id|lymphoma center Q004|||
+43245945|NCT04823091|org_study_id|CAR7-T-cells|||
+43246480|NCT03814447|org_study_id|MESO-CART|||
+43246500|NCT05164042|org_study_id|HEM-ONCO-007|||
+43246673|NCT03815383|org_study_id|0203-008|||
+43354706|NCT04412889|org_study_id|PGC010|||
+43354754|NCT04447573|org_study_id|BCMA CAR-T|||
+43140331|NCT05298995|org_study_id|GD2CAR02|||
+43355123|NCT03904069|org_study_id|20180091|||
+43247506|NCT05176275|org_study_id|FirstSoochoowU|||
+43355190|NCT04506983|org_study_id|HXYT-009|||
+43247659|NCT03790891|org_study_id|2018-127|||
+43355327|NCT03380039|org_study_id|XH-17-018|||
+43247911|NCT05438368|org_study_id|GIMI-IRB-22005|||
+43247930|NCT05234190|org_study_id|QEL-001-CLN-01|||
+43247931|NCT05234190|secondary_id|2021-001379-18|EudraCT Number||
+43355605|NCT03383965|org_study_id|CD30-targeting CAR-T|||
+43248197|NCT03706326|org_study_id|2018-6301|||
+43248453|NCT03064269|org_study_id|UnicarTherapy|||
+43355941|NCT05127135|org_study_id|ThisCART7|||
+43356160|NCT03349255|org_study_id|ETCH17AFPCAR101|||
+43249061|NCT04903080|org_study_id|PBTC-059|||
+43249215|NCT03767725|org_study_id|Weihong Chen06082018|||
+43249296|NCT03916679|org_study_id|MESO-OS|||
+43249740|NCT04697290|org_study_id|HXYT-012|||
+43250025|NCT03289455|org_study_id|AUTO3-PA1|||
+43250026|NCT03289455|secondary_id|2016-004680-39|EudraCT Number||
+43250287|NCT05275062|org_study_id|YMCART9201|||
+43356654|NCT05430945|org_study_id|BCMA-ZhejiangU|||
+43251962|NCT05181501|org_study_id|CT103ACI001|||
+43357247|NCT03322735|org_study_id|HenanCH284|||
+43252963|NCT03370198|org_study_id|CYAD-N2T-004|||
+43253205|NCT03356782|org_study_id|GIMI-IRB-17016|||
+43253277|NCT05239689|org_study_id|CD38-001|||
+43253494|NCT04503538|org_study_id|IRB00067341|||
+43253495|NCT04503538|secondary_id|WFBCCC 99520|Other Identifier|Wake Forest Baptist Comprehensive Cancer Center|
+43358030|NCT03312205|org_study_id|daopeicart|||
+43358199|NCT05044039|org_study_id|202111018|||
+43358200|NCT05044039|secondary_id|5R35CA210084|U.S. NIH Grant/Contract||https://reporter.nih.gov/quickSearch/5R35CA210084
+43254672|NCT03840317|org_study_id|Senl_1904A & Senl_1904B CAR-T|||
+43358643|NCT03281551|org_study_id|PZ01|||
+43143542|NCT04094766|org_study_id|XJTU-BLLCAR-L10D|||
+43255903|NCT03811457|org_study_id|UCAR019|||
+43358772|NCT03356795|org_study_id|GIMI-IRB-17017|||
+43256151|NCT05463640|org_study_id|BG-CT-22-002(ADGRE2)|||
+43256237|NCT03798509|org_study_id|HRAIN01-ALL01|||
+43256361|NCT03799913|org_study_id|MESO|||
+43256756|NCT03720457|org_study_id|HRAIN01-NHL01|||
+43256757|NCT03720457|secondary_id|CTR20181354|Other Identifier|National Medical Products Administration|
+43359318|NCT04500431|org_study_id|200802|||
+43359386|NCT03121625|org_study_id|2016040|||
+43257739|NCT03628612|org_study_id|AUTO-LT1|||
+43359587|NCT03344705|org_study_id|YMCART201701|||
+43258733|NCT03198052|org_study_id|ZZCART-002|||
+43258929|NCT03298828|org_study_id|TMMU-CAR-001|||
+43259625|NCT02456350|org_study_id|201504001|||
+43144756|NCT05325801|org_study_id|Sirius|||
+43144998|NCT02587689|org_study_id|PG-021-001|||
+43360610|NCT03076437|org_study_id|SIITM20160115|||
+43260473|NCT03207178|org_study_id|LYCT-1701|||
+43145472|NCT02580747|org_study_id|s2015-080-06|||
+43260881|NCT03118180|org_study_id|CART19-001|||
+43261194|NCT03185494|org_study_id|CHN-PLAGH-BT-022|||
+43261844|NCT05008575|org_study_id|CD33 CAR NK-AML|||
+43362325|NCT05179603|org_study_id|ACT16941|||
+43362326|NCT05179603|secondary_id|U1111-1251-5834|Registry Identifier|ICTRP|
+43362327|NCT05179603|secondary_id|2021-002150-91|EudraCT Number||
+43362328|NCT05179603|secondary_id|Merck MK3475-C39|Other Identifier|Merck Sharp & Dohme Corp.|
+43362355|NCT03283631|org_study_id|Pro00083828|||
+43362356|NCT03283631|secondary_id|5P50CA190991-03|U.S. NIH Grant/Contract||https://reporter.nih.gov/quickSearch/5P50CA190991-03
+43262199|NCT03361748|org_study_id|BB2121-MM-001|||
+43262200|NCT03361748|secondary_id|U1111-1202-5554|Other Identifier|WHO|
+43262201|NCT03361748|secondary_id|2017-002245-29|EudraCT Number||
+43362496|NCT03267173|org_study_id|Yunwei Wei|||
+43362586|NCT03258047|org_study_id|lymphoma center Q002|||
+43362732|NCT04966143|org_study_id|LY011C1001|||
+42899423|NCT05190653|org_study_id|27265|||
+43363463|NCT04430595|org_study_id|GIMI-IRB-20005|||
+43363680|NCT04864821|org_study_id|PA-P276-001|||
+43147319|NCT03740256|org_study_id|H-43405 VISTA|||
+43364267|NCT04853277|org_study_id|02000641|||
+43364666|NCT03232619|org_study_id|SHBYCL001|||
+43263621|NCT03114670|org_study_id|307-RV-CAR-123|||
+43364721|NCT04792593|org_study_id|Senl-h19 CAR-T for B-ALL|||
+43263656|NCT04440436|org_study_id|SD45|||
+43364794|NCT05473221|org_study_id|BG-CT-22-002(CD33)|||
+43365002|NCT04745559|org_study_id|MCC-20571|||
+43365043|NCT05554575|org_study_id|BT-LBL-007-v2|||
+43365045|NCT01318317|org_study_id|09174|||
+43365046|NCT01318317|secondary_id|NCI-2011-00344|Registry Identifier|CTRP (Clinical Trial Reporting Program)|
+43365047|NCT01318317|secondary_id|09174|Other Identifier|City of Hope Medical Center|
+43365048|NCT01318317|secondary_id|P30CA033572|U.S. NIH Grant/Contract||https://reporter.nih.gov/quickSearch/P30CA033572
+43365049|NCT01318317|secondary_id|P50CA107399|U.S. NIH Grant/Contract||https://reporter.nih.gov/quickSearch/P50CA107399
+43365063|NCT04325841|org_study_id|BR-19-C|||
+43365222|NCT05538195|org_study_id|PBC040|||
+43366266|NCT05515185|org_study_id|KT095|||
+43366297|NCT05514327|org_study_id|CART-1|||
+43366406|NCT03173417|org_study_id|YMCART201702|||
+42988574|NCT05020444|org_study_id|20-518|||
+43366847|NCT04280133|org_study_id|19-790|||
+42901050|NCT04608487|org_study_id|20-274|||
+43149054|NCT02631044|org_study_id|017001|||
+43367444|NCT05422521|org_study_id|21-AOIP-03|||
+42901165|NCT03676504|org_study_id|HD-CAR-1|||
+42988715|NCT04214392|org_study_id|19309|||
+42988716|NCT04214392|secondary_id|NCI-2019-08393|Registry Identifier|CTRP (Clinical Trial Reporting Program)|
+42988717|NCT04214392|secondary_id|19309|Other Identifier|City of Hope Medical Center|
+43265619|NCT03726515|org_study_id|831706, UPCC 13318|||
+43368711|NCT03191773|org_study_id|2017-HS-32|||
+43368927|NCT03182803|org_study_id|H2017-02-P01|||
+43149937|NCT04067414|org_study_id|QT2018002-EC-4|||
+43369307|NCT05385263|org_study_id|0804-21|||
+42901963|NCT04562298|org_study_id|BM2L201906|||
+43369424|NCT05085431|org_study_id|CD19/BCMA-003|||
+43369903|NCT04846439|org_study_id|2021062|||
+43266650|NCT04097301|org_study_id|EURE-CART-1|||
+43266651|NCT04097301|secondary_id|2018-000813-19|EudraCT Number||
+43369972|NCT02659943|org_study_id|160054|||
+43369973|NCT02659943|secondary_id|16-C-0054|||
+43150578|NCT04561557|org_study_id|CARTinNS|||
+43370193|NCT05017883|org_study_id|V2.0|||
+42902219|NCT01593696|org_study_id|120112|||
+42902220|NCT01593696|secondary_id|12-C-0112|||
+43267354|NCT04385173|org_study_id|SAHZJU-BP102|||
+43371245|NCT05131763|org_study_id|Fudan-Changchun|||
+43371283|NCT05097443|org_study_id|B-NHL001|||
+43267560|NCT03706547|org_study_id|SHZS-MM002|||
+42903232|NCT04406610|org_study_id|CAR-T|||
+43371941|NCT03090659|org_study_id|LCAR-B38M|||
+43267868|NCT05309213|org_study_id|SD3|||
+43267910|NCT04640909|org_study_id|CLL2020|||
+43372088|NCT05302037|org_study_id|CTM-N2D-102|||
+43268060|NCT01192464|org_study_id|26617-CAR CD 30|||
+42903884|NCT03696030|org_study_id|17237|||
+42903885|NCT03696030|secondary_id|NCI-2018-01270|Registry Identifier|CTRP (Clinical Trial Reporting Program)|
+42903886|NCT03696030|secondary_id|17237|Other Identifier|City of Hope Medical Center|
+42904044|NCT03774654|org_study_id|H-44526 ANCHOR|||
+43373781|NCT05633615|org_study_id|S2114|||
+43373782|NCT05633615|secondary_id|NCI-2022-07930|Registry Identifier|CTRP (Clinical Trial Reporting Program)|
+43373783|NCT05633615|secondary_id|S2114|Other Identifier|SWOG|
+43373784|NCT05633615|secondary_id|S2114|Other Identifier|CTEP|
+43373785|NCT05633615|secondary_id|U10CA180888|U.S. NIH Grant/Contract||https://reporter.nih.gov/quickSearch/U10CA180888
+43373797|NCT05587543|org_study_id|2207257-17|||
+43152920|NCT00889954|org_study_id|24486-HERCREEM|||
+43152921|NCT00889954|secondary_id|HERCREEM|Other Identifier|Baylor College of Medicine|
+43153015|NCT04037566|org_study_id|V2.1|||
+43153028|NCT02541370|org_study_id|s2015-080-03|||
+43374216|NCT02442297|org_study_id|H-31973-iCAR|||
+43269214|NCT03671460|org_study_id|TianjinMycure-LDP-CD19 CAR-T|||
+43269534|NCT03464916|org_study_id|SOR-CART-MM-001|||
+42905409|NCT04390542|org_study_id|CASE8Z20|||
+43375017|NCT05623488|org_study_id|UPCC# 15122, IRB # 852205|||
+43269683|NCT03661554|org_study_id|PRG 1801|||
+43375115|NCT05457010|org_study_id|ARC-201|||
+43375121|NCT05454241|org_study_id|RD13-02|||
+43375132|NCT05442580|org_study_id|UPCC# 19422|||
+43375139|NCT05432635|org_study_id|20695|||
+43375140|NCT05432635|secondary_id|NCI-2022-04622|Registry Identifier|CTRP (Clinical Trial Reporting Program)|
+43375141|NCT05432635|secondary_id|20695|Other Identifier|City of Hope Comprehensive Cancer Center|
+43375142|NCT05432635|secondary_id|P30CA033572|U.S. NIH Grant/Contract||https://reporter.nih.gov/quickSearch/P30CA033572
+43375143|NCT05432635|secondary_id|P50CA107399|U.S. NIH Grant/Contract||https://reporter.nih.gov/quickSearch/P50CA107399
+43270016|NCT03758417|org_study_id|CR108494|||
+43270017|NCT03758417|secondary_id|68284528MMY2002|Other Identifier|Janssen Research & Development, LLC|
+43375482|NCT04877613|org_study_id|IRB# 848848; UPCC# 12320|||
+43270142|NCT03318861|org_study_id|KITE-585-501|||
+43375648|NCT04499339|org_study_id|CARAMBA-1|||
+43375649|NCT04499339|secondary_id|2019-001264-30|EudraCT Number||
+43375659|NCT04484012|org_study_id|19405|||
+43375660|NCT04484012|secondary_id|NCI-2020-04550|Registry Identifier|CTRP (Clinical Trial Reporting Program)|
+43375661|NCT04484012|secondary_id|19405|Other Identifier|City of Hope Comprehensive Cancer Center|
+43375662|NCT04484012|secondary_id|P30CA033572|U.S. NIH Grant/Contract||https://reporter.nih.gov/quickSearch/P30CA033572
+43270214|NCT05420493|org_study_id|PBC033|||
+43376067|NCT03585764|org_study_id|830111 (UPCC-03818)|||
+43270457|NCT03984968|org_study_id|SZCART01|||
+43376080|NCT03549442|org_study_id|828773|||
+43376160|NCT03288493|org_study_id|P-BCMA-101-001|||
+43376240|NCT03054298|org_study_id|826085 (UPCC 02916)|||
+43376254|NCT02935543|org_study_id|UPCC39416, 825668|||
+42991845|NCT05432882|org_study_id|GIMI-IRB-22007|||
+43376363|NCT02277522|org_study_id|UPCC 04414, 820840|||
+43376372|NCT02030847|org_study_id|UPCC 21413, 818626|||
+43376385|NCT01837602|org_study_id|UPCC 13111, 813858|||
+42991921|NCT02958384|org_study_id|TMMU-BTC-012|||
+42808576|NCT05204160|org_study_id|STUDY00003182|||
+42808577|NCT05204160|secondary_id|NCI-2021-08718|Registry Identifier|CTRP (Clinical Trial Reporting Program)|
+42808578|NCT05204160|secondary_id|Winship5388-21|Other Identifier|Emory University Hospital/Winship Cancer Institute|
+42808579|NCT05204160|secondary_id|P30CA138292|U.S. NIH Grant/Contract||https://reporter.nih.gov/quickSearch/P30CA138292
+43155673|NCT05350852|org_study_id|FT400-005|||
+43155746|NCT03825718|org_study_id|PGC0002|||
+43271523|NCT04384393|org_study_id|ThisCART19|||
+43377697|NCT05091541|org_study_id|CT120C001|||
+43271710|NCT04176913|org_study_id|BM2L201904|||
+43271711|NCT04176913|nct_alias|NCT04994587|||
+43377975|NCT04981691|org_study_id|Amaretto|||
+43271712|NCT04176913|secondary_id|BM2L201904|Registry Identifier|BM2L201904|
+43378168|NCT05106907|org_study_id|FT400-002|||
+43378893|NCT04436029|org_study_id|DC 11B|||
+43378961|NCT05123209|org_study_id|YMCART202101|||
+43156619|NCT05201781|org_study_id|CR109123|||
+43156620|NCT05201781|secondary_id|2020-005521-84|EudraCT Number||
+43156621|NCT05201781|secondary_id|68284528MMY4002|Other Identifier|Janssen Research & Development, LLC|
+42907715|NCT05256641|org_study_id|21-000979|||
+42907716|NCT05256641|secondary_id|NCI-2021-12421|Registry Identifier|CTRP (Clinical Trial Reporting Program)|
+42907817|NCT04735471|org_study_id|ADI-20200101|||
+42907825|NCT04661384|org_study_id|19497|||
+42907826|NCT04661384|secondary_id|NCI-2020-06010|Registry Identifier|CTRP (Clinical Trial Reporting Program)|
+42907827|NCT04661384|secondary_id|19497|Other Identifier|City of Hope Medical Center|
+42907828|NCT04661384|secondary_id|P30CA033572|U.S. NIH Grant/Contract||https://reporter.nih.gov/quickSearch/P30CA033572
+43272934|NCT01355965|org_study_id|UPCC 17510|||
+43380286|NCT04429451|org_study_id|GIMI-IRB-20003|||
+43380555|NCT05043571|org_study_id|2020/01325|||
+42993506|NCT04727008|org_study_id|MCART-001|||
+43380752|NCT05030779|org_study_id|CD19/BCMA-001|||
+42908454|NCT05620680|org_study_id|HEM-ONCO-017|||
+43381146|NCT05290155|org_study_id|SHYSXY-202105-CD7-CART|||
+43157641|NCT04008394|org_study_id|WHUH-CART-CD30-01|||
+43381423|NCT05281809|org_study_id|2021-114-WPH|||
+43381472|NCT04796441|org_study_id|CAR-γδT cell for AML|||
+43381479|NCT04796675|org_study_id|CAR-NK-CD19 cells|||
+43381483|NCT04803929|org_study_id|2021KY014|||
+43381511|NCT04785833|org_study_id|PA-CART-3-17-001|||
+43157851|NCT05277987|org_study_id|HEC-016-GC/PC-101|||
+43381715|NCT05199519|org_study_id|CIBI345Y001|||
+43381746|NCT04790747|org_study_id|EML-001|||
+43381948|NCT05474885|org_study_id|ICG180-001|||
+43273797|NCT03952923|org_study_id|HXYT-002|||
+43158087|NCT04048434|org_study_id|CRS01|||
+43382102|NCT04433221|org_study_id|GIMI-IRB-20007|||
+43382242|NCT05412329|org_study_id|GC012F-31|||
+43274050|NCT05665725|org_study_id|OSU-22031|||
+43274051|NCT05665725|secondary_id|NCI-2022-10248|Registry Identifier|CTRP (Clinical Trial Reporting Program)|
+43274127|NCT05648019|org_study_id|SHCELL18P1|||
+43382568|NCT04977193|org_study_id|LY011C1002|||
+43158466|NCT05306080|org_study_id|UPCC 01422|||
+43382922|NCT04951141|org_study_id|2017-003-D|||
+43274491|NCT04657861|org_study_id|APRIL-001|||
+43383027|NCT03060343|org_study_id|Z-NSCLC-01|||
+43274716|NCT03605238|org_study_id|CHN-PLAGH-NO-S2018-002-02|||
+42910258|NCT04650451|org_study_id|BPX603-201A|||
+42910279|NCT04526834|org_study_id|TESSCAR002|||
+42910335|NCT04257578|org_study_id|RG1006269|||
+42910336|NCT04257578|secondary_id|NCI-2020-00238|Registry Identifier|NCI / CTRP|
+42910337|NCT04257578|secondary_id|10418|Other Identifier|Fred Hutch/University of Washington Cancer Consortium|
+43384640|NCT04427449|org_study_id|GIMI-IRB-20004|||
+43384647|NCT04812691|org_study_id|JWCAR029-003|||
+43384728|NCT04787263|org_study_id|CD19-CAR_Lenti|||
+43384819|NCT04340167|org_study_id|BR-22-C|||
+43384870|NCT04134325|org_study_id|LCCC1852-ATL|||
+43385132|NCT05535673|org_study_id|FT400-010|||
+43275394|NCT04083495|org_study_id|LCCC1904-ATL|||
+43275433|NCT03873805|org_study_id|17483|||
+43275434|NCT03873805|secondary_id|NCI-2019-01264|Registry Identifier|CTRP (Clinical Trial Reporting Program)|
+43275435|NCT03873805|secondary_id|17483|Other Identifier|City of Hope Medical Center|
+43275456|NCT03648372|org_study_id|TAK-981-1002|||
+43275457|NCT03648372|secondary_id|U1111-1214-4537|Registry Identifier|WHO|
+43275458|NCT03648372|secondary_id|2020-003947-27|EudraCT Number||
+43385630|NCT04892277|org_study_id|MC198A|||
+43385631|NCT04892277|secondary_id|NCI-2021-03969|Registry Identifier|CTRP (Clinical Trial Reporting Program)|
+43275723|NCT02132624|org_study_id|003:TCELL|||
+43275724|NCT02132624|secondary_id|2013-001393-19|EudraCT Number||
+43275768|NCT05370547|org_study_id|CHN-PLAGH-BT-071|||
+43385910|NCT05528887|org_study_id|2021-037|||
+43275863|NCT02134262|org_study_id|JMU-CD19CAR|||
+43385995|NCT05523661|org_study_id|HRAIN01-ALL02-POC|||
+43276127|NCT03579888|org_study_id|2019-1063|||
+43276128|NCT03579888|secondary_id|NCI-2020-03608|Registry Identifier|CTRP (Clinical Trial Reporting Program)|
+43276129|NCT03579888|secondary_id|2019-1063|Other Identifier|M D Anderson Cancer Center|
+43386538|NCT05478343|org_study_id|YMCART201909|||
+43386961|NCT05480501|org_study_id|YMCART1902|||
+43387017|NCT05472857|org_study_id|IMC002-CT01|||
+43160492|NCT04003168|org_study_id|HRAIN01-MM01|||
+43387091|NCT05477927|org_study_id|MCART-006|||
+43276562|NCT05190185|org_study_id|PG-CART-TAA06-001|||
+42911664|NCT05315778|org_study_id|BCRITP|||
+43276998|NCT03181126|org_study_id|M16-106|||
+43387965|NCT04973527|org_study_id|BRYY-IIT-LCYJ-2021-011|||
+43277175|NCT05391490|org_study_id|UCL/126900|||
+43277176|NCT05391490|secondary_id|2021-002878-88|EudraCT Number||
+43277244|NCT05085418|org_study_id|CD19/BCMA-004|||
+43277278|NCT03068416|org_study_id|004:TCELL|||
+43277279|NCT03068416|secondary_id|2016-004043-36|EudraCT Number||
+43388408|NCT05421663|org_study_id|CCAR039L1101|||
+42912455|NCT05464719|org_study_id|2022-0147|||
+42912456|NCT05464719|secondary_id|NCI-2022-05750|Other Identifier|NCI-CTRP Clinical Trials Reporting Registry|
+43388484|NCT04840875|org_study_id|BRYY-IIT-LCYJ-2021-004|||
+42912561|NCT05274451|org_study_id|LYL797-101|||
+43277659|NCT04443829|org_study_id|UCL/126892|||
+42996561|NCT02963038|org_study_id|SenL_19|||
+42912967|NCT04432506|org_study_id|2019-1051|||
+42912968|NCT04432506|secondary_id|NCI-2020-04369|Registry Identifier|CTRP (Clinical Trial Reporting Program)|
+42912969|NCT04432506|secondary_id|2019-1051|Other Identifier|M D Anderson Cancer Center|
+43161714|NCT03573700|org_study_id|SJCAR19|||
+43161715|NCT03573700|secondary_id|NCI-2017-01399|Registry Identifier|NCI Clinical Trial Registration Proogram|
+42913103|NCT04071366|org_study_id|INCB 39110-211|||
+42913253|NCT03435796|org_study_id|GC-LTFU-001|||
+42913254|NCT03435796|secondary_id|U1111-1206-8250|Registry Identifier|WHO|
+42913255|NCT03435796|secondary_id|2017-001465-24|EudraCT Number||
+43389773|NCT04219319|org_study_id|BM2L201905|||
+42997117|NCT02968472|org_study_id|LXUN|||
+43278656|NCT05020392|org_study_id|auto-CART-CD19 cells and BTKi|||
+43278676|NCT04881240|org_study_id|MEMCAR19|||
+43278748|NCT04512716|org_study_id|20-382|||
+43390249|NCT04599556|org_study_id|CD7-001|||
+43278794|NCT04146051|org_study_id|MG-001|||
+43278828|NCT03938987|org_study_id|ACIT001/EXC002|||
+42913578|NCT01087294|org_study_id|100054|||
+42913579|NCT01087294|secondary_id|10-C-0054|||
+43162663|NCT02547948|org_study_id|CD19-targeting CAR T|||
+43162683|NCT04010877|org_study_id|GIMI-IRB-19004|||
+42914059|NCT03882840|org_study_id|ZZITNK-007|||
+42914072|NCT03198546|org_study_id|ZZCART-003|||
+42914283|NCT03590574|org_study_id|AUTO4-TL1|||
+42914284|NCT03590574|secondary_id|2017-001965-26|EudraCT Number||
+43391402|NCT02348216|org_study_id|KTE-C19-101|||
+43391403|NCT02348216|secondary_id|2015-005007-86|EudraCT Number||
+43163114|NCT04119024|org_study_id|19-001145|||
+43163115|NCT04119024|secondary_id|NCI-2019-05764|Registry Identifier|CTRP (Clinical Trial Reporting Program)|
+43163116|NCT04119024|secondary_id|19-001145|Other Identifier|UCLA / Jonsson Comprehensive Cancer Center|
+42914995|NCT05665062|org_study_id|STK-009-101|||
+42915034|NCT05322330|org_study_id|R/R B-NHL 01|||
+43163509|NCT04089215|org_study_id|JWCAR029-002|||
+43392300|NCT03994913|org_study_id|CT032-NHL-01|||
+43392523|NCT04136275|org_study_id|19-087|||
+42915839|NCT05212584|org_study_id|ICG170-001|||
+43280900|NCT03674463|org_study_id|LCAR-B4822M|||
+42916588|NCT03330834|org_study_id|CART-YY2017|||
+43281735|NCT03559764|org_study_id|BCMA CAR T-HNRM-01|||
+43393910|NCT03651128|org_study_id|BB2121-MM-003|||
+43393911|NCT03651128|secondary_id|U1111-1217-9988|Registry Identifier|WHO|
+43393912|NCT03651128|secondary_id|2018-001023-38|EudraCT Number||
+43282090|NCT00881920|org_study_id|H-23574-CHARKALL|||
+43282091|NCT00881920|secondary_id|CHARKALL|Other Identifier|Baylor College of Medicine|
+43165680|NCT04085159|org_study_id|GIMI-IRB-19006|||
+43165721|NCT04696731|org_study_id|ALLO-316-101|||
+43282727|NCT05626400|org_study_id|Senl-T7 CAR for T-ALL/T-LBL|||
+43395245|NCT04150913|org_study_id|19-348|||
+43166052|NCT04004637|org_study_id|PG-CART-007-001|||
+43166134|NCT05277753|org_study_id|GIMI-IRB-22002|||
+43166252|NCT05590221|org_study_id|JWCAR029011|||
+43283100|NCT05208853|org_study_id|ARM002-CN-2021-01|||
+43395584|NCT01454596|org_study_id|110266|||
+43395585|NCT01454596|secondary_id|11-C-0266|||
+43395647|NCT02215967|org_study_id|140168|||
+43395648|NCT02215967|secondary_id|14-C-0168|||
+43001440|NCT02958410|org_study_id|TMMU-BTC-010|||
+43001575|NCT04717999|org_study_id|UBP-P02-3001-GBM|||
+43001691|NCT02965092|org_study_id|CART-CD19-01|||
+42920013|NCT04148430|org_study_id|19-168|||
+42920022|NCT03467256|org_study_id|NCPHOI-2018-01|||
+43284029|NCT05106946|org_study_id|FT402-002|||
+42920910|NCT05576220|org_study_id|IDN001|||
+43167306|NCT05546723|org_study_id|LMY-920-002|||
+43167307|NCT05546723|secondary_id|LUMT1A22|Other Identifier|Cleveland Clinic Taussig Cancer Institute|
+43167401|NCT05388695|org_study_id|19+22 for B-ALL/NHL|||
+43167433|NCT05312801|org_study_id|LMY-920-001|||
+43003682|NCT05518253|org_study_id|PBC038|||
+43397090|NCT04684459|org_study_id|MCART-002|||
+43003721|NCT05489991|org_study_id|TmPSMA-0201|||
+43003743|NCT05468190|org_study_id|PBC041|||
+43003773|NCT05442515|org_study_id|10000324|||
+43003774|NCT05442515|secondary_id|000324-C|||
+43003800|NCT05420545|org_study_id|PBC037|||
+43003801|NCT05420519|org_study_id|PBC036|||
+43003825|NCT05400109|org_study_id|CASE2422|||
+43397446|NCT04684472|org_study_id|MCART-003|||
+43004151|NCT05035407|org_study_id|10000045|||
+43004152|NCT05035407|secondary_id|000045-C|||
+43004181|NCT05003895|org_study_id|210030|||
+43004182|NCT05003895|secondary_id|21-C-0030|||
+43397643|NCT04689659|org_study_id|BR-IIT-LCYJ-2020-005|||
+43004574|NCT04420754|org_study_id|19-12021154|||
+43004577|NCT04416984|org_study_id|ALLO-501A-201|||
+43004681|NCT04227275|org_study_id|CART-PSMA-TGFβRDN-02|||
+43004812|NCT04029038|org_study_id|2019-0042|||
+43004813|NCT04029038|secondary_id|NCI-2019-04229|Registry Identifier|CTRP (Clinical Trial Reporting Program)|
+43004814|NCT04029038|secondary_id|2019-0042|Other Identifier|M D Anderson Cancer Center|
+43004815|NCT04029038|secondary_id|P30CA016672|U.S. NIH Grant/Contract||https://reporter.nih.gov/quickSearch/P30CA016672
+43398238|NCT04034446|org_study_id|HY004001|||
+43168787|NCT02664363|org_study_id|Pro00069444|||
+43005388|NCT02315612|org_study_id|150029|||
+43005389|NCT02315612|secondary_id|15-C-0029|||
+43169081|NCT03958656|org_study_id|190102|||
+43169082|NCT03958656|secondary_id|19-C-0102|||
+43286152|NCT03525782|org_study_id|2018-006|||
+43286384|NCT05429905|org_study_id|CART2219-1.0|||
+43286425|NCT04173988|org_study_id|2019-272|||
+43006931|NCT05539430|org_study_id|LB1908-1001|||
+43007476|NCT01853631|org_study_id|H-31970 SAGAN|||
+43007477|NCT01853631|secondary_id|SAGAN|Other Identifier|Baylor College of Medicine|
+43007983|NCT04601831|org_study_id|2020-1106|||
+43008031|NCT04316624|org_study_id|0502-014|||
+43008094|NCT04036019|org_study_id|0504-009|||
+43399934|NCT04026100|org_study_id|JSPH-CTA101|||
+43287912|NCT02932956|org_study_id|H-39410- GAP|||
+43287913|NCT02932956|secondary_id|GAP|Other Identifier|Baylor|
+43287965|NCT02290951|org_study_id|R1979-HM-1333|||
+43287966|NCT02290951|secondary_id|2015-004491-30|EudraCT Number||
+43288441|NCT05059912|org_study_id|CD7T|||
+43401371|NCT03240328|org_study_id|20170407V3|||
+43289381|NCT04976218|org_study_id|CHN-PLAGH-BT-067|||
+43289493|NCT05038696|org_study_id|2020/00865|||
+43401729|NCT05240950|org_study_id|CHCRS-CEA CAR-T|||
+43402118|NCT04690192|org_study_id|IHBDH-IIT002|||
+43402206|NCT04049513|org_study_id|WZTL002-1|||
+43402207|NCT04049513|secondary_id|U1111-1216-2053|Other Identifier|World Health Organisation|
+43012226|NCT05373147|org_study_id|BZDS1901|||
+43290119|NCT05150522|org_study_id|HEM-ONCO-012|||
+43402328|NCT03103971|org_study_id|9364|||
+43402329|NCT03103971|secondary_id|NCI-2017-00421|Registry Identifier|CTRP (Clinical Trial Reporting Program)|
+43402330|NCT03103971|secondary_id|9364|Other Identifier|Fred Hutch/University of Washington Cancer Consortium|
+43402331|NCT03103971|secondary_id|RG9217000|Other Identifier|Fred Hutch/University of Washington Cancer Consortium|
+42922643|NCT05269914|org_study_id|XKDCT023-DLBCL|||
+42922654|NCT05262673|org_study_id|GIMI-IRB-22001|||
+43013772|NCT03085173|org_study_id|16-1570|||
+43290496|NCT03638167|org_study_id|BrainChild-02|||
+43290517|NCT03598179|org_study_id|JSPH-CART001|||
+43014761|NCT04514029|org_study_id|2019LS161|||
+42922739|NCT05052528|org_study_id|UCDCC#299|||
+42922740|NCT05052528|secondary_id|NCI-2021-07396|Registry Identifier|CTRP (Clinical Trial Reporting Program)|
+42922741|NCT05052528|secondary_id|UCDCC#299|Other Identifier|University of California Davis Comprehensive Cancer Center|
+42922742|NCT05052528|secondary_id|P30CA093373|U.S. NIH Grant/Contract||https://reporter.nih.gov/quickSearch/P30CA093373
+43291078|NCT03576807|org_study_id|SHLY1701|||
+43017630|NCT04691284|org_study_id|PROBIO - SK - 006|||
+43017646|NCT04691713|org_study_id|PG-CART-276-001|||
+43018294|NCT05667506|org_study_id|HY001103|||
+43018364|NCT05266950|org_study_id|BRYY-IIT-LCYJ-2021-018|||
+43018399|NCT05098613|org_study_id|21-2578.cc|||
+43018950|NCT04723914|org_study_id|HEM-ONCO-006|||
+42922925|NCT04260945|org_study_id|HXYT-007|||
+42922926|NCT04260932|org_study_id|HXYT-006|||
+43019208|NCT02937844|org_study_id|SBNK-2016-016-01|||
+43019227|NCT02937103|org_study_id|TMMU-BTC-008|||
+43019291|NCT02935153|org_study_id|TMMU-BTC-007|||
+43019654|NCT02919046|org_study_id|WM-CART-07|||
+43021182|NCT05415475|org_study_id|PBC034|||
+43021400|NCT05075603|org_study_id|NIT-112|||
+43021960|NCT03768310|org_study_id|H-36578 CARMA|||
+43171049|NCT03851146|org_study_id|LeYPh1-02|||
+43171050|NCT03851146|secondary_id|ACTRN12616001580460|Other Identifier|ANZCTR|
+42923102|NCT03373071|org_study_id|CD19-CAR01|||
+43022966|NCT05022849|org_study_id|CR108972|||
+43022967|NCT05022849|secondary_id|75229414MPC1001|Other Identifier|Janssen Research & Development, LLC|
+43291638|NCT02194374|org_study_id|2012-0932|||
+43291639|NCT02194374|secondary_id|NCI-2014-01715|Registry Identifier|NCI CTRP|
+43023016|NCT04923893|org_study_id|CR109015|||
+43023017|NCT04923893|secondary_id|2021-001242-35|EudraCT Number||
+43023018|NCT04923893|secondary_id|68284528MMY3004|Other Identifier|Janssen Research & Development, LLC|
+43023134|NCT04662099|org_study_id|CS1+BCMA bispecific CART|||
+43404688|NCT05483491|org_study_id|192004|||
+43404689|NCT05483491|secondary_id|Pro2022002198|Other Identifier|Rutgers|
+43404690|NCT05483491|secondary_id|3P30CA072720-22S1|U.S. NIH Grant/Contract||https://reporter.nih.gov/quickSearch/3P30CA072720-22S1
+43023334|NCT04181827|org_study_id|CR108695|||
+43023335|NCT04181827|secondary_id|2019-001413-16|EudraCT Number||
+43023336|NCT04181827|secondary_id|68284528MMY3002|Other Identifier|Janssen Research & Development, LLC|
+43023351|NCT04133636|org_study_id|CR108581|||
+43023352|NCT04133636|secondary_id|2018-004124-10|EudraCT Number||
+43023353|NCT04133636|secondary_id|68284528MMY2003|Other Identifier|Janssen Research & Development, LLC|
+43023688|NCT01430390|org_study_id|11-038|||
+43024320|NCT04723901|org_study_id|HEM-ONCO-005|||
+43025161|NCT04655677|org_study_id|0702-023|||
+43025218|NCT04653649|org_study_id|IIBSP-CAR-2019-30|||
+43025221|NCT04653493|org_study_id|CD19 CAR T Cells for R/R ALL|||
+43025278|NCT04650724|org_study_id|PA-CART-BCMA-001|||
+43025353|NCT04637503|org_study_id|GIMI-IRB-20010|||
+43025370|NCT04637269|org_study_id|BCMA CAR-T cell|||
+43028706|NCT04666168|org_study_id|2020102|||
+43028733|NCT04665076|org_study_id|2020104|||
+43028841|NCT04661020|org_study_id|CD19-003|||
+43029268|NCT04626739|org_study_id|CAR-T for NHL|||
+43029801|NCT04610125|org_study_id|Children CAR-T|||
+43292346|NCT03672253|org_study_id|CAR-T re-treatment-MM|||
+43292355|NCT02905188|org_study_id|H-38942 GLYCAR|||
+43030215|NCT04594135|org_study_id|ICG190-001|||
+43030356|NCT04213469|org_study_id|2019-CAR-00CH1|||
+43292474|NCT04952272|org_study_id|ZZITCpG-013|||
+43032377|NCT04546906|org_study_id|CD22 CAR-T for B-ALL|||
+43032430|NCT04541368|org_study_id|CS1-ZhejiangU|||
+43033350|NCT04532281|org_study_id|mCD19-002|||
+43033353|NCT04532203|org_study_id|CNSL-ZhejiangU|||
+43033902|NCT04718883|org_study_id|JWCAR029-005|||
+43039015|NCT04715217|org_study_id|CAR-T SXZL01|||
+43039507|NCT04714827|org_study_id|CAR-T SXZL03|||
+43039902|NCT04714593|org_study_id|CAR-T SXZL02|||
+43042027|NCT03271515|org_study_id|Doing-006|||
+43042118|NCT03271632|org_study_id|GIMI-IRB-17013|||
+43042459|NCT04702841|org_study_id|2019-ky012|||
+43043341|NCT04700319|org_study_id|PA-CART-1920-I -001|||
+43043940|NCT02893189|org_study_id|UCL16/0045|||
+43293859|NCT04969354|org_study_id|XYFY2021-KL092-02|||
+43045451|NCT04516551|org_study_id|Anti-CD19 allo-CAR-T|||
+43045491|NCT04324996|org_study_id|ChongqingPublicHMC|||
+43045714|NCT04513431|org_study_id|RJBY_anti-CEA CAR-T_CRC01|||
+43045954|NCT05639179|org_study_id|KM-010|||
+43172377|NCT04082910|org_study_id|CHN-PLAGH-BT-044|||
+43046570|NCT02954445|org_study_id|TMMU-BTC-009|||
+43046675|NCT02274584|org_study_id|30273-4SCAR|||
+43047635|NCT05143151|org_study_id|HEM-ONCO-013|||
+43047641|NCT05143112|org_study_id|HEM-ONCO-008|||
+43047826|NCT05149391|org_study_id|0702-022|||
+43047912|NCT04692948|org_study_id|PG-CART-TAA6-001|||
+43048232|NCT04691349|org_study_id|PG-CART-01|||
+43294595|NCT04732845|org_study_id|CASE2419|||
+42793177|NCT04410900|org_study_id|RG1007238|||
+42793178|NCT04410900|secondary_id|NCI-2020-03444|Registry Identifier|NCI / CTRP|
+42793179|NCT04410900|secondary_id|10411|Other Identifier|Fred Hutch/University of Washington Cancer Consortium|
+42793253|NCT04025216|org_study_id|CART-TnMUC1-01|||
+42794028|NCT05650749|org_study_id|22-019659|||
+42794029|NCT05650749|secondary_id|22CT012|Other Identifier|Children's Hospital of Philadelphia|
+42794138|NCT05480449|org_study_id|22-019978|||
+42794139|NCT05480449|secondary_id|22CT011|Other Identifier|Children's Hospital of Philadelphia|
+42794416|NCT04789408|org_study_id|KT-US-486-0201|||
+42794417|NCT04789408|secondary_id|2020-000962-40|EudraCT Number||
+42794556|NCT04318678|org_study_id|CATCHAML|||
+42794692|NCT03829540|org_study_id|CTO-IUSCCC-ICG122-101|||
+42794693|NCT03829540|secondary_id|FD-R-006820-01|Other Grant/Funding Number|FDA OOPD|
+42795555|NCT01460901|org_study_id|STALLONe|||
+42795556|NCT01460901|secondary_id|00038|Other Identifier|Production Assistance for Cellular Therapy (PACT)|
+42795576|NCT04888468|org_study_id|PB01|||
+42795611|NCT04556266|org_study_id|17-331|||
+43174015|NCT04007978|org_study_id|WHUH-CART-CD22-01|||
+43294848|NCT03434769|org_study_id|CASE2417|||
+42796746|NCT04196205|org_study_id|2018027|||
+42797690|NCT02992834|org_study_id|CAAA|||
+42798142|NCT03159819|org_study_id|CG4003|||
+42799120|NCT03696784|org_study_id|LCCC 1813-ATL|||
+42799368|NCT05312476|org_study_id|R/R B-NHL 02|||
+42799470|NCT04088890|org_study_id|IRB-50836|||
+42799471|NCT04088890|secondary_id|CCT5029|Other Identifier|OnCore|
+42799472|NCT04088890|secondary_id|IRB-50836|Other Identifier|Stanford IRB|
+42799771|NCT05381181|org_study_id|2021-BRL-301|||
+42800742|NCT04762485|org_study_id|PGSDFYY 202101|||
+42800956|NCT03030976|org_study_id|CD19-CART for SLE|||
+42801942|NCT03602157|org_study_id|LCCC 1606-ATL|||
+42801989|NCT03049449|org_study_id|170048|||
+42801990|NCT03049449|secondary_id|17-C-0048|||
+42802311|NCT05164770|org_study_id|B-NHL002|||
+42804147|NCT03126864|org_study_id|2016-0341|||
+42804148|NCT03126864|secondary_id|NCI-2018-01167|Registry Identifier|NCI CTRP|
+42804546|NCT03383952|org_study_id|CD19 Targeted CAR-T|||
+42804793|NCT01583686|org_study_id|120111|||
+42804794|NCT01583686|secondary_id|12-C-0111|||
+42805264|NCT03366324|org_study_id|CART-CD19-03|||
+42807379|NCT05341492|org_study_id|ZZBGCART-016|||
+42807391|NCT03310008|org_study_id|CYAD-N2T-003|||
+42926519|NCT05418088|org_study_id|OSU-21170|||
+42926520|NCT05418088|secondary_id|NCI-2022-02972|Registry Identifier|CTRP (Clinical Trial Reporting Program)|
+42926738|NCT03098355|org_study_id|anti-CD19/22 CART Cells|||
+43050093|NCT05594797|org_study_id|HRAIN01-MM01-Ⅱ|||
+43050114|NCT02933775|org_study_id|CG3001|||
+43050195|NCT05467254|org_study_id|BG-CT-22-002(CLL1+CD33）|||
+43050470|NCT05467202|org_study_id|BG-CT-22-002(CLL1)|||
+43051167|NCT04206943|org_study_id|CD19-SP-CAR-T|||
+43051347|NCT05562024|org_study_id|PG-CART-TAA06-001(1)|||
+42807925|NCT03029338|org_study_id|XH-CD19CART-002|||
+43295922|NCT04430530|org_study_id|GIMI-IRB-20008|||
+43296109|NCT04861480|org_study_id|PB04|||
+43296210|NCT04429438|org_study_id|GIMI-IRB-20006|||
+43296455|NCT04850560|org_study_id|IR2021001123|||
+43175986|NCT04045847|org_study_id|Chen Zhinan-2|||
+43296792|NCT01475058|org_study_id|2494.00|||
+43296793|NCT01475058|secondary_id|NCI-2011-01819|Registry Identifier|CTRP (Clinical Trial Reporting Program)|
+43296794|NCT01475058|secondary_id|2494.00|Other Identifier|Fred Hutchinson Cancer Research Center/University of Washington Cancer Consortium|
+43296795|NCT01475058|secondary_id|P30CA015704|U.S. NIH Grant/Contract||https://reporter.nih.gov/quickSearch/P30CA015704
+43296796|NCT01475058|secondary_id|R01CA136551|U.S. NIH Grant/Contract||https://reporter.nih.gov/quickSearch/R01CA136551
+43297047|NCT03463928|org_study_id|CHN-PLAGH-BT-027|||
+43297254|NCT04697940|org_study_id|CHN-PLAGH-BT-058|||
+43297761|NCT04828174|org_study_id|SHYSXY-202101-CART|||
+42808260|NCT02935257|org_study_id|UCL/16/0530|||
+42928961|NCT03761056|org_study_id|KTE-C19-112|||
+42928962|NCT03761056|secondary_id|2019-002291-13|EudraCT Number||

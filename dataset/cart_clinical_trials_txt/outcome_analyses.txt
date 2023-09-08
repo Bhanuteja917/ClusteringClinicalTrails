@@ -1,0 +1,2 @@
+id|nct_id|outcome_id|non_inferiority_type|non_inferiority_description|param_type|param_value|dispersion_type|dispersion_value|p_value_modifier|p_value|ci_n_sides|ci_percent|ci_lower_limit|ci_upper_limit|ci_upper_limit_na_comment|p_value_description|method|method_description|estimate_description|groups_description|other_analysis_description
+17781674|NCT03483103|33104160|Superiority||||||<|0.0001||||||One sided P-value is calculated based on the null hypothesis ORR <= 50.2%|Exact binomial test||||

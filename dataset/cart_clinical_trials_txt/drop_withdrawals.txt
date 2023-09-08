@@ -1,0 +1,454 @@
+id|nct_id|result_group_id|ctgov_group_code|period|reason|count|drop_withdraw_comment|reason_comment|count_units
+31327142|NCT03288493|59585546|FG000|Overall Study|Withdrawal by Subject|4|||
+31327143|NCT03288493|59585547|FG001|Overall Study|Withdrawal by Subject|0|||
+31327144|NCT03288493|59585548|FG002|Overall Study|Withdrawal by Subject|0|||
+31327145|NCT03288493|59585549|FG003|Overall Study|Withdrawal by Subject|0|||
+31327146|NCT03288493|59585550|FG004|Overall Study|Withdrawal by Subject|0|||
+31327147|NCT03288493|59585551|FG005|Overall Study|Withdrawal by Subject|2|||
+31327148|NCT03288493|59585552|FG006|Overall Study|Withdrawal by Subject|0|||
+31327149|NCT03288493|59585546|FG000|Overall Study|Significant progression of malignancy requiring alternative, medical, radiation or surgical interven|52|||
+31327150|NCT03288493|59585547|FG001|Overall Study|Significant progression of malignancy requiring alternative, medical, radiation or surgical interven|3|||
+31327151|NCT03288493|59585548|FG002|Overall Study|Significant progression of malignancy requiring alternative, medical, radiation or surgical interven|1|||
+31327152|NCT03288493|59585549|FG003|Overall Study|Significant progression of malignancy requiring alternative, medical, radiation or surgical interven|6|||
+31327153|NCT03288493|59585550|FG004|Overall Study|Significant progression of malignancy requiring alternative, medical, radiation or surgical interven|5|||
+31327154|NCT03288493|59585551|FG005|Overall Study|Significant progression of malignancy requiring alternative, medical, radiation or surgical interven|10|||
+31327155|NCT03288493|59585552|FG006|Overall Study|Significant progression of malignancy requiring alternative, medical, radiation or surgical interven|3|||
+31327156|NCT03288493|59585546|FG000|Overall Study|Termination of the study by the PI, the sponsor, the study funder, the IRB/IEC or the FDA|6|||
+31327157|NCT03288493|59585547|FG001|Overall Study|Termination of the study by the PI, the sponsor, the study funder, the IRB/IEC or the FDA|0|||
+31327158|NCT03288493|59585548|FG002|Overall Study|Termination of the study by the PI, the sponsor, the study funder, the IRB/IEC or the FDA|0|||
+31327159|NCT03288493|59585549|FG003|Overall Study|Termination of the study by the PI, the sponsor, the study funder, the IRB/IEC or the FDA|2|||
+31327160|NCT03288493|59585550|FG004|Overall Study|Termination of the study by the PI, the sponsor, the study funder, the IRB/IEC or the FDA|0|||
+31327161|NCT03288493|59585551|FG005|Overall Study|Termination of the study by the PI, the sponsor, the study funder, the IRB/IEC or the FDA|4|||
+31327162|NCT03288493|59585552|FG006|Overall Study|Termination of the study by the PI, the sponsor, the study funder, the IRB/IEC or the FDA|0|||
+31327163|NCT03288493|59585546|FG000|Overall Study|Death|2|||
+31327164|NCT03288493|59585547|FG001|Overall Study|Death|0|||
+31327165|NCT03288493|59585548|FG002|Overall Study|Death|0|||
+31327166|NCT03288493|59585549|FG003|Overall Study|Death|0|||
+31327167|NCT03288493|59585550|FG004|Overall Study|Death|0|||
+31327168|NCT03288493|59585551|FG005|Overall Study|Death|0|||
+31327169|NCT03288493|59585552|FG006|Overall Study|Death|0|||
+31327170|NCT03288493|59585546|FG000|Overall Study|other reason not listed above|2|||
+31327171|NCT03288493|59585547|FG001|Overall Study|other reason not listed above|0|||
+31327172|NCT03288493|59585548|FG002|Overall Study|other reason not listed above|0|||
+31327173|NCT03288493|59585549|FG003|Overall Study|other reason not listed above|0|||
+31327174|NCT03288493|59585550|FG004|Overall Study|other reason not listed above|0|||
+31327175|NCT03288493|59585551|FG005|Overall Study|other reason not listed above|0|||
+31327176|NCT03288493|59585552|FG006|Overall Study|other reason not listed above|0|||
+31327306|NCT02030847|59585805|FG000|Overall Study|Death|10|||
+31327307|NCT02030847|59585805|FG000|Overall Study|Disease Progression|15|||
+31327308|NCT02030847|59585805|FG000|Overall Study|New Cancer Therapy|8|||
+31327309|NCT02030847|59585805|FG000|Overall Study|Physician Decision|3|||
+31327310|NCT02030847|59585805|FG000|Overall Study|Withdrawal by Subject|1|||
+30992958|NCT02028455|59172430|FG000|Enrollment and Preliminary Assessments|Went off study without receiving CAR T cell infusion|0|||
+30992959|NCT02028455|59172431|FG001|Enrollment and Preliminary Assessments|Went off study without receiving CAR T cell infusion|0|||
+30992960|NCT02028455|59172432|FG002|Enrollment and Preliminary Assessments|Went off study without receiving CAR T cell infusion|0|||
+30992961|NCT02028455|59172433|FG003|Enrollment and Preliminary Assessments|Went off study without receiving CAR T cell infusion|0|||
+30992962|NCT02028455|59172434|FG004|Enrollment and Preliminary Assessments|Went off study without receiving CAR T cell infusion|0|||
+30992963|NCT02028455|59172435|FG005|Enrollment and Preliminary Assessments|Went off study without receiving CAR T cell infusion|0|||
+30992964|NCT02028455|59172436|FG006|Enrollment and Preliminary Assessments|Went off study without receiving CAR T cell infusion|4|||
+30992965|NCT02028455|59172437|FG007|Enrollment and Preliminary Assessments|Went off study without receiving CAR T cell infusion|17|||
+30992966|NCT02028455|59172430|FG000|Treatment(T Cell Infusion) and Follow up|Death|4|||
+30992967|NCT02028455|59172431|FG001|Treatment(T Cell Infusion) and Follow up|Death|9|||
+30992968|NCT02028455|59172432|FG002|Treatment(T Cell Infusion) and Follow up|Death|3|||
+30992969|NCT02028455|59172433|FG003|Treatment(T Cell Infusion) and Follow up|Death|5|||
+30992970|NCT02028455|59172434|FG004|Treatment(T Cell Infusion) and Follow up|Death|3|||
+30992971|NCT02028455|59172435|FG005|Treatment(T Cell Infusion) and Follow up|Death|2|||
+30992972|NCT02028455|59172436|FG006|Treatment(T Cell Infusion) and Follow up|Death|0|||
+30992973|NCT02028455|59172437|FG007|Treatment(T Cell Infusion) and Follow up|Death|40|||
+30992974|NCT02028455|59172430|FG000|Treatment(T Cell Infusion) and Follow up|Lost to Follow-up|0|||
+30992975|NCT02028455|59172431|FG001|Treatment(T Cell Infusion) and Follow up|Lost to Follow-up|0|||
+30992976|NCT02028455|59172432|FG002|Treatment(T Cell Infusion) and Follow up|Lost to Follow-up|0|||
+30992977|NCT02028455|59172433|FG003|Treatment(T Cell Infusion) and Follow up|Lost to Follow-up|0|||
+30992978|NCT02028455|59172434|FG004|Treatment(T Cell Infusion) and Follow up|Lost to Follow-up|0|||
+30992979|NCT02028455|59172435|FG005|Treatment(T Cell Infusion) and Follow up|Lost to Follow-up|1|||
+30992980|NCT02028455|59172436|FG006|Treatment(T Cell Infusion) and Follow up|Lost to Follow-up|0|||
+30992981|NCT02028455|59172437|FG007|Treatment(T Cell Infusion) and Follow up|Lost to Follow-up|2|||
+30992982|NCT02028455|59172430|FG000|Treatment(T Cell Infusion) and Follow up|Still in long-term follow up|3|||
+30992983|NCT02028455|59172431|FG001|Treatment(T Cell Infusion) and Follow up|Still in long-term follow up|3|||
+30992984|NCT02028455|59172432|FG002|Treatment(T Cell Infusion) and Follow up|Still in long-term follow up|4|||
+30992985|NCT02028455|59172433|FG003|Treatment(T Cell Infusion) and Follow up|Still in long-term follow up|0|||
+30992986|NCT02028455|59172434|FG004|Treatment(T Cell Infusion) and Follow up|Still in long-term follow up|3|||
+30992987|NCT02028455|59172435|FG005|Treatment(T Cell Infusion) and Follow up|Still in long-term follow up|3|||
+30992988|NCT02028455|59172436|FG006|Treatment(T Cell Infusion) and Follow up|Still in long-term follow up|0|||
+30992989|NCT02028455|59172437|FG007|Treatment(T Cell Infusion) and Follow up|Still in long-term follow up|61|||
+31006366|NCT01593696|59207716|FG000|Dose Escalation|Progressive Disease|2|||
+31006367|NCT01593696|59207717|FG001|Dose Escalation|Progressive Disease|0|||
+31006368|NCT01593696|59207718|FG002|Dose Escalation|Progressive Disease|0|||
+31006369|NCT01593696|59207719|FG003|Dose Escalation|Progressive Disease|0|||
+31006370|NCT01593696|59207716|FG000|Dose Expansion|Fungal infection|0|||
+31006371|NCT01593696|59207717|FG001|Dose Expansion|Fungal infection|0|||
+31006372|NCT01593696|59207718|FG002|Dose Expansion|Fungal infection|1|||
+31006373|NCT01593696|59207719|FG003|Dose Expansion|Fungal infection|0|||
+31155517|NCT03958656|59396059|FG000|Overall Study|Received anti-myeloma prescription (Rx)|0|||
+31155518|NCT03958656|59396060|FG001|Overall Study|Received anti-myeloma prescription (Rx)|1|||
+31155519|NCT03958656|59396061|FG002|Overall Study|Received anti-myeloma prescription (Rx)|0|||
+31155520|NCT03958656|59396062|FG003|Overall Study|Received anti-myeloma prescription (Rx)|0|||
+31155521|NCT03958656|59396059|FG000|Overall Study|No longer meets eligibility criteria|0|||
+31155522|NCT03958656|59396060|FG001|Overall Study|No longer meets eligibility criteria|0|||
+31155523|NCT03958656|59396061|FG002|Overall Study|No longer meets eligibility criteria|1|||
+31155524|NCT03958656|59396062|FG003|Overall Study|No longer meets eligibility criteria|0|||
+31155525|NCT03958656|59396059|FG000|Overall Study|Started anti-cancer treatment|0|||
+31155526|NCT03958656|59396060|FG001|Overall Study|Started anti-cancer treatment|0|||
+31155527|NCT03958656|59396061|FG002|Overall Study|Started anti-cancer treatment|1|||
+31155528|NCT03958656|59396062|FG003|Overall Study|Started anti-cancer treatment|0|||
+31016326|NCT03761056|59250083|FG000|Overall Study|Still on Study|34|||
+31016327|NCT03761056|59250083|FG000|Overall Study|Death|6|||
+31016328|NCT03761056|59250083|FG000|Overall Study|Investigator Decision|1|||
+31016329|NCT03761056|59250083|FG000|Overall Study|Subject Withdrawal of Consent From Further Follow-up|1|||
+31247285|NCT03289455|59489146|FG000|Overall Study|Death|1|||
+31247286|NCT03289455|59489147|FG001|Overall Study|Death|0|||
+31247287|NCT03289455|59489148|FG002|Overall Study|Death|0|||
+31247288|NCT03289455|59489146|FG000|Overall Study|Sponsor decision due to covid19 restrictions|0|||
+31247289|NCT03289455|59489147|FG001|Overall Study|Sponsor decision due to covid19 restrictions|1|||
+31247290|NCT03289455|59489148|FG002|Overall Study|Sponsor decision due to covid19 restrictions|0|||
+31247291|NCT03289455|59489146|FG000|Overall Study|No CART persistence in MRD negativity. Patient proceeded with HSCT|0|||
+31247292|NCT03289455|59489147|FG001|Overall Study|No CART persistence in MRD negativity. Patient proceeded with HSCT|0|||
+31247293|NCT03289455|59489148|FG002|Overall Study|No CART persistence in MRD negativity. Patient proceeded with HSCT|1|||
+31247294|NCT03289455|59489146|FG000|Overall Study|Progressive disease|3|||
+31247295|NCT03289455|59489147|FG001|Overall Study|Progressive disease|4|||
+31247296|NCT03289455|59489148|FG002|Overall Study|Progressive disease|5|||
+31261897|NCT04097301|59508041|FG000|Overall Study|Death|1|||
+31261898|NCT04097301|59508041|FG000|Overall Study|Withdrawal by Subject|1|||
+31261899|NCT04097301|59508041|FG000|Overall Study|Screening Failure|5|||
+31267421|NCT03318861|59514961|FG000|Overall Study|Death|1|||
+31267422|NCT03318861|59514962|FG001|Overall Study|Death|2|||
+31267423|NCT03318861|59514963|FG002|Overall Study|Death|2|||
+31267424|NCT03318861|59514964|FG003|Overall Study|Death|1|||
+31267425|NCT03318861|59514965|FG004|Overall Study|Death|1|||
+31267426|NCT03318861|59514961|FG000|Overall Study|Still on Study|2|||
+31267427|NCT03318861|59514962|FG001|Overall Study|Still on Study|1|||
+31267428|NCT03318861|59514963|FG002|Overall Study|Still on Study|1|||
+31267429|NCT03318861|59514964|FG003|Overall Study|Still on Study|2|||
+31267430|NCT03318861|59514965|FG004|Overall Study|Still on Study|1|||
+31267431|NCT03318861|59514961|FG000|Overall Study|Enrolled But Did Not Initiate KITE-585|0|||
+31267432|NCT03318861|59514962|FG001|Overall Study|Enrolled But Did Not Initiate KITE-585|1|||
+31267433|NCT03318861|59514963|FG002|Overall Study|Enrolled But Did Not Initiate KITE-585|0|||
+31267434|NCT03318861|59514964|FG003|Overall Study|Enrolled But Did Not Initiate KITE-585|1|||
+31267435|NCT03318861|59514965|FG004|Overall Study|Enrolled But Did Not Initiate KITE-585|1|||
+31286559|NCT02601313|59538438|FG000|Overall Study|Death|2|||
+31286560|NCT02601313|59538439|FG001|Overall Study|Death|16|||
+31286561|NCT02601313|59538440|FG002|Overall Study|Death|4|||
+31286562|NCT02601313|59538438|FG000|Overall Study|Enrolled, did not initiate CTE/KTE-X19|0|||
+31286563|NCT02601313|59538439|FG001|Overall Study|Enrolled, did not initiate CTE/KTE-X19|5|||
+31286564|NCT02601313|59538440|FG002|Overall Study|Enrolled, did not initiate CTE/KTE-X19|2|||
+31286565|NCT02601313|59538438|FG000|Overall Study|Enrolled, did not initiate KTE-X19|0|||
+31286566|NCT02601313|59538439|FG001|Overall Study|Enrolled, did not initiate KTE-X19|1|||
+31286567|NCT02601313|59538440|FG002|Overall Study|Enrolled, did not initiate KTE-X19|1|||
+31286568|NCT02601313|59538438|FG000|Overall Study|Still on study|0|||
+31286569|NCT02601313|59538439|FG001|Overall Study|Still on study|52|||
+31286570|NCT02601313|59538440|FG002|Overall Study|Still on study|10|||
+31286571|NCT02601313|59538438|FG000|Overall Study|Enrolled, did not initiate AC|4|||
+31286572|NCT02601313|59538439|FG001|Overall Study|Enrolled, did not initiate AC|0|||
+31286573|NCT02601313|59538440|FG002|Overall Study|Enrolled, did not initiate AC|0|||
+31352213|NCT02348216|59613220|FG000|Overall Study|Death|4|||
+31352214|NCT02348216|59613221|FG001|Overall Study|Death|27|||
+31352215|NCT02348216|59613222|FG002|Overall Study|Death|3|||
+31352216|NCT02348216|59613223|FG003|Overall Study|Death|18|||
+31352217|NCT02348216|59613224|FG004|Overall Study|Death|9|||
+31352218|NCT02348216|59613225|FG005|Overall Study|Death|23|||
+31352219|NCT02348216|59613226|FG006|Overall Study|Death|6|||
+31352220|NCT02348216|59613220|FG000|Overall Study|Full consent withdrawal|0|||
+31352221|NCT02348216|59613221|FG001|Overall Study|Full consent withdrawal|0|||
+31352222|NCT02348216|59613222|FG002|Overall Study|Full consent withdrawal|0|||
+31352223|NCT02348216|59613223|FG003|Overall Study|Full consent withdrawal|1|||
+31352224|NCT02348216|59613224|FG004|Overall Study|Full consent withdrawal|0|||
+31352225|NCT02348216|59613225|FG005|Overall Study|Full consent withdrawal|0|||
+31352226|NCT02348216|59613226|FG006|Overall Study|Full consent withdrawal|1|||
+31352227|NCT02348216|59613220|FG000|Overall Study|Lost to Follow-up|0|||
+31352228|NCT02348216|59613221|FG001|Overall Study|Lost to Follow-up|0|||
+31352229|NCT02348216|59613222|FG002|Overall Study|Lost to Follow-up|0|||
+31352230|NCT02348216|59613223|FG003|Overall Study|Lost to Follow-up|0|||
+31352231|NCT02348216|59613224|FG004|Overall Study|Lost to Follow-up|0|||
+31352232|NCT02348216|59613225|FG005|Overall Study|Lost to Follow-up|0|||
+31352233|NCT02348216|59613226|FG006|Overall Study|Lost to Follow-up|1|||
+31352234|NCT02348216|59613220|FG000|Overall Study|Still on study|3|||
+31352235|NCT02348216|59613221|FG001|Overall Study|Still on study|50|||
+31352236|NCT02348216|59613222|FG002|Overall Study|Still on study|21|||
+31352237|NCT02348216|59613223|FG003|Overall Study|Still on study|19|||
+31352238|NCT02348216|59613224|FG004|Overall Study|Still on study|32|||
+31352239|NCT02348216|59613225|FG005|Overall Study|Still on study|27|||
+31352240|NCT02348216|59613226|FG006|Overall Study|Still on study|32|||
+31352241|NCT02348216|59613220|FG000|Overall Study|Enrolled but did not initiate axicabtagene ciloleucel|1|||
+31352242|NCT02348216|59613221|FG001|Overall Study|Enrolled but did not initiate axicabtagene ciloleucel|4|||
+31352243|NCT02348216|59613222|FG002|Overall Study|Enrolled but did not initiate axicabtagene ciloleucel|6|||
+31352244|NCT02348216|59613223|FG003|Overall Study|Enrolled but did not initiate axicabtagene ciloleucel|4|||
+31352245|NCT02348216|59613224|FG004|Overall Study|Enrolled but did not initiate axicabtagene ciloleucel|5|||
+31352246|NCT02348216|59613225|FG005|Overall Study|Enrolled but did not initiate axicabtagene ciloleucel|8|||
+31352247|NCT02348216|59613226|FG006|Overall Study|Enrolled but did not initiate axicabtagene ciloleucel|2|||
+31289149|NCT02706392|59541546|FG000|Overall Study|Death|1|||
+31289150|NCT02706392|59541547|FG001|Overall Study|Death|0|||
+31289151|NCT02706392|59541548|FG002|Overall Study|Death|2|||
+31289152|NCT02706392|59541549|FG003|Overall Study|Death|2|||
+31289153|NCT02706392|59541550|FG004|Overall Study|Death|5|||
+31289154|NCT02706392|59541551|FG005|Overall Study|Death|2|||
+31289558|NCT02535364|59541991|FG000|Part A Screening Through Leukapheresis|Failure to meet criteria for Part A|22|||
+31289559|NCT02535364|59541991|FG000|Part A Screening Through Leukapheresis|Study placed on clinical hold by FDA|2|||
+31289560|NCT02535364|59541991|FG000|Part A Screening Through Leukapheresis|Disease progression|1|||
+31289561|NCT02535364|59541991|FG000|Part B Screening|Study placed on clinical hold by FDA|7|||
+31289562|NCT02535364|59541991|FG000|Part B Screening|Unable to manufacture JCAR015|3|||
+31289563|NCT02535364|59541991|FG000|Part B Screening|Death|2|||
+31289564|NCT02535364|59541991|FG000|Part B Screening|Physician Decision|1|||
+31289565|NCT02535364|59541991|FG000|Part B Screening|Withdrawal by Subject|1|||
+31289566|NCT02535364|59541991|FG000|Part B Screening|Adverse Event|1|||
+31289567|NCT02535364|59541991|FG000|Part B Screening|Change in diagnosis, no longer eligible|2|||
+31289568|NCT02535364|59541991|FG000|Study Treatment|Death|1|||
+31289569|NCT02535364|59541991|FG000|Study Treatment|Study placed on clinical hold by FDA|1|||
+31289570|NCT02535364|59541991|FG000|12-Month Follow-up Period|Disease progression|22|||
+31289571|NCT02535364|59541991|FG000|12-Month Follow-up Period|Death|5|||
+31289572|NCT02535364|59541991|FG000|12-Month Follow-up Period|Underwent stem cell transplant|5|||
+31289573|NCT02535364|59541991|FG000|12-Month Follow-up Period|Subject received alternative therapy|2|||
+31289574|NCT02535364|59541991|FG000|12-Month Follow-up Period|Subject transferred to hospice|1|||
+31367372|NCT01454596|59629730|FG000|Overall Study|Death|0|||
+31367373|NCT01454596|59629731|FG001|Overall Study|Death|0|||
+31367374|NCT01454596|59629732|FG002|Overall Study|Death|0|||
+31367375|NCT01454596|59629733|FG003|Overall Study|Death|0|||
+31367376|NCT01454596|59629734|FG004|Overall Study|Death|0|||
+31367377|NCT01454596|59629735|FG005|Overall Study|Death|0|||
+31367378|NCT01454596|59629736|FG006|Overall Study|Death|0|||
+31367379|NCT01454596|59629737|FG007|Overall Study|Death|0|||
+31367380|NCT01454596|59629738|FG008|Overall Study|Death|0|||
+31367381|NCT01454596|59629739|FG009|Overall Study|Death|1|||
+31367382|NCT01454596|59629740|FG010|Overall Study|Death|1|||
+31367383|NCT01454596|59629741|FG011|Overall Study|Death|0|||
+31367722|NCT02215967|59630142|FG000|Overall Study|Patient became ineligible for treatment|0|||
+31367723|NCT02215967|59630143|FG001|Overall Study|Patient became ineligible for treatment|0|||
+31367724|NCT02215967|59630144|FG002|Overall Study|Patient became ineligible for treatment|0|||
+31367725|NCT02215967|59630145|FG003|Overall Study|Patient became ineligible for treatment|3|||
+31367726|NCT02215967|59630142|FG000|Overall Study|Patient did not get CAR T-Cells|0|||
+31367727|NCT02215967|59630143|FG001|Overall Study|Patient did not get CAR T-Cells|0|||
+31367728|NCT02215967|59630144|FG002|Overall Study|Patient did not get CAR T-Cells|1|||
+31367729|NCT02215967|59630145|FG003|Overall Study|Patient did not get CAR T-Cells|0|||
+30943570|NCT01460901|58983652|FG000|Overall Study|Withdrawal by Subject|2|||
+31303768|NCT02706405|59558251|FG000|Overall Study|Death|3|||
+31303769|NCT02706405|59558252|FG001|Overall Study|Death|2|||
+31303770|NCT02706405|59558253|FG002|Overall Study|Death|0|||
+31303771|NCT02706405|59558254|FG003|Overall Study|Death|1|||
+31303772|NCT02706405|59558255|FG004|Overall Study|Death|0|||
+31303773|NCT02706405|59558256|FG005|Overall Study|Death|0|||
+31303774|NCT02706405|59558257|FG006|Overall Study|Death|3|||
+31303775|NCT02706405|59558258|FG007|Overall Study|Death|4|||
+31303776|NCT02706405|59558251|FG000|Overall Study|Disease progression|0|||
+31303777|NCT02706405|59558252|FG001|Overall Study|Disease progression|0|||
+31303778|NCT02706405|59558253|FG002|Overall Study|Disease progression|0|||
+31303779|NCT02706405|59558254|FG003|Overall Study|Disease progression|0|||
+31303780|NCT02706405|59558255|FG004|Overall Study|Disease progression|0|||
+31303781|NCT02706405|59558256|FG005|Overall Study|Disease progression|0|||
+31303782|NCT02706405|59558257|FG006|Overall Study|Disease progression|0|||
+31303783|NCT02706405|59558258|FG007|Overall Study|Disease progression|1|||
+31303784|NCT02706405|59558251|FG000|Overall Study|Pt moved to new therapy|0|||
+31303785|NCT02706405|59558252|FG001|Overall Study|Pt moved to new therapy|0|||
+31303786|NCT02706405|59558253|FG002|Overall Study|Pt moved to new therapy|0|||
+31303787|NCT02706405|59558254|FG003|Overall Study|Pt moved to new therapy|0|||
+31303788|NCT02706405|59558255|FG004|Overall Study|Pt moved to new therapy|0|||
+31303789|NCT02706405|59558256|FG005|Overall Study|Pt moved to new therapy|1|||
+31303790|NCT02706405|59558257|FG006|Overall Study|Pt moved to new therapy|0|||
+31303791|NCT02706405|59558258|FG007|Overall Study|Pt moved to new therapy|1|||
+31303792|NCT02706405|59558251|FG000|Overall Study|Physician Decision|1|||
+31303793|NCT02706405|59558252|FG001|Overall Study|Physician Decision|0|||
+31303794|NCT02706405|59558253|FG002|Overall Study|Physician Decision|0|||
+31303795|NCT02706405|59558254|FG003|Overall Study|Physician Decision|0|||
+31303796|NCT02706405|59558255|FG004|Overall Study|Physician Decision|0|||
+31303797|NCT02706405|59558256|FG005|Overall Study|Physician Decision|0|||
+31303798|NCT02706405|59558257|FG006|Overall Study|Physician Decision|0|||
+31303799|NCT02706405|59558258|FG007|Overall Study|Physician Decision|0|||
+31303810|NCT02761915|59558331|FG000|Overall Study|Death|3|||
+31303811|NCT02761915|59558332|FG001|Overall Study|Death|1|||
+31303812|NCT02761915|59558333|FG002|Overall Study|Death|1|||
+31303813|NCT02761915|59558334|FG003|Overall Study|Death|1|||
+31303814|NCT02761915|59558335|FG004|Overall Study|Death|0|||
+31303815|NCT02761915|59558336|FG005|Overall Study|Death|1|||
+31303816|NCT02761915|59558331|FG000|Overall Study|Withdrawal by Subject|1|||
+31303817|NCT02761915|59558332|FG001|Overall Study|Withdrawal by Subject|0|||
+31303818|NCT02761915|59558333|FG002|Overall Study|Withdrawal by Subject|0|||
+31303819|NCT02761915|59558334|FG003|Overall Study|Withdrawal by Subject|0|||
+31303820|NCT02761915|59558335|FG004|Overall Study|Withdrawal by Subject|1|||
+31303821|NCT02761915|59558336|FG005|Overall Study|Withdrawal by Subject|2|||
+31303822|NCT02761915|59558331|FG000|Overall Study|Disease Progression|0|||
+31303823|NCT02761915|59558332|FG001|Overall Study|Disease Progression|0|||
+31303824|NCT02761915|59558333|FG002|Overall Study|Disease Progression|0|||
+31303825|NCT02761915|59558334|FG003|Overall Study|Disease Progression|2|||
+31303826|NCT02761915|59558335|FG004|Overall Study|Disease Progression|2|||
+31303827|NCT02761915|59558336|FG005|Overall Study|Disease Progression|2|||
+31053925|NCT01218867|59291704|FG000|Overall Study|Death during treatment|0|||
+31053926|NCT01218867|59291705|FG001|Overall Study|Death during treatment|0|||
+31053927|NCT01218867|59291706|FG002|Overall Study|Death during treatment|0|||
+31053928|NCT01218867|59291707|FG003|Overall Study|Death during treatment|0|||
+31053929|NCT01218867|59291708|FG004|Overall Study|Death during treatment|0|||
+31053930|NCT01218867|59291709|FG005|Overall Study|Death during treatment|0|||
+31053931|NCT01218867|59291710|FG006|Overall Study|Death during treatment|1|||
+31053932|NCT01218867|59291711|FG007|Overall Study|Death during treatment|0|||
+31053933|NCT01218867|59291712|FG008|Overall Study|Death during treatment|0|||
+31053934|NCT01218867|59291713|FG009|Overall Study|Death during treatment|0|||
+31053935|NCT01218867|59291714|FG010|Overall Study|Death during treatment|0|||
+30952848|NCT03049449|59002675|FG000|Overall Study|Did not receive treatment.|0|||
+30952849|NCT03049449|59002676|FG001|Overall Study|Did not receive treatment.|0|||
+30952850|NCT03049449|59002677|FG002|Overall Study|Did not receive treatment.|0|||
+30952851|NCT03049449|59002678|FG003|Overall Study|Did not receive treatment.|0|||
+30952852|NCT03049449|59002679|FG004|Overall Study|Did not receive treatment.|0|||
+30952853|NCT03049449|59002680|FG005|Overall Study|Did not receive treatment.|0|||
+30952854|NCT03049449|59002681|FG006|Overall Study|Did not receive treatment.|0|||
+30952855|NCT03049449|59002682|FG007|Overall Study|Did not receive treatment.|0|||
+30952856|NCT03049449|59002683|FG008|Overall Study|Did not receive treatment.|1|||
+30952857|NCT03049449|59002684|FG009|Overall Study|Did not receive treatment.|0|||
+30952858|NCT03049449|59002675|FG000|Overall Study|Enrolled and removed from study with no treatment|0|||
+30952859|NCT03049449|59002676|FG001|Overall Study|Enrolled and removed from study with no treatment|0|||
+30952860|NCT03049449|59002677|FG002|Overall Study|Enrolled and removed from study with no treatment|1|||
+30952861|NCT03049449|59002678|FG003|Overall Study|Enrolled and removed from study with no treatment|1|||
+30952862|NCT03049449|59002679|FG004|Overall Study|Enrolled and removed from study with no treatment|0|||
+30952863|NCT03049449|59002680|FG005|Overall Study|Enrolled and removed from study with no treatment|0|||
+30952864|NCT03049449|59002681|FG006|Overall Study|Enrolled and removed from study with no treatment|0|||
+30952865|NCT03049449|59002682|FG007|Overall Study|Enrolled and removed from study with no treatment|0|||
+30952866|NCT03049449|59002683|FG008|Overall Study|Enrolled and removed from study with no treatment|0|||
+30952867|NCT03049449|59002684|FG009|Overall Study|Enrolled and removed from study with no treatment|0|||
+30952868|NCT03049449|59002675|FG000|Overall Study|Chemotherapy was started and not finished & no Chimeric Antigen Receptor T-cells were administered.|0|||
+30952869|NCT03049449|59002676|FG001|Overall Study|Chemotherapy was started and not finished & no Chimeric Antigen Receptor T-cells were administered.|0|||
+30952870|NCT03049449|59002677|FG002|Overall Study|Chemotherapy was started and not finished & no Chimeric Antigen Receptor T-cells were administered.|0|||
+30952871|NCT03049449|59002678|FG003|Overall Study|Chemotherapy was started and not finished & no Chimeric Antigen Receptor T-cells were administered.|0|||
+30952872|NCT03049449|59002679|FG004|Overall Study|Chemotherapy was started and not finished & no Chimeric Antigen Receptor T-cells were administered.|0|||
+30952873|NCT03049449|59002680|FG005|Overall Study|Chemotherapy was started and not finished & no Chimeric Antigen Receptor T-cells were administered.|0|||
+30952874|NCT03049449|59002681|FG006|Overall Study|Chemotherapy was started and not finished & no Chimeric Antigen Receptor T-cells were administered.|0|||
+30952875|NCT03049449|59002682|FG007|Overall Study|Chemotherapy was started and not finished & no Chimeric Antigen Receptor T-cells were administered.|1|||
+30952876|NCT03049449|59002683|FG008|Overall Study|Chemotherapy was started and not finished & no Chimeric Antigen Receptor T-cells were administered.|0|||
+30952877|NCT03049449|59002684|FG009|Overall Study|Chemotherapy was started and not finished & no Chimeric Antigen Receptor T-cells were administered.|1|||
+31312973|NCT01865617|59570122|FG000|Overall Study|Death|27|||
+31312974|NCT01865617|59570123|FG001|Overall Study|Death|3|||
+31312975|NCT01865617|59570124|FG002|Overall Study|Death|1|||
+31312976|NCT01865617|59570125|FG003|Overall Study|Death|1|||
+31312977|NCT01865617|59570126|FG004|Overall Study|Death|5|||
+31312978|NCT01865617|59570127|FG005|Overall Study|Death|1|||
+31312979|NCT01865617|59570128|FG006|Overall Study|Death|11|||
+31312980|NCT01865617|59570129|FG007|Overall Study|Death|1|||
+31312981|NCT01865617|59570130|FG008|Overall Study|Death|11|||
+31312982|NCT01865617|59570131|FG009|Overall Study|Death|3|||
+31312983|NCT01865617|59570132|FG010|Overall Study|Death|32|||
+31312984|NCT01865617|59570133|FG011|Overall Study|Death|6|||
+31312985|NCT01865617|59570134|FG012|Overall Study|Death|13|||
+31312986|NCT01865617|59570122|FG000|Overall Study|Lost to Follow-up|2|||
+31312987|NCT01865617|59570123|FG001|Overall Study|Lost to Follow-up|0|||
+31312988|NCT01865617|59570124|FG002|Overall Study|Lost to Follow-up|0|||
+31312989|NCT01865617|59570125|FG003|Overall Study|Lost to Follow-up|0|||
+31312990|NCT01865617|59570126|FG004|Overall Study|Lost to Follow-up|0|||
+31312991|NCT01865617|59570127|FG005|Overall Study|Lost to Follow-up|0|||
+31312992|NCT01865617|59570128|FG006|Overall Study|Lost to Follow-up|0|||
+31312993|NCT01865617|59570129|FG007|Overall Study|Lost to Follow-up|0|||
+31312994|NCT01865617|59570130|FG008|Overall Study|Lost to Follow-up|0|||
+31312995|NCT01865617|59570131|FG009|Overall Study|Lost to Follow-up|0|||
+31312996|NCT01865617|59570132|FG010|Overall Study|Lost to Follow-up|0|||
+31312997|NCT01865617|59570133|FG011|Overall Study|Lost to Follow-up|0|||
+31312998|NCT01865617|59570134|FG012|Overall Study|Lost to Follow-up|0|||
+31312999|NCT01865617|59570122|FG000|Overall Study|Withdrawal by Subject|1|||
+31313000|NCT01865617|59570123|FG001|Overall Study|Withdrawal by Subject|0|||
+31313001|NCT01865617|59570124|FG002|Overall Study|Withdrawal by Subject|0|||
+31313002|NCT01865617|59570125|FG003|Overall Study|Withdrawal by Subject|0|||
+31313003|NCT01865617|59570126|FG004|Overall Study|Withdrawal by Subject|0|||
+31313004|NCT01865617|59570127|FG005|Overall Study|Withdrawal by Subject|0|||
+31313005|NCT01865617|59570128|FG006|Overall Study|Withdrawal by Subject|0|||
+31313006|NCT01865617|59570129|FG007|Overall Study|Withdrawal by Subject|0|||
+31313007|NCT01865617|59570130|FG008|Overall Study|Withdrawal by Subject|0|||
+31313008|NCT01865617|59570131|FG009|Overall Study|Withdrawal by Subject|0|||
+31313009|NCT01865617|59570132|FG010|Overall Study|Withdrawal by Subject|0|||
+31313010|NCT01865617|59570133|FG011|Overall Study|Withdrawal by Subject|0|||
+31313011|NCT01865617|59570134|FG012|Overall Study|Withdrawal by Subject|0|||
+31313012|NCT01865617|59570122|FG000|Overall Study|Patient proceeded to new therapy|0|||
+31313013|NCT01865617|59570123|FG001|Overall Study|Patient proceeded to new therapy|0|||
+31313014|NCT01865617|59570124|FG002|Overall Study|Patient proceeded to new therapy|0|||
+31313015|NCT01865617|59570125|FG003|Overall Study|Patient proceeded to new therapy|0|||
+31313016|NCT01865617|59570126|FG004|Overall Study|Patient proceeded to new therapy|2|||
+31313017|NCT01865617|59570127|FG005|Overall Study|Patient proceeded to new therapy|0|||
+31313018|NCT01865617|59570128|FG006|Overall Study|Patient proceeded to new therapy|0|||
+31313019|NCT01865617|59570129|FG007|Overall Study|Patient proceeded to new therapy|0|||
+31313020|NCT01865617|59570130|FG008|Overall Study|Patient proceeded to new therapy|0|||
+31313021|NCT01865617|59570131|FG009|Overall Study|Patient proceeded to new therapy|0|||
+31313022|NCT01865617|59570132|FG010|Overall Study|Patient proceeded to new therapy|0|||
+31313023|NCT01865617|59570133|FG011|Overall Study|Patient proceeded to new therapy|0|||
+31313024|NCT01865617|59570134|FG012|Overall Study|Patient proceeded to new therapy|0|||
+31313025|NCT01865617|59570122|FG000|Overall Study|Other|0|||
+31313026|NCT01865617|59570123|FG001|Overall Study|Other|0|||
+31313027|NCT01865617|59570124|FG002|Overall Study|Other|0|||
+31313028|NCT01865617|59570125|FG003|Overall Study|Other|0|||
+31313029|NCT01865617|59570126|FG004|Overall Study|Other|0|||
+31313030|NCT01865617|59570127|FG005|Overall Study|Other|0|||
+31313031|NCT01865617|59570128|FG006|Overall Study|Other|1|||
+31313032|NCT01865617|59570129|FG007|Overall Study|Other|0|||
+31313033|NCT01865617|59570130|FG008|Overall Study|Other|0|||
+31313034|NCT01865617|59570131|FG009|Overall Study|Other|0|||
+31313035|NCT01865617|59570132|FG010|Overall Study|Other|0|||
+31313036|NCT01865617|59570133|FG011|Overall Study|Other|0|||
+31313037|NCT01865617|59570134|FG012|Overall Study|Other|0|||
+31084818|NCT03624036|59323469|FG000|Overall Study|Still on Study|5|||
+31084819|NCT03624036|59323470|FG001|Overall Study|Still on Study|1|||
+31084820|NCT03624036|59323471|FG002|Overall Study|Still on Study|3|||
+31084821|NCT03624036|59323472|FG003|Overall Study|Still on Study|3|||
+31084822|NCT03624036|59323469|FG000|Overall Study|Death|1|||
+31084823|NCT03624036|59323470|FG001|Overall Study|Death|2|||
+31084824|NCT03624036|59323471|FG002|Overall Study|Death|0|||
+31084825|NCT03624036|59323472|FG003|Overall Study|Death|0|||
+31084826|NCT03624036|59323469|FG000|Overall Study|Enrolled but Never Treated|1|||
+31084827|NCT03624036|59323470|FG001|Overall Study|Enrolled but Never Treated|0|||
+31084828|NCT03624036|59323471|FG002|Overall Study|Enrolled but Never Treated|0|||
+31084829|NCT03624036|59323472|FG003|Overall Study|Enrolled but Never Treated|0|||
+31097524|NCT03483103|59336763|FG000|Pre-Treatment Phase|Other reasons|1|||
+31097525|NCT03483103|59336763|FG000|Pre-Treatment Phase|No longer meets eligibility criteria|4|||
+31097526|NCT03483103|59336763|FG000|Pre-Treatment Phase|Disease-related complications|1|||
+31097527|NCT03483103|59336763|FG000|Pre-Treatment Phase|Death|5|||
+31097528|NCT03483103|59336763|FG000|Treatment Phase|Withdrawal by Subject|6|||
+31097529|NCT03483103|59336763|FG000|Treatment Phase|Other reasons|2|||
+31097530|NCT03483103|59336763|FG000|Treatment Phase|Death|20|||
+31097531|NCT03483103|59336763|FG000|Treatment Phase|Ongoing in study|26|||
+31097532|NCT03483103|59336763|FG000|Treatment Phase|Did not receive either JAR017 or nonconforming product|1|||
+31097533|NCT03483103|59336763|FG000|Treatment Phase|Received nonconforming product|1|||
+31119388|NCT04160195|59359961|FG000|Overall Study|Principal investigator stopped study due to instability of chimeric antigen receptor gene.|1|||
+31119389|NCT04160195|59359962|FG001|Overall Study|Principal investigator stopped study due to instability of chimeric antigen receptor gene.|0|||
+31323745|NCT02659943|59581599|FG000|Overall Study|Switched to alternative treatment|1|||
+31323746|NCT02659943|59581600|FG001|Overall Study|Switched to alternative treatment|1|||
+31323747|NCT02659943|59581601|FG002|Overall Study|Switched to alternative treatment|0|||
+31323748|NCT02659943|59581602|FG003|Overall Study|Switched to alternative treatment|2|||
+31323749|NCT02659943|59581603|FG004|Overall Study|Switched to alternative treatment|1|||
+31323750|NCT02659943|59581604|FG005|Overall Study|Switched to alternative treatment|0|||
+31323751|NCT02659943|59581605|FG006|Overall Study|Switched to alternative treatment|1|||
+31323752|NCT02659943|59581599|FG000|Overall Study|Disease progression on study|0|||
+31323753|NCT02659943|59581600|FG001|Overall Study|Disease progression on study|1|||
+31323754|NCT02659943|59581601|FG002|Overall Study|Disease progression on study|1|||
+31323755|NCT02659943|59581602|FG003|Overall Study|Disease progression on study|1|||
+31323756|NCT02659943|59581603|FG004|Overall Study|Disease progression on study|1|||
+31323757|NCT02659943|59581604|FG005|Overall Study|Disease progression on study|4|||
+31323758|NCT02659943|59581605|FG006|Overall Study|Disease progression on study|0|||
+31323759|NCT02659943|59581599|FG000|Overall Study|Patient's condition per principal investigator|0|||
+31323760|NCT02659943|59581600|FG001|Overall Study|Patient's condition per principal investigator|0|||
+31323761|NCT02659943|59581601|FG002|Overall Study|Patient's condition per principal investigator|0|||
+31323762|NCT02659943|59581602|FG003|Overall Study|Patient's condition per principal investigator|0|||
+31323763|NCT02659943|59581603|FG004|Overall Study|Patient's condition per principal investigator|0|||
+31323764|NCT02659943|59581604|FG005|Overall Study|Patient's condition per principal investigator|1|||
+31323765|NCT02659943|59581605|FG006|Overall Study|Patient's condition per principal investigator|0|||
+31323766|NCT02659943|59581599|FG000|Overall Study|Ineligible|0|||
+31323767|NCT02659943|59581600|FG001|Overall Study|Ineligible|0|||
+31323768|NCT02659943|59581601|FG002|Overall Study|Ineligible|0|||
+31323769|NCT02659943|59581602|FG003|Overall Study|Ineligible|0|||
+31323770|NCT02659943|59581603|FG004|Overall Study|Ineligible|0|||
+31323771|NCT02659943|59581604|FG005|Overall Study|Ineligible|0|||
+31323772|NCT02659943|59581605|FG006|Overall Study|Ineligible|1|||
+31323773|NCT02659943|59581599|FG000|Overall Study|No longer meets eligibility|0|||
+31323774|NCT02659943|59581600|FG001|Overall Study|No longer meets eligibility|0|||
+31323775|NCT02659943|59581601|FG002|Overall Study|No longer meets eligibility|0|||
+31323776|NCT02659943|59581602|FG003|Overall Study|No longer meets eligibility|0|||
+31323777|NCT02659943|59581603|FG004|Overall Study|No longer meets eligibility|0|||
+31323778|NCT02659943|59581604|FG005|Overall Study|No longer meets eligibility|0|||
+31323779|NCT02659943|59581605|FG006|Overall Study|No longer meets eligibility|1|||
+31323780|NCT02659943|59581599|FG000|Overall Study|No treatment, per protocol|0|||
+31323781|NCT02659943|59581600|FG001|Overall Study|No treatment, per protocol|0|||
+31323782|NCT02659943|59581601|FG002|Overall Study|No treatment, per protocol|0|||
+31323783|NCT02659943|59581602|FG003|Overall Study|No treatment, per protocol|0|||
+31323784|NCT02659943|59581603|FG004|Overall Study|No treatment, per protocol|0|||
+31323785|NCT02659943|59581604|FG005|Overall Study|No treatment, per protocol|0|||
+31323786|NCT02659943|59581605|FG006|Overall Study|No treatment, per protocol|3|||
+31231128|NCT03338972|59470149|FG000|Overall Study|Death|1|||
+31231129|NCT03338972|59470150|FG001|Overall Study|Death|1|||
+31231130|NCT03338972|59470151|FG002|Overall Study|Death|0|||
+31231131|NCT03338972|59470152|FG003|Overall Study|Death|0|||
+31231132|NCT03338972|59470149|FG000|Overall Study|Withdrawal by Subject|1|||
+31231133|NCT03338972|59470150|FG001|Overall Study|Withdrawal by Subject|0|||
+31231134|NCT03338972|59470151|FG002|Overall Study|Withdrawal by Subject|0|||
+31231135|NCT03338972|59470152|FG003|Overall Study|Withdrawal by Subject|0|||
+31232477|NCT03287804|59471645|FG000|Overall Study|Death|1|||
+31232478|NCT03287804|59471645|FG000|Overall Study|Physician Decision|2|||
+31232479|NCT03287804|59471645|FG000|Overall Study|Progressive disease|8|||

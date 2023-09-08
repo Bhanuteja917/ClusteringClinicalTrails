@@ -1,0 +1,1038 @@
+id|nct_id|allocation|intervention_model|observational_model|primary_purpose|time_perspective|masking|masking_description|intervention_model_description|subject_masked|caregiver_masked|investigator_masked|outcomes_assessor_masked
+32726631|NCT04093648||Sequential Assignment||Treatment||None (Open Label)||||||
+32634756|NCT03765177|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32635150|NCT03682744|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32572408|NCT05616468|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32635332|NCT05638828|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32542469|NCT03084380|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32635623|NCT05618041|N/A|Single Group Assignment||Treatment||None (Open Label)|Open Label|Single Group Assignment||||
+32911958|NCT04473937|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32636422|NCT05641428|Randomized|Parallel Assignment||Treatment||None (Open Label)||||||
+32637198|NCT02958397|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32912158|NCT04923919|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32638879|NCT05432401|N/A|Single Group Assignment||Treatment||None (Open Label)||TAA05 Injection||||
+32639324|NCT05576181|N/A|Single Group Assignment||Treatment||None (Open Label)||Single Group Assignment||||
+32639335|NCT05640713|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32639984|NCT03960060|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32641069|NCT01818323|N/A|Single Group Assignment||Treatment||None (Open Label)|Open label|"In this dose escalation study, the intervention consists of intratumoral delivery of panErbB-specific CAR T cells, administered alone or following lymphodepleting chemotherapy with fludarabine and cyclophosphamide. In cohort 7, patients will also receive 3 doses of Nivolumab, the first of which is administered 24h before CAR T-cells~This note has been added in response to the warning  WARNING: Phase 1/Phase 2 studies typically have at least one Intervention Type of Drug, Biological/Vaccine or Combination Product."||||
+32642635|NCT05020444|Non-Randomized|Single Group Assignment||Treatment||None (Open Label)||||||
+32642750|NCT04214392|Non-Randomized|Sequential Assignment||Treatment||None (Open Label)||||||
+32910384|NCT02203825|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32644342|NCT05432882|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32644374|NCT02958384|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32645303|NCT04727008|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32544683|NCT05370430|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32647157|NCT02963038|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32647506|NCT02968472|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32819230|NCT03574168|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32544840|NCT04381741|N/A|Sequential Assignment||Treatment||None (Open Label)||||||
+32650099|NCT02958410|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32650163|NCT04717999|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32650228|NCT02965092|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32913786|NCT01953900|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32913818|NCT03528421|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32727894|NCT05451212|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32651665|NCT05518253|Non-Randomized|Parallel Assignment||Treatment||None (Open Label)||||||
+32651691|NCT05489991|N/A|Sequential Assignment||Treatment||None (Open Label)||||||
+32651711|NCT05468190|Non-Randomized|Parallel Assignment||Treatment||None (Open Label)||||||
+32651730|NCT05442515|Non-Randomized|Parallel Assignment||Treatment||None (Open Label)||||||
+32651750|NCT05420545|Non-Randomized|Parallel Assignment||Treatment||None (Open Label)||||||
+32651751|NCT05420519|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32651768|NCT05400109|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32914029|NCT03927261|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32651985|NCT05035407|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32652004|NCT05003895|Non-Randomized|Sequential Assignment||Treatment||None (Open Label)||||||
+32546739|NCT02980315|Randomized|Parallel Assignment||Treatment||None (Open Label)||||||
+32727979|NCT05077527|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32652265|NCT04420754|Non-Randomized|Sequential Assignment||Treatment||None (Open Label)||||||
+32652267|NCT04416984|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32652325|NCT04227275|N/A|Sequential Assignment||Treatment||None (Open Label)||Sequential dose escalation||||
+32652400|NCT04029038|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32547042|NCT03030001|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32652726|NCT02315612|Non-Randomized|Sequential Assignment||Treatment||None (Open Label)||||||
+32547167|NCT05583201|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32914471|NCT04581473|Randomized|Parallel Assignment||Treatment||None (Open Label)||||||
+32653711|NCT05539430|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32728088|NCT04340154|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32654032|NCT01853631|Non-Randomized|Single Group Assignment||Treatment||None (Open Label)||||||
+32547619|NCT05241392|N/A|Sequential Assignment||Treatment||None (Open Label)||"a 3+3 design is used to determine Maximum Tolerated Dose (MTD) and the recommended phase 2 dose (RP2D)"||||
+32825713|NCT02186860|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32728158|NCT03635632|Non-Randomized|Single Group Assignment||Treatment||None (Open Label)||||||
+32654463|NCT04601831|N/A|Single Group Assignment||Treatment||None (Open Label)||Single-arm, open label, seamless phase I/II study||||
+32654497|NCT04316624|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32654537|NCT04036019|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32728480|NCT04283006|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32819577|NCT03907527|Non-Randomized|Sequential Assignment||Treatment||None (Open Label)||||||
+32657127|NCT05373147|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32942261|NCT05091541|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32915312|NCT03497533|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32658277|NCT03085173|N/A|Single Group Assignment||Treatment||None (Open Label)||"A Phase I Trial of CD19-Targeted EGFRt/19-28z/4-1BBL Armored Chimeric Antigen Receptor (CAR) Modified T Cells in Patients with Relapsed or Refractory Chronic Lymphocytic Leukemia (CLL)"||||
+32549119|NCT05509530|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32659024|NCT04514029|N/A|Single Group Assignment||Prevention||None (Open Label)||||||
+32549858|NCT04544592|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32819763|NCT03893019|Non-Randomized|Sequential Assignment||Treatment||None (Open Label)||||||
+32661238|NCT04691284|N/A|Single Group Assignment||Basic Science||None (Open Label)||||||
+32661251|NCT04691713|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32551059|NCT04394650|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32661790|NCT05667506|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32551077|NCT03081910|Non-Randomized|Single Group Assignment||Treatment||None (Open Label)||||||
+32819887|NCT03338972|Non-Randomized|Single Group Assignment||Treatment||None (Open Label)||||||
+32661853|NCT05266950|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32661879|NCT05098613|N/A|Single Group Assignment||Treatment||None (Open Label)||The study is a prospective single arm Phase 1/1b with four dose levels. Phase 1 will be the dose finding phase aimed at determining the maximum tolerated dose using a standard 3+3 dose-escalation strategy. Phase 1b will be an expansion phase designed to evaluate the clinical activity of CD19x22 CAR T in CD19 CAR-treated and CAR-naïve B-NHL patients at the maximum tolerated dose.||||
+32730367|NCT03744676|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32662235|NCT04723914|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32730452|NCT04162353|N/A|Sequential Assignment||Treatment||None (Open Label)||Dose escalation phase: BCMA-CD19 cCAR T cells transduced with a lentiviral vector to express two distinct units of BCMA and CD19 CARs on a T cell with an escalation approach, 2e6 to 10e6 CAR-T cells/kg||||
+32730476|NCT04162119|N/A|Single Group Assignment||Treatment||None (Open Label)||This study was a single-center, open-label, single-arm, non-randomized clinical trial, which was divided into 3 groups by infusion dose level. Firstly, each dose group has 3 patients. The pretreatment regimen of cyclophosphamide (25mg/m2 for 3 consecutive days) and fludarabine (10mg/kg for 3 consecutive days) was given before CART cells were reinfused. CART cells were reinfused on the third day after the pretreatment. If no serious side effects emerges in the group, then the next group uses the subsequent higher dose. If serious side effects emerges in a single patient in any dose level, 3 more patients will be enrolled to the same dose level. After 9 or more patients, we select the safest dose and recruit more patients for CART test to explore its effectiveness.||||
+32819988|NCT03884751|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32662433|NCT02937844|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32662451|NCT02937103|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32662504|NCT02935153|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32730635|NCT04156269|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32662809|NCT02919046|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32551726|NCT04605666|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32551729|NCT04531046|N/A|Single Group Assignment||Treatment||None (Open Label)||open-label, multicenter study||||
+32916214|NCT02443831|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32663905|NCT05415475|Non-Randomized|Parallel Assignment||Treatment||None (Open Label)||||||
+32664107|NCT05075603|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32916262|NCT05202782|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32664509|NCT03768310|Non-Randomized|Sequential Assignment||Treatment||None (Open Label)||||||
+32916329|NCT05191472|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32731706|NCT03741127|N/A|Single Group Assignment||Other||None (Open Label)||||||
+32731716|NCT03601078|Non-Randomized|Parallel Assignment||Treatment||None (Open Label)||||||
+32665223|NCT05022849|Non-Randomized|Sequential Assignment||Other||None (Open Label)||||||
+32665248|NCT04923893|Randomized|Parallel Assignment||Treatment||None (Open Label)||||||
+32665308|NCT04662099|N/A|Sequential Assignment||Treatment||None (Open Label)||||||
+32665407|NCT04181827|Randomized|Parallel Assignment||Treatment||None (Open Label)||||||
+32665415|NCT04133636|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32665584|NCT01430390|N/A|Single Group Assignment||Treatment||None (Open Label)||This is a phase I trial designed to identify tolerable and clinically active doses of allogeneic Epstein - Barr virus specific cytotoxic T lymphocytes (EBV-CTLs) genetically modified to target the B-cell antigen CD19 when administered to patients with CD19+||||
+32732066|NCT05286164|N/A|Single Group Assignment||Treatment||None (Open Label)||Patients with bone marrow aplasia for more than 3 weeks after CART administration will receive eltrombopag treatment at a dose of 150 mg for 8 weeks.||||
+32666079|NCT04723901|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32916789|NCT04219163|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32666725|NCT04655677|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32732618|NCT03614858|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32666772|NCT04653649|N/A|Single Group Assignment||Treatment||None (Open Label)||"Experimental: HSP-CAR30 (anti-CD30 CAR T cells)~Dose escalation phase:~Phase I:~Ten patients will be treated with HSP-CAR30 (anti-CD30 CAR T-cells) with an escalation approach to define maximum tolerated dose (MTD) from 3 x 106/kg to 10 x 106/kg.~Phase IIa:~Twenty patients will be treated with HSP-CAR30 at MTD to evaluate efficacy."||||
+32666774|NCT04653493|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32732659|NCT05064787|N/A|Single Group Assignment||Supportive Care||None (Open Label)||A single cohort of 50 individuals receiving chimeric antigen receptor T cell therapy will be enrolled in the study, all of which will be enrolled in a 6-month digital health coaching program. Individuals will be enrolled from a single site, The University of Texas MD Anderson Cancer Center.||||
+32666822|NCT04650724|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32703438|NCT05625594|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32666874|NCT04637503|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32666889|NCT04637269|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32553129|NCT05621096|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32732991|NCT04712864|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32820354|NCT03563326|Non-Randomized|Parallel Assignment||Treatment||None (Open Label)||||||
+32917186|NCT05206357|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32733734|NCT03617198|Randomized|Parallel Assignment||Treatment||None (Open Label)||||||
+32733755|NCT02844062|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32917284|NCT04577326|N/A|Single Group Assignment||Treatment||None (Open Label)||This is a phase I dose-escalation trial.||||
+32917383|NCT03792633|Non-Randomized|Parallel Assignment||Treatment||None (Open Label)||||||
+32703491|NCT05352542|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32734313|NCT04237428|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32669252|NCT04666168|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32669273|NCT04665076|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32669361|NCT04661020|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32669660|NCT04626739|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32553931|NCT05070156|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32553942|NCT05013372|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32670072|NCT04610125|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32553949|NCT04214886|Non-Randomized|Sequential Assignment||Treatment||None (Open Label)||Autologous peripheral blood mononuclear cell (PBMC) will be obtained by leukapheresis over one day. Daily intravenous (IV) infusion of fludarabine and cyclophosphamide for total of 3 days (Days -5, -4, -3). The dose of cyclophosphamide will be given at 500mg/m2. The dose of fludarabine will be given at 30mg/m2. CD19-CD34 CAR transduced T cells administration will follow a Phase I dose escalation design. Each Cohort will start will with the goal of accruing three participants to determine the dose limiting toxicities. Once the maximum tolerated dose is established, an expansion cohort will be treated to include a total of 6 participants.||||
+32553967|NCT05621486|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32670402|NCT04594135|N/A|Sequential Assignment||Treatment||None (Open Label)||||||
+32670498|NCT04213469|N/A|Sequential Assignment||Treatment||None (Open Label)||Patients will receive one of the three doses of 2*10^6/kg, 4*10^6/kg,6*10^6/kg.||||
+32734795|NCT05627323|Non-Randomized|Parallel Assignment||Treatment||None (Open Label)||Two dose levels investigated, with both dose levels proceeding in parallel. Expansion or de-escalation decision rules are based on a traditional 3+3 clinical study design.||||
+32734907|NCT05117008|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32734928|NCT04984356|N/A|Sequential Assignment||Treatment||None (Open Label)||"There are two parts to this study. Phase 1 will comprise of Dose Escalation, and Phase 2 Cohort Expansion.~Phase 1 will determine the safety and tolerability of a single dose of WU-CART-007 and define the RP2D.~The Cohort Expansion Phase, will further define the safety and evaluate the initial efficacy of WU-CART-007 at the dose established from the Phase 1 Dose Escalation segment."||||
+32671965|NCT04546906|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32672007|NCT04541368|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32735870|NCT05168748|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32672689|NCT04532281|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32672692|NCT04532203|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32673116|NCT04718883|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32736245|NCT02772198|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32918906|NCT03323944|Non-Randomized|Sequential Assignment||Treatment||None (Open Label)||||||
+32909055|NCT02107963|Non-Randomized|Sequential Assignment||Treatment||None (Open Label)||||||
+32919003|NCT04795882|Non-Randomized|Parallel Assignment||Treatment||None (Open Label)||Rolling 6 trial design||||
+32737409|NCT05659628|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32737443|NCT02537977|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32737505|NCT05379569|Randomized|Parallel Assignment||Treatment||None (Open Label)||||||
+32737763|NCT05382377|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32676635|NCT04715217|Non-Randomized|Sequential Assignment||Treatment||None (Open Label)||||||
+32676919|NCT04714827|Non-Randomized|Sequential Assignment||Treatment||None (Open Label)||||||
+32821223|NCT05103631|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32821224|NCT05094206|Non-Randomized|Sequential Assignment||Treatment||None (Open Label)||||||
+32737960|NCT05639972|N/A|Single Group Assignment||Treatment||None (Open Label)||This is a single-arm feasibility study.||||
+32677183|NCT04714593|Non-Randomized|Sequential Assignment||Treatment||None (Open Label)||According to the sequence from the low dose group to the high dose group||||
+32920225|NCT03497819|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32821297|NCT04633148|N/A|Sequential Assignment||Treatment||None (Open Label)||Initial dose escalation followed an adaptive design. Further dose escalation includes 2 additional TMpPSMA dose levels and follows a 3+3 design.||||
+32821321|NCT04464200|N/A|Single Group Assignment||Treatment||None (Open Label)||This is a standard phase I open-label dose-escalation trial. Cohorts of 3-6 patients will be infused with escalating doses of 19(T2)28z1XX CAR T cells to establish the MTD. There are 4 planned dose levels with one additional de-escalation dose level. A 3+3 design will be used to establish the RP2D. Once the RP2D is determined, the study will open to Dose Expansion phase and up to 12 patients with B-cell non-Hodgkin lymphoma (same eligibility criteria as the dose-escalation phase).||||
+32821323|NCT04442022|Randomized|Sequential Assignment||Treatment||Double|Phase 2 Portion of the Study: open label; Phase 3 Portion of the Study: double blinded||t||t|
+32826316|NCT02259556|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32555963|NCT05431608|Non-Randomized|Factorial Assignment||Treatment||None (Open Label)||||||
+32555975|NCT05397496|Non-Randomized|Sequential Assignment||Treatment||None (Open Label)||||||
+32738756|NCT05588440|Non-Randomized|Sequential Assignment||Treatment||None (Open Label)||||||
+32678657|NCT03271515|Randomized|Parallel Assignment||Treatment||None (Open Label)||||||
+32678727|NCT03271632|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32678968|NCT04702841|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32921141|NCT01865617|Non-Randomized|Single Group Assignment||Treatment||None (Open Label)||||||
+32703786|NCT00840853|Non-Randomized|Single Group Assignment||Treatment||None (Open Label)||||||
+32921427|NCT05320081|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32921487|NCT04938115|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32679672|NCT04700319|N/A|Single Group Assignment||Prevention||None (Open Label)||||||
+32821348|NCT04196491|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32921670|NCT03593109|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32740097|NCT05172596|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32680135|NCT02893189|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32821400|NCT03448393|Non-Randomized|Sequential Assignment||Treatment||None (Open Label)||||||
+32921934|NCT04928105|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32681261|NCT04516551|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32681289|NCT04324996|Randomized|Parallel Assignment||Treatment||Quadruple|||t|t|t|t
+32681456|NCT04513431|N/A|Single Group Assignment||Prevention||None (Open Label)||||||
+32681648|NCT05639179|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32557214|NCT02663297|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32557234|NCT02159495|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32682128|NCT02954445|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32682207|NCT02274584|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32741716|NCT03666000|Non-Randomized|Sequential Assignment||Treatment||None (Open Label)||"In each cohort (NHL and B-ALL), up to 6 dose levels will be enrolled and treated sequentially. Within each dose level, up to 6 subjects will be treated with PBCAR0191 using a standard 3 + 3 design. The starting dose of PBCAR0191 will be 3 × 10^5 CAR T cells/kg body weight. Subsequent dose groups will be treated with escalating doses to a maximum dose of 9 × 10^6 CAR T cells/kg. In the absence of DLTs, the dose will be increased using a fixed dose scheme.~Additionally, an expansion cohort is introduced into Phase 1 of the protocol to assess safety, tolerability, and clinical benefit of PBCAR0191 treatment regimens in subjects with aggressive CD19+ r/r B-cell NHLs treated with an autologous CAR T product that failed to achieve durable treatment response."||||
+32742391|NCT04185038|Non-Randomized|Parallel Assignment||Treatment||None (Open Label)||||||
+32682963|NCT05143151|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32682966|NCT05143112|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32742559|NCT02723942|Randomized|Parallel Assignment||Treatment||None (Open Label)||||||
+32742562|NCT05015972|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32742579|NCT02715362|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32683122|NCT05149391|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32683199|NCT04692948|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32557959|NCT03013712|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32922958|NCT04412889|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32742854|NCT02706782|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32683455|NCT04691349|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32923002|NCT04447573|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32743054|NCT04154709|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32743172|NCT05344664|N/A|Single Group Assignment||Treatment||Single|||t|||
+32923335|NCT03904069|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32923392|NCT04506983|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32923507|NCT03380039|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32923755|NCT03383965|N/A|Single Group Assignment||Treatment||None (Open Label)|None (Open Label)|||||
+32685023|NCT05594797|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32685041|NCT02933775|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32685109|NCT05467254|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32744308|NCT04033302|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32685327|NCT05467202|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32924049|NCT05127135|N/A|Sequential Assignment||Treatment||None (Open Label)||||||
+32558563|NCT05544526|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32744892|NCT04169022|Non-Randomized|Parallel Assignment||Screening||None (Open Label)||||||
+32744903|NCT04186052|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32685891|NCT04206943|Non-Randomized|Parallel Assignment||Treatment||None (Open Label)||||||
+32924249|NCT03349255|Non-Randomized|Sequential Assignment||Treatment||None (Open Label)||||||
+32686024|NCT05562024|N/A|Single Group Assignment||Treatment||None (Open Label)||Single group of qualified subjects used TAA06 injection||||
+32745397|NCT04184414|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32745448|NCT02813837|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32745777|NCT05652920|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32745790|NCT04236011|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32745947|NCT02794961|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32558770|NCT03602612|Non-Randomized|Sequential Assignment||Treatment||None (Open Label)||||||
+32924685|NCT05430945|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32925204|NCT03322735|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32925900|NCT03312205|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32926037|NCT05044039|Non-Randomized|Sequential Assignment||Treatment||None (Open Label)||||||
+32822059|NCT03287804|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32747380|NCT02765243|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32926432|NCT03281551|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32687974|NCT05664217|Randomized|Sequential Assignment||Treatment||Quadruple|This is a double-blinded study. The Investigator, the patients, and all study site and Nektar personnel involved in study activities, other than those involved in dispensing the study drugs, conducting PK, PD sample analyses, and personnel supporting unblinded monitoring for drug accountability, must remain blinded to each patient's treatment assignment.|The study is conducted in two stages, with routine safety monitoring being conducted by the Data Monitoring Committee (DMC) on a regular basis. An enrollment pause will be implemented at the end of Stage 1 (ie, after approximately 56 patients are randomized), and the DMC will review safety and efficacy data from all available cohorts to make go/no-go and dose selection recommendations for Stage 2. The study team will be unblinded at the end of Stage 1 to review totality of the data including efficacy, safety, PK, and PD data before the study proceeds to Stage 2. The protocol will be updated with, at least, an identification of the selected dose and its justification prior to Stage 2 activation.|t|t|t|t
+32687998|NCT05621291|N/A|Single Group Assignment||Diagnostic||None (Open Label)||||||
+32926548|NCT03356795|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32688201|NCT04960579|Non-Randomized|Single Group Assignment||Treatment||None (Open Label)||||||
+32688265|NCT04637763|Non-Randomized|Single Group Assignment||Treatment||None (Open Label)||"The CB10A clinical study consists of (Part A) 3 + 3 design with three dose levels.~(Part B) Expansion portion patients will receive CB-010 at the dose determined in Part A."||||
+32688289|NCT04530565|Randomized|Crossover Assignment||Treatment||None (Open Label)||||||
+32688357|NCT04099797|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32688363|NCT04013802|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32559546|NCT02050347|Non-Randomized|Parallel Assignment||Treatment||None (Open Label)||||||
+32688465|NCT02830724|Non-Randomized|Sequential Assignment||Treatment||None (Open Label)||||||
+32688804|NCT04639739|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32942484|NCT04981691|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32559721|NCT03287817|N/A|Single Group Assignment||Treatment||None (Open Label)||A dose escalation and expansion phase (Phase I) followed by Phase II||||
+32748602|NCT02735291|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32559844|NCT05445765|N/A|Sequential Assignment||Treatment||None (Open Label)||||||
+32689425|NCT02930993|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32748736|NCT02737085|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32927040|NCT04500431|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32690160|NCT04670055|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32749127|NCT02721407|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32690252|NCT04657965|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32690254|NCT04658004|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32927103|NCT03121625|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32690357|NCT04665063|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32822971|NCT03767751|Non-Randomized|Single Group Assignment||Treatment||None (Open Label)||||||
+32927284|NCT03344705|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32749476|NCT05260957|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32560463|NCT05141253|N/A|Single Group Assignment||Treatment||None (Open Label)||"The study is a single center, open label, non-controlled, exploratory study. The 3+3 dose escalation design will be implemented to evaluate the safety and tolerability of RD133 in the treatment of subjects with relapsed/refractory MSLN-positive solid tumors."||||
+32927833|NCT05016063|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32749737|NCT04162340|N/A|Sequential Assignment||Treatment||None (Open Label)||Dose escalation phase: CD4 CAR T cells transduced with a lentiviral vector to express CD4 chimeric receptor domain on T cells with an escalation approach, 2e6 to 5e6 CAR-T cells/kg||||
+32928214|NCT03076437|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32749855|NCT03999697|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32691153|NCT04638270|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32823312|NCT03751293|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32749964|NCT05263817|Non-Randomized|Single Group Assignment||Treatment||None (Open Label)||||||
+32691332|NCT03455972|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32929658|NCT05179603|Non-Randomized|Parallel Assignment||Treatment||None (Open Label)||||||
+32929682|NCT03283631|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32691580|NCT04627740|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32691616|NCT04626765|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32691624|NCT04626726|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32929807|NCT03267173|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32691748|NCT02903810|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32929887|NCT03258047|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32930026|NCT04966143|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32930697|NCT04430595|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32930897|NCT04864821|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32692122|NCT04890236|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32561322|NCT03029273|N/A|Single Group Assignment||Treatment||None (Open Label)||"One arm, open label, dose escalation, single dose phase I study of safety and tolerability.~NYESO-1 TCR-T cell are prepared via lentiviral infection. DLT was administered in a dose escalation test according to the 3 + 3 design. Seven days prior to infusion of TCR-T cell, subjects receive cytoreductive chemotherapy with cyclophosphamide (250-500mg/m2/day) plus fludarabine (25mg/m2/day) for 3 days.~Patients, who receive an infusion of TAEST16001, will remain in the hospital to be monitored for adverse events until they have recovered from the treatment.~Patients will have frequent follow-up visit to monitor the persistence of modified T cells and efficacy of the treatment."||||
+32692418|NCT04601181|N/A|Single Group Assignment||Treatment||None (Open Label)||Sequential Assignment||||
+32692480|NCT04599543|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32823789|NCT04077866|Randomized|Parallel Assignment||Treatment||None (Open Label)||||||
+32931429|NCT04853277|N/A|Single Group Assignment||Prevention||None (Open Label)||||||
+32750575|NCT02617134|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32931790|NCT03232619|Randomized|Parallel Assignment||Treatment||None (Open Label)||Enrolled patients will receive CD19-CART cell immunotherapy.||||
+32931840|NCT04792593|N/A|Single Group Assignment||Treatment||None (Open Label)|Open Label|Single Group Assignment||||
+32931909|NCT05473221|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32932085|NCT04745559|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32750867|NCT04156178|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32932118|NCT05554575|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32932120|NCT01318317|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32932133|NCT04325841|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32932270|NCT05538195|Non-Randomized|Parallel Assignment||Treatment||None (Open Label)||||||
+32561655|NCT04499573|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32692810|NCT04603872|Randomized|Parallel Assignment||Treatment||Single|||t|||
+32692826|NCT04626908|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32942654|NCT05106907|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32692832|NCT04626752|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32933154|NCT05515185|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32933180|NCT05514327|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32933272|NCT03173417|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32751358|NCT04151186|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32693169|NCT04617704|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32933629|NCT04280133|Randomized|Parallel Assignment||Supportive Care||None (Open Label)||||||
+32562078|NCT04351022|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32562164|NCT04835519|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32693558|NCT04595162|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32934140|NCT05422521|N/A|Single Group Assignment||Basic Science||None (Open Label)||||||
+32751886|NCT02624258|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32824283|NCT05268172|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32694359|NCT04609241|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32935201|NCT03191773|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32935397|NCT03182803|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32935721|NCT05385263|N/A|Single Group Assignment||Treatment||None (Open Label)||All patients enrolled to this study with DLBCL in SD/PD at time of lymphodepletion will be given nivolumab ( 3mg/kg IV) on day +5 Patients with CAR-T expansion<100 cells/microL on day +7 will be given 1 additional dose of nivolumab (3mg/kg IV) on day +19 (two weeks after first dose of nivolumab).||||
+32935800|NCT05085431|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32694994|NCT04572308|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32936205|NCT04846439|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32936258|NCT02659943|Non-Randomized|Sequential Assignment||Treatment||None (Open Label)||||||
+32695343|NCT04991948|N/A|Sequential Assignment||Treatment||None (Open Label)||||||
+32752368|NCT04182581|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32936448|NCT05017883|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32695554|NCT04546893|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32695618|NCT04539444|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32563180|NCT02959151|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32695875|NCT04532268|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32563291|NCT05362331|N/A|Single Group Assignment||Health Services Research||None (Open Label)||||||
+32696071|NCT04553393|Randomized|Parallel Assignment||Treatment||None (Open Label)||||||
+32696213|NCT04550663|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32752612|NCT02672501|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32563821|NCT04827745|Non-Randomized|Parallel Assignment||Treatment||None (Open Label)||"Cohort A: Subjects with R/R CD19-positive MPAL~CohortB: Subjects with CD19-positive MPAL in complete remission and detectable MRD"||||
+32937293|NCT05131763|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32937325|NCT05097443|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32563929|NCT02445222|N/A|Single Group Assignment||Other||None (Open Label)||||||
+32563968|NCT02976857|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32564049|NCT04003649|Randomized|Parallel Assignment||Treatment||None (Open Label)||||||
+32696676|NCT04537442|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32564135|NCT02975687|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32696865|NCT04534634|Randomized|Parallel Assignment||Treatment||None (Open Label)||||||
+32937839|NCT03090659|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32937953|NCT05302037|Non-Randomized|Sequential Assignment||Treatment||None (Open Label)||||||
+32564615|NCT03430011|Non-Randomized|Single Group Assignment||Treatment||None (Open Label)||||||
+32697709|NCT03853616|Non-Randomized|Sequential Assignment||Treatment||None (Open Label)||||||
+32753117|NCT02644655|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32565736|NCT04740203|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32939385|NCT05633615|Randomized|Parallel Assignment||Treatment||None (Open Label)||||||
+32939394|NCT05587543|Non-Randomized|Parallel Assignment||Treatment||None (Open Label)||CAR-T、TCR-T||||
+32565827|NCT00586391|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32565974|NCT05445011|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32939636|NCT02442297|Non-Randomized|Parallel Assignment||Treatment||None (Open Label)||||||
+32753436|NCT04160195|Non-Randomized|Sequential Assignment||Treatment||None (Open Label)||||||
+32566393|NCT05326243|N/A|Single Group Assignment||Treatment||None (Open Label)||"This study is a multiple-center, non-randomized, open-label, phase 1/2 study. Lymphodepletion chemotherapy (intravenous infusion of fludarabine plus cyclophosphamide will be administered for 3 consecutive days before the day of PL001 dosing (Day 0) and should take place within Day -5 to Day -3 (a safe window for a small subset of patients will be D -7 to D -3). This study will test two dose levels of PL001, dose level 1 and dose level 2. In Phase 1, doses will be tested in the modified 3 + 3 design initiating with dose level 1. The primary objective of Phase 1 is to assess the safety of PL001 and find the recommended phase 2 dose. Phase 2 expansion cohort will receive PL001 at the recommended dose determined in Phase 1. Efficacy evaluations using computed tomography (CT) and positron emission tomography (PET) will be performed at 1, 3, 6, 9, and 12 months."||||
+32940323|NCT05623488|Non-Randomized|Sequential Assignment||Treatment||None (Open Label)||||||
+32566934|NCT03019055|Non-Randomized|Sequential Assignment||Treatment||None (Open Label)||"The study is divided into two phases. Phase 1 and Phase 1b. Phase 1: consists of 2 cohorts; dose escalation and dose expansion. The CAR-T cells were given over 2 days.~In the phase 1 portion, there will be a dose escalation cohort to determine the safe CAR-20/19-T cell dose in patients with CLL/SLL and NHL. Once the desired dose has been identified there will be a 6 patient dose expansion phase at the specified dose level.~Phase 1b: In the Phase 1b portion of the study, we will test the safety of unfractionated CAR-T cells utilizing the safe dose identified in the phase 1 portion (2.5 x 10^6 cells/kg)."||||
+32940402|NCT05457010|N/A|Sequential Assignment||Treatment||None (Open Label)||||||
+32940405|NCT05454241|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32940410|NCT05442580|Non-Randomized|Parallel Assignment||Treatment||None (Open Label)||"Three dose levels of CART-38 cells will be evaluated using a 3+3 dose escalation design in two parallel disease cohorts as follows:~Cohort A: Relapsed/Refractory Acute Myeloid Leukemia (AML)~Cohort B: Multiple Myeloma (MM)"||||
+32940417|NCT05432635|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32940648|NCT04877613|Non-Randomized|Sequential Assignment||Health Services Research||None (Open Label)||The is a Phase I dose finding study to determine the safety of CART-GFRa4 cells. Dose escalation and determination of maximum tolerated dose (MTD) will be based on the standard 3+3 design to explore 3 possible dose levels.||||
+32940752|NCT04499339|N/A|Sequential Assignment||Treatment||None (Open Label)||||||
+32940757|NCT04484012|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32941003|NCT03585764|Non-Randomized|Sequential Assignment||Treatment||None (Open Label)||||||
+32941013|NCT03549442|Randomized|Parallel Assignment||Basic Science||None (Open Label)||Three separate phases. Phases A and C are non-randomized, Phase B is randomized||||
+32941052|NCT03288493|Non-Randomized|Sequential Assignment||Treatment||None (Open Label)||Phase 1: open label, 3 + 3 design of dose-escalating cohorts Phase 2: open label, administered as a total dose||||
+32941092|NCT03054298|Non-Randomized|Parallel Assignment||Treatment||None (Open Label)||||||
+32941102|NCT02935543|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32941165|NCT02277522|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32700621|NCT04322292|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32941174|NCT02030847|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32941184|NCT01837602|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32700898|NCT01218867|Non-Randomized|Parallel Assignment||Treatment||None (Open Label)||||||
+32753806|NCT05096234|N/A|Single Group Assignment||Diagnostic||None (Open Label)||||||
+32701141|NCT04317885|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32568304|NCT05620342|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32568597|NCT05257083|Randomized|Parallel Assignment||Treatment||None (Open Label)||||||
+32568765|NCT05032820|N/A|Single Group Assignment||Treatment||None (Open Label)||Assess anti-B Cell Maturation Antigen(BCMA) chimeric antigen receptor (CAR) T-cells (bb2121) to improve post autologous hematopoietic cell transplant (HCT) responses among patients with multiple myeloma (MM).||||
+32568787|NCT05000450|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32568865|NCT04855136|Non-Randomized|Parallel Assignment||Treatment||None (Open Label)||||||
+32754242|NCT04153799|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32568887|NCT04792489|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32569047|NCT04467853|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32569181|NCT04093596|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32754652|NCT05574114|N/A|Sequential Assignment||Treatment||None (Open Label)||This is a single arm, Phase I trial designed to describe the feasibility and safety of a standardized, stage-adapted, split-course BRT regimen prior to standard of care, commercial anti-CD19 CAR T-cell therapy. This design incorporates a small early safety cohort with the option for a potential patient expansion cohort.||||
+32701728|NCT02792114|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32754657|NCT05535855|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32569501|NCT02690545|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32754746|NCT05010564|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32754798|NCT04555551|N/A|Single Group Assignment||Treatment||None (Open Label)||This phase I trial will follow a standard 3-by-3 dose escalation design.||||
+32569920|NCT05577091|N/A|Single Group Assignment||Treatment||None (Open Label)||Recipients with Ommaya reservoir implanted will be assigned to three courses. Arm A: Two patients, 1×10^7 autologous Tris-CAR-T, 1 dose. Arm B: Two patients 1×10^8 autologous Tris-CAR-T, 1 dose. Arm C: Two patients 5×10^7 autologous Tris-CAR-T, maximum 8 doses.||||
+32573843|NCT02650999|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32570766|NCT05312411|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32570827|NCT05105152|N/A|Single Group Assignment||Treatment||None (Open Label)||Phase I open-label, dose-finding study employing the Bayesian optimal interval (BOIN) design||||
+32570963|NCT04571138|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32570999|NCT04450069|N/A|Sequential Assignment||Treatment||None (Open Label)||||||
+32755533|NCT05298995|Non-Randomized|Single Group Assignment||Treatment||None (Open Label)||||||
+32571167|NCT03684889|Non-Randomized|Single Group Assignment||Treatment||None (Open Label)||||||
+32571234|NCT03330691|Non-Randomized|Single Group Assignment||Treatment||None (Open Label)||||||
+32571246|NCT03244306|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32571254|NCT03186118|Non-Randomized|Parallel Assignment||Treatment||None (Open Label)||Subjects are assessed during the parent study for total CD 19 load in bone marrow. Participants meeting eligibility criteria are transitioned into one of 3 arms in PLAT-03.||||
+32571348|NCT02028455|Non-Randomized|Sequential Assignment||Treatment||None (Open Label)||||||
+32571369|NCT01683279|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32571439|NCT03994705|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32702636|NCT04264039|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32571592|NCT05651100|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32571812|NCT05416554|N/A|Single Group Assignment||Supportive Care||None (Open Label)||||||
+32757990|NCT04094766|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32702994|NCT04844866|Randomized|Parallel Assignment||Treatment||None (Open Label)||unblinded 1:1 randomization into IMP or SoC||||
+32702998|NCT04815356|Non-Randomized|Sequential Assignment||Treatment||None (Open Label)||||||
+32703032|NCT04483778|Non-Randomized|Sequential Assignment||Treatment||None (Open Label)||||||
+32574018|NCT05436223|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32540207|NCT00085930|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32826709|NCT05239676|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32574354|NCT04186520|Non-Randomized|Sequential Assignment||Treatment||None (Open Label)||||||
+32574493|NCT05349266|Non-Randomized|Sequential Assignment||Treatment||None (Open Label)||||||
+32574504|NCT05336383|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32574565|NCT04337606|Randomized|Single Group Assignment||Treatment||None (Open Label)||||||
+32758955|NCT05325801|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32574695|NCT04336501|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32759141|NCT02587689|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32943314|NCT04436029|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32943373|NCT05123209|Non-Randomized|Sequential Assignment||Treatment||None (Open Label)||||||
+32759526|NCT02580747|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32705417|NCT02862028|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32705637|NCT05199961|N/A|Single Group Assignment||Supportive Care||None (Open Label)||A single cohort of up to 100 individuals receiving chimeric antigen receptor T cell therapy will be enrolled in the study, all of which will be enrolled in a 6-month digital health coaching program. Individuals will be enrolled at The Ohio State University Comprehensive Cancer Center.||||
+32705792|NCT05654077|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32827389|NCT01109095|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32706400|NCT02782351|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32760972|NCT03740256|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32706449|NCT05340829|Non-Randomized|Sequential Assignment||Treatment||None (Open Label)||||||
+32706509|NCT04975555|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32706547|NCT04226989|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32827880|NCT05371093|Randomized|Parallel Assignment||Treatment||None (Open Label)||||||
+32827882|NCT05364424|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32827969|NCT04989803|N/A|Sequential Assignment||Treatment||None (Open Label)||||||
+32827991|NCT04897321|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32828094|NCT04196413|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32762304|NCT02631044|Non-Randomized|Parallel Assignment||Treatment||None (Open Label)||||||
+32599168|NCT03098355|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32944552|NCT04429451|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32762987|NCT04067414||Sequential Assignment||Treatment||None (Open Label)||A treatment program will include lymphodepleting chemotherapy with fludarabine and cyclophosphamide (flu/cy) followed by single-dose of BZ019 administered intravenously (IV). A 3×3 dose escalation design of BZ019 will be adopted.||||
+32707585|NCT04860817|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32763536|NCT04561557|Non-Randomized|Sequential Assignment||Treatment||None (Open Label)||||||
+32708250|NCT05323201|N/A|Sequential Assignment||Treatment||None (Open Label)||||||
+32944792|NCT05043571|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32765284|NCT00889954|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32765356|NCT04037566|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32765367|NCT02541370|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32944976|NCT05030779|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32829792|NCT03874897|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32829896|NCT03929107|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32708858|NCT04264078|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32767249|NCT05350852|Non-Randomized|Sequential Assignment||Treatment||None (Open Label)||||||
+32767310|NCT03825718|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32830979|NCT05155189|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32831076|NCT00924326|Non-Randomized|Sequential Assignment||Treatment||None (Open Label)||||||
+32768000|NCT05201781|N/A|Single Group Assignment||Other||None (Open Label)||||||
+32945325|NCT05290155|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32831539|NCT03483688|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32709546|NCT04205838|N/A|Single Group Assignment||Prevention||None (Open Label)||||||
+32527472|NCT04191941|N/A|Single Group Assignment||Treatment||None (Open Label)||Novel CAR-T Cell Therapy||||
+32768707|NCT04008394|N/A|Single Group Assignment||Treatment||None (Open Label)||Single-center,Open,One-arm Clinical Study||||
+32831927|NCT03716856|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32831960|NCT03902197|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32768848|NCT05277987|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32768997|NCT04048434|Randomized|Parallel Assignment||Treatment||Single|||t|||
+32502672|NCT04410900|Non-Randomized|Parallel Assignment||Prevention||None (Open Label)||||||
+32769281|NCT05306080|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32832271|NCT03881761|N/A|Single Group Assignment||Treatment||None (Open Label)||transfusion of CD19/CD20 bispecific CAR-T cells 24-72 hours after completion of FC regimen pretreatment||||
+32502730|NCT04025216|Non-Randomized|Sequential Assignment||Treatment||None (Open Label)||Parallel arms with sequential dose escalation||||
+32710093|NCT04844086|N/A|Single Group Assignment||Treatment||None (Open Label)||3+3 dose escalation||||
+32945567|NCT05281809|N/A|Single Group Assignment||Treatment||None (Open Label)||administration of locally manufactured cd19-targeted CAR T-cells||||
+32945611|NCT04796441|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32945618|NCT04796675|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32945622|NCT04803929|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32945648|NCT04785833|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32833007|NCT03711864|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32770772|NCT04003168|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32710582|NCT05252572|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32945829|NCT05199519|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32945855|NCT04790747|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32771692|NCT03573700|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32834067|NCT05470777|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32834323|NCT04257175|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32834416|NCT03931421|N/A|Single Group Assignment||Treatment||None (Open Label)|It's an open-label trial.|In this trial, T cells were seperated from refractory/relapsed multiple myeloma patients and engineered into BMCA-targeted CAR-T cells, and then transfused back into the patients for the treatment of their multiple myeloma.||||
+32711142|NCT02846584|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32834445|NCT04823091|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32772383|NCT02547948|Randomized|Parallel Assignment||Treatment||None (Open Label)||||||
+32711231|NCT00902044|Non-Randomized|Single Group Assignment||Treatment||None (Open Label)||||||
+32772398|NCT04010877|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32711346|NCT02842138|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32772714|NCT04119024|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32834845|NCT03814447|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32834863|NCT05164042|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32711615|NCT04156243|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32773010|NCT04089215|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32835012|NCT03815383|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32503294|NCT05650749|Non-Randomized|Sequential Assignment||Treatment||None (Open Label)||||||
+32946029|NCT05474885|N/A|Sequential Assignment||Treatment||None (Open Label)||||||
+32711847|NCT05016778|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32577055|NCT04816526|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32503367|NCT05480449|Non-Randomized|Sequential Assignment||Treatment||None (Open Label)||||||
+32835698|NCT05176275|N/A|Single Group Assignment||Diagnostic||None (Open Label)||||||
+32946161|NCT04433221|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32835821|NCT03790891|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32712154|NCT02822326|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32836032|NCT05438368|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32836049|NCT05234190|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32774515|NCT04085159|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32774549|NCT04696731|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32946279|NCT05412329|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32836289|NCT03706326|Randomized|Parallel Assignment||Treatment||Single|||t|||
+32774768|NCT04004637|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32836500|NCT03064269|N/A|Single Group Assignment||Treatment||None (Open Label)|Open Label|||||
+32774830|NCT05277753|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32503568|NCT04789408|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32774919|NCT05590221|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32775751|NCT05546723|N/A|Sequential Assignment||Treatment||None (Open Label)||Open label, dose escalation study with up to four dose levels of LMY-920. The maximum tolerated dose (MTD) of LMY-920 will be determined using dose-escalation 3+3 design.||||
+32775827|NCT05388695|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32775855|NCT05312801|N/A|Sequential Assignment||Treatment||None (Open Label)||"Open label, dose escalation study.~Dose Levels~1 x 10 million BAFF+ CAR cells/kg~2 x 10 million BAFF+ CAR cells/kg~4 x 10 million BAFF+ CAR cells/kg~8 x 10 million BAFF+ CAR cells/kg"||||
+32540321|NCT04766840|N/A|Sequential Assignment||Treatment||None (Open Label)||||||
+32946551|NCT04977193|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32837013|NCT04903080|Non-Randomized|Parallel Assignment||Treatment||None (Open Label)||This study includes two groups: a safety cohort and a surgical cohort.||||
+32577478|NCT05531708|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32577494|NCT05513612|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32837136|NCT03767725|N/A|Single Group Assignment||Treatment||None (Open Label)||Anti-BCMA or/and Anti-CD19 CAR Autologous T Cells||||
+32837202|NCT03916679|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32776785|NCT02664363|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32503650|NCT04318678|N/A|Single Group Assignment||Treatment||None (Open Label)||Due to review of dose limiting toxicity.||||
+32776989|NCT03958656|Non-Randomized|Sequential Assignment||Treatment||None (Open Label)||||||
+32837581|NCT04697290|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32946867|NCT04951141|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32946962|NCT03060343|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32503732|NCT03829540|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32714070|NCT04204161|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32837837|NCT03289455|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32778342|NCT03851146|N/A|Sequential Assignment||Treatment||None (Open Label)||"The study will employ dose level cohorts of three patients that will be treated at each level described in Table 1, based on the number of T cells to be infused using the 3 + 3 dose-escalation strategy. If the proposed number of T cells is unable to be obtained due to technical production reasons, the available number will be infused. However, the cohort will only be escalated when a minimum of three patients have been safely treated at the planned level.~The fourth cohort dose level has been set according to the maximum level considered to be feasible taking into account technical constraints. The study will be expanded to accrue additional patients at the MTD (expansion phase cohort) with an expansion cohort of upto 20 patients. For technical and logistic reasons the maximum number of patients to be enrolled on the study will be 30."||||
+32838039|NCT05275062|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32779294|NCT04082910|Non-Randomized|Parallel Assignment||Treatment||None (Open Label)||||||
+32504249|NCT01460901|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32504267|NCT04888468|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32504289|NCT04556266|Non-Randomized|Sequential Assignment||Treatment||None (Open Label)||||||
+32714567|NCT02728882|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32714711|NCT02713984|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32948398|NCT04427449|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32948403|NCT04812691|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32948475|NCT04787263|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32948553|NCT04340167|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32948592|NCT04134325|Non-Randomized|Parallel Assignment||Treatment||None (Open Label)||||||
+32948829|NCT05535673|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32715152|NCT05333302|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32780466|NCT04007978|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32949239|NCT04892277|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32949431|NCT05528887|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32949510|NCT05523661|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32505038|NCT04196205|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32875556|NCT04850560|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32949982|NCT05478343|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32716224|NCT02685670|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32781939|NCT04045847|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32839396|NCT05181501|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32950340|NCT05480501|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32950388|NCT05472857|N/A|Single Group Assignment||Treatment||None (Open Label)||Accelerated titration and Bayesian optimal interval design (BION) dose escalation design||||
+32950440|NCT05477927|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32505758|NCT02992834|Randomized|Parallel Assignment||Treatment||None (Open Label)||||||
+32840214|NCT03370198|Non-Randomized|Sequential Assignment||Treatment||None (Open Label)||There will be a hepatic transarterial administration of NKR-2 every 2 weeks for a total of 3 administrations within 4 weeks (28 days). Three dose-level will be assessed (dose escalation with 3 dose-levels or 3 cohorts).||||
+32716813|NCT04169932|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32951127|NCT04973527|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32840420|NCT03356782|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32840483|NCT05239689|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32840665|NCT04503538|N/A|Single Group Assignment||Supportive Care||None (Open Label)||||||
+32951435|NCT05421663|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32717038|NCT02652910|Non-Randomized|Parallel Assignment||Treatment||None (Open Label)||||||
+32951501|NCT04840875|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32506126|NCT03159819|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32784170|NCT05225831|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32717496|NCT04163302|N/A|Single Group Assignment||Treatment||None (Open Label)||This study was a single-center, open-label, single-arm, non-randomized clinical trial, which was divided in 3 groups by different infusion dose level. Firstly, each dose group has 3 patients. The pretreatment regimen of cyclophosphamide (25mg/m2 for 3 consecutive days) and fludarabine (10mg/kg for 3 consecutive days) was given before CART cells were reinfused. CART cells were reinfused on the third day after the pretreatment. If no serious side effects emerges in the group, then the next group uses the subsequent higher dose. If serious side effects emerges in a single patients in any dose level, 3 more patients will be enrolled to the same dose level. After 9 or more patients, the investigators select the safest dose and recruit more patients for CART test to explore its effectiveness.||||
+32717558|NCT04289220|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32952464|NCT04219319|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32841629|NCT03840317|Randomized|Parallel Assignment||Treatment||Quadruple|||t|t|t|t
+32952806|NCT04599556|Non-Randomized|Single Group Assignment||Treatment||None (Open Label)||||||
+32542031|NCT03086954|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32784802|NCT05393986|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32842629|NCT03811457|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32506828|NCT03696784|Non-Randomized|Single Group Assignment||Treatment||None (Open Label)||||||
+32953591|NCT02348216|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32842833|NCT05463640|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32785112|NCT05458297|Randomized|Parallel Assignment||Treatment||None (Open Label)||||||
+32842910|NCT03798509|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32785130|NCT05377827|Non-Randomized|Sequential Assignment||Treatment||None (Open Label)||Two cohorts (AML and T-NHL) will enroll and be treated independently in Part A. Patients in each cohort will be treated following an accelerated titration 3+3 design, meaning that one patient will be treated at a dose level with continued escalation until a DLT is observed, at which point a traditional 3+3 design will be triggered in that cohort moving forward. Upon confirmation of the recommended phase 2 dose (RP2D) for either cohort, enrollment to Part B of the study for that cohort will commence.||||
+32785134|NCT05353530|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32506985|NCT05312476|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32785184|NCT05081479|Non-Randomized|Sequential Assignment||Treatment||None (Open Label)||||||
+32843010|NCT03799913|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32785224|NCT04778579|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32785278|NCT04404660|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32507055|NCT04088890|Non-Randomized|Parallel Assignment||Treatment||None (Open Label)||||||
+32954260|NCT03994913|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32785388|NCT03144583|N/A|Single Group Assignment||Other||None (Open Label)|Open label|||||
+32843333|NCT03720457|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32954392|NCT04136275|Non-Randomized|Parallel Assignment||Treatment||None (Open Label)||||||
+32785628|NCT04696432|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32785635|NCT04648046|Non-Randomized|Sequential Assignment||Treatment||None (Open Label)||The clinical trial is an open-label dose escalating phase I/IIa study of autologous T cells expressing LVgp120duoCAR molecules that target and kill HIV-1 gp120 expressing cells. Participants will be enrolled sequentially in up to three sequentially enrolled cohorts in a 3+3 design. Dose escalation decisions will be made when a minimum of three participants have completed the safety-evaluation period (45 days) at a given dose level. No dose escalation will be allowed in an individual participant, and participants who have dose limiting adverse events will reinstate ART therapy at first available opportunity. There are 3 dose escalation cohorts with the first 3 participants starting at Cohort 1.||||
+32785664|NCT04557436|N/A|Single Group Assignment||Other||None (Open Label)||"This is an open label, single-centre, phase I, cohort study using genome edited T cells to bring patients with relapsed or refractory B-cell acute lymphoblastic leukaemia (B-ALL) into remission in anticipation of a haematopoietic stem cell transplant (HSCT) that will hopefully prevent the leukaemia from returning. It involves a single infusion of allogenic T cells transduced with a self-inactivating (SIN) lentiviral vector in up to 10 subjects aged from 6 months to 18 years. The primary objective in this study is to test the safety and secondary objective will test the efficacy of this gene therapy procedure in this population.~Patients will be enrolled following diagnosis and referral to GOSH, and will receive TT52CAR19 cells at GOSH after lymphodepleting conditioning. They will be followed on this protocol for 12 months post IMP infusion."||||
+32785676|NCT04510051|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32507285|NCT05381181|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32844166|NCT03628612|N/A|Single Group Assignment||Other||None (Open Label)||||||
+32955357|NCT03651128|Randomized|Parallel Assignment||Treatment||None (Open Label)||||||
+32786469|NCT03502577|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32844992|NCT03198052|N/A|Single Group Assignment||Treatment||None (Open Label)||Use engineered CAR-T cells to kill cancer cells with certain targets.||||
+32845141|NCT03298828|Randomized|Parallel Assignment||Treatment||None (Open Label)||||||
+32786857|NCT04014881|N/A|Single Group Assignment||Treatment||None (Open Label)||This study was a single-center, open-label, single-arm, non-randomized,3+3 dose escalation clinical trial.Each dose group has 3 patients.If no DLT emerges in the group, then the next group uses the subsequent higher dose. If DLT emerges in a single subject in any dose level, 3 more subjects will be enrolled to the same dose level. The maximum dose could be extended.||||
+32956302|NCT04150913|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32956528|NCT01454596|Non-Randomized|Sequential Assignment||Treatment||None (Open Label)||||||
+32956570|NCT02215967||Sequential Assignment||Treatment||None (Open Label)||||||
+32845728|NCT02456350|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32508050|NCT04762485|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32957582|NCT04684459|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32787898|NCT05350787|Non-Randomized|Single Group Assignment||Treatment||None (Open Label)||||||
+32957817|NCT04684472|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32957951|NCT04689659|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32788195|NCT04008251|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32718358|NCT03624036|Non-Randomized|Sequential Assignment||Treatment||None (Open Label)||||||
+32958331|NCT04034446|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32788240|NCT04011293|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32718372|NCT05210907|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32508221|NCT03030976|Non-Randomized|Single Group Assignment||Treatment||None (Open Label)||||||
+32846466|NCT03207178||Sequential Assignment||Treatment||None (Open Label)||||||
+32846810|NCT03118180|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32847091|NCT03185494|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32959531|NCT04026100|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32847633|NCT05008575|N/A|Single Group Assignment||Treatment||None (Open Label)||Single Group Assignment||||
+32509002|NCT03602157|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32509038|NCT03049449|N/A|Sequential Assignment||Treatment||None (Open Label)||||||
+32790089|NCT03980691|Randomized|Parallel Assignment||Treatment||None (Open Label)||The control arm includes HIV-infected patients without receiving cellar therapy combined with Chidamide whose HIV-1 has been successfully suppressed after cART.||||
+32509279|NCT05164770|Randomized|Parallel Assignment||Treatment||None (Open Label)||||||
+32847928|NCT03361748|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32960670|NCT03240328|N/A|Single Group Assignment||Treatment||None (Open Label)||No control.||||
+32960911|NCT05240950|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32719111|NCT03275493|Randomized|Parallel Assignment||Treatment||None (Open Label)||||||
+32961204|NCT04690192|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32961255|NCT04049513|N/A|Sequential Assignment||Treatment||None (Open Label)||Modified 3+3 dose escalation scheme.||||
+32961331|NCT03103971|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32875857|NCT01475058|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32580068|NCT05190653|Randomized|Parallel Assignment||Supportive Care||Single|It will not be possible to blind participants or researchers (PC clinicians who will be involved in delivery the intervention) to the intervention but the individual doing the data collection, the research assistant, will be blinded to the randomization allocation.|||||t
+32849103|NCT03114670|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32849129|NCT04440436|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32792294|NCT03980288|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32580813|NCT04608487|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32510754|NCT03126864|Non-Randomized|Parallel Assignment||Treatment||None (Open Label)||||||
+32580893|NCT03676504|Non-Randomized|Parallel Assignment||Treatment||None (Open Label)||||||
+32581385|NCT04562298|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32511075|NCT03383952|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32581552|NCT01593696|Non-Randomized|Sequential Assignment||Treatment||None (Open Label)||||||
+32511273|NCT01583686|Non-Randomized|Sequential Assignment||Treatment||None (Open Label)||||||
+32721596|NCT02876978|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32721623|NCT04303520|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32582287|NCT04406610|Randomized|Parallel Assignment||Treatment||Single|||||t|
+32511654|NCT03366324|N/A|Single Group Assignment||Treatment||None (Open Label)||The only one group of patients will receive the combination of CAR-T therapy and HSCT.||||
+32582835|NCT03696030|Non-Randomized|Single Group Assignment||Treatment||None (Open Label)||||||
+32582941|NCT03774654|Non-Randomized|Parallel Assignment||Treatment||None (Open Label)||||||
+32793581|NCT05371132|N/A|Single Group Assignment||Basic Science||None (Open Label)||||||
+32794010|NCT03931720|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32794250|NCT03919240|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32850680|NCT03726515|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32584012|NCT04390542|Randomized|Parallel Assignment||Supportive Care||None (Open Label)||||||
+32851544|NCT04097301|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32723213|NCT02873390|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32513419|NCT05341492|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32513429|NCT03310008|Non-Randomized|Single Group Assignment||Treatment||None (Open Label)||"Biological: NKR-2 cells The intervention will consist of an infusion of NKR-2 cells administered concurrently to a standard chemotherapy every 2 weeks (14 days) for a total of 3 infusions within 4 weeks (28 days).~Other Name: NKG2D CAR-T cells"||||
+32876066|NCT03463928|Non-Randomized|Single Group Assignment||Treatment||None (Open Label)||||||
+32723912|NCT02729493|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32585527|NCT05256641|Non-Randomized|Parallel Assignment||Treatment||None (Open Label)||||||
+32513857|NCT03029338|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32585596|NCT04735471|Non-Randomized|Sequential Assignment||Treatment||None (Open Label)||3+3 Dose Escalation Design||||
+32585604|NCT04661384|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32795403|NCT03879382|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32724073|NCT02725125|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32514140|NCT02935257|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32963048|NCT05483491|N/A|Sequential Assignment||Treatment||None (Open Label)||This is a phase I clinical trial that will determine the maximum tolerated dose and clinical tumor responses for escalating doses of KK-LC-1 TCR-T cells.||||
+32852111|NCT04385173|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32852268|NCT03706547|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32514394|NCT05204160|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32852526|NCT05309213|N/A|Sequential Assignment||Treatment||None (Open Label)||||||
+32852564|NCT04640909|N/A|Single Group Assignment||Basic Science||None (Open Label)||||||
+32852679|NCT01192464|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32724379|NCT02710149|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32853558|NCT03671460|N/A|Single Group Assignment||Treatment||None (Open Label)||single-center, open-label, nonrandomized, no control, prospective clinical trial||||
+32853818|NCT03464916|N/A|Sequential Assignment||Treatment||None (Open Label)||To determine DLT and MTD, the design uses a 3+3 rule-based design. Dose escalation is permitted between successive cohorts based upon a specified algorithm, using discrete dosage steps.||||
+32853939|NCT03661554|N/A|Single Group Assignment||Treatment||None (Open Label)|Clinical study of BCMA nano-antibody CAR-T cells in the treatment of refractory recurrent multiple myeloma (single center, single arm, open clinical study)|In this study, a 3 + 3 dose gradient climbing design was used. Three dosage groups, 5 x 106 / kg, 1 x 107 / kg and 1.5 x 107 / kg, were divided into three groups.||||
+32724568|NCT03500991|Non-Randomized|Parallel Assignment||Treatment||None (Open Label)||||||
+32854205|NCT03758417|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32854307|NCT03318861|Non-Randomized|Sequential Assignment||Treatment||None (Open Label)||Dose-Escalation and Dose Expansion||||
+32854367|NCT05420493|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32514689|NCT05023707|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32854561|NCT03984968|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32586128|NCT05620680|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32855412|NCT04384393|N/A|Sequential Assignment||Treatment||None (Open Label)||||||
+32724929|NCT04107142||Sequential Assignment||Other||None (Open Label)||"The study consisT of 3 + 3 dose escalation study design with 3 distinct dose level.~The first dose level will be at 3 x 10^8 chimeric antigen receptor (CAR) grafted γδ T cells per infusion.~The second dose level will be at 1 x 10^9 CAR-γδT cells per infusion. The third dose level will be increased to 3 x 10^9 cells CAR-γδT cells.~Each cycle of therapy will consist of 4 intravenous infusions, given 7 days apart."||||
+32855565|NCT04176913|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32856535|NCT01355965|Non-Randomized|Parallel Assignment||Treatment||None (Open Label)||||||
+32857218|NCT03952923|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32725246|NCT02917083|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32857408|NCT05665725|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32857474|NCT05648019|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32796709|NCT03796390|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32857769|NCT04657861|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32796808|NCT05620732|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32857956|NCT03605238|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32515335|NCT03291444|Non-Randomized|Parallel Assignment||Treatment||None (Open Label)||||||
+32796901|NCT05495464|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32725412|NCT04303247|N/A|Single Group Assignment||Treatment||None (Open Label)|no masking|||||
+32876235|NCT04697940|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32858510|NCT04083495|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32858541|NCT03873805|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32858559|NCT03648372|Non-Randomized|Parallel Assignment||Treatment||None (Open Label)||||||
+32858713|NCT02132624|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32858747|NCT05370547|Randomized|Parallel Assignment||Treatment||None (Open Label)||||||
+32858828|NCT02134262|Non-Randomized|Single Group Assignment||Treatment||None (Open Label)||||||
+32859041|NCT03579888|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32859396|NCT05190185|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32859740|NCT03181126|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32859886|NCT05391490|N/A|Single Group Assignment||Treatment||None (Open Label)|Open-label|Single-centre, non-randomised, open-label Phase I clinical trial of an Advanced Therapy Investigational Medicinal Product (ATIMP)||||
+32859939|NCT05085418|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32859969|NCT03068416|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32797225|NCT03993743|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32860269|NCT04443829|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32861071|NCT05020392|Non-Randomized|Parallel Assignment||Treatment||None (Open Label)||This study was a pragmatic clinical trial in which patients were divided into two groups, one receiving anti-CD19 CAR-T cells infusion, the other group receiving anti-CD19 CAR-T cells infusion and concurrent oral BTK inhibitor.||||
+32861088|NCT04881240|Non-Randomized|Parallel Assignment||Treatment||None (Open Label)||||||
+32861143|NCT04512716|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32861180|NCT04146051|Randomized|Crossover Assignment||Treatment||Quadruple|||t|t|t|t
+32861202|NCT03938987|N/A|Single Group Assignment||Treatment||None (Open Label)||All enrolled patients will be included in the safety and PK analyses. All patients receiving the dose and schedule selected for expansion will be included in the efficacy and futility analyses including patients who received the selected dose and schedule in the phase 1b dose selection and dose escalation. Analysis of during phase 2 will occur using a Simon 2-stage design.||||
+32515918|NCT05605197|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32862839|NCT03674463|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32863500|NCT03559764||Sequential Assignment||Treatment||None (Open Label)||||||
+32863779|NCT00881920|Non-Randomized|Parallel Assignment||Treatment||None (Open Label)||||||
+32725972|NCT04295018|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32725973|NCT04295096|N/A|Single Group Assignment||Other||None (Open Label)||||||
+32864311|NCT05626400|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32864614|NCT05208853|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32726049|NCT02575261|Randomized|Parallel Assignment||Treatment||None (Open Label)||||||
+32865400|NCT05106946|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32516827|NCT03196830|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32867158|NCT03525782|Randomized|Parallel Assignment||Treatment||Single|||t|||
+32867363|NCT05429905|Non-Randomized|Sequential Assignment||Treatment||None (Open Label)||"Phase 1 run-in will be conducted to determine the recommended phase II dose(s) (RP2D) for adult and paediatric patients in independent dose escalation cohorts.~Phase II will enrol patients in 2 concurrent cohorts at the R2PD."||||
+32867400|NCT04173988|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32799691|NCT05631912|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32799813|NCT05397184|N/A|Single Group Assignment||Other||None (Open Label)|Not applicable (Open Label)|Phase 1, open label, non randomised||||
+32799898|NCT05169489|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32800089|NCT04539366|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32800110|NCT04404595|N/A|Single Group Assignment||Treatment||None (Open Label)||3+3 dose escalation and expansion||||
+32868586|NCT02932956|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32800150|NCT04231747|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32868615|NCT02290951|Non-Randomized|Parallel Assignment||Treatment||None (Open Label)||||||
+32517244|NCT04877080|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32517246|NCT05381662|Randomized|Parallel Assignment||Treatment||None (Open Label)||||||
+32587554|NCT04650451|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32587568|NCT04526834|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32800354|NCT02414269|Non-Randomized|Parallel Assignment||Treatment||None (Open Label)||||||
+32800365|NCT02208362|Non-Randomized|Parallel Assignment||Treatment||None (Open Label)||||||
+32868998|NCT05059912|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32587607|NCT04257578|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32800477|NCT03870945|Non-Randomized|Sequential Assignment||Treatment||None (Open Label)||||||
+32726459|NCT03483103|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32800704|NCT03720496|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32869793|NCT04976218|N/A|Single Group Assignment||Treatment||None (Open Label)||TGFβR-KO CAR-EGFR T Cells will be administered to eligible patients in a 3+3 dose escalation manner.||||
+32869892|NCT05038696|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32598991|NCT05418088|Non-Randomized|Parallel Assignment||Treatment||None (Open Label)||||||
+32801358|NCT05099237|Non-Randomized|Parallel Assignment||Device Feasibility||None (Open Label)||The EMBRaCE-GM study is a multi-cohort trial designed to efficiently evaluate the range of wearable vital signs monitors. Each cohort is a distinct group of patients who undertake a feasibility study.||||
+32870441|NCT05150522|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32870757|NCT03638167|Non-Randomized|Parallel Assignment||Treatment||None (Open Label)||||||
+32870774|NCT03598179|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32518096|NCT05248048|N/A|Sequential Assignment||Treatment||None (Open Label)||||||
+32801981|NCT03943472|Randomized|Parallel Assignment||Treatment||Single|||t|||
+32518245|NCT04480788|N/A|Single Group Assignment||Treatment||None (Open Label)||CD7-CART||||
+32802245|NCT03937544|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32871224|NCT03576807|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32518393|NCT03166878|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32871706|NCT02194374|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32872284|NCT03672253|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32872293|NCT02905188|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32872392|NCT04952272|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32803723|NCT03890198|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32803745|NCT03881774|N/A|Single Group Assignment||Treatment||None (Open Label)||CAR-T cell group||||
+32588562|NCT05315778|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32519656|NCT04268706|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32804536|NCT03448978|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32873498|NCT04969354|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32805046|NCT05170568|N/A|Single Group Assignment||Treatment||None (Open Label)||PA3-17 injection||||
+32589149|NCT05464719|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32874083|NCT04732845|Non-Randomized|Parallel Assignment||Treatment||None (Open Label)||||||
+32521210|NCT05108805|N/A|Single Group Assignment||Supportive Care||None (Open Label)||||||
+32589224|NCT05274451|N/A|Single Group Assignment||Treatment||None (Open Label)||Single-arm, open-label, dose-escalation and -expansion study||||
+32874232|NCT03434769|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32589459|NCT04432506|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32589523|NCT04071366|Randomized|Parallel Assignment||Prevention||Triple|Part 1 is not masked (open label). Part 2 is double blinded (participant, investigator)|Part 1: Singe Group Assignment Part 2: Parallel Assignment|t|t|t|
+32805682|NCT05239702|Non-Randomized|Single Group Assignment||Treatment||None (Open Label)||||||
+32589605|NCT03435796|N/A|Single Group Assignment||Other||None (Open Label)||||||
+32521913|NCT03110640|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32522006|NCT03393936|Non-Randomized|Factorial Assignment||Treatment||None (Open Label)||Subjects with ROR2 positive biopsy will receive CCT301-59. Subjects with AXL positive biopsy that are ROR2 negative will receive CCT301-38.||||
+32522047|NCT05085444|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32589742|NCT01087294|Non-Randomized|Sequential Assignment||Treatment||None (Open Label)||||||
+32522219|NCT04287660|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32522253|NCT04270461|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32522407|NCT04088864|Non-Randomized|Parallel Assignment||Treatment||None (Open Label)||||||
+32590027|NCT03882840|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32590036|NCT03198546|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32522469|NCT04007029|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32522687|NCT04194931|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32590205|NCT03590574|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32590762|NCT05665062|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32590795|NCT05322330|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32806160|NCT05620706|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32523992|NCT05066022|N/A|Single Group Assignment||Treatment||None (Open Label)||CAR T||||
+32524031|NCT04662294|Non-Randomized|Single Group Assignment||Treatment||None (Open Label)||||||
+32806442|NCT03778346|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32524399|NCT04014894|N/A|Single Group Assignment||Treatment||None (Open Label)||This study was a single-center, open-label, single-arm, non-randomized,3+3 dose escalation clinical trial.18 patients are separated into 9 leukemia and 9 lymphoma. Each disease has 3 groups by infusion dose level. Each dose group has 3 patients.If no DLT emerges in the group, then the next group uses the subsequent higher dose. If DLT emerges in a single subject in any dose level, 3 more subjects will be enrolled to the same dose level.The maximum dose could be extended.||||
+32540070|NCT04318327|Non-Randomized|Sequential Assignment||Treatment||None (Open Label)||||||
+32524616|NCT03155191|N/A|Single Group Assignment||Treatment||None (Open Label)||"Peripheral blood will be collected from a subject after obtaining a written informed consent. Peripheral blood mononuclear cells (PBMCs) and plasma are obtained from the blood, and T cells contained in the PBMCs are transduced with anti-CD19 CAR gene by using retroviral vector.~Cyclophosphamide will be administered after obtaining a written informed consent and completing registration.~CD19-CAR-T will be administered in the split dose. Phase 2 recommended dose will be applied for phase 1 portion. The investigator assesses efficacy of CD19-CAR-T in accordance with study-specific criteria, at 8 week after the infusion of CD19-CAR-T (or at the time of termination). The investigator also assesses the safety during the follow-up period. Long-term follow-up study is conducted at frequency of once a year for 15 years after the infusion of CD19-CAR-T in reference to guidelines of FDA."||||
+32525419|NCT05066646|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32591427|NCT05212584|N/A|Sequential Assignment||Treatment||None (Open Label)||CD7 CAR T cells are used to treat patients. Patient will be administered either fresh or thawed CAR T cells by IV injection after receiving lymphodepleting chemotherapy.||||
+32592038|NCT03330834|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32526151|NCT04488354|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32875095|NCT04430530|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32593816|NCT04148430|N/A|Sequential Assignment||Treatment||None (Open Label)||||||
+32593821|NCT03467256|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32526353|NCT05310591|Non-Randomized|Single Group Assignment||Treatment||None (Open Label)||||||
+32594544|NCT05576220|Randomized|Parallel Assignment||Diagnostic||None (Open Label)||||||
+32526776|NCT05063682|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32526849|NCT05060796|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32526968|NCT03097770|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32595928|NCT05269914|N/A|Sequential Assignment||Treatment||None (Open Label)||Single infusion of autologous anti-CD19 car-t cells||||
+32595939|NCT05262673|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32596017|NCT05052528|Non-Randomized|Parallel Assignment||Treatment||None (Open Label)||||||
+32596188|NCT04260945|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32596189|NCT04260932|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32875258|NCT04861480|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32540144|NCT03241940|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32527159|NCT03599375|N/A|Single Group Assignment||Treatment||None (Open Label)||Patients with recurrent or refractory CD19+ ALL receive CD19 CAR T-cell immunotherapy.||||
+32596336|NCT03373071|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32540145|NCT03233854|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32527241|NCT03407859|N/A|Sequential Assignment||Treatment||None (Open Label)||||||
+32875342|NCT04429438|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32600905|NCT03761056|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32809069|NCT05359211|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32809262|NCT04889716|Non-Randomized|Sequential Assignment||Treatment||None (Open Label)||Cohort 1 subjects will receive mosunetuzumab. Pending demonstrated safety of cohort 1, the trial will progress to cohort 2, in which subjects will receive glofitamab with obinutuzumab.||||
+32809425|NCT04422912|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32876666|NCT04828174|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32809677|NCT03277729|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32606590|NCT05239143|Non-Randomized|Sequential Assignment||Treatment||None (Open Label)||Open label, 3 + 3 design of dose-escalating cohorts with open label, dose expansion at recommended phase 2 dose (RP2D)||||
+32606737|NCT04205409|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32607183|NCT05568680|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32607343|NCT03548207|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32810030|NCT05352828|N/A|Single Group Assignment||Treatment||None (Open Label)||Upon successful leukapheresis to produce CD30.CAR-T cells, patients will enter the treatment phase of the study. Treatments will include 4 cycles of nivolumab and CD30.CAR-T infusion (preceded by lymphodepletion chemotherapy). Patients will then enter the post-treatment follow-up phase of the study, whereby patients will undergo either autologous stem cell transplant or continue to receive up to 6 additional treatment cycles of nivolumab. Patients will be followed for response assessments and safety monitoring until end of study (EOS); approximately 3 years after leukapheresis. Long-term follow-up will continue with additional safety monitoring and survival for up to 15 years after Leukapheresis.||||
+32528270|NCT04249947|Non-Randomized|Sequential Assignment||Treatment||None (Open Label)||Open label, 3 + 3 design of dose-escalating cohorts with open label, dose expansion at RP2D||||
+32810096|NCT04817774|Non-Randomized|Sequential Assignment||Prevention||None (Open Label)||||||
+32810113|NCT04690595|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32528290|NCT05619861|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32810322|NCT05632380|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32608891|NCT03585517|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32609069|NCT05028933|N/A|Sequential Assignment||Treatment||None (Open Label)||"single dose escalation The classic 3+3 dose escalation test. The starting dose refers to the results of the previous test of subsequent subjects. In this study, 3 increasing dose levels were set up, with 3 to 6 cases per dose."||||
+32609119|NCT03975907|N/A|Single Group Assignment||Treatment||None (Open Label)||"Phase I is an open-label, dose escalation study and 2 cohorts to evaluate the safety and tolerability of treatment with CT053 and to determine maximum tolerable dose (MTD) and the Recommended Phase 2 Dose (RP2D) for CT053.~Phase 2 is a single-arm, open, multi-center study, to evaluate the efficacy and safety of CAR-BCMA T cells (CT053) in subjects with RR/MM."||||
+32810592|NCT03912480|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32810648|NCT03910842|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32810682|NCT05571540|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32612229|NCT05596266|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32612334|NCT05137275|N/A|Sequential Assignment||Treatment||None (Open Label)||||||
+32811312|NCT04155749|Non-Randomized|Sequential Assignment||Treatment||None (Open Label)||||||
+32614245|NCT04359784|N/A|Single Group Assignment||Prevention||None (Open Label)||||||
+32812320|NCT03690011|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32812366|NCT02431988|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32812696|NCT05666700|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32812852|NCT03854994|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32614542|NCT03373097|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32614594|NCT05437341|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32614595|NCT05437328|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32614596|NCT05437315|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32614617|NCT05436509|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32614618|NCT05436496|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32813142|NCT03631576|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32877174|NCT02081937|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32813851|NCT05404048|N/A|Single Group Assignment||Diagnostic||None (Open Label)||||||
+32814668|NCT03754764|Non-Randomized|Single Group Assignment||Treatment||None (Open Label)||||||
+32816155|NCT04288726|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32816322|NCT03685786|N/A|Single Group Assignment||Treatment||None (Open Label)||Phase 1 Clinical Study of CD19-directed Chimeric Antigen Receptor-modified T Cells (CART19) treatment for the Patients with Minimal Residual Disease (MRD) of B Cell Malignancies and then Autologous Hematopoietic Stem Cell Transplantation(Auto-HSCT).||||
+32528729|NCT03154775|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32817103|NCT05318963|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32616683|NCT01735604|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32877497|NCT05472610|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32877825|NCT05243212|Non-Randomized|Sequential Assignment||Treatment||None (Open Label)||The treatment dose is 6 or 9 x 10^6 CAR+ T cells/kg of recipient bodyweight.||||
+32877847|NCT05128786|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32877912|NCT04782193|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32877913|NCT04781634|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32877914|NCT04776330|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32877938|NCT04649983|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32877939|NCT04648475|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32877967|NCT04511871|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32877986|NCT04348643|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32877996|NCT04272151|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32877997|NCT04272125|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32877998|NCT04271800|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32877999|NCT04271644|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32878000|NCT04271410|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32878001|NCT04265963|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32878213|NCT04788472|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32880073|NCT02915445|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32880369|NCT04703686|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32880716|NCT03366350|N/A|Single Group Assignment||Treatment||None (Open Label)||Patients receive consolidative allo-HSCT following CAR-T therapy.||||
+32881175|NCT04503980|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32881893|NCT03488160|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32881946|NCT03540303||Sequential Assignment||Treatment||None (Open Label)||CAR19 T cell therapy improves the clinical efficacy of refractory/relapsed B-cell lymphoma, and the combined PDL1 inhibitors may further improve the efficacy of CD19 CART in the treatment of lymphomas. The clinical efficacy of KITE's CAR19 T cells and PD-L1 inhibition was reported. This phase 1 study was conducted in 9 patients with DLBCL, 8 patients got remission and during which 5 got complete remission. However, this type of treatment requires more data and observation in a larger sample of patients. In addition, Kite Pharmaceuticals' CD19 CART is priced at 370,000 US dollars. The cost of immune checkpoint inhibitors is also very expensive. Only very small proportion of patients could afford for that expenses. In this study, genetically engineered CAR T cells, which carry cytoplasmic activated PD1, are not inhibited by PDL1 molecules, will avoid the simultaneous application of immune checkpoint antibodies and the according adverse events.||||
+32882848|NCT05459870|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32882975|NCT05585996|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32883025|NCT04706936|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32622596|NCT01864889|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32622597|NCT01864902|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32883736|NCT05393804|Non-Randomized|Parallel Assignment||Treatment||None (Open Label)||This is a two cohort feasibility trial with 15 patients in each cohort to assess the ability to produce and manufacture anti-B Cell Maturation Antigen (BCMA) chimeric antigen receptor (CAR) T cells (idecabtagene vicleucel, Ide-Cel) in patients with multiple myeloma (MM).||||
+32883818|NCT04952584|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32623310|NCT05510596|N/A|Single Group Assignment||Diagnostic||None (Open Label)||||||
+32623390|NCT05225363|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32884010|NCT02601313|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32623595|NCT04074330|Non-Randomized|Sequential Assignment||Treatment||None (Open Label)||||||
+32884230|NCT03473496|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32884950|NCT04489862|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32885094|NCT05398614|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32885331|NCT03710421|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32885710|NCT03919526|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32885713|NCT05488132|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32885745|NCT03265106|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32885781|NCT03262298|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32529008|NCT03018093|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32886142|NCT05211557|N/A|Sequential Assignment||Treatment||None (Open Label)||||||
+32886157|NCT05477446|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32886352|NCT03222674|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32886692|NCT03208556|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32886822|NCT02303821|Non-Randomized|Single Group Assignment||Treatment||None (Open Label)||||||
+32887072|NCT05194709|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32887283|NCT02439788|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32887577|NCT03182816|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32887588|NCT03185468|Non-Randomized|Single Group Assignment||Treatment||None (Open Label)||||||
+32887840|NCT02706392|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32887846|NCT02416466|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32888700|NCT02535364|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32888857|NCT03070327|N/A|Single Group Assignment||Treatment||None (Open Label)||This is an open-label, dose escalating, nonrandomized, single-center, phase I study of EGFRt/BCMA-41BBz CAR T cells in patients with a diagnosis of MM. Dose escalation will follow a standard 3-by-3 escalation design. Cohorts of 3-6 patients will be infused with escalating doses of EGFRt/BCMA-41BBz CAR T cells to establish the maximum tolerated dose (MTD). After a dose level has been determined safe to escalate (DLT in 0/3 or 1/6 patients), a parallel cohort at that dose level will be conducted while patients are taking Lenalidomide.||||
+32624530|NCT01886976|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32890011|NCT03672305|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32890376|NCT03473457|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32890434|NCT05155215|N/A|Sequential Assignment||Treatment||None (Open Label)||||||
+32890556|NCT03672851|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32890883|NCT04684563|Non-Randomized|Parallel Assignment||Treatment||None (Open Label)||This trial will evaluate up to 7 dose levels using the Bayesian Optimal Interval (BOIN) design with accelerated titration to determine the maximum tolerated dose (MTD) of huCART19-IL18 cells. Subjects will be assigned to a dose level prior to study treatment based on available safety experience at the current and prior dose levels.||||
+32891494|NCT03664661||Sequential Assignment||Treatment||None (Open Label)||||||
+32891702|NCT03658655|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32529717|NCT05105867|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32530003|NCT03915184|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32892045|NCT03648697|N/A|Single Group Assignment||Treatment||None (Open Label)||Single arm, open label, single dose phase I/II study of safety and efficacy.||||
+32530963|NCT03818165|N/A|Single Group Assignment||Treatment||None (Open Label)||Three doses of CAR2 Anti-CEA CAR T Cells 1 x 10e10 cells by hepatic artery infusion (on Days 1, 8, and 15) of each 28-day cycle in the Treatment Period using the HITM method and Surefire device, with IL-2 systemic infusion. Patient may receive up to three 28-day cycles of CAR-T therapy in the Treatment Period.||||
+32531249|NCT04129099|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32892446|NCT03468153|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32892494|NCT02529813|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32908693|NCT05626322|Randomized|Sequential Assignment||Treatment||None (Open Label)||Open label/randomized||||
+32531930|NCT04916860|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32628085|NCT04693676|N/A|Single Group Assignment||Treatment||None (Open Label)|None (Open Label)|||||
+32628188|NCT03117751|Randomized|Parallel Assignment||Treatment||Single|Only certain outcome measures as indicated will be blinded to the outcomes assessor.|||||t
+32628215|NCT01840566|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32892916|NCT03649529|N/A|Single Group Assignment||Treatment||None (Open Label)||Patients' autologous T cells will be isolated and transduced by GPA-TriMAR lentivirus to generate the GPA-TriMAR-T cells,and then infused back into the patient.||||
+32893076|NCT03615313|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32893558|NCT03612739|Non-Randomized|Sequential Assignment||Treatment||None (Open Label)||"This open-label Phase I study aims to define the recommended dose for further clinical development the NKR-2 treatment administered concurrently with AZA in treatment-naïve AML/MDS patients not candidates for intensive chemotherapy or hematopoietic stem cell transplantation.~This Phase I study is divided into three sequential cohorts evaluating three different dose-levels of NKR-2 (1x108, 3x108 and 1x109 NKR-2 per injection) using a 3+3 design evaluate. Further patients will be enrolled at the RecD to reach 9 evaluable patients in total at the RecD."||||
+32893751|NCT03146234|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32894072|NCT03398967|Non-Randomized|Single Group Assignment||Treatment||None (Open Label)||||||
+32894076|NCT03125577|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32894506|NCT03939026|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32894612|NCT03142646|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32895210|NCT05396300|Non-Randomized|Parallel Assignment||Treatment||None (Open Label)||||||
+32895246|NCT05089266|N/A|Sequential Assignment||Treatment||None (Open Label)||||||
+32895277|NCT04768608|N/A|Sequential Assignment||Treatment||None (Open Label)||Group A: 0.5×10^6 cells / kg; Group B: 1.0×10^6 cells / kg; Group C: 2.0×10^6 cells / kg.||||
+32895295|NCT04652219|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32895364|NCT03618381|Non-Randomized|Parallel Assignment||Treatment||None (Open Label)||||||
+32895770|NCT04545762|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32895789|NCT04419909|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32896176|NCT02850536|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32532385|NCT04943016|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32532681|NCT02744287|Non-Randomized|Single Group Assignment||Treatment||None (Open Label)||||||
+32532708|NCT04037241|Randomized|Parallel Assignment||Treatment||None (Open Label)||||||
+32897729|NCT05117138|Randomized|Parallel Assignment||Treatment||None (Open Label)||||||
+32897793|NCT03327285|N/A|Single Group Assignment||Treatment||None (Open Label)||Single Group Assignment||||
+32898089|NCT03321123|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32898807|NCT02981628|Non-Randomized|Sequential Assignment||Treatment||None (Open Label)||||||
+32898866|NCT05334823|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32899601|NCT03302403|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32900616|NCT04935580|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32818157|NCT03932565|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32539501|NCT05287165|N/A|Sequential Assignment||Treatment||None (Open Label)||||||
+32818470|NCT03642496|Non-Randomized|Sequential Assignment||Treatment||None (Open Label)||||||
+32901803|NCT03252171|Randomized|Parallel Assignment||Treatment||None (Open Label)||||||
+32533701|NCT05634785|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32533783|NCT05366179|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32902334|NCT05354375|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32533891|NCT04995003|Non-Randomized|Parallel Assignment||Treatment||None (Open Label)||"Patients will be non-randomly assigned to one of two arms, Arm A or Arm B. Dose de-escalation will occur independently in each arm.~Arm A treatment will consist of autologous HER2 CAR T cells infused in combination with lymphodepletion and the PD-1 antibody pembrolizumab. Accrual will start at Dose Level 1. In the event that Dose Level 1 is not tolerable, de-escalation to Dose Level -1 will occur.~Arm B treatment will consist of autologous HER2 CAR T cells infused in combination with lymphodepletion and the PD-1 antibody nivolumab. Accrual will start at Dose Level 1. In the event that Dose Level 1 is not tolerable, de-escalation to Dose Level -1 will occur."||||
+32533897|NCT04977024|Randomized|Parallel Assignment||Treatment||Triple|||t|t|t|
+32534122|NCT03721068|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32534129|NCT03672318|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32534189|NCT03016377|Non-Randomized|Sequential Assignment||Treatment||None (Open Label)||||||
+32534453|NCT03050190|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32902710|NCT04855253|Non-Randomized|Sequential Assignment||Treatment||None (Open Label)||"The Phase I study consists of two components: dose finding to establish a maximum tolerated dose (MTD) of E7777 and a small extension component to provide an estimate of efficacy at the MTD.~A single dose of E7777 is given on Day -7, two days prior to the start of lymphodepleting chemotherapy. Up to 3 dose levels will be tested. The MTD is determined by using the continual reassessment method (CRM). Enrollment begins with Dose Level 1 using a cohort of two patients. Twenty one (21) days after the 2nd patient's tisagenlecleucel infusion the next cohort of 2 patients are assigned to the most appropriate strategy based on updated toxicity probabilities corresponding to the desired maximum toxicity rate of ≤ 25% as determined by the study statistician (or designee). Enrollment continues in cohorts of 2 separated by a minimum of 28 days until 20 patients are enrolled or 10 sequential patients are enrolled at the same dose level. No intra-cohort staggering is required."||||
+32902735|NCT04715191|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32902777|NCT04377932|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32902792|NCT04240808|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32902809|NCT04049383|Non-Randomized|Sequential Assignment||Treatment||None (Open Label)||There will be two phases of this study. A dose escalation phase to determine the safe CAR-20/19-T cell dose in patients B-cell ALL. Once the desired dose has been identified there will be a six-patient dose expansion phase at the specified dose level.||||
+32902981|NCT03564977|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32903206|NCT03545815|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32534797|NCT04121273|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32534898|NCT04884984|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32534922|NCT03825731|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32535096|NCT04863066|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32536054|NCT04822974|N/A|Single Group Assignment||Diagnostic||None (Open Label)||||||
+32904084|NCT03060356|Non-Randomized|Parallel Assignment||Treatment||None (Open Label)||||||
+32904366|NCT03559439|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32536299|NCT04780529|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32536583|NCT04796688|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32904510|NCT04934774|N/A|Sequential Assignment||Treatment||None (Open Label)||||||
+32536774|NCT02247609|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32536934|NCT05613348|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32905256|NCT04888442|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32537372|NCT01897415|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32537871|NCT05123001|Non-Randomized|Single Group Assignment||Supportive Care||None (Open Label)||||||
+32537966|NCT05577000|Non-Randomized|Sequential Assignment||Treatment||None (Open Label)||||||
+32538090|NCT04767308|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32906655|NCT04412174|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32907427|NCT02706405|Non-Randomized|Sequential Assignment||Treatment||None (Open Label)||||||
+32907519|NCT03179007|N/A|Single Group Assignment||Treatment||None (Open Label)||||||
+32907530|NCT02761915|Non-Randomized|Sequential Assignment||Treatment||None (Open Label)||||||
+32908743|NCT05396885|N/A|Single Group Assignment||Treatment||None (Open Label)||||||

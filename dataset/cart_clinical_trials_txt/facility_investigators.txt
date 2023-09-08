@@ -1,0 +1,968 @@
+id|nct_id|facility_id|role|name
+19516847|NCT05396300|215285383|Principal Investigator|Weijia fang, MD
+19560272|NCT04690192|215728149|Principal Investigator|Dehui Zou, Dr.
+19560344|NCT04049513|215728844|Principal Investigator|Robert Weinkove, MBBS, PhD
+19560345|NCT04049513|215728844|Sub-Investigator|Philip E George, MBChB
+19560346|NCT04049513|215728844|Sub-Investigator|Alwyn AB D'Souza, MBChB
+19560347|NCT04049513|215728844|Sub-Investigator|Travis N Perera, MBChB
+19560348|NCT04049513|215728844|Sub-Investigator|Robert C Fyfe, MBChB
+19560349|NCT04049513|215728844|Sub-Investigator|Stefan Mullins, MBBCh
+19560350|NCT04049513|215728844|Sub-Investigator|Hayden Jina, MBChB
+19431516|NCT04013802|213996923|Principal Investigator|George Carrum, MD
+19431517|NCT04013802|213996924|Principal Investigator|John Craddock, MD
+19473888|NCT03796390|214731394|Principal Investigator|Peihua Lu, PhD&MD
+19473889|NCT03796390|214731394|Sub-Investigator|Jianqiang Li, PhD&MD
+19473948|NCT05495464|214732814|Principal Investigator|Preetesh Jain, MD, PHD
+19517043|NCT03618381|215288676|Principal Investigator|Katie Albert, MD
+19517342|NCT04545762|215290368|Principal Investigator|C. Babis Andreadis, MD
+19345252|NCT03829540|212833691|Principal Investigator|Huda Salman, MD
+19517899|NCT05117138|215296638|Principal Investigator|Yi Zhang, M.D.
+19475033|NCT05631912|214754320|Sub-Investigator|Yang Liu, M.D.
+19475034|NCT05631912|214754320|Sub-Investigator|Qingming Yang, M.D.
+19475035|NCT05631912|214754320|Sub-Investigator|Chunmeng Wang, M.S
+19475036|NCT05631912|214754320|Sub-Investigator|Jinhong Shi, M.S
+19475037|NCT05631912|214754321|Sub-Investigator|Xin Lin, Ph.D
+19433042|NCT04665063|214010697|Principal Investigator|Baoen Shan, PhD & MD
+19433043|NCT04665063|214010697|Principal Investigator|Lihong Liu, PhD & MD
+19433044|NCT04665063|214010697|Sub-Investigator|Jianqiang Li, PhD & MD
+19475200|NCT05397184|214755210|Principal Investigator|Waseem Qasim, Professor
+19475201|NCT05397184|214755210|Sub-Investigator|Robert Chiesa, Dr
+19475202|NCT05397184|214755210|Sub-Investigator|Ajay Vora, Professor
+19433864|NCT04626765|214016162|Principal Investigator|Jianmin Luo, PhD & MD
+19433865|NCT04626726|214016203|Principal Investigator|Jianmin Luo, PhD & MD
+19347865|NCT03159819|212857415|Principal Investigator|Xianbao Zhan, M.D.
+19347866|NCT03159819|212857415|Sub-Investigator|Bin Wang, M.D.
+19348017|NCT03696784|212865029|Principal Investigator|Natalie Grover, MD
+19348061|NCT04088890|212868114|Principal Investigator|Matthew Frank, MD, PhD
+19348062|NCT04088890|212868114|Sub-Investigator|David Miklos, MD, PhD
+19348063|NCT04088890|212868114|Sub-Investigator|Sally Arai, MD
+19348064|NCT04088890|212868114|Sub-Investigator|Laura Johnston, MD
+19348065|NCT04088890|212868114|Sub-Investigator|Everett Meyer, MD
+19348066|NCT04088890|212868114|Sub-Investigator|Andrew Rezvani, MD
+19348067|NCT04088890|212868114|Sub-Investigator|Wen Kai Weng, MD, PhD
+19348068|NCT04088890|212868114|Sub-Investigator|Lori Muffly, MD
+19348069|NCT04088890|212868114|Sub-Investigator|Judith Shizuru, MD, PhD
+19348070|NCT04088890|212868114|Sub-Investigator|Robert Lowsky, MD
+19433954|NCT04890236|214017649|Principal Investigator|Edmund K. Waller, MD, PhD
+19433955|NCT04890236|214017650|Principal Investigator|Peter Riedell, MD
+19348071|NCT04088890|212868114|Sub-Investigator|Robert Negrin, MD
+19348072|NCT04088890|212868114|Sub-Investigator|Parveen Shiraz, MD
+19348073|NCT04088890|212868114|Sub-Investigator|Surbhi Sidana, MD
+19434068|NCT04601181|214020159|Principal Investigator|Xingbing Wang, M.D.
+19349980|NCT02935257|212899882|Principal Investigator|Prof. Karl Peggs
+19434681|NCT04991948|214032136|Principal Investigator|Kim Dae Won
+19434682|NCT04991948|214032137|Principal Investigator|Hans Prenen, MD
+19434683|NCT04991948|214032138|Principal Investigator|Sylvie Rottey, MD
+19434684|NCT04991948|214032139|Principal Investigator|Eric Van Cutsem, MD
+19434720|NCT04546893|214033803|Principal Investigator|Peihua Lu, PhD&MD
+19434721|NCT04546893|214033803|Sub-Investigator|Jianqiang Li, PhD&MD
+19350155|NCT05204160|212900676|Principal Investigator|Ajay K. Nooka, MD,MPH,FACP
+19350488|NCT03291444|212906860|Principal Investigator|Yuhua Li, M.D, Ph.D
+19434886|NCT04553393|214035350|Principal Investigator|Weidong Han, M.D
+19434887|NCT04553393|214035350|Principal Investigator|Yajing Zhang, M.D
+19434888|NCT04553393|214035350|Principal Investigator|Zhiqiang Wu, M.D
+19434889|NCT04553393|214035350|Principal Investigator|Yao Wang, M.D.
+19434890|NCT04553393|214035350|Principal Investigator|Yang Liu, M.D.
+19434891|NCT04553393|214035350|Principal Investigator|Qingming Yang, M.D.
+19434892|NCT04553393|214035350|Sub-Investigator|Chuan Tong, M.S.
+19434893|NCT04553393|214035350|Sub-Investigator|Chunmeng Wang, M.S.
+19434894|NCT04553393|214035350|Sub-Investigator|Dongdong Ti, M.S.
+19434895|NCT04553393|214035350|Sub-Investigator|Jianshu Wei, M.D.
+19434896|NCT04553393|214035350|Sub-Investigator|Deyun Chen, M.S.
+19351767|NCT03166878|212920936|Principal Investigator|Weidong Han, Dr.
+19351768|NCT03166878|212920936|Principal Investigator|Daihong Liu, Dr.
+19477888|NCT03778346|214808908|Sub-Investigator|Jiang Jinhong
+19477889|NCT03778346|214808909|Principal Investigator|Bingmu Fang, M.D
+19477890|NCT03778346|214808910|Principal Investigator|Jimin Gao, M.D., Ph.D.
+19477891|NCT03778346|214808910|Sub-Investigator|Ai Zhao, M.D., Ph.D.
+19478591|NCT05359211|214824839|Principal Investigator|Alexandre Hirayama
+19478828|NCT04889716|214825791|Principal Investigator|Stephen J. Schuster, MD
+19478829|NCT04889716|214825791|Sub-Investigator|Elise A. Chong, MD
+19478830|NCT04889716|214825791|Sub-Investigator|Jakub Svoboda, MD
+19352617|NCT05108805|212946569|Principal Investigator|Olalekan Oluwole, MD
+19352832|NCT04007029|212957632|Principal Investigator|Sarah Larson, M.D.
+19479109|NCT04422912|214827077|Principal Investigator|M. Peter Marinkovich, MD
+19479110|NCT04422912|214827078|Principal Investigator|Mehrdad Abedi, MD
+19479111|NCT04422912|214827079|Principal Investigator|Alan Zhou, MD
+19479112|NCT04422912|214827080|Principal Investigator|Janet Fairley, MD
+19479113|NCT04422912|214827081|Principal Investigator|Keren Osman, MD
+19479114|NCT04422912|214827082|Principal Investigator|Donna A Culton, MD, PhD
+19479115|NCT04422912|214827083|Principal Investigator|David Porter, MD
+19479116|NCT04422912|214827084|Principal Investigator|Arturo Dominguez, MD
+19479117|NCT04422912|214827085|Principal Investigator|Omar Pacha, MD
+19479118|NCT04422912|214827086|Principal Investigator|Michi Shinohara, MD
+19479469|NCT03277729|214829462|Principal Investigator|Mazyar Shadman
+19479886|NCT03910842|214839185|Principal Investigator|Xiangling He
+19481095|NCT04155749|214843706|Principal Investigator|Matthew Frigault, MD
+19481096|NCT04155749|214843707|Principal Investigator|Jacalyn Rosenblatt, MD
+19481097|NCT04155749|214843708|Principal Investigator|Binod Dhakal, MD
+19481971|NCT05666700|214851791|Principal Investigator|Simon Harrison
+19482091|NCT03631576|214853396|Principal Investigator|Jianda Hu, Prof.
+19391126|NCT03882840|213405271|Sub-Investigator|Peng Li, PhD
+19391712|NCT05212584|213411147|Principal Investigator|Peihua Lu, MD
+19392197|NCT05576220|213429919|Principal Investigator|Michelle Hudspeth, MD
+19392695|NCT05052528|213435119|Principal Investigator|Mehrdad Abedi
+19483550|NCT05318963|214875308|Principal Investigator|Kai Hu
+19483551|NCT05318963|214875309|Principal Investigator|Lugui Qiu, MD
+19483970|NCT03932565|214882616|Principal Investigator|Bingmu Fang, M.D
+19483971|NCT03932565|214882617|Principal Investigator|Jimin Gao, M.D., Ph.D.
+19393293|NCT05418088|213445108|Principal Investigator|Sumithira Vasu, MD
+19483972|NCT03932565|214882617|Sub-Investigator|Ai Zhao, M.D., Ph.D.
+19484368|NCT03907527|214890255|Principal Investigator|John Liao
+19484520|NCT03563326|214892771|Principal Investigator|Jian-Kun Hu
+19485557|NCT04442022|214902205|Principal Investigator|Sujith Kalmadi, MD
+19485558|NCT04442022|214902206|Principal Investigator|Sudhir Manda, MD
+19485559|NCT04442022|214902207|Principal Investigator|Amitabha Mazumder, MD
+19485560|NCT04442022|214902209|Principal Investigator|Don Stevens, MD
+19485561|NCT04442022|214902211|Principal Investigator|Seung Tae Lee, MD
+19485562|NCT04442022|214902214|Principal Investigator|Thomas Jandl, MD
+19485563|NCT04442022|214902218|Principal Investigator|Moshe Yair Levy, MD
+19485564|NCT04442022|214902221|Principal Investigator|Habte Yimer, MD
+19485565|NCT04442022|214902222|Principal Investigator|Marc Usrey, MD
+19485566|NCT04442022|214902227|Principal Investigator|Xu Wei
+19485567|NCT04442022|214902228|Principal Investigator|Wu Depei
+19485568|NCT04442022|214902229|Principal Investigator|Zhao Weili
+19485569|NCT04442022|214902230|Principal Investigator|Liu Peng
+19485570|NCT04442022|214902231|Principal Investigator|Zou Liqun
+19485571|NCT04442022|214902232|Principal Investigator|Jin Jie
+19485572|NCT04442022|214902233|Principal Investigator|Merav Leiba, MD
+19485573|NCT04442022|214902234|Principal Investigator|Itai Levi, MD
+19485574|NCT04442022|214902238|Principal Investigator|Ronit Gurion, MD
+19485575|NCT04442022|214902239|Principal Investigator|Ofer Shpilberg, MD
+19485576|NCT04442022|214902241|Principal Investigator|Antonio Pinto, MD
+19485577|NCT04442022|214902242|Principal Investigator|Caterina Patti, MD
+19485578|NCT04442022|214902243|Principal Investigator|Federica Cavallo, MD
+19485579|NCT04442022|214902244|Principal Investigator|Guido Gini, MD
+19485580|NCT04442022|214902245|Principal Investigator|Pier Luigi Zinzani, MD
+19485581|NCT04442022|214902246|Principal Investigator|Ferdinando Frigeri, MD
+19485582|NCT04442022|214902247|Principal Investigator|Gianluca Gaidano, MD
+19485583|NCT04442022|214902248|Principal Investigator|Elsa Pennese, MD
+19485584|NCT04442022|214902249|Principal Investigator|Stefan Hohaus, MD
+19485585|NCT04442022|214902250|Principal Investigator|Wojciech Jurczak, MD
+19485586|NCT04442022|214902251|Principal Investigator|Wanda Knopinska-Posluszny, MD
+19485587|NCT04442022|214902252|Principal Investigator|Tomasz Wrobel
+19485588|NCT04442022|214902253|Principal Investigator|Maciej Kazmierczak, MD
+19485589|NCT04442022|214902254|Principal Investigator|Ewa Lech-Maranda, MD
+19485590|NCT04442022|214902255|Principal Investigator|Jan Walewski, MD
+19485591|NCT04442022|214902256|Principal Investigator|Sebastian Grosicki
+19485592|NCT04442022|214902257|Principal Investigator|Juan Manuel Sancho, MD
+19485593|NCT04442022|214902258|Principal Investigator|Pau Abrisqueta, MD
+19485594|NCT04442022|214902259|Principal Investigator|Anna Sureda, MD
+19485595|NCT04442022|214902260|Principal Investigator|Miguel Canales, MD
+19485596|NCT04442022|214902261|Principal Investigator|Fatima De la Cruz, MD
+19438044|NCT05625594|214097028|Principal Investigator|Tanya Siddiqi
+19355847|NCT05060796|212988341|Principal Investigator|Zhenfeng Zhang, MD, PHD
+19488899|NCT04897321|214946231|Principal Investigator|Chris DeRenzo, MD
+19489032|NCT04196413|214947703|Principal Investigator|Michelle Monje, MD, PHD
+19489033|NCT04196413|214947703|Sub-Investigator|Liora Schultz, MD
+19489034|NCT04196413|214947703|Sub-Investigator|Kara Davis, D.O.
+19489035|NCT04196413|214947703|Sub-Investigator|Robbie Majzner, MD
+19489036|NCT04196413|214947703|Sub-Investigator|Crystal Mackall, MD
+19489037|NCT04196413|214947703|Sub-Investigator|Laura Prolo, M.D
+19489038|NCT04196413|214947703|Sub-Investigator|Sneha Ramakrishna, MD
+19489039|NCT04196413|214947703|Sub-Investigator|Cynthia Campen, MD
+19489040|NCT04196413|214947703|Sub-Investigator|Sonia Partap, MD
+19489041|NCT04196413|214947703|Sub-Investigator|Paul Fisher, MD
+19489042|NCT04196413|214947703|Sub-Investigator|Lindsey Rasmussen, MD
+19489043|NCT04196413|214947703|Sub-Investigator|Timothy Cornell, MD
+19489044|NCT04196413|214947703|Sub-Investigator|Susan Hiniker, MD
+19489045|NCT04196413|214947703|Sub-Investigator|Kristen Yeom, MD
+19489046|NCT04196413|214947703|Sub-Investigator|Jasia Mahdi, MD
+19489047|NCT04196413|214947703|Sub-Investigator|Brian Scott, MD
+19397026|NCT05568680|213482301|Principal Investigator|Janos Tanyi, MD, PhD
+19521567|NCT02981628|215305159|Principal Investigator|Matthew A. Kutny
+19521568|NCT02981628|215305160|Principal Investigator|Brenda J. Wittman
+19521569|NCT02981628|215305161|Principal Investigator|Joseph C. Torkildson
+19521570|NCT02981628|215305162|Principal Investigator|Dana B. Salzberg
+19521571|NCT02981628|215305164|Principal Investigator|David L. Becton
+19521572|NCT02981628|215305165|Principal Investigator|Robert M. Cooper
+19521573|NCT02981628|215305167|Principal Investigator|Albert Kheradpour
+19521574|NCT02981628|215305168|Principal Investigator|Leo Mascarenhas
+19521575|NCT02981628|215305169|Principal Investigator|Fataneh (Fae) Majlessipour
+19521576|NCT02981628|215305171|Principal Investigator|Carla B. Golden
+19521577|NCT02981628|215305172|Principal Investigator|Aarati V. Rao
+19521578|NCT02981628|215305173|Principal Investigator|Elyssa M. Rubin
+19521579|NCT02981628|215305174|Principal Investigator|Jay Michael S. Balagtas
+19521580|NCT02981628|215305175|Principal Investigator|Yung S. Yim
+19521581|NCT02981628|215305176|Principal Investigator|Marcio H. Malogolowkin
+19521582|NCT02981628|215305177|Principal Investigator|William D. Roberts
+19521583|NCT02981628|215305178|Principal Investigator|Elliot Stieglitz
+19521584|NCT02981628|215305180|Principal Investigator|Kelly W. Maloney
+19521585|NCT02981628|215305181|Principal Investigator|Jennifer J. Clark
+19521586|NCT02981628|215305182|Principal Investigator|Michael S. Isakoff
+19521587|NCT02981628|215305184|Principal Investigator|Emi H. Caywood
+19521588|NCT02981628|215305185|Principal Investigator|Jeffrey S. Dome
+19521589|NCT02981628|215305186|Principal Investigator|Emad K. Salman
+19521590|NCT02981628|215305187|Principal Investigator|William B. Slayton
+19521591|NCT02981628|215305188|Principal Investigator|Iftikhar Hanif
+19521592|NCT02981628|215305189|Principal Investigator|Emi H. Caywood
+19521593|NCT02981628|215305190|Principal Investigator|Ziad A. Khatib
+19521594|NCT02981628|215305191|Principal Investigator|Fouad M. Hajjar
+19521595|NCT02981628|215305192|Principal Investigator|Emi H. Caywood
+19521596|NCT02981628|215305194|Principal Investigator|Don E. Eslin
+19521597|NCT02981628|215305195|Principal Investigator|Muaz A. Alrazzak
+19521598|NCT02981628|215305196|Principal Investigator|Melinda G. Pauly
+19521599|NCT02981628|215305197|Principal Investigator|Andrew L. Pendleton
+19521600|NCT02981628|215305198|Principal Investigator|Wade T. Kyono
+19521601|NCT02981628|215305199|Principal Investigator|Martha M. Pacheco
+19521602|NCT02981628|215305200|Principal Investigator|Joanna L. Weinstein
+19521603|NCT02981628|215305202|Principal Investigator|Eugene Suh
+19521604|NCT02981628|215305203|Principal Investigator|Prerna Kumar
+19521605|NCT02981628|215305204|Principal Investigator|Gregory P. Brandt
+19521606|NCT02981628|215305205|Principal Investigator|Sandeep Batra
+19521607|NCT02981628|215305207|Principal Investigator|Samantha L. Mallory
+19521608|NCT02981628|215305208|Principal Investigator|David S. Dickens
+19521609|NCT02981628|215305209|Principal Investigator|James T. Badgett
+19521610|NCT02981628|215305210|Principal Investigator|Ashok B. Raj
+19521611|NCT02981628|215305211|Principal Investigator|Lolie C. Yu
+19521612|NCT02981628|215305212|Principal Investigator|Craig Lotterman
+19521613|NCT02981628|215305213|Principal Investigator|Nadine P. SantaCruz
+19521614|NCT02981628|215305214|Principal Investigator|Eric C. Larsen
+19521615|NCT02981628|215305215|Principal Investigator|Jason M. Fixler
+19521616|NCT02981628|215305216|Principal Investigator|Kenneth J. Cohen
+19521617|NCT02981628|215305217|Principal Investigator|Nirali N. Shah
+19521618|NCT02981628|215305219|Principal Investigator|Melissa A. Burns
+19521619|NCT02981628|215305220|Principal Investigator|Stefanie R. Lowas
+19521620|NCT02981628|215305221|Principal Investigator|Emily B. Walling
+19521621|NCT02981628|215305222|Principal Investigator|Laura E. Agresta
+19521622|NCT02981628|215305223|Principal Investigator|Kathleen J. Yost
+19521623|NCT02981628|215305224|Principal Investigator|Laura K. Gowans
+19521624|NCT02981628|215305225|Principal Investigator|Michael K. Richards
+19521625|NCT02981628|215305226|Principal Investigator|Peter M. Gordon
+19521626|NCT02981628|215305227|Principal Investigator|Asmaa Ferdjallah
+19521627|NCT02981628|215305228|Principal Investigator|Betty L. Herrington
+19521628|NCT02981628|215305229|Principal Investigator|Barbara A. Gruner
+19521629|NCT02981628|215305230|Principal Investigator|Kevin F. Ginn
+19521630|NCT02981628|215305231|Principal Investigator|William S. Ferguson
+19521631|NCT02981628|215305232|Principal Investigator|Robert J. Hayashi
+19521632|NCT02981628|215305233|Principal Investigator|Robin D. Hanson
+19521633|NCT02981628|215305234|Principal Investigator|Jill C. Beck
+19521634|NCT02981628|215305235|Principal Investigator|Don W. Coulter
+19521635|NCT02981628|215305236|Principal Investigator|Alan K. Ikeda
+19521636|NCT02981628|215305237|Principal Investigator|Alan K. Ikeda
+19521637|NCT02981628|215305238|Principal Investigator|Alan K. Ikeda
+19521638|NCT02981628|215305239|Principal Investigator|Alan K. Ikeda
+19521639|NCT02981628|215305240|Principal Investigator|Angela Ricci
+19521640|NCT02981628|215305242|Principal Investigator|Kathryn L. Laurie
+19521641|NCT02981628|215305243|Principal Investigator|Nibal A. Zaghloul
+19521642|NCT02981628|215305244|Principal Investigator|Archana Sharma
+19521643|NCT02981628|215305245|Principal Investigator|Teena Bhatla
+19521644|NCT02981628|215305246|Principal Investigator|Alissa Kahn
+19521645|NCT02981628|215305247|Principal Investigator|Lauren R. Weintraub
+19521646|NCT02981628|215305248|Principal Investigator|Mahmut Y. Celiker
+19521647|NCT02981628|215305249|Principal Investigator|Clare J. Twist
+19521648|NCT02981628|215305250|Principal Investigator|Chana L. Glasser
+19521649|NCT02981628|215305251|Principal Investigator|Julie I. Krystal
+19521650|NCT02981628|215305252|Principal Investigator|Elizabeth A. Raetz
+19521651|NCT02981628|215305253|Principal Investigator|Pallavi M. Pillai
+19521652|NCT02981628|215305254|Principal Investigator|Kavitha Ramaswamy
+19521653|NCT02981628|215305255|Principal Investigator|Craig A. Mullen
+19521654|NCT02981628|215305256|Principal Investigator|Laura E. Hogan
+19521655|NCT02981628|215305257|Principal Investigator|Philip M. Monteleone
+19521656|NCT02981628|215305259|Principal Investigator|Douglas J. Scothorn
+19521657|NCT02981628|215305261|Principal Investigator|Lars M. Wagner
+19521658|NCT02981628|215305262|Principal Investigator|Andrea R. Whitfield
+19521659|NCT02981628|215305263|Principal Investigator|Thomas W. McLean
+19521660|NCT02981628|215305264|Principal Investigator|Samuel J. Milanovich
+19521661|NCT02981628|215305265|Principal Investigator|Erin Wright
+19521662|NCT02981628|215305266|Principal Investigator|Maureen M. O'Brien
+19521663|NCT02981628|215305267|Principal Investigator|Rabi Hanna
+19521664|NCT02981628|215305268|Principal Investigator|Mark A. Ranalli
+19521665|NCT02981628|215305269|Principal Investigator|Mukund G. Dole
+19521666|NCT02981628|215305270|Principal Investigator|Jamie L. Dargart
+19521667|NCT02981628|215305271|Principal Investigator|Rene Y. McNall-Knapp
+19521668|NCT02981628|215305272|Principal Investigator|Janice F. Olson
+19521669|NCT02981628|215305273|Principal Investigator|Bill H. Chang
+19521670|NCT02981628|215305274|Principal Investigator|Jacob A. Troutman
+19521671|NCT02981628|215305275|Principal Investigator|Jagadeesh Ramdas
+19521672|NCT02981628|215305276|Principal Investigator|Lisa M. McGregor
+19521673|NCT02981628|215305277|Principal Investigator|Susan R. Rheingold
+19521674|NCT02981628|215305278|Principal Investigator|Gregory E. Halligan
+19521675|NCT02981628|215305279|Principal Investigator|Andrew Bukowinski
+19521676|NCT02981628|215305280|Principal Investigator|Jennifer J. Welch
+19521677|NCT02981628|215305281|Principal Investigator|Jacqueline M. Kraveka
+19521678|NCT02981628|215305282|Principal Investigator|Stuart L. Cramer
+19521679|NCT02981628|215305283|Principal Investigator|Aniket Saha
+19521680|NCT02981628|215305284|Principal Investigator|Kayelyn J. Wagner
+19521681|NCT02981628|215305285|Principal Investigator|Benjamin A. Mixon
+19521682|NCT02981628|215305286|Principal Investigator|Susan E. Spiller
+19521683|NCT02981628|215305287|Principal Investigator|Sima C. Jeha
+19521684|NCT02981628|215305288|Principal Investigator|Jennifer A. Domm
+19521685|NCT02981628|215305289|Principal Investigator|Debra L. Friedman
+19521686|NCT02981628|215305290|Principal Investigator|Shannon M. Cohn
+19521687|NCT02981628|215305291|Principal Investigator|Nkechi I. Mba
+19521688|NCT02981628|215305292|Principal Investigator|Stanton C. Goldman
+19521689|NCT02981628|215305293|Principal Investigator|Tamra L. Slone
+19521690|NCT02981628|215305294|Principal Investigator|Ranjan Bista
+19521691|NCT02981628|215305295|Principal Investigator|Kenneth M. Heym
+19521692|NCT02981628|215305296|Principal Investigator|Joanna S. Yi
+19521693|NCT02981628|215305297|Principal Investigator|Kishor M. Bhende
+19521694|NCT02981628|215305298|Principal Investigator|Erin K. Barr
+19521695|NCT02981628|215305299|Principal Investigator|Timothy C. Griffin
+19521696|NCT02981628|215305300|Principal Investigator|Jose M. Esquilin
+19521697|NCT02981628|215305301|Principal Investigator|Anne-Marie R. Langevin
+19521698|NCT02981628|215305302|Principal Investigator|Luke D. Maese
+19521699|NCT02981628|215305303|Principal Investigator|Jessica L. Heath
+19521700|NCT02981628|215305304|Principal Investigator|William C. Petersen
+19521701|NCT02981628|215305305|Principal Investigator|Robin Y. Dulman
+19521702|NCT02981628|215305306|Principal Investigator|Eric J. Lowe
+19521703|NCT02981628|215305307|Principal Investigator|Sarah E. Leary
+19521704|NCT02981628|215305308|Principal Investigator|Judy L. Felgenhauer
+19521705|NCT02981628|215305309|Principal Investigator|Ashley E. Meyer
+19521706|NCT02981628|215305312|Principal Investigator|Jhon A. Guerra
+19489976|NCT03874897|214956914|Principal Investigator|Lin Shen, MD
+19522282|NCT05334823|215307730|Principal Investigator|Tianyou Wang, M.D
+19522283|NCT05334823|215307730|Sub-Investigator|Ruidong Zhang, M.D
+19522284|NCT05334823|215307731|Principal Investigator|Jin Pan, M.D
+19522285|NCT05334823|215307732|Principal Investigator|Qun Hu, M.D
+19522286|NCT05334823|215307732|Sub-Investigator|Aiguo Liu, M.D
+19522287|NCT05334823|215307732|Sub-Investigator|Yaqin Wang, M.D
+19522288|NCT05334823|215307732|Sub-Investigator|Ai Zhang, M.D
+19522289|NCT05334823|215307733|Principal Investigator|Liang Huang, M.D
+19522290|NCT05334823|215307733|Sub-Investigator|Zhenya Hong, M.D
+19522291|NCT05334823|215307733|Sub-Investigator|Di Wang, M.D
+19522292|NCT05334823|215307734|Principal Investigator|Runming Jin, M.D
+19522293|NCT05334823|215307734|Sub-Investigator|Xiaoyan Wu, M.D
+19522294|NCT05334823|215307735|Principal Investigator|Hongling Peng, M.D
+19522295|NCT05334823|215307735|Sub-Investigator|Yajuan Cui, M.D
+19522296|NCT05334823|215307735|Sub-Investigator|Ruijuan Li, M.D
+19522297|NCT05334823|215307736|Principal Investigator|Shaoyan Hu, M.D
+19522298|NCT05334823|215307737|Principal Investigator|Fei Li, M.D
+19522299|NCT05334823|215307737|Sub-Investigator|Min Yu, M.D
+19522300|NCT05334823|215307737|Sub-Investigator|Fancong Kong, M.D
+19522301|NCT05334823|215307738|Principal Investigator|Ju Gao, M.D
+19522302|NCT05334823|215307739|Principal Investigator|Xiaofan Zhu, M.D
+19522303|NCT05334823|215307739|Sub-Investigator|Yumei Chen, M.D
+19490437|NCT03902197|214965121|Principal Investigator|Zhiguo Chen, PhD
+19490438|NCT03902197|214965121|Principal Investigator|Huyong Zheng, MD, PhD
+19490439|NCT03902197|214965121|Sub-Investigator|Yu Zhao, PhD
+19490515|NCT03881761|214966171|Sub-Investigator|Quanli Gao, Dr.
+19524668|NCT04855253|215324627|Principal Investigator|Veronika Bachanova, MD
+19524736|NCT04049383|215325606|Principal Investigator|Julie-An Talano, MD
+19524829|NCT03564977|215328726|Principal Investigator|Ketao Lan, M.D
+19524830|NCT03564977|215328726|Sub-Investigator|Xuezhen Ma, M.D
+19524831|NCT03564977|215328726|Sub-Investigator|Ling Wang, M.D
+19525327|NCT04888442|215337552|Principal Investigator|Jianfeng zhou, M.D. Ph.D
+19525328|NCT04888442|215337552|Sub-Investigator|Xiaoxi Zhou, M.D
+19525329|NCT04888442|215337552|Sub-Investigator|Liang Huang, M.D
+19525330|NCT04888442|215337552|Sub-Investigator|Jia Wei, M.D
+19526008|NCT03179007|215347287|Principal Investigator|Jiangtao Wang
+19398505|NCT05596266|213500316|Principal Investigator|Zhiguo Chen, PhD
+19398506|NCT05596266|213500316|Principal Investigator|Huyong Zheng, MD, PhD
+19491090|NCT04823091|214977217|Principal Investigator|Heng Mei, M.D., Ph.D
+19529699|NCT04473937|215379923|Principal Investigator|Chirayu G Patel, MD, MPH
+19529700|NCT04473937|215379923|Principal Investigator|Matthew J Frigault, MD
+19530415|NCT03528421|215392141|Principal Investigator|Jun Zhu
+19530527|NCT03927261|215393487|Principal Investigator|David A Sallman, MD
+19530528|NCT03927261|215393487|Principal Investigator|Nelli Bejanyan, MD
+19530529|NCT03927261|215393488|Principal Investigator|Hassan Alkhateeb, MD
+19531232|NCT05202782|215404085|Principal Investigator|Reem Karmali
+19531233|NCT05202782|215404086|Principal Investigator|Nirav Shah, MD
+19531314|NCT05191472|215404372|Principal Investigator|Alfred Chung, MD
+19531315|NCT05191472|215404372|Sub-Investigator|Nina Shah, MD
+19532024|NCT04577326|215412199|Principal Investigator|Roisin O'Cearbhaill, MD
+19491574|NCT05234190|214982800|Principal Investigator|James Ferguson, MBChB, MRCP, MD, FRCP
+19491575|NCT05234190|214982801|Principal Investigator|Kourosh Saeb-Parsy, MA MB BChir FRCS PhD
+19491576|NCT05234190|214982801|Sub-Investigator|Ben Uttenthal
+19491577|NCT05234190|214982802|Sub-Investigator|Neil Halliday
+19491578|NCT05234190|214982803|Principal Investigator|Alberto Sanchez Fueyo, MD, PhD
+19491579|NCT05234190|214982803|Sub-Investigator|Alison Taylor, MD
+19399980|NCT03373097|213510839|Principal Investigator|Franco Locatelli, MD, PhD
+19491652|NCT03706326|214983986|Principal Investigator|Yiguang Lin, MD, PhD
+19491653|NCT03706326|214983986|Principal Investigator|Size Chen, MD, PhD
+19491654|NCT03706326|214983986|Sub-Investigator|Micheal Yin, PhD
+19439854|NCT04975555|214122416|Principal Investigator|Mayur S Narkhede, M.D
+19439855|NCT04975555|214122416|Sub-Investigator|Amitkumar Mehta, M.D
+19439856|NCT04975555|214122416|Sub-Investigator|Gaurav Goyal, M.D
+19439857|NCT04975555|214122416|Sub-Investigator|Susan Bal, M.D
+19439858|NCT04975555|214122416|Sub-Investigator|Pankit Vachhani, M.D
+19439859|NCT04975555|214122416|Sub-Investigator|Smith Giri, M.D
+19439862|NCT04226989|214122489|Principal Investigator|He Huang, MD
+19440188|NCT05323201|214133431|Principal Investigator|Wei Xu, M.D.
+19440189|NCT05323201|214133431|Sub-Investigator|Gang Wang, Ph.D.
+19400687|NCT01735604|213522348|Principal Investigator|Han weidong, Doctor
+19400688|NCT01735604|213522348|Sub-Investigator|Bo Jian, Doctor
+19400689|NCT01735604|213522348|Sub-Investigator|Wang Yao, Master
+19359243|NCT05634785|213016618|Principal Investigator|Matthew Milowsky, MD
+19359324|NCT05366179|213016963|Principal Investigator|Yasmeen Rauf, MD
+19359413|NCT04977024|213017912|Principal Investigator|Sanjeet S. Dadwal
+19359793|NCT03721068|213020446|Principal Investigator|Muna Qayed
+19359794|NCT03721068|213020447|Principal Investigator|George Hucks, MD
+19359798|NCT03672318|213020455|Principal Investigator|Sascha Tuchman, MD, MPS
+19359870|NCT03016377|213021941|Principal Investigator|Natalie Grover, MD
+19440678|NCT04205838|214141601|Principal Investigator|John M. Timmerman, M.D.
+19360634|NCT04796688|213036014|Principal Investigator|Heng Mei, M.D., Ph.D
+19360679|NCT02247609|213036444|Principal Investigator|Jun Zhu, MD
+19360996|NCT05123001|213041972|Principal Investigator|Surbhi Sidana, MD
+19360997|NCT05123001|213041972|Sub-Investigator|Michael P. Snyder, PhD
+19360998|NCT05123001|213041972|Sub-Investigator|David Miklos, MD, PhD
+19360999|NCT05123001|213041972|Sub-Investigator|Matthew Frank, MD, PhD
+19361000|NCT05123001|213041972|Sub-Investigator|Theresa Latchford, MS
+19361001|NCT05123001|213041972|Sub-Investigator|Ryan Kellogg, PhD
+19361031|NCT05577000|213042462|Principal Investigator|Thomas Martin, MD
+19362282|NCT04318327|213056865|Principal Investigator|Benjamin Derman
+19362283|NCT04318327|213056866|Principal Investigator|Andrew Branagan
+19362284|NCT04318327|213056867|Principal Investigator|Jessica Liegel
+19362285|NCT04318327|213056868|Principal Investigator|Adam Sperling
+19362286|NCT04318327|213056869|Principal Investigator|Anita D Souza
+19362433|NCT03241940|213058010|Principal Investigator|Crystal L. Mackall
+19362434|NCT03233854|213058011|Sub-Investigator|David B. Miklos, MD, PhD
+19362435|NCT03233854|213058011|Principal Investigator|Lori Muffly, MD, MS
+19362436|NCT03233854|213058011|Sub-Investigator|Laura Johnston, MD
+19362437|NCT03233854|213058011|Sub-Investigator|Everett Meyer, MD, PhD
+19362438|NCT03233854|213058011|Sub-Investigator|Andrew Rezvani, MD
+19362439|NCT03233854|213058011|Sub-Investigator|Wen Kai Weng, MD, PhD
+19362440|NCT03233854|213058011|Sub-Investigator|Matthew Frank, MD, PhD
+19362441|NCT03233854|213058011|Sub-Investigator|Wes (Janice) Brown, MD
+19362442|NCT03233854|213058011|Sub-Investigator|Sushma Bharadwaj, MD
+19362443|NCT03233854|213058011|Sub-Investigator|Sally Arai, MD
+19362444|NCT03233854|213058011|Sub-Investigator|Robert Lowsky, MD
+19362445|NCT03233854|213058011|Sub-Investigator|Robert Negrin, MD
+19362446|NCT03233854|213058011|Sub-Investigator|Judith Shizuru, MD, PhD
+19362447|NCT03233854|213058011|Sub-Investigator|Praveen Shiraz, MD
+19362448|NCT03233854|213058011|Sub-Investigator|Surbhi Sidana, MD
+19362449|NCT03233854|213058011|Sub-Investigator|Melody Smith, MD, MS
+19402222|NCT01864889|213539714|Sub-Investigator|Yao Wang, Dr.
+19402223|NCT01864902|213539715|Sub-Investigator|Ying Liu, Dr.
+19402224|NCT01864902|213539715|Sub-Investigator|Yao Wang, Dr.
+19402471|NCT05225363|213542115|Principal Investigator|Lorna Rodriguez
+19364719|NCT05241392|213090623|Principal Investigator|Nan Ji, Dr.
+19364720|NCT05241392|213090623|Sub-Investigator|Yang Zhang, Dr.
+19442401|NCT04169932|214183547|Principal Investigator|Jianyong Li
+19442530|NCT04163302|214189522|Principal Investigator|Quanshun Wang
+19442531|NCT04163302|214189522|Principal Investigator|Lixun Guan
+19442532|NCT04163302|214189522|Principal Investigator|Wenshuai Zheng
+19442533|NCT04163302|214189522|Principal Investigator|Zhenyang Gu
+19442534|NCT04163302|214189522|Principal Investigator|Lu Wang
+19442535|NCT04163302|214189522|Principal Investigator|Yuanyuan Xu
+19442536|NCT04163302|214189522|Principal Investigator|Yalei Hu
+19403153|NCT01886976|213546363|Principal Investigator|Yao Wang, Ph.D
+19403154|NCT01886976|213546363|Principal Investigator|Quanshun Wang, Ph.D
+19494527|NCT02456350|215024445|Principal Investigator|Xin Du, M.D., Ph.D.
+19494528|NCT02456350|215024445|Principal Investigator|Mingjun Wang, M.D., Ph.D.
+19494529|NCT02456350|215024445|Principal Investigator|Geng Tian, M.D., Ph.D.
+19494530|NCT02456350|215024445|Principal Investigator|Weihong Chen, M.D., Ph.D.
+19445142|NCT02710149|214231281|Principal Investigator|Cheng Qian, PhD
+19445188|NCT03500991|214232278|Principal Investigator|Nicholas Vitanza, MD
+19445262|NCT04107142|214235618|Principal Investigator|Lucas Luk
+19446351|NCT05451212|214250489|Principal Investigator|Ali Habib, MD
+19446352|NCT05451212|214250490|Principal Investigator|David Richman, MD
+19446353|NCT05451212|214250491|Principal Investigator|Mazen Dimachkie, MD
+19446354|NCT05451212|214250493|Principal Investigator|Nizar Chahin, MD
+19497722|NCT05665725|215089748|Principal Investigator|Timothy J. Voorhees, MD, MSCR
+19497761|NCT05648019|215089866|Principal Investigator|Aloysius Ho
+19497762|NCT05648019|215089867|Principal Investigator|Shui Yen Soh
+19365489|NCT04544592|213100045|Principal Investigator|Amy Keating
+19409263|NCT02958397|213629112|Principal Investigator|Cheng Qian, PhD
+19409845|NCT01818323|213667503|Principal Investigator|John Maher
+19410134|NCT05020444|213678230|Principal Investigator|Matthew J Frigault, MD
+19535011|NCT04447573|215455435|Principal Investigator|Peihua Lu, PhD&MD
+19535012|NCT04447573|215455435|Sub-Investigator|Jianqiang Li, PhD&MD
+19410218|NCT04214392|213678788|Principal Investigator|Behnam Badie
+19535692|NCT03322735|215462129|Principal Investigator|Yongping Song
+19535845|NCT03312205|215463997|Principal Investigator|Peihua Lu, PhD & MD
+19535846|NCT03312205|215463997|Sub-Investigator|Jianqiang Li, PhD & MD
+19535878|NCT05044039|215464522|Principal Investigator|Armin Ghobadi, M.D.
+19535879|NCT05044039|215464522|Sub-Investigator|John F Dipersio, M.D., Ph.D.
+19535880|NCT05044039|215464522|Sub-Investigator|Michael Slade, M.D.
+19535881|NCT05044039|215464522|Sub-Investigator|Feng Gao, Ph.D.
+19535961|NCT03281551|215465548|Principal Investigator|Jianliang Shen
+19535962|NCT03281551|215465548|Sub-Investigator|Lixin Wang
+19536131|NCT03121625|215467660|Principal Investigator|Lihong Liu, PhD & MD
+19536132|NCT03121625|215467660|Sub-Investigator|Jianqiang Li, PhD & MD
+19537035|NCT04966143|215475594|Principal Investigator|Bin Liu
+19537036|NCT04966143|215475594|Principal Investigator|Wenxing Zhao
+19451111|NCT04162119|214275133|Principal Investigator|Quanshun Wang
+19451112|NCT04162119|214275133|Principal Investigator|Lixun Guan
+19451113|NCT04162119|214275133|Principal Investigator|Wenshuai Zheng
+19451114|NCT04162119|214275133|Principal Investigator|Zhenyang Gu
+19451115|NCT04162119|214275133|Principal Investigator|Lu Wang
+19451116|NCT04162119|214275133|Principal Investigator|Yuanyuan Xu
+19451117|NCT04162119|214275133|Principal Investigator|Yalei Hu
+19410694|NCT02958384|213691515|Principal Investigator|Cheng Qian, PhD
+19537732|NCT04745559|215482312|Sub-Investigator|Julio C Chavez, MD, MS
+19537733|NCT04745559|215482312|Sub-Investigator|Marco Davila, MD, PhD
+19537734|NCT04745559|215482312|Sub-Investigator|Michael Jain, MD, PhD
+19537735|NCT04745559|215482312|Sub-Investigator|Farhad Khimani, MD
+19537736|NCT04745559|215482312|Sub-Investigator|Aleksandr Lazaryan, MD, PhD, MPH
+19537737|NCT04745559|215482312|Sub-Investigator|Dasom Lee, MD
+19537738|NCT04745559|215482312|Sub-Investigator|Javier Pinilla, MD, PhD
+19537739|NCT04745559|215482312|Sub-Investigator|Bijal D Shah, MD, MS
+19411064|NCT02963038|213712921|Principal Investigator|Jianmin Luo, PhD & MD
+19411065|NCT02963038|213712921|Sub-Investigator|Jianqiang Li, PhD & MD
+19411365|NCT02958410|213735914|Principal Investigator|Cheng Qian, PhD
+19451720|NCT05064787|214290477|Principal Investigator|Sherry Adkins, MSN
+19452481|NCT05627323|214301434|Principal Investigator|Behnam Badie
+19452482|NCT05627323|214301435|Principal Investigator|Araviad Ramakrishnan, MD
+19452776|NCT04984356|214302979|Principal Investigator|Ibrahim Aldoss, MD
+19452777|NCT04984356|214302980|Principal Investigator|Deepa Bhojwani, MD
+19452778|NCT04984356|214302981|Principal Investigator|Rawan Faramand, MD
+19452779|NCT04984356|214302982|Principal Investigator|Armin Ghobadi, MD
+19452780|NCT04984356|214302983|Principal Investigator|Shannon Maude, MD
+19452781|NCT04984356|214302984|Principal Investigator|Bhagirathbhai Dholaria, MD
+19452782|NCT04984356|214302985|Principal Investigator|Ryan Mattison, MD
+19452783|NCT04984356|214302987|Principal Investigator|Nicolas Boissel, MD PhD
+19452784|NCT04984356|214302988|Principal Investigator|Andre Baruchel, MD
+19452785|NCT04984356|214302989|Principal Investigator|Anita Rijneveld, MD
+19452786|NCT04984356|214302990|Principal Investigator|Friso Calkoen, MD
+19367180|NCT05070156|213126606|Principal Investigator|Qing Xu
+19367181|NCT05070156|213126606|Sub-Investigator|Jianhua Chen
+19538356|NCT05422521|215493106|Principal Investigator|Philippe VIAU, MD
+19538357|NCT05422521|215493106|Sub-Investigator|Mickael LOSCHI, MD
+19367732|NCT05397496|213135129|Principal Investigator|Lia Lia Palomba
+19455191|NCT05172596|214335569|Principal Investigator|Surbhi Sidana
+19455192|NCT05172596|214335570|Principal Investigator|Sagar Lonial
+19455193|NCT05172596|214335571|Principal Investigator|Adam Sperling
+19455194|NCT05172596|214335572|Principal Investigator|Andy Chen
+19455195|NCT05172596|214335573|Principal Investigator|Usama Gergis
+19455196|NCT05172596|214335574|Principal Investigator|Rahul Banerjee
+19498265|NCT04083495|215093748|Principal Investigator|Anne Beaven, MD
+19498266|NCT04083495|215093749|Principal Investigator|Rakhee Vaidya, MD
+19412068|NCT05518253|213745192|Principal Investigator|Weijia fang, MD
+19538807|NCT03191773|215497697|Principal Investigator|Yirong Jiang, MD
+19538808|NCT03191773|215497698|Principal Investigator|Zhuowen Chen, MD
+19538809|NCT03191773|215497699|Principal Investigator|Shunqing Wang, MD
+19538810|NCT03191773|215497700|Principal Investigator|Xueyi Pan, MD
+19538811|NCT03191773|215497701|Principal Investigator|Ying Feng, MD
+19538866|NCT03182803|215498244|Principal Investigator|Jiangtao Wang
+19498544|NCT02134262|215095569|Principal Investigator|Keiya Ozawa, MD, PhD
+19369544|NCT05141253|213164737|Principal Investigator|Qinglei Gao, PhD, MD
+19369696|NCT03029273|213167810|Principal Investigator|Shiyue Li, MD
+19369697|NCT03029273|213167810|Principal Investigator|Chengzhi Zhou, MD
+19370491|NCT02445222|213181574|Principal Investigator|Alan Wayne
+19370492|NCT02445222|213181575|Principal Investigator|Charalambos Andreadis
+19370493|NCT02445222|213181576|Principal Investigator|Kara Davis
+19370494|NCT02445222|213181577|Principal Investigator|Jonathon Cohen
+19370495|NCT02445222|213181578|Principal Investigator|Muna Qayed
+19370496|NCT02445222|213181579|Principal Investigator|Michael R. Bishop
+19370497|NCT02445222|213181580|Principal Investigator|Joseph P McGuirk
+19370498|NCT02445222|213181581|Principal Investigator|Gregory Yanik
+19370499|NCT02445222|213181582|Principal Investigator|John Magenau
+19370500|NCT02445222|213181583|Principal Investigator|Veronika Bachanova
+19370501|NCT02445222|213181584|Principal Investigator|Gary Myers, MD
+19370502|NCT02445222|213181584|Principal Investigator|Gary D. Myers
+19370503|NCT02445222|213181586|Principal Investigator|Paul L. Martin
+19370504|NCT02445222|213181587|Principal Investigator|Stella M. Davies
+19370505|NCT02445222|213181588|Principal Investigator|Samantha Jaglowski
+19370506|NCT02445222|213181589|Principal Investigator|Brandon Hayes-Lattin
+19370507|NCT02445222|213181590|Principal Investigator|Stephan Grupp
+19370508|NCT02445222|213181591|Principal Investigator|Noelle Frey
+19370509|NCT02445222|213181592|Principal Investigator|Theodore Laetsch, MD
+19370510|NCT02445222|213181592|Principal Investigator|Theodore Laetsch
+19370511|NCT02445222|213181593|Principal Investigator|Jason Westin
+19370512|NCT02445222|213181594|Principal Investigator|Michael Boyer, MD
+19370513|NCT02445222|213181594|Principal Investigator|Michael Boyer
+19370514|NCT02445222|213181595|Principal Investigator|Christian Capitini
+19370521|NCT04003649|213182297|Principal Investigator|Behnam Badie
+19499585|NCT05020392|215106483|Principal Investigator|Yu Hu, M.D., Ph.D
+19499590|NCT04881240|215106527|Principal Investigator|Aimee C. Talleur, MD
+19499591|NCT04881240|215106527|Principal Investigator|Stephen Gottschalk, MD
+19499628|NCT04146051|215107324|Principal Investigator|Gregory Sahagian, MD
+19499629|NCT04146051|215107325|Principal Investigator|Tahseen Mozaffar, MD
+19499630|NCT04146051|215107326|Principal Investigator|Thomas Ragole, M.D.
+19499631|NCT04146051|215107327|Principal Investigator|Marc Feinberg, MD
+19499632|NCT04146051|215107328|Principal Investigator|Adam Slansky, MD
+19499633|NCT04146051|215107329|Principal Investigator|Tuan H. Vu, MD
+19499634|NCT04146051|215107330|Principal Investigator|Michael Rivner, MD
+19499635|NCT04146051|215107331|Principal Investigator|Mamatha Pasnoor, M.D.
+19499636|NCT04146051|215107332|Principal Investigator|Bennett Myers, MD
+19499637|NCT04146051|215107333|Principal Investigator|James F Howard, MD
+19499638|NCT04146051|215107334|Principal Investigator|Nizar Chahin, MD
+19499639|NCT04146051|215107335|Principal Investigator|Chafic Karam, M.D.
+19499640|NCT04146051|215107336|Principal Investigator|George Small, M.D.
+19499641|NCT04146051|215107337|Principal Investigator|Kelly Gwathmey, M.D.
+19499642|NCT04146051|215107338|Principal Investigator|Zaeem Siddiqi, M.D.
+19371193|NCT05445011|213193413|Principal Investigator|Heng Mei, M.D., Ph.D
+19371312|NCT05326243|213194535|Principal Investigator|Shyh-Shin Chiou
+19371313|NCT05326243|213194536|Principal Investigator|Shang-Ju Wu
+19371314|NCT05326243|213194537|Principal Investigator|Liang-Tsai Hsiao
+19372121|NCT05620342|213202209|Principal Investigator|Jared Weiss, MD
+19501762|NCT03525782|215138764|Principal Investigator|Yiguang Lin, MD, PhD
+19501763|NCT03525782|215138764|Principal Investigator|Size Chen, MD, PhD
+19501764|NCT03525782|215138764|Sub-Investigator|Micheal Yin, PhD
+19501765|NCT03525782|215138765|Principal Investigator|Yiguang Lin, MD, PhD
+19501766|NCT03525782|215138765|Sub-Investigator|Micheal Yin, PhD
+19501830|NCT05429905|215139274|Principal Investigator|Michaela Seng
+19501831|NCT05429905|215139274|Principal Investigator|Francesca Lorraine Lim Wei Inng
+19501832|NCT05429905|215139274|Principal Investigator|Liang Piu Koh
+19501839|NCT04173988|215139474|Principal Investigator|Wang hongsheng, PHD
+19501840|NCT04173988|215139474|Sub-Investigator|Cao Ping, master
+19501841|NCT04173988|215139474|Sub-Investigator|Shen Chen, bachelor
+19372486|NCT05257083|213204843|Principal Investigator|Leleu
+19372487|NCT05257083|213204858|Principal Investigator|Offidani
+19372488|NCT05257083|213204860|Principal Investigator|Aquino
+19372489|NCT05257083|213204900|Principal Investigator|Mateos
+19372490|NCT05257083|213204904|Principal Investigator|de la Rubia
+19457258|NCT03666000|214354526|Principal Investigator|Scott Solomon, MD
+19457259|NCT03666000|214354528|Principal Investigator|Abhinav Deol, MD
+19457260|NCT03666000|214354529|Principal Investigator|Fiona He, MD
+19457261|NCT03666000|214354530|Principal Investigator|Koen Van Besien, MD
+19457262|NCT03666000|214354531|Principal Investigator|Ran Reshef, MD
+19457263|NCT03666000|214354532|Principal Investigator|Adam Olszewski, MD
+19457517|NCT04185038|214356700|Principal Investigator|Nick Vitanza, MD
+19457550|NCT02715362|214357341|Principal Investigator|Xu Aimin, Doctor
+19503029|NCT05038696|215151595|Sub-Investigator|Bernice Oh, M.D
+19503030|NCT05038696|215151595|Sub-Investigator|Noriko Shimasaki, M.D, PhD
+19503031|NCT05038696|215151595|Sub-Investigator|Michelle Poon, M.D
+19503032|NCT05038696|215151595|Sub-Investigator|Esther Chan, M.D
+19503033|NCT05038696|215151595|Sub-Investigator|Elaine Coustan-Smith, MS
+19458165|NCT02813837|214367948|Principal Investigator|Yu Hu, Ph.D
+19458166|NCT02813837|214367948|Principal Investigator|He Huang, Ph.D
+19503367|NCT03576807|215156916|Principal Investigator|Kailin K Xu, DOCTOR
+19540370|NCT05302037|215511767|Principal Investigator|Raghav Sundar, MBBS
+19540983|NCT05633615|215517223|Principal Investigator|Charles W. Drescher
+19540984|NCT05633615|215517224|Principal Investigator|Charles W. Drescher
+19540985|NCT05633615|215517225|Principal Investigator|Charles W. Drescher
+19540986|NCT05633615|215517226|Principal Investigator|Charles W. Drescher
+19540987|NCT05633615|215517227|Principal Investigator|Charles W. Drescher
+19540988|NCT05633615|215517228|Principal Investigator|Kathleen J. Yost
+19540989|NCT05633615|215517229|Principal Investigator|Kathleen J. Yost
+19540990|NCT05633615|215517230|Principal Investigator|Kathleen J. Yost
+19540991|NCT05633615|215517231|Principal Investigator|Kathleen J. Yost
+19540992|NCT05633615|215517232|Principal Investigator|Kathleen J. Yost
+19540993|NCT05633615|215517233|Principal Investigator|Kathleen J. Yost
+19540994|NCT05633615|215517234|Principal Investigator|Kathleen J. Yost
+19540995|NCT05633615|215517235|Principal Investigator|Kathleen J. Yost
+19540996|NCT05633615|215517236|Principal Investigator|Kathleen J. Yost
+19540997|NCT05633615|215517237|Principal Investigator|Kathleen J. Yost
+19540998|NCT05633615|215517238|Principal Investigator|Howard R. Terebelo
+19540999|NCT05633615|215517239|Principal Investigator|Kathleen J. Yost
+19541000|NCT05633615|215517240|Principal Investigator|Kathleen J. Yost
+19541001|NCT05633615|215517241|Principal Investigator|Paul M. Barr
+19541002|NCT05633615|215517242|Principal Investigator|Paul M. Barr
+19541003|NCT05633615|215517243|Principal Investigator|Nilanjan Ghosh
+19541004|NCT05633615|215517244|Principal Investigator|Rakhee Vaidya
+19541005|NCT05633615|215517245|Principal Investigator|Sami Ibrahimi
+19541006|NCT05633615|215517246|Principal Investigator|Charles W. Drescher
+19541007|NCT05633615|215517247|Principal Investigator|Charles W. Drescher
+19541008|NCT05633615|215517248|Principal Investigator|Charles W. Drescher
+19541009|NCT05633615|215517249|Principal Investigator|Charles W. Drescher
+19541010|NCT05633615|215517250|Principal Investigator|Suzanne R. Fanning
+19541011|NCT05633615|215517251|Principal Investigator|Brian T. Hess
+19541012|NCT05633615|215517252|Principal Investigator|Suzanne R. Fanning
+19541013|NCT05633615|215517253|Principal Investigator|Suzanne R. Fanning
+19541014|NCT05633615|215517254|Principal Investigator|Suzanne R. Fanning
+19541015|NCT05633615|215517255|Principal Investigator|Suzanne R. Fanning
+19541016|NCT05633615|215517256|Principal Investigator|Suzanne R. Fanning
+19541017|NCT05633615|215517257|Principal Investigator|Suzanne R. Fanning
+19541022|NCT05587543|215517339|Principal Investigator|Dongmei Ji, doctor
+19375219|NCT02690545|213226730|Principal Investigator|Anne Beaven, MD
+19459208|NCT05260957|214382809|Principal Investigator|Lazaros Lekakis, MD
+19459263|NCT03999697|214384483|Principal Investigator|Lin Yang, Ph.D
+19459421|NCT02617134|214389301|Principal Investigator|Yangyi Bao, MD
+19459422|NCT02617134|214389301|Principal Investigator|Xiang Sun, MD
+19459423|NCT02617134|214389301|Principal Investigator|Lin Yang, Ph.D.
+19414040|NCT04420754|213761685|Principal Investigator|Victoria Villaflor, MD
+19414041|NCT04420754|213761686|Principal Investigator|Jochen Lorch, MD
+19414042|NCT04420754|213761688|Principal Investigator|Samer Srour, MB ChB
+19414043|NCT04420754|213761688|Sub-Investigator|Maria E Cabanillas, MD
+19414044|NCT04420754|213761688|Sub-Investigator|Mark Zafereo, MD, FACS
+19459967|NCT02644655|214404771|Principal Investigator|Qijun Qian, PHD
+19459968|NCT02644655|214404771|Principal Investigator|Huajun Jin, PHD
+19459969|NCT02644655|214404771|Principal Investigator|Zhengang Yuan, PHD
+19459970|NCT02644655|214404771|Sub-Investigator|Yao Huang, MD
+19459971|NCT02644655|214404771|Sub-Investigator|Fuping Zhou, MD
+19459972|NCT02644655|214404771|Sub-Investigator|Yongmei Ding, MD
+19460162|NCT05096234|214409051|Principal Investigator|David Miklos
+19545559|NCT05454241|215530793|Principal Investigator|Jianxiang Wang, Dr.
+19545565|NCT05432635|215530824|Principal Investigator|Alex L. Herrera
+19507296|NCT04732845|215176036|Principal Investigator|Benjamin Tomlinson, MD
+19547500|NCT04484012|215535559|Principal Investigator|Elizabeth L. Budde
+19416542|NCT04601831|213788234|Principal Investigator|Kiran Kumar, MD
+19460551|NCT05535855|214413368|Principal Investigator|Marc Schwartz, MD
+19509708|NCT04697940|215194935|Sub-Investigator|Qingming Yang, M.D
+19509709|NCT04697940|215194935|Sub-Investigator|Yang Liu, M.D
+19509710|NCT04697940|215194935|Sub-Investigator|Chunmeng Wang, M.S
+19509711|NCT04697940|215194935|Sub-Investigator|Jinhong Shi, M.S
+19510052|NCT02081937|215200031|Principal Investigator|Yu Zhao, Dr.
+19510053|NCT02081937|215200031|Principal Investigator|Honghua Li, Dr.
+19418215|NCT04691284|213825946|Principal Investigator|Luboš Drgoňa, Assoc. Prof
+19418216|NCT04691284|213825946|Principal Investigator|Michal Mego, Prof
+19418217|NCT04691284|213825946|Principal Investigator|Soňa Čiernikova, PhD
+19418218|NCT04691284|213825946|Principal Investigator|Barbora Kašperová, MD
+19552468|NCT04981691|215555956|Principal Investigator|Jun Zhang, MD & Ph. D
+19418566|NCT02937103|213832695|Principal Investigator|Cheng Qian, PhD
+19418595|NCT02935153|213832786|Principal Investigator|Cheng Qian, PhD
+19418655|NCT02919046|213833643|Principal Investigator|Yongjun Fang, Ph.D
+19552776|NCT05123209|215558340|Principal Investigator|Jianming Xu, M.D.
+19419620|NCT05075603|213839592|Principal Investigator|Elizabeth Budde, MD, PhD
+19419621|NCT05075603|213839593|Principal Investigator|Abhinav Deol
+19419622|NCT05075603|213839594|Principal Investigator|Armin Ghobadi, MD
+19419623|NCT05075603|213839595|Principal Investigator|Ahmed Galal, MD
+19510409|NCT04781634|215202650|Principal Investigator|Sanbin Wang, MD
+19510410|NCT04776330|215202651|Principal Investigator|Sanbin Wang, MD
+19510416|NCT04649983|215202756|Principal Investigator|Sanbin Wang, MD
+19510417|NCT04648475|215202757|Principal Investigator|Cheng Qian, PhD
+19510418|NCT04648475|215202757|Principal Investigator|Ying Xiang, MD
+19510444|NCT04348643|215202876|Principal Investigator|Cheng Qian, PhD
+19510445|NCT04348643|215202876|Principal Investigator|Donglin Wang, MD
+19510446|NCT04348643|215202877|Principal Investigator|Ning Li, MD
+19510447|NCT04348643|215202877|Sub-Investigator|Yijie Ma, MM
+19510449|NCT04272151|215202897|Principal Investigator|Cheng Qian, PhD
+19510450|NCT04272151|215202897|Principal Investigator|Ying Xiang, MD
+19510451|NCT04272125|215202898|Principal Investigator|Cheng Qian, PhD
+19510452|NCT04272125|215202898|Principal Investigator|Ying Xiang, MD
+19510453|NCT04271800|215202899|Principal Investigator|Cheng Qian, PhD
+19510454|NCT04271800|215202899|Principal Investigator|Ying Xiang, MD
+19510455|NCT04271644|215202900|Principal Investigator|Sanbin Wang, MD
+19510456|NCT04271410|215202901|Principal Investigator|Sanbin Wang, MD
+19510457|NCT04265963|215202902|Principal Investigator|Sanbin Wang, MD
+19420109|NCT04662099|213850209|Principal Investigator|Heng Mei, M.D., Ph.D
+19511321|NCT02915445|215212127|Principal Investigator|Nianyong Cheng, MD
+19511322|NCT02915445|215212127|Principal Investigator|Kun Yang, MD
+19511408|NCT04703686|215213160|Principal Investigator|Jacques O Bay, MD
+19511409|NCT04703686|215213161|Principal Investigator|Fabien Le Bras, MD
+19511410|NCT04703686|215213162|Principal Investigator|Olivier Casasnovas, MD
+19511411|NCT04703686|215213163|Principal Investigator|Franck MORSCHHAUSER, MD PhD
+19511412|NCT04703686|215213164|Principal Investigator|Guillaume Cartron, MD PhD
+19511413|NCT04703686|215213165|Principal Investigator|Steven Le Gouill, MD PhD
+19511414|NCT04703686|215213166|Principal Investigator|Catherine THIEBLEMONT, MD PhD
+19511415|NCT04703686|215213167|Principal Investigator|Sylvain Choquet, MD
+19511416|NCT04703686|215213168|Principal Investigator|Mohamad Mohty, MD PhD
+19511417|NCT04703686|215213169|Principal Investigator|François X Gros, MD
+19511418|NCT04703686|215213170|Principal Investigator|Pierre Sesques, MD
+19511419|NCT04703686|215213171|Principal Investigator|Roch Houot, MD PhD
+19511420|NCT04703686|215213172|Principal Investigator|Hervé Tilly, MD PhD
+19511421|NCT04703686|215213173|Principal Investigator|Loïc Ysebaert, MD PhD
+19511422|NCT04703686|215213174|Principal Investigator|Pierre Feugier, MD
+19512353|NCT05393804|215222226|Principal Investigator|Gunjan Shah, MD
+19421609|NCT04666168|213887706|Principal Investigator|Baoen Shan, PhD & MD
+19421610|NCT04666168|213887706|Principal Investigator|Lihong Liu, PhD & MD
+19421611|NCT04666168|213887706|Sub-Investigator|Jianqiang Li, PhD & MD
+19421613|NCT04665076|213887734|Principal Investigator|Baoen Shan, PhD & MD
+19421614|NCT04665076|213887734|Principal Investigator|Lihong Liu, PhD & MD
+19421615|NCT04665076|213887734|Principal Investigator|Jianqiang Li, PhD & MD
+19421713|NCT04626739|213889733|Principal Investigator|Jianmin Luo, PhD & MD
+19421793|NCT04610125|213891012|Principal Investigator|Lian Jiang, MD
+19421794|NCT04610125|213891012|Sub-Investigator|Jianqiang Li, PhD & MD
+19553205|NCT05043571|215562471|Sub-Investigator|Bernice Oh, M.D
+19553206|NCT05043571|215562471|Sub-Investigator|Noriko Shimasaki, M.D, PhD
+19553207|NCT05043571|215562471|Sub-Investigator|Michelle Poon, M.D
+19553208|NCT05043571|215562471|Sub-Investigator|Esther Chan, M.D
+19553209|NCT05043571|215562471|Sub-Investigator|Elaine Coustan-Smith, MS
+19422200|NCT04546906|213900360|Principal Investigator|Peihua Lu, PhD&MD
+19422201|NCT04546906|213900360|Sub-Investigator|Jianqiang Li, PhD&MD
+19553380|NCT05281809|215565635|Sub-Investigator|Cyrus Khan, MD
+19553381|NCT05281809|215565635|Sub-Investigator|Salman Fazal, MD
+19553382|NCT05281809|215565635|Sub-Investigator|Anna Koget, DO
+19553383|NCT05281809|215565635|Sub-Investigator|Prerna Mewawalla, MD
+19553384|NCT05281809|215565635|Sub-Investigator|Santhosh Sadashiv, MD
+19553385|NCT05281809|215565635|Sub-Investigator|Yazan Samhouri, MD
+19553397|NCT04796675|215565689|Principal Investigator|Yu Hu, M.D., Ph.D
+19553398|NCT04803929|215565693|Principal Investigator|Jianping Lan
+19512900|NCT03710421|215235998|Principal Investigator|Myo Htut
+19553811|NCT04977193|215569040|Principal Investigator|June Song
+19553812|NCT04977193|215569040|Sub-Investigator|Li Li
+19377097|NCT05577091|213231971|Sub-Investigator|You Zhai, Dr.
+19377098|NCT05577091|213231971|Sub-Investigator|Guanzhang Li, Dr.
+19513218|NCT03208556|215244403|Principal Investigator|Jun Zhu, MD
+19513219|NCT03208556|215244403|Sub-Investigator|Zhitao Ying, MD
+19513220|NCT03208556|215244403|Sub-Investigator|Xiaoyu Xiang, PhD
+19377624|NCT05105152|213236975|Principal Investigator|Adam Lamble, MD
+19377780|NCT04571138|213238838|Principal Investigator|Emily Hsieh, MD
+19377781|NCT04571138|213238839|Principal Investigator|Anant Vatsayan, MD
+19377782|NCT04571138|213238840|Principal Investigator|Jodi Skiles, MD
+19377783|NCT04571138|213238841|Principal Investigator|Rayne Rouce, MD
+19377784|NCT04571138|213238842|Principal Investigator|Corinne Summers, MD
+19377982|NCT03330691|213242474|Principal Investigator|Emily Hsieh, MD
+19377983|NCT03330691|213242475|Principal Investigator|Anant Vatsayan, MD
+19377984|NCT03330691|213242476|Principal Investigator|Jodi Skiles, MD
+19377985|NCT03330691|213242477|Principal Investigator|Rebecca Gardner, MD
+19378227|NCT05416554|213250695|Sub-Investigator|Michelle Monje, MD, PhD
+19378228|NCT05416554|213250695|Sub-Investigator|Gayle Deutsch, PhD, ABPP
+19378229|NCT05416554|213250695|Sub-Investigator|Matthew J Frank, MD, PhD
+19378230|NCT05416554|213250695|Sub-Investigator|Sheila Lahijani, MD
+19378231|NCT05416554|213250695|Sub-Investigator|Tracy P Murray, MSN, RN, AGACNP-BC
+19513857|NCT03182816|215248842|Principal Investigator|Jiangtao Wang
+19554638|NCT04787263|215577380|Principal Investigator|Franco Locatelli, MD, PhD
+19554639|NCT04787263|215577380|Principal Investigator|Francesca del Bufalo, MD
+19461730|NCT02587689|214451099|Principal Investigator|Yangyi Bao, MD
+19461731|NCT02587689|214451099|Principal Investigator|Xiang Sun, MD
+19461732|NCT02587689|214451099|Principal Investigator|Lin Yang, Ph.D.
+19555012|NCT04892277|215579782|Principal Investigator|Saad J. Kenderian, M.D.
+19461804|NCT02580747|214453415|Sub-Investigator|Yao Wang, Dr.
+19555934|NCT05477927|215587196|Principal Investigator|YongShen Wang, Prof.
+19557962|NCT04136275|215637492|Principal Investigator|Matthew J. Frigault, MD
+19424171|NCT04324996|213951646|Principal Investigator|Jimin Gao, M.D.,Ph.D.
+19424172|NCT04324996|213951646|Principal Investigator|Min Liu, A.B.
+19463153|NCT04561557|214475105|Principal Investigator|Wei Wang, MD
+19463154|NCT04561557|214475105|Sub-Investigator|Bitao Bu, MD
+19463155|NCT04561557|214475105|Sub-Investigator|Min Zhang, MD
+19463156|NCT04561557|214475105|Sub-Investigator|Daishi Tian, MD
+19463157|NCT04561557|214475105|Sub-Investigator|Chuan Qin, MD
+19463158|NCT04561557|214475105|Sub-Investigator|Jianfeng Zhou, MD
+19463159|NCT04561557|214475105|Sub-Investigator|Chunrui Li, MD
+19463160|NCT04561557|214475105|Sub-Investigator|Di Wang, MD
+19424335|NCT02954445|213954903|Principal Investigator|Cheng Qian, PhD
+19424340|NCT02274584|213955070|Principal Investigator|Lung-Ji Chang, PhD
+19424341|NCT02274584|213955071|Principal Investigator|Jun Zhu, MD.
+19424550|NCT05149391|213959077|Principal Investigator|Yuqin Song, PhD&MD
+19424551|NCT05149391|213959077|Sub-Investigator|Zhitao Ying
+19424552|NCT05149391|213959077|Sub-Investigator|Yongjing Tang
+19424973|NCT02933775|213964258|Principal Investigator|Fangyuan Chen, MD
+19424974|NCT02933775|213964258|Sub-Investigator|Honghui Huang, MD
+19425135|NCT05562024|213967515|Principal Investigator|Jingfu Wang, Doctor
+19425136|NCT05562024|213967516|Principal Investigator|Qiang Zhao, Doctor
+19379224|NCT05336383|213269534|Principal Investigator|Penny Fang, MD
+19379227|NCT04337606|213270115|Principal Investigator|Weidong Han
+19379228|NCT04337606|213270115|Sub-Investigator|Yajing Zhang
+19379229|NCT04337606|213270115|Sub-Investigator|Yang Liu
+19379230|NCT04337606|213270115|Sub-Investigator|Qingming Yang
+19379231|NCT04337606|213270115|Sub-Investigator|Chunmeng Wang
+19379232|NCT04337606|213270115|Sub-Investigator|zhiqiang Wu
+19379233|NCT04337606|213270115|Sub-Investigator|Qian Mei
+19379234|NCT04337606|213270115|Sub-Investigator|Yao Wang
+19379235|NCT04337606|213270115|Sub-Investigator|Chuan Tong
+19379236|NCT04337606|213270115|Sub-Investigator|Hanren Dai
+19379237|NCT04337606|213270115|Sub-Investigator|Jing Nie
+19341590|NCT04410900|212822831|Principal Investigator|Joshua A. Hill
+19379735|NCT04816526|213281669|Principal Investigator|Stefan Ciurea, MD
+19379736|NCT04816526|213281670|Principal Investigator|Jesus G Berdeja, MD
+19464844|NCT05306080|214508243|Principal Investigator|David Porter, MD
+19466207|NCT04119024|214529970|Principal Investigator|Kim A. Margolin
+19466208|NCT04119024|214529971|Principal Investigator|Anusha Kalbasi
+19380100|NCT05190653|213310271|Sub-Investigator|Jessica Simon, MD
+19380101|NCT05190653|213310271|Sub-Investigator|Aynharan Sinnarajah, MD
+19380102|NCT05190653|213310271|Sub-Investigator|Sara Beattie, PhD
+19380103|NCT05190653|213310271|Principal Investigator|Reanne Booker, PhD(c) MN
+19515089|NCT03664661|215269154|Principal Investigator|Yongping Song
+19380559|NCT03676504|213316498|Principal Investigator|Prof. Dr. Michael Schmitt
+19380560|NCT03676504|213316498|Principal Investigator|Prof. Dr. Andreas Kulozik
+19342236|NCT05650749|212825755|Principal Investigator|Lisa Wray, MD
+19381213|NCT03696030|213337613|Principal Investigator|Jana L. Portnow
+19428371|NCT04530565|213990117|Principal Investigator|Sravanti Rangaraju
+19428372|NCT04530565|213990128|Principal Investigator|Haifaa Abdulhaq
+19428373|NCT04530565|213990130|Principal Investigator|Ibrahim Aldoss
+19428374|NCT04530565|213990131|Principal Investigator|James K. Mangan
+19428375|NCT04530565|213990132|Principal Investigator|Deepa Jeyakumar
+19428376|NCT04530565|213990133|Principal Investigator|Nikolai A. Podoltsev
+19428377|NCT04530565|213990134|Principal Investigator|Vamsi Kota
+19428378|NCT04530565|213990135|Principal Investigator|Craig S. Boddy
+19428379|NCT04530565|213990136|Principal Investigator|Craig S. Boddy
+19428380|NCT04530565|213990139|Principal Investigator|Craig S. Boddy
+19428381|NCT04530565|213990142|Principal Investigator|Craig S. Boddy
+19428382|NCT04530565|213990150|Principal Investigator|Alison K. Conlin
+19428383|NCT04530565|213990157|Principal Investigator|Shira N. Dinner
+19428384|NCT04530565|213990158|Principal Investigator|David L. Grinblatt
+19428385|NCT04530565|213990159|Principal Investigator|David L. Grinblatt
+19428386|NCT04530565|213990160|Principal Investigator|David L. Grinblatt
+19428387|NCT04530565|213990163|Principal Investigator|Stephanie B. Tsai
+19428388|NCT04530565|213990166|Principal Investigator|Joseph J. Merchant
+19428389|NCT04530565|213990167|Principal Investigator|Joseph J. Merchant
+19428390|NCT04530565|213990168|Principal Investigator|Joseph J. Merchant
+19428391|NCT04530565|213990169|Principal Investigator|Joseph J. Merchant
+19428392|NCT04530565|213990170|Principal Investigator|Joseph J. Merchant
+19428393|NCT04530565|213990171|Principal Investigator|Joseph J. Merchant
+19428394|NCT04530565|213990174|Principal Investigator|Kenneth Byrd
+19428395|NCT04530565|213990175|Principal Investigator|Kenneth Byrd
+19428396|NCT04530565|213990176|Principal Investigator|Kenneth Byrd
+19428397|NCT04530565|213990177|Principal Investigator|Mohamed M. Hegazi
+19428398|NCT04530565|213990179|Principal Investigator|Jonathan A. Webster
+19428399|NCT04530565|213990180|Principal Investigator|Alexander Dew
+19428400|NCT04530565|213990181|Principal Investigator|Justin Shaya
+19428401|NCT04530565|213990182|Principal Investigator|Justin Shaya
+19428402|NCT04530565|213990183|Principal Investigator|Justin Shaya
+19428403|NCT04530565|213990185|Principal Investigator|Justin Shaya
+19428404|NCT04530565|213990186|Principal Investigator|Justin Shaya
+19428405|NCT04530565|213990187|Principal Investigator|Justin Shaya
+19428406|NCT04530565|213990188|Principal Investigator|Justin Shaya
+19428407|NCT04530565|213990191|Principal Investigator|Jay Yang
+19428408|NCT04530565|213990192|Principal Investigator|Haythem Y. Ali
+19428409|NCT04530565|213990193|Principal Investigator|Jay Yang
+19428410|NCT04530565|213990194|Principal Investigator|Justin Shaya
+19428411|NCT04530565|213990195|Principal Investigator|Justin Shaya
+19428412|NCT04530565|213990196|Principal Investigator|Justin Shaya
+19428413|NCT04530565|213990197|Principal Investigator|Justin Shaya
+19428414|NCT04530565|213990199|Principal Investigator|Justin Shaya
+19428415|NCT04530565|213990203|Principal Investigator|Justin Shaya
+19428416|NCT04530565|213990204|Principal Investigator|Justin Shaya
+19428417|NCT04530565|213990205|Principal Investigator|Mark R. Litzow
+19428418|NCT04530565|213990206|Principal Investigator|Salil Goorha
+19428419|NCT04530565|213990209|Principal Investigator|Geoffrey L. Uy
+19428420|NCT04530565|213990210|Principal Investigator|Jay W. Carlson
+19428421|NCT04530565|213990212|Principal Investigator|Suman Kambhampati
+19428422|NCT04530565|213990217|Principal Investigator|Geoffrey L. Uy
+19428423|NCT04530565|213990219|Principal Investigator|Geoffrey L. Uy
+19428424|NCT04530565|213990220|Principal Investigator|Geoffrey L. Uy
+19428425|NCT04530565|213990221|Principal Investigator|Jay W. Carlson
+19428426|NCT04530565|213990222|Principal Investigator|Geoffrey L. Uy
+19428427|NCT04530565|213990228|Principal Investigator|Ioannis Mantzaris
+19428428|NCT04530565|213990229|Principal Investigator|Paul M. Barr
+19428429|NCT04530565|213990230|Principal Investigator|Harry P. Erba
+19428430|NCT04530565|213990231|Principal Investigator|Bayard L. Powell
+19428431|NCT04530565|213990232|Principal Investigator|Emily K. Curran
+19428432|NCT04530565|213990233|Principal Investigator|William Tse
+19428433|NCT04530565|213990234|Principal Investigator|Meixiao Long
+19428434|NCT04530565|213990235|Principal Investigator|Emily K. Curran
+19428435|NCT04530565|213990236|Principal Investigator|Mohamad Khawandanah
+19428436|NCT04530565|213990240|Principal Investigator|Alison K. Conlin
+19428437|NCT04530565|213990242|Principal Investigator|Alison K. Conlin
+19428438|NCT04530565|213990243|Principal Investigator|Alison K. Conlin
+19428439|NCT04530565|213990244|Principal Investigator|Alison K. Conlin
+19428440|NCT04530565|213990245|Principal Investigator|Alison K. Conlin
+19428441|NCT04530565|213990247|Principal Investigator|Justin Shaya
+19428442|NCT04530565|213990248|Principal Investigator|Justin Shaya
+19428443|NCT04530565|213990249|Principal Investigator|Joseph J. Vadakara
+19428444|NCT04530565|213990250|Principal Investigator|Justin Shaya
+19428445|NCT04530565|213990251|Principal Investigator|Keith W. Pratz
+19428446|NCT04530565|213990252|Principal Investigator|Lindsay Wilde
+19428447|NCT04530565|213990254|Principal Investigator|Joseph J. Vadakara
+19428448|NCT04530565|213990255|Principal Investigator|Suzanne R. Fanning
+19428449|NCT04530565|213990256|Principal Investigator|Praneeth Baratam
+19428450|NCT04530565|213990257|Principal Investigator|Suzanne R. Fanning
+19428451|NCT04530565|213990258|Principal Investigator|Suzanne R. Fanning
+19428452|NCT04530565|213990259|Principal Investigator|Suzanne R. Fanning
+19428453|NCT04530565|213990260|Principal Investigator|Suzanne R. Fanning
+19428454|NCT04530565|213990261|Principal Investigator|Suzanne R. Fanning
+19428455|NCT04530565|213990262|Principal Investigator|Suzanne R. Fanning
+19428456|NCT04530565|213990263|Principal Investigator|Suzanne R. Fanning
+19428457|NCT04530565|213990265|Principal Investigator|Salil Goorha
+19428458|NCT04530565|213990268|Principal Investigator|Yazan Madanat
+19428459|NCT04530565|213990269|Principal Investigator|Srinivas K. Tantravahi
+19428460|NCT04530565|213990270|Principal Investigator|Keri R. Maher
+19428461|NCT04530565|213990277|Principal Investigator|Alison K. Conlin
+19428462|NCT04530565|213990286|Principal Investigator|Alison K. Conlin
+19428463|NCT04530565|213990289|Principal Investigator|Kareem H. Abdelhadi
+19428464|NCT04530565|213990290|Principal Investigator|Kurt Oettel
+19428465|NCT04530565|213990291|Principal Investigator|Ryan J. Mattison
+19428466|NCT04530565|213990292|Principal Investigator|Kareem H. Abdelhadi
+19428467|NCT04530565|213990293|Principal Investigator|Ehab L. Atallah
+19428468|NCT04530565|213990294|Principal Investigator|Kareem H. Abdelhadi
+19428469|NCT04530565|213990295|Principal Investigator|Kareem H. Abdelhadi
+19428470|NCT04530565|213990296|Principal Investigator|Kareem H. Abdelhadi
+19428471|NCT04530565|213990297|Principal Investigator|Kareem H. Abdelhadi
+19428472|NCT04530565|213990298|Principal Investigator|Jacob M. Rowe
+19428473|NCT04530565|213990299|Principal Investigator|Luis J. Santos Reyes
+19470257|NCT05377827|214618762|Principal Investigator|Geoffrey Uy, M.D.
+19470258|NCT05377827|214618762|Sub-Investigator|John F DiPersio, M.D., Ph.D.
+19470259|NCT05377827|214618762|Sub-Investigator|Michael Kramer, M.D., Ph.D.
+19470260|NCT05377827|214618762|Sub-Investigator|Neha Mehta-Shah, M.D.
+19470261|NCT05377827|214618762|Sub-Investigator|Armin Ghobadi, M.D.
+19470262|NCT05377827|214618762|Sub-Investigator|Feng Gao, M.D., Ph.D.
+19470263|NCT05353530|214618791|Principal Investigator|Ashley Ghiaseddin, MD
+19515699|NCT03398967|215280765|Principal Investigator|Weidong Han, Dr.
+19515700|NCT03398967|215280765|Principal Investigator|Daihong Liu, Dr.
+19382076|NCT05256641|213352457|Principal Investigator|Caspian Oliai, MD
+19382077|NCT05256641|213352458|Principal Investigator|Joseph M. Tuscano
+19382078|NCT05256641|213352459|Principal Investigator|Matthew J. Wieduwilt
+19382157|NCT04661384|213352991|Principal Investigator|Lisa A. Feldman
+19383006|NCT04257578|213361380|Principal Investigator|Ajay Gopal
+19515926|NCT03142646|215282797|Principal Investigator|Xiaojun Huang, MD
+19471144|NCT04648046|214626993|Principal Investigator|Mehrdad Abedi
+19471145|NCT04648046|214626994|Principal Investigator|Steven Deeks, MD
+19471164|NCT04510051|214627535|Principal Investigator|Leo D. Wang
+19384191|NCT05464719|213374250|Principal Investigator|Paolo Strati, MD
+19471969|NCT04011293|214654268|Principal Investigator|Chunyan Ji, Dr.
+19473105|NCT05371132|214714592|Principal Investigator|Savita V. Dandapani
+19473289|NCT03919240|214716624|Principal Investigator|Depei Wu, M.D., Ph.D.
+19473290|NCT03919240|214716624|Sub-Investigator|Jia Chen, M.D.
+19473291|NCT03919240|214716624|Sub-Investigator|Aining Sun, M.D., Ph.D.
+19473292|NCT03919240|214716624|Sub-Investigator|Huiying Qiu, M.D., Ph.D.
+19473293|NCT03919240|214716624|Sub-Investigator|Xiaowen Tang, M.D., Ph.D.
+19473294|NCT03919240|214716624|Sub-Investigator|Yue Han, M.D., Ph.D.
+19473295|NCT03919240|214716624|Sub-Investigator|Zhengming Jin, M.D.
+19473296|NCT03919240|214716624|Sub-Investigator|Chengcheng Fu, M.D., Ph.D.
+19473297|NCT03919240|214716624|Sub-Investigator|Feng Chen, M.D., Ph.D.
+19473298|NCT03919240|214716624|Sub-Investigator|Xiao Ma, M.D., Ph.D.
+19473299|NCT03919240|214716624|Sub-Investigator|Suning Chen, M.D., Ph.D.
+19473300|NCT03919240|214716624|Sub-Investigator|Xiang Zhang, M.D.

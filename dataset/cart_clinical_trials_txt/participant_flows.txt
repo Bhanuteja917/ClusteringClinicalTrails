@@ -1,0 +1,37 @@
+id|nct_id|recruitment_details|pre_assignment_details|units_analyzed|drop_withdraw_comment|reason_comment|count_units
+4229091|NCT01865617||204 patients were enrolled on this study but only 197 met eligibility criteria and went on to be treated on study.||||
+4205393|NCT01218867||Twenty-four participants were enrolled but one participant was not treated due to a new cancer diagnosis which made the participant ineligible for this protocol.||||
+4193900|NCT03019055|Of 31 enrolled subjects who signed the informed consent form, 26 met all eligibility criteria.|||||
+4229574|NCT01318317||Three additional participants underwent leukapheresis, however, two were ineligible for transplant and the third refused additional treatment and therefore were not assigned a dose level.||||
+4194520|NCT02028455||||||
+4229980|NCT02659943||||||
+4230272|NCT03288493||||||
+4230279|NCT02935543||||||
+4230295|NCT02030847|Patients were identified through the clinical practices of the investigator or sub-investigators and through referrals from outside hospitals and physicians. No direct-to-patient advertising was performed.|||||
+4195235|NCT02650999||||||
+4232536|NCT02348216|Participants were enrolled at study sites in Canada, France, Germany, Israel, Netherlands, and United States. The first participant was screened on 15 April 2015. Data submitted represent interim analysis performed on data collected by the data cut off date 27 January 2017 for Phase 1 and Phase 2 Cohort 1 and 2, 26 April 2018 for Cohort 3, 6 May 2019 for Cohort 4, 10 September 2020 for Cohort 5, and 16 June 2020 for Cohort 6.|390 participants were screened. Participants who initially responded and subsequently relapsed, became eligible for second course of conditioning chemotherapy and axicabtagene ciloleucel. Participants received the same axicabtagene ciloleucel regimen as the original target dose.||||
+4197836|NCT01593696||||||
+4233902|NCT01454596||All patients were treated on the Ph I portion of the study. After encountering a patient mortality at dose level 8 and a grade 3 pulmonary toxicity at dose level 9 without seeing any clinical responses, the principal investigator and senior staff re-evaluated the protocol and elected to close the protocol rather than proceed into the Ph II portion.||||
+4233936|NCT02215967||||||
+4208105|NCT03624036|Participants were enrolled at study sites in the United States and Italy. The first participant was screened on 15 November 2018.|17 participants were screened. Data submitted represent data collected by the Primary Completion Date, February 2021, and additional data collected through 19 March 2021 are reported in the Participant Flow and Adverse Events modules only.||||
+4209252|NCT03483103||All efficacy and safety analyses were conducted on the JCAR017-treated Analysis Set.||||
+4176448|NCT01460901|Patients were consented and screened in the outpatient clinic. First consent was 10/2012 and last consent was signed 2/2014.|Patients could withdraw at their discretion or were withdrawn for rapid disease progression.||||
+4220817|NCT03338972|3 patients withdrew consent after enrollment and did not move on to treatment. These 3 patients were not assigned to a dose level.|||||
+4201242|NCT03330834||||||
+4220932|NCT03287804|Following preconditioning with chemotherapy (cyclophosphamide and fludarabine) patients were treated with doses from 15 x 10⁶ to 350 x 10⁶ APRIL CAR T Cells.|Screening procedures were performed up to 12 weeks before study treatment administered||||
+4221774|NCT00924326||Three patients treated in arm 1 (1x10e9-1x10e10 cells/kg + high dose IL2) had disease progression and were then retreated in Period 2 (1x10e9-1x10e10 cells/kg + high dose IL2).||||
+4190532|NCT03602612||||||
+4211265|NCT04160195||||||
+4201885|NCT03761056|Participants were enrolled at study sites in the United States, France, and Australia. The first participant screened was on 29 January 2019. Data submitted represent analysis performed on data collected by the Primary Completion Date. Non-chemotherapy bridging therapy was recommended to participants with high disease burden at screening or baseline (bulky disease or rapidly progressing disease).|54 participants were screened. Participants who achieve a partial response or complete response and subsequently relapsed, became eligible for second course of conditioning chemotherapy and axicabtagene ciloleucel. Participants received the same axicabtagene ciloleucel regimen as the original target dose.||||
+4222376|NCT03289455||23 patients were screened, 20 patients leukapheresed and 15 patients were pre-conditioned with cyclophosphamide and fludarabine and infused with AUTO3 at 3 different dose levels.||||
+4223949|NCT04097301|The study population originally planned is made up of: Adult patients 18 to 75 years old or 18 to 63 years old for CZ site, with relapsed/refractory AML or MM expressing CD44v6; Children 1 to 17 years old with AML, only in Phase IIa, except for CZ site. Up to the early termination of the study only adult patients 18 to 75 years old or 18 to 63 years old for CZ site, with relapsed/refractory MM expressing CD44v6 were recruited|"The recruited patient population, due to the early termination of the clinical study, was made up only of patients affected by multiple myeloma (MM), whereas AML patients were not enrolled.~Eight patients, 6 males and 2 females were enrolled in 2 centers. Two patients received the investigational product (MLM-CAR44.1 T-cells), while 6 patients did not. Age ranged from 41 to 66 years, with a median of 56 years."||||
+4224501|NCT03318861|Participants were enrolled at study sites in the United States. The first participant was screened on 20 October 2017. The data cutoff occurred on 19 May 2019.|21 participants were screened.||||
+4214401|NCT02664363||||||
+4214470|NCT03958656||3/13 participants enrolled on Level 2 (n=1) and Level 3 (n=2) were not treated,||||
+4178201|NCT03049449||||||
+4178908|NCT01583686||All reporting groups are in the Phase I portion of the study because the study was terminated before reaching phase II.||||
+4226491|NCT02601313|Participants were enrolled at study sites in United States, France, Netherlands and Germany. The first participant was screened on 09 Nov 2015. The data cutoff occurred on 24 July 2019.|Participants from 2 x 10^6 axicabtagene ciloleucel (AC) didn't contribute to primary and secondary analysis. The process used to manufacture axicabtagene ciloleucel was modified to manufacture brexucabtagene autoleucel (KTE-X19). 10 participants were treated with axicabtagene ciloleucel, all other participants were treated with KTE-X19.||||
+4226746|NCT02706392||||||
+4226776|NCT02535364|A total of 82 participants were enrolled at 15 study centers within the United States.|Participants were adults with relapsed or refractory CD19-positive B-cell acute lymphoblastic leukemia (ALL).||||
+4228087|NCT02706405||One patient was enrolled on the trial but did not move on to treatment. They were not assigned to an arm or to a treatment dose level.||||
+4228092|NCT02761915|17 trial participants were enrolled at one trial site between 29 February 2016 and 19 November 2019.|||||

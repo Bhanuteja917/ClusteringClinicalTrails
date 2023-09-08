@@ -1,0 +1,136 @@
+id|nct_id|url|description
+4730052|NCT02348216|https://www.gileadclinicaltrials.com/study/?id=KTE-C19-101|Gilead Clinical Trials Website
+4717465|NCT03318861|https://www.gileadclinicaltrials.com/study/?id=KITE-585-501|Gilead Clinical Trials Website
+4730324|NCT03651128|https://www.bms.com/researchers-and-partners/clinical-trials-and-research.html|BMS Clinical Trial Information
+4730325|NCT03651128|https://www.bmsstudyconnect.com/s/US/English/USenHome|BMS Clinical Trial Patient Recruiting
+4679158|NCT05464719|http://www.mdanderson.org|MD Anderson Cancer Center
+4679287|NCT04432506|http://www.mdanderson.org|University of Texas MD Anderson Cancer Center Website
+4679431|NCT01087294|https://clinicalstudies.info.nih.gov/cgi/detail.cgi?B_2010-C-0054.html|NIH Clinical Center Detailed Web Page
+4717902|NCT05665725|http://cancer.osu.edu|The Jamesline
+4680041|NCT04148430|http://www.mskcc.org|Memorial Sloan Kettering Cancer Center
+4730560|NCT01454596|https://clinicalstudies.info.nih.gov/cgi/detail.cgi?B_2011-C-0266.html|NIH Clinical Center Detailed Web Page
+4718033|NCT04083495|https://unclineberger.org/|UNC Lineberger Comprehensive Cancer Center
+4730575|NCT02215967|https://clinicalstudies.info.nih.gov/cgi/detail.cgi?B_2014-C-0168.html|NIH Clinical Center Detailed Web Page
+4718040|NCT03648372|https://clinicaltrials.takeda.com/study-detail/5f6b60354db2bf003ab4a092|To obtain more information on the study, click here/on this link
+4718105|NCT03579888|http://www.mdanderson.org|MD Anderson Cancer Center Website
+4718194|NCT03181126|https://www.abbvie.com/content/dam/abbvie-dotcom/us/clinical-trials/venetoclax_M16-106.pdf|clinical study report synopsis
+4667249|NCT04789408|https://www.gileadclinicaltrials.com/study/?id=KT-US-486-0201|Gilead Clinical Trials Website
+4667264|NCT04318678|http://www.stjude.org|St. Jude Children's Research Hospital
+4667265|NCT04318678|http://www.stjude.org/protocols|Clinical Trials Open at St. Jude
+4680664|NCT05418088|http://cancer.osu.edu|The Jamesline
+4718362|NCT05020392|https://ashpublications.org/blood/article/136/Supplement%201/39/470300/Transcend-CLL-004-Phase-1-Cohort-of-Lisocabtagene?searchresult=1|Related Info
+4718365|NCT04881240|http://www.stjude.org|St. Jude Children's Research Hospital
+4718366|NCT04881240|http://www.stjude.org/protocols|Clinical Trials Open at St. Jude
+4718378|NCT04512716|http://www.mskcc.org|Memorial Sloan Kettering Cancer Center
+4718381|NCT04146051|https://cartformg.org/|Additional information can be found at Cartformg.org
+4680959|NCT03761056|https://www.gileadclinicaltrials.com/study/?id=KTE-C19-112|Gilead Clinical Trials Website
+4705430|NCT03573700|http://www.stjude.org|St. Jude Children's Research Hospital
+4705431|NCT03573700|http://www.stjude.org/protocols|Clinical Trials Open at St. Jude
+4667396|NCT01460901|http://www.childrensmercy.org/|Children's Mercy Hospitals and Clinics
+4667398|NCT04556266|http://www.mskcc.org|Memorial Sloan Kettering Cancer Center
+4693368|NCT05621291|https://clinicalstudies.info.nih.gov/cgi/detail.cgi?B_000792-C.html|NIH Clinical Center Detailed Web Page
+4693512|NCT02830724|https://clinicalstudies.info.nih.gov/cgi/detail.cgi?A_2016-C-0131.html|NIH Clinical Center Detailed Web Page
+4719889|NCT02194374|http://www.mdanderson.org|University of Texas MD Anderson Cancer Center Website
+4667737|NCT03696784|https://unclineberger.org/patientcare/clinical-trials|University of North Carolina Lineberger Comprehensive Cancer Center Clinical Trials
+4706289|NCT03958656|https://clinicalstudies.info.nih.gov/cgi/detail.cgi?B_2019-C-0102.html|NIH Clinical Center Detailed Web Page
+4668064|NCT03602157|https://unclineberger.org/|Related Info
+4668069|NCT03049449|https://clinicalstudies.info.nih.gov/cgi/detail.cgi?B_2017-C-0048.html|NIH Clinical Center Detailed Web Page
+4668300|NCT03126864|http://www.mdanderson.org|University of Texas MD Anderson Cancer Center Website
+4695261|NCT01218867|http://clinicalstudies.info.nih.gov/cgi/detail.cgi?B_2011-C-0013.html|NIH Clinical Center Detailed Web Page
+4695452|NCT02792114|https://www.mskcc.org/|Memorial Sloan Kettering Cancer Center
+4684100|NCT04074330|https://clinicaltrials.takeda.com/study-detail/5f6b603c4db2bf003ab4a352|To obtain more information on the study, click here/on this link
+4695637|NCT04815356|https://clinicalstudies.info.nih.gov/cgi/detail.cgi?A_2021-C-0019.html|NIH Clinical Center Detailed Web Page
+4707636|NCT05458297|https://www.merckclinicaltrials.com/|Merck Clinical Trials Information
+4707639|NCT05377827|http://www.siteman.wustl.edu|Alvin J. Siteman Cancer Center at Barnes-Jewish Hospital and Washington University School of Medicine
+4707658|NCT05081479|http://www.mskcc.org|Memorial Sloan Kettering Cancer Center
+4684646|NCT03117751|http://www.stjude.org|St. Jude Children's Research Hospital
+4684647|NCT03117751|http://www.stjude.org/protocols|ClinicalTrials Open at St. Jude
+4684656|NCT01840566|http://www.mskcc.org/|Memorial Sloan Kettering Cancer Center
+4721530|NCT05393804|http://www.mskcc.org/mskcc/html/44.cfm|Memorial Sloan Kettering Cancer Center
+4721562|NCT02601313|https://www.gileadclinicaltrials.com/study/?id=KTE-C19-102|Gilead Clinical Trials Website
+4696110|NCT05199961|https://www.fda.gov/newsevents/newsroom/pressannouncements/ucm574058.htm|FDA approval brings first gene therapy to the United States [Press release}. (2017).
+4696111|NCT05199961|https://www.fda.gov/drugs/resources-information-approved-drugs/fda-approves-tisagenlecleucel-adults-relapsed-or-refractory-large-b-cell-lymphoma|FDA approves tisagenlecleucel for adults with relapsed or refractory large B-cell lymphoma
+4696112|NCT05199961|https://www.us.kymriah.com/treatment-center-locator/|Kymriah Treatment Center Locator
+4696113|NCT05199961|https://ashpublications.org/blood/article/106/11/750/119656/Development-of-a-Measure-of-Health-Related-Quality|Abstract: Development of a Measure of Health-Related Quality of Life for Non-Hodgkin's Lymphoma Clinical Research: The Functional Assessment of Cancer Therapy-Lymphoma (FACT-Lym).
+4721875|NCT02303821|http://www.amgentrials.com|AmgenTrials clinical trials website
+4722129|NCT03070327|http://www.mskcc.org/mskcc/html/44.cfm|Memorial Sloan Kettering Cancer Center
+4685668|NCT05641428|http://www.hovon.nl|Related Info
+4722617|NCT02529813|http://www.mdanderson.org|University of Texas MD Anderson Cancer Center Website
+4709599|NCT05495464|http://www.mdanderson.org|M D Anderson Cancer Center
+4671265|NCT05634785|http://unclineberger.org/patientcare/clinical-trials/clinical-trials|University of North Carolina Lineberger Comprehensive Cancer Center Clinical Trials
+4671284|NCT05366179|http://unclineberger.org/patientcare/clinical-trials/clinical-trials|University of North Carolina Lineberger Comprehensive Cancer Center Clinical Trials
+4671330|NCT04995003|https://rarediseases.info.nih.gov/|The Genetic and Rare Diseases (GARD) Information Center
+4671392|NCT03721068|https://unclineberger.org/patientcare/clinical-trials/|University of North Carolina Lineberger Comprehensive Cancer Center Clinical Trials
+4671394|NCT03672318|http://unclineberger.org/patientcare/clinical-trials/clinical-trials|University of North Carolina Lineberger Comprehensive Cancer Center Clinical Trial
+4671426|NCT03016377|http://unclineberger.org/patientcare/clinical-trials/clinical-trials|Related Info
+4697867|NCT03624036|https://www.gileadclinicaltrials.com/study/?id=KTE-C19-108|Gilead Clinical Trials Website
+4710105|NCT04231747|https://www.bms.com/researchers-and-partners/clinical-trials-and-research.html|BMS Clinical Trial Information
+4710106|NCT04231747|https://www.bmsstudyconnect.com/s/US/English/USenHome|BMS Clinical Trial Patient Recruiting
+4710107|NCT04231747|https://www.fda.gov/Safety/MedWatch/SafetyInformation/default.htm|FDA Safety Alerts and Recalls
+4710166|NCT02414269|http://www.mskcc.org/|Memorial Sloan Kettering Cancer Center
+4724397|NCT02761915|https://www.cancerresearchuk.org/about-cancer/find-a-clinical-trial/a-trial-of-anti-gd2-t-cells-for-neuroblastoma-that-is-not-responding-to-treatment-or-has-come-back|Simple summary of trial results on Cancer Research UK Trial Database
+4724532|NCT05626322|https://pmiform.com/clinical-trial-info-request?StudyID=C4971003|To obtain contact information for a study center near you, click here.
+4698864|NCT03483103|https://www.bms.com/researchers-and-partners/clinical-trials-and-research.html|BMS Clinical Trial Information
+4698865|NCT03483103|https://www.BMSStudyConnect.com|BMS Clinical Trial Patient Recruiting
+4724669|NCT02107963|https://clinicalstudies.info.nih.gov/cgi/detail.cgi?B_2014-C-0059.html|NIH Clinical Center Detailed Web Page
+4672680|NCT03086954|https://www.ncbi.nlm.nih.gov/pubmed/27605551|Immunotherapy of non-Hodgkin's lymphoma with a defined ratio of CD8+ and CD4+ CD19-specific chimeric antigen receptor-modified T cells.
+4687924|NCT05442515|https://clinicalstudies.info.nih.gov/cgi/detail.cgi?A_000324-C.html|NIH Clinical Center Detailed Web Page
+4687968|NCT05035407|https://clinicalstudies.info.nih.gov/cgi/detail.cgi?A_000045-C.html|NIH Clinical Center Detailed Web Page
+4687972|NCT05003895|https://clinicalstudies.info.nih.gov/cgi/detail.cgi?A_2021-C-0030.html|NIH Clinical Center Detailed Web Page
+4724965|NCT02203825|http://www.celyad.com|Sponsor
+4688084|NCT04029038|http://www.mdanderson.org|University of Texas MD Anderson Cancer Center Website
+4699480|NCT03744676|https://www.bms.com/researchers-and-partners/clinical-trials-and-research.html|BMS Clinical Trial Information
+4699481|NCT03744676|https://www.bmsstudyconnect.com/s/US/English/USenHome|BMS Clinical Trial Patient Recruiting
+4699482|NCT03744676|https://www.fda.gov/Safety/MedWatch/SafetyInformation/default.htm|FDA Safety Alerts and Recalls
+4688178|NCT02315612|https://clinicalstudies.info.nih.gov/cgi/detail.cgi?A_2015-C-0029.html|NIH Clinical Center Detailed Web Page
+4699686|NCT03601078|https://www.bms.com/researchers-and-partners/clinical-trials-and-research.html|BMS Clinical Trial Information
+4699687|NCT03601078|https://www.bmsstudyconnect.com/s/US/English/USenHome|BMS Clinical Trial Patient Recruiting
+4699688|NCT03601078|https://www.fda.gov/Safety/MedWatch/SafetyInformation/default.htm|FDA Safety Alerts and Recalls
+4673810|NCT04394650|https://www.bms.com/researchers-and-partners/clinical-trials-and-research.html|BMS Clinical Trial Information
+4673811|NCT04394650|https://www.bmsstudyconnect.com/s/US/English/USenHome|BMS Clinical Trial Patient Recruiting
+4673812|NCT04394650|https://www.fda.gov/Safety/MedWatch/SafetyInformation/default.htm|FDA Safety Alerts and Recalls
+4725925|NCT04577326|http://www.mskcc.org/mskcc/html/44.cfm|Memorial Sloan Kettering Cancer Center
+4689163|NCT03085173|http://www.mskcc.org/mskcc/html/44.cfm|Memorial Sloan Kettering Cancer Center
+4674510|NCT05431608|http://www.mskcc.org|Memorial Sloan Kettering Cancer Center
+4674664|NCT02663297|http://unclineberger.org|UNC Lineberger Comprehensive Cancer Center
+4674873|NCT03602612|https://clinicalstudies.info.nih.gov/cgi/detail.cgi?B_2018-C-0125.html|NIH Clinical Center Detailed Web Page
+4726659|NCT03904069|http://www.amgentrials.com|AmgenTrials clinical trials website
+4689849|NCT02919046|http://dx.doi.org/10.1371/journal.pone.0152196|An Optimized GD2-Targeting Retroviral Cassette for More Potent and Safer Cellular Therapy of Neuroblastoma and Other Cancers
+4726942|NCT05044039|http://www.siteman.wustl.edu|Alvin J. Siteman Cancer Center at Barnes-Jewish Hospital and Washington University School of Medicine
+4690177|NCT04923893|https://sparkcures.com/trial/1182/nct04923893?utm_source=ctgov&utm_medium=organic&utm_campaign=cartitude5|Click here to learn more about the 68284528MMY3004 (CARTITUDE-5) trial (US only)
+4690251|NCT01430390|http://www.mskcc.org/mskcc/html/44.cfm|Memorial Sloan Kettering Cancer Center
+4727236|NCT03283631|https://tischbraintumorcenter.duke.edu/|The Preston Robert Tisch Brain Tumor Center
+4727237|NCT03283631|http://www.dukecancerinstitute.org/clinical-trials|Duke Cancer Institute
+4727241|NCT03267173|http://www.ncbi.nlm.nih.gov|References are all derived from PubMed
+4675694|NCT03430011|https://www.bms.com/researchers-and-partners/clinical-trials-and-research.html|BMS Clinical Trial Information
+4675695|NCT03430011|https://www.bmsstudyconnect.com/s/US/English/USenHome|BMS Clinical Trial Patient Recruiting
+4675696|NCT03430011|https://www.fda.gov/Safety/MedWatch/SafetyInformation/default.htm|FDA Safety Alerts and Recalls
+4713208|NCT04464200|http://www.mskcc.org/mskcc/html/44.cfm|Memorial Sloan Kettering Cancer Center
+4713213|NCT04196491|https://www.bms.com/researchers-and-partners/clinical-trials-and-research.html|BMS Clinical Trial Information
+4713214|NCT04196491|https://www.fda.gov/Safety/MedWatch/SafetyInformation/default.htm|FDA Safety Alerts and Recalls
+4713215|NCT04196491|https://www.bmsstudyconnect.com/s/US/English/USenHome|BMS Clinical Trial Patient Recruiting
+4713220|NCT03448393|https://clinicalstudies.info.nih.gov/cgi/detail.cgi?A_2018-C-0059.html|NIH Clinical Center Detailed Web Page
+4727906|NCT02659943|https://clinicalstudies.info.nih.gov/cgi/detail.cgi?B_2016-C-0054.html|NIH Clinical Center Detailed Web Page
+4728420|NCT04499339|https://www.caramba-cart.eu/|CARAMBA project homepage
+4676162|NCT05620342|http://unclineberger.org/patientcare/clinical-trials/clinical-trials|University of North Carolina Lineberger Comprehensive Cancer Center Clinical Trials
+4676244|NCT05032820|http://www.bmtctn.net/|Blood and Marrow Transplant Clinical Trials Network Website
+4676257|NCT04855136|https://www.bms.com/researchers-and-partners/clinical-trials-and-research.html|BMS Clinical Trial Information
+4676258|NCT04855136|https://www.bmsstudyconnect.com/s/US/English/USenHome|BMS Clinical Trial Patient Recruiting
+4676259|NCT04855136|https://www.fda.gov/Safety/MedWatch/SafetyInformation/default.htm|FDA Safety Alerts and Recalls
+4676418|NCT02690545|http://unclineberger.org|University of North Carolina (UNC) Lineberger Comprehensive Cancer Center
+4702671|NCT04160195|https://clinicalstudies.info.nih.gov/cgi/detail.cgi?B_2020-C-0008.html|NIH Clinical Center Detailed Web Page
+4702815|NCT05574114|http://www.mskcc.org/mskcc/html/44.cfm|Memorial Sloan Kettering Cancer Center
+4702834|NCT04555551|http://www.mskcc.org/mskcc/html/44.cfm|Memorial Sloan Kettering Cancer Center
+4714216|NCT05371093|https://www.gileadclinicaltrials.com/study/?id=KT-US-473-0133|Gilead Clinical Trials Website
+4714240|NCT04989803|https://www.gileadclinicaltrials.com/study/?id=KT-US-499-0150|Gilead Clinical Trials Website
+4714243|NCT04897321|http://www.stjude.org|St. Jude Children's Research Hospital
+4714244|NCT04897321|http://www.stjude.org/protocols|Clinical Trials Open at St. Jude
+4677149|NCT05336383|http://www.mdanderson.org|M D Anderson Cancer Center
+4729190|NCT04134325|https://unclineberger.org/|UNC Lineberger Comprehensive Cancer Center
+4714674|NCT00924326|https://clinicalstudies.info.nih.gov/cgi/detail.cgi?B_2009-C-0082.html|NIH Clinical Center Detailed Web Page
+4716671|NCT03361748|https://www.bms.com/researchers-and-partners/clinical-trials-and-research.html|BMS Clinical Trial Information
+4716672|NCT03361748|http://www.BMSStudyConnect.com|BMS Clinical Trial Patient Recruiting
+4677997|NCT01593696|https://clinicalstudies.info.nih.gov/cgi/detail.cgi?B_2012-C-0112.html|NIH Clinical Center Detailed Web Page
+4704046|NCT02631044|https://www.bms.com/researchers-and-partners/clinical-trials-and-research.html|BMS Clinical Trial Information
+4704047|NCT02631044|https://www.bmsstudyconnect.com/s/US/English/USenHome|BMS Clinical Trial Patient Recruiting
+4704048|NCT02631044|https://www.fda.gov/Safety/MedWatch/SafetyInformation/default.htm|FDA Safety Alerts and Recalls

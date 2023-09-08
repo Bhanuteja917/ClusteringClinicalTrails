@@ -1,0 +1,1058 @@
+id|nct_id|contact_type|name|phone|email|phone_extension|role
+12818305|NCT04822974|primary|DOMINIQUE GENRE, DR|0491223778|drci.up@ipc.unicancer.fr||Contact
+12818387|NCT04780529|primary|Yifu He|18611718093|liudaiyan@sidansai.com||Contact
+12818388|NCT04780529|backup|Daiyan Liu|18611718093|liudaiyan@sidansai.com||Contact
+12818529|NCT04796688|primary|Heng Mei, M.D., Ph.D|027-8572600|hmei@hust.edu.cn||Contact
+12818530|NCT04796688|backup|Chenggong Li|18868112136|chenggongli@hust.edu.cn||Contact
+12854793|NCT01818323|primary|John Maher, MD PhD|(+44) 02071881468|john.maher@kcl.ac.uk|81468|Contact
+12818640|NCT02247609|primary|Jun Zhu, MD|+86-10-88196596|zj@bjcancer.org||Contact
+12855275|NCT05020444|primary|Matthew J Frigault, MD|(617) 643-6175|MFRIGAULT@partners.org||Contact
+12818713|NCT05613348|primary|Lihua Yang, Dr.|008602062783466|dryanglihua@163.com||Contact
+12818714|NCT05613348|backup|Peng Li, Dr.|008602032093613|li_peng@gibh.ac.cn||Contact
+12890879|NCT05172596|primary|Novartis Pharmaceuticals|1-888-669-6682|novartis.email@novartis.com||Contact
+12890880|NCT05172596|backup|Novartis Pharmaceuticals|+41613241111|||Contact
+12963855|NCT05320081|primary|Jianfeng Zhou, MD, PhD|86-13627284963|jfzhou@tjh.tjmu.edu.cn||Contact
+12963856|NCT05320081|backup|Xiaoxi Zhou, MD, PhD|86-027-83662686|cello316@tjh.tjmu.edu.cn||Contact
+12963900|NCT04938115|primary|Peihua MD Lu, PhD|008618611636172|peihua_lu@126.com||Contact
+12963901|NCT04938115|backup|Jianqiang MD Li, PhD|008615511369555|limmune@gmail.com||Contact
+12855896|NCT05432882|primary|Lung-Ji Chang, PhD|86-0755-86725195|c@szgimi.org||Contact
+12855918|NCT02958384|primary|Cheng Qian, MD, PhD|0086-023-68765461|cqian3184@163.com||Contact
+12855919|NCT02958384|backup|Shiqi Li, MD|0086-13206140093|Lystch@qq.com||Contact
+12856010|NCT04727008|primary|DAN LI, Ph.D|+86(028)85423525|lidan@wchscu.cn||Contact
+12856011|NCT04727008|backup|FUCHUN GUO, MD|+86(028)85423525|FCguo0797@wchscu.cn||Contact
+12964117|NCT04928105|primary|Peihua MD Lu, PhD|008618611636172|peihua_lu@126.com||Contact
+12964118|NCT04928105|backup|Jianqiang MD Li, PhD|008615511369555|limmune@gmail.com||Contact
+12819077|NCT05123001|primary|Sharan Claire|650-721-4091|sharanclaire@stanford.edu||Contact
+12819132|NCT05577000|primary|HDFCCC Cancer Immunotherapy Program|877-827-3222|HDFCCC.CIP@ucsf.edu||Contact
+12856324|NCT02963038|primary|jianqiang li, PhD & MD|+8631189928689|limmune@gmail.com||Contact
+12856325|NCT02963038|backup|Jianmin Luo, PhD & MD|+8631166002304|||Contact
+12856367|NCT02968472|primary|Lai Xun, Doctor|13577096609|1729112214@qq.com||Contact
+12856368|NCT02968472|backup|Chang Lung-Ji, Doctor|13671121909|longflorida@gmail.com||Contact
+12819178|NCT04767308|primary|Jianfeng Zhou, PhD, MD|86-27-83662680|jfzhou@tjh.tjmu.edu.cn||Contact
+12819179|NCT04767308|backup|Jin Huang, PhD, MD|86-27-83662680|hj20130318@163.com||Contact
+12856622|NCT02958410|primary|Cheng Qian, MD, PhD|0086-023-68765461|cqian3184@163.com||Contact
+12856623|NCT02958410|backup|Shiqi Li, MD|0086-13206140093|Lystch@qq.com||Contact
+12856632|NCT04717999|primary|Cheng-Yi Kuo, PhD|+886-2-26972200|jerry.kuo@uwell.com.tw|202|Contact
+12856638|NCT02965092|primary|Yu Hu, M.D., Ph.D|86-13986183871|dr_huyu@126.com||Contact
+12856639|NCT02965092|backup|Heng Mei, M.D., Ph.D|86-13886160811|hmei@hust.edu.cn||Contact
+12964508|NCT04412889|primary|Peihua Lu, PhD&MD|+86-0316-3306393|Peihua_lu@126.com||Contact
+12964524|NCT04447573|primary|Peihua Lu, PhD&MD|008618611636172|peihua_lu@126.com||Contact
+12964525|NCT04447573|backup|Jianqiang Li, PhD&MD|008615511369555|limmune@gmail.com||Contact
+12819785|NCT05287165|primary|Fei Wu, MD|+8615801390058|wufei@immunochina.com||Contact
+12964843|NCT03383965|primary|Xiulian Sun, MD.,Ph.D|(+86) 010-62420689|xiuliansun@ymcell.com||Contact
+12891544|NCT03666000|primary|Clinical Precision BioSciences, Inc.|919-314-5512|clinical@precisionbiosciences.com||Contact
+12964973|NCT05127135|primary|Li Jun, Ph.D|+86-18662604088|jli@ctigen.com||Contact
+12964974|NCT05127135|backup|He Ling|+86-18626100886|lhe@ctigen.com||Contact
+12927077|NCT05181501|primary|Lijuan Chen, M.D.|025-68306091|chenljb@126.com||Contact
+12891808|NCT04185038|primary|Nick Vitanza, MD|206-987-2106|CBDCIntake@seattlechildrens.org||Contact
+12820241|NCT04318327|primary|Novartis Pharmaceuticals|1-888-669-6682|novartis.email@novartis.com||Contact
+12820242|NCT04318327|backup|Novartis Pharmaceuticals|+41613241111|||Contact
+12891871|NCT02715362|primary|Xu Aimin, Doctor|+86 13918183196|xuarmy@163.com||Contact
+12891872|NCT02715362|backup|Yu Xuejun, Doctor|+86 021-51320189|yuxuejun@genechem.com.cn||Contact
+12820268|NCT03241940|primary|Michelle Fujimoto|650-736-0539|mfujimoto@stanford.edu||Contact
+12820269|NCT03233854|primary|Maria Iglesias|650-723-4247|miglesias@stanford.edu||Contact
+12891963|NCT02706782|primary|Xu Aimin, Dctor|86-13918183196|xuarmy@163.com||Contact
+12891964|NCT02706782|backup|Yu Xuejun, Master|86-18616108610|yuxuejun@genechem.com.cn||Contact
+12892039|NCT04154709|primary|Li Zhenyu, Ph.D|15950688971|lizhenyumd@163.com||Contact
+12892067|NCT05344664|primary|Lin Shen, PhD|13911219511|doctorshenlin.@sina.cn||Contact
+12965301|NCT05430945|primary|He Huang, PhD|86-13605714822|hehuangyu@126.com||Contact
+12965302|NCT05430945|backup|Yongxian Hu, PhD|86-15957162012|huyongxian2000@aliyun.com||Contact
+12857776|NCT05518253|primary|Weijia Fang, M.D|13758211655|weijiafang@zju.edu.cn||Contact
+12820319|NCT04766840|primary|FEI Wu|15801390058|wufei@immunochina.com||Contact
+12820320|NCT04766840|backup|Xiaojun Huang, MD||||Contact
+12857819|NCT05468190|primary|Quanli Gao, M.D|15038171966|zlyygql0855@zzu.edu.cn||Contact
+12857835|NCT05442515|primary|NCI Pediatric Leukemia, Lymphoma Transpl|(240) 760-6970|ncilltct@mail.nih.gov||Contact
+12857836|NCT05442515|backup|Nirali N Shah, M.D.|(240) 760-6970|shahnn@mail.nih.gov||Contact
+12857857|NCT05420545|primary|Jingwang Bi, M.D|13066029387|jingwangbi@live.cn||Contact
+12857858|NCT05420519|primary|Jingwang Bi, M.D|13066029387|jingwangbi@live.cn||Contact
+12857873|NCT05400109|primary|Changchun Deng, MD|216-844-0139|changchun.deng@uhhospitals.org||Contact
+12857874|NCT05400109|backup|Paolo Caimi, MD|216-347-5571|caimip@ccf.org||Contact
+12965468|NCT03322735|primary|Yongping Song|+86-13521186987|ph200811@163.com||Contact
+12858071|NCT05035407|primary|Monica E Epstein, R.N.|(240) 281-4207|monica.epstein@nih.gov||Contact
+12858072|NCT05035407|backup|Scott M Norberg, D.O.|(301) 275-9668|scott.norberg@nih.gov||Contact
+12858087|NCT05003895|primary|Donna M Hrones, C.R.N.P.|(240) 858-3155|donna.mabry@nih.gov||Contact
+12858088|NCT05003895|backup|Tim F Greten, M.D.|(240) 760-6114|gretentf@mail.nih.gov||Contact
+12892475|NCT04033302|primary|Lung-Ji Chang, Ph.D|86-0755-86725195|c@szgimi.org||Contact
+12858276|NCT04420754|primary|Sonal Gupta, MD PhD|508-654-3600|sgupta@affyimmune.com|3|Contact
+12858277|NCT04420754|backup|Dawn Buchanan|508-654-3600|dbuchanan@affyimmune.com|5|Contact
+12858280|NCT04416984|primary|Allogene Therapeutics Inc.|415-604-5696|clinicaltrials@allogene.com||Contact
+12965775|NCT03312205|primary|Peihua Lu, PhD & MD|18611636172|peihua_lu@126.com||Contact
+12965776|NCT03312205|backup|Jianqiang Li, PhD & MD|008615511369555|limmune@gmail.com||Contact
+12965843|NCT05044039|primary|Armin Ghobadi, M.D.|314-454-8304|arminghobadi@wustl.edu||Contact
+12892665|NCT04169022|primary|Christophe FERRAND, PHD|+333381618517|christophe.ferrand@efs.sante.fr||Contact
+12892670|NCT04186052|primary|Bingzong Li, M.D.|+8613776054037|lbzwz0907@hotmail.com||Contact
+12965975|NCT03281551|primary|Guoyan Wang|+86-018661838188|648818685@qq.com||Contact
+12858497|NCT02315612|primary|NCI Pediatric Leukemia, Lymphoma Transpl|(240) 760-6970|NCILLTCT@mail.nih.gov||Contact
+12858498|NCT02315612|backup|Nirali N Shah, M.D.|(240) 760-6970|shahnn@mail.nih.gov||Contact
+12966023|NCT03356795|primary|Lung-Ji Chang, PhD|86-075586725195|c@szgimi.org||Contact
+12892841|NCT04184414|primary|Bingzong Li, M.D.|+8613776054037|lbzwz0907@hotmail.com||Contact
+12892854|NCT02813837|primary|Lei Xiao, Ph.D|+86-21-58950719|||Contact
+12892993|NCT04236011|primary|Weijun Fu|(+86)13816052522|fuweijun2010@hotmail.com||Contact
+12927417|NCT03356782|primary|Lung-Ji Chang, PhD|86-075586725195|c@szgimi.org||Contact
+12966241|NCT04500431|primary|Aibin Liang, MD, Ph.D|0086-021-66111019|lab7182@tongji.edu.cn||Contact
+12966242|NCT04500431|backup|Ping Li, MD,Ph.D.|0086-021-66111015|lilyforever76@126.com||Contact
+12820939|NCT03086954|primary|Jifeng Feng, Professor|13901581264|fjif@vip.sina.com||Contact
+12966266|NCT03121625|primary|Jianqiang Li, PhD & MD|008615511369555|limmune@gmail.com||Contact
+12858869|NCT05539430|primary|Legend Biotech USA|17323175050|medical.information@legendbiotech.com||Contact
+12893063|NCT02794961|primary|Jiang Cao, M.D., Ph.D.|8651685802291|zimu05067@163.com||Contact
+12927457|NCT05239689|primary|He Huang, PhD|86-13605714822|hehuangyu@126.com||Contact
+12927458|NCT05239689|backup|Yongxian Hu, PhD|86-15957162012|huyongxian2000@aliyun.com||Contact
+12893064|NCT02794961|backup|JunNian Zheng, M.D., Ph.D.||||Contact
+12966347|NCT03344705|primary|Xin-an Lu, Dr|86-189-1157-6946|luxinan@immunochina.com||Contact
+12859052|NCT01853631|primary|Carlos A Ramos, MD|832-824-4817|caramos@bcm.edu||Contact
+12859053|NCT01853631|backup|Catherine Robertson|832-824-4594|csrobert@txch.org||Contact
+12966583|NCT05016063|primary|xi zhang, PhD/MD|13808310064|zhangxxi@sina.com|+86|Contact
+12966584|NCT05016063|backup|ruihao huang, MD|18984398751|1169731117@qq.com|+86|Contact
+12859459|NCT04601831|primary|Sarah Neufeld|2146458525|sarah.hardee@utsouthwestern.edu||Contact
+12859460|NCT04601831|backup|Kajal Desai|2146458525|kajal.desai@utsouthwestern.edu||Contact
+12859981|NCT05373147|primary|Lou Jinxing|021-67091112|loujx322104@dingtalk.com||Contact
+12859982|NCT05373147|backup|Liang Lijuan|021-67091022|lianglijuan3710@dingtalk.com||Contact
+12821776|NCT05370430|primary|Hazel (Ting-Ying) Cheng, PhD|714-599-8077|hazel.cheng@pepromenebio.com||Contact
+12821777|NCT05370430|backup|Katrin Tiemann, PhD|626-359-8111|ktiemann@coh.org||Contact
+12894273|NCT05260957|primary|Simarjot Chehal|305-243-1696|sxc2314@med.miami.edu||Contact
+12928573|NCT05463640|primary|Mingming Zhang, MD|13656674208|mingmingzhang@zju.edu.cn||Contact
+12928574|NCT05463640|backup|He Huang, MD||||Contact
+12860385|NCT04514029|primary|Cancer Center Clinical Trials Office|612 624 2620|ccinfo@umn.edu||Contact
+12928607|NCT03798509|primary|Hongliang Fang, doctor|021-58552006|fanghongliang@dashengbio.com||Contact
+12928646|NCT03799913|primary|Zhigang Zhang, M.D.|86+057189713631|zzg2011@zju.edu.cn||Contact
+12894330|NCT04162340|primary|Kevin Pinz, MS|6315386218|kevin.pinz@icellgene.com||Contact
+12894331|NCT04162340|backup|Yupo Ma, MD/PhD|7024658132|yupo.ma@icellgene.com||Contact
+12967479|NCT03267173|primary|Wei Yunwei, Dctor|86-85553099|hydwyw11@hotmall.com||Contact
+12967480|NCT03267173|backup|Zhao Lei, Dctor|86-13069890888|zhaoleihyd@163.com||Contact
+12894369|NCT03999697|primary|Lin Yang, Ph.D|86-0551-65728070|lin.yang@persongen.com.cn||Contact
+12894411|NCT05263817|primary|He Huang, PhD|+8613605714822|hehuangyu@126.com||Contact
+12894412|NCT05263817|backup|Yongxian Hu, PhD|+8615957162012|huyongxian2000@aliyun.com||Contact
+12928794|NCT03720457|primary|Hongliang Fang, Dr.|021-58552006|fanghongliang@dashengbio.com||Contact
+12894585|NCT02617134|primary|Lin Yang, Ph.D.|86-512-65922190|lin.yang@persongen.com||Contact
+12894686|NCT04156178|primary|Kevin Pinz|6315386218|kevin.pinz@icellgene.com||Contact
+12894824|NCT04151186|primary|Haichuan Su, professor|18629190366|suhc@fmmu.edu.cn||Contact
+12967980|NCT04430595|primary|Lung-Ji Chang, PhD|+86(755)8672 5195|c@szgimi.org||Contact
+12968091|NCT04864821|primary|Yi Zhang, Doctor|+8615138928971|1248135168@qq.com||Contact
+12895143|NCT04182581|primary|Xiequn Chen, Doctor|84771857|xiequnchen@fmmu.end.cn||Contact
+12861298|NCT04691284|primary|Barbora Kašperová, MD|+421-2-59378272|barbora.kasperova@nou.sk||Contact
+12861299|NCT04691284|backup|Sona Ciernikova, PhD|+421-2-59378273|sona.ciernikova@savba.sk||Contact
+12861306|NCT04691713|primary|yangyi bao|186-5516-8357|761760565@qq.com||Contact
+12861307|NCT04691713|backup|huimin meng|0551-65728070|huimin.meng@persongen.com.cn||Contact
+12895219|NCT02672501|primary|Jianmin Yang, Doctor|86-18317172636|yangjianmin@csco.org.cn||Contact
+12895220|NCT02672501|backup|Xuejun Yu, Master|86-18616108610|yuxuejun@genechem.com.cn||Contact
+12929454|NCT03198052|primary|Zhenfeng Zhang, MD,PhD|0086-020-34153532|zhangzhf@gzhmu.edu.cn||Contact
+12929455|NCT03198052|backup|Peng Li, PhD|+86 20 32015300|lipeng@invivobio.com.cn||Contact
+12968342|NCT04853277|primary|Kenneth Meehan, MD|603-650-5000|Kenneth.R.Meehan@hitchcock.org||Contact
+12822661|NCT03030001|primary|Huajun Jin, PhD|86-13162257545|hj_jin@126.com||Contact
+12929506|NCT03298828|primary|Xiaoyun Shang, Dr.|+8618580607020|shangxiaoyun@gmail.com||Contact
+12968591|NCT04792593|primary|Peihua MD Lu, PhD|008618611636172|peihua_lu@126.com||Contact
+12968592|NCT04792593|backup|Jianqiang MD Li, PhD|008615511369555|limmune@gmail.com||Contact
+12968620|NCT05473221|primary|Mingming Zhang, MD|13656674208|mingmingzhang@zju.edu.cn||Contact
+12968621|NCT05473221|backup|He Huang, MD||||Contact
+12968729|NCT04745559|primary|Christina Lennon|813-745-3669|Christina.Lennon@moffitt.org||Contact
+12968740|NCT05554575|primary|Zhongwei Xu, MD, PhD|+0086-10-69739722|willyxu001@bioceltech.com||Contact
+12968752|NCT04325841|primary|Jing Pan, Master|+8618911067969|panj@borenhospital.com||Contact
+12861554|NCT05667506|primary|Hui Ding|+86-010-65960098|dinghui@juventas.cn||Contact
+12968849|NCT05538195|primary|Ning Li, MD|13526501903|lining97@126.com||Contact
+12968850|NCT05538195|backup|Yijie Ma, MM|15038279901|mayijie1987@126.com||Contact
+12895360|NCT02644655|primary|Qijun Qian, PHD|+86-21-65580677|qianqj@sino-gene.cn||Contact
+12895361|NCT02644655|backup|Huajun Jin, PHD|+86-21-81875372|hj-jin@Hotmail.com||Contact
+12861604|NCT05266950|primary|Jing Pan, MD/PhD|+8618911067969|panj@borenhospital.com||Contact
+12929720|NCT02456350|primary|Mingjun Wang, M.D., Ph.D.|15814723218|mingjunw429@163.com||Contact
+12929721|NCT02456350|backup|Weihong Chen, M.D., Ph.D.|13923871697|whitney-cindy@hotmail.com||Contact
+12822868|NCT05241392|primary|Yang T Zhang, Dr.|+861059976516|zhangyang8025@yeah.net||Contact
+12861636|NCT05098613|primary|Derek Schatz|7208480628|derek.schatz@cuanschutz.edu||Contact
+12861637|NCT05098613|backup|Benjamin Echalier|3038485523|benjamin.echalier@cuanschutz.edu||Contact
+12969290|NCT05515185|primary|xiaodong jiang, PhD|0518-85767557|irb_lygyyy@163.com||Contact
+12969299|NCT05514327|primary|Jing Ruan, Docter|+8615201435860|ruanjing@pumch.cn||Contact
+12861795|NCT04723914|primary|shujiao he, Dr|+86-0755-21839178|he_shujiao@126.com||Contact
+12929966|NCT03207178|primary|Xin Wang, M.D.|185-1602-2625|wangxin928@163.com|+86|Contact
+12929967|NCT03207178|backup|Jiang Cao, Ph.D.|159-5146-8263|zimu05067@163.com|+86|Contact
+12861873|NCT02937844|primary|Zhixiong Lin, MD|+86-10-13905918963|lzx1967@sina.com||Contact
+12861878|NCT02937103|primary|Cheng Qian, MD, PhD|0086-023-68765461|cqian3184@163.com||Contact
+12861879|NCT02937103|backup|Shiqi Li, PhD|0086-13206140093|yz2003can@126.com||Contact
+12861905|NCT02935153|primary|Cheng Qian, MD, PhD|0086-023-68765461|cqian3184@163.com||Contact
+12861906|NCT02935153|backup|Zhi Yang, PhD|0086-13206140093|Lystch@qq.com||Contact
+12969826|NCT05422521|primary|Philippe VIAU, MD|0492035672|viau.p@chu-nice.fr||Contact
+12969827|NCT05422521|backup|Mickael LOSCHI, MD||||Contact
+12862001|NCT02919046|primary|Yongjun Fang, Ph.D|18951769586|fyj322@189.cn||Contact
+12930076|NCT03118180|primary|Yongxian Hu, Dr|15957162012|huyongxian2000@aliyun.com||Contact
+12930077|NCT03118180|backup|He Huang, Dr|13605714822|huanghe@zju.edu.cn||Contact
+12970139|NCT03191773|primary|Ying Feng, MD|0086 13602723030|fyzlply@163.com||Contact
+12970140|NCT03191773|backup|Mingjun Wang, MD|0086 15814723218|mingjunw429@163.com||Contact
+12970228|NCT03182803|primary|Zhiwei Zhang, Ph.D|0086-021-39595338|zhangzw@shcell.com|8008|Contact
+12895747|NCT05096234|primary|Maria Iglesias|650-723-4247|mariaigl@stanford.edu||Contact
+12862282|NCT05415475|primary|Jingwang Bi, M.D|13066029387|jingwangbi@live.cn||Contact
+12823329|NCT05509530|primary|Kailin Xu, M.D., Ph.D.|15162166166|lihmd@163.com||Contact
+12823330|NCT05509530|backup|Junnian Zheng, M.D., Ph.D.||||Contact
+12970365|NCT05385263|primary|Ron Ram, Prof|972-3-6947830|ronr@tlvmc.gov.il|7830|Contact
+12970405|NCT05085431|primary|He Huang, PhD|86-13605714822|hehuangyu@126.com||Contact
+12970406|NCT05085431|backup|Yongxian Hu, PhD|86-15957162012|huyongxian2000@aliyun.com||Contact
+12862450|NCT05075603|primary|Kristina Stermer, MMS|301-944-0183|kstermer@neoimmunetech.com||Contact
+12970548|NCT04846439|primary|Xiaowen Tang, Ph.D|(0086)51267781856|xwtang1020@163.com||Contact
+12895893|NCT04153799|primary|Yuxiang Ma, M.D.|86 020 87343894|mayx@sysucc.org.cn||Contact
+12970631|NCT05017883|primary|Xingbing Wang|13856007984|wangxingbing@ustc.edu.cn||Contact
+12970632|NCT05017883|backup|Huimin Meng|0551-65728070|huimin.meng@persongen.com.cn||Contact
+12930394|NCT05008575|primary|Xi zhang, MD/PhD|13808310064|zhangxxi@sina.com|+86|Contact
+12930395|NCT05008575|backup|ruihao huang, MD|18984398751|1169731117@qq.com|+86|Contact
+12823662|NCT04544592|primary|Amy Keating, MD|720-777-6740|amy.keating@ucanschutz.edu||Contact
+12823663|NCT04544592|backup|Michael Verneris, MD||michael.verneris@cunaschutz.edu||Contact
+12896139|NCT05574114|primary|M. Lia Palomba, MD|646-608-3711|palombam@mskcc.org||Contact
+12896140|NCT05574114|backup|Brandon Imber, MD|631-212-6346|||Contact
+12896142|NCT05535855|primary|Derek Schatz|17208480628|derek.schatz@cuanschutz.edu||Contact
+12896143|NCT05535855|backup|Andrew Roth, PhD||andrew.g.roth@cuanschutz.edu||Contact
+12896209|NCT05010564|primary|Bahey Salem, MD|(832)-824-1803|Bahey.Salem@bcm.edu||Contact
+12896210|NCT05010564|backup|Nabil Ahmed, MD|(832)-824-4611|nahmed@bcm.edu||Contact
+12971021|NCT05131763|primary|Hui Xu|13337719185|huixu1989@163.com||Contact
+12971022|NCT05131763|backup|Jiaying Deng, doctor|18017312829|dengjiaying3@sina.com||Contact
+12971043|NCT05097443|primary|Xin Wang, PhD|86-531-13156012606|xinw@sdu.edu.cn||Contact
+12971044|NCT05097443|backup|Xiangxiang Zhou, PhD|86-531-15866695595|xiangxiangzhou@sdu.edu.cn||Contact
+12863125|NCT04923893|primary|Study Contact|844-434-4210|Participate-In-This-Study@its.jnj.com||Contact
+12863126|NCT04923893|backup|SparkCures Patient Support (US only)|(888) 676-2873|support+nct@sparkcures.com||Contact
+12896427|NCT05298995|primary|Francesca Del Bufalo, MD|00396859|francesca.delbufalo@opbg.net|2739|Contact
+12896428|NCT05298995|backup|Angela Mastronuzzi, MD, PhD|00396859|angela.mastronuzzi@opbg.net|4647|Contact
+12863162|NCT04662099|primary|Heng Mei, M.D., Ph.D|86-13986183871|hmei@hust.edu.cn||Contact
+12863163|NCT04662099|backup|Chenggong Li|86-18868112136|chenggongli@hust.edu.cn||Contact
+12824077|NCT03081910|primary|Rayne Rouce, MD|832-824-4716|rhrouce@texaschildrens.org||Contact
+12824078|NCT03081910|backup|Martha Arredondo|832-824-1201|mearredo@texaschildrens.org||Contact
+12930937|NCT03114670|primary|Hu Chen, M.D., Ph.D.|+86-010-6694-7108|chenhu217@aliyun.cn||Contact
+12930938|NCT03114670|backup|Bin Zhang, M.D., Ph.D.|+86-010-6694-7125|zb307ctc@163.com||Contact
+12930943|NCT04440436|primary|Fei Wu, MD|+8615801390058|wufei@immunochina.com||Contact
+12863399|NCT04723901|primary|shujiao he, Dr|+86-0755-21839178|he_shujiao@126.com||Contact
+12971487|NCT05302037|primary|Raghav Sundar, Dr|+6567795555|raghav_sundar@nuhs.edu.sg||Contact
+12971488|NCT05302037|backup|Wee Kiat Tan, Dr|+6598169085|weekiattan@cytomed.sg||Contact
+12863548|NCT04655677|primary|Daobin Zhou, PhD&MD|010-69155020|zhoudb@pumch.cn||Contact
+12863549|NCT04655677|backup|Yan Zhang|010-69155660|zhangyan10659@pumch.cn||Contact
+12863568|NCT04653493|primary|Tahereh Rostami, M.D|+9821-88004140|trostami@sina.tums.ac.ir||Contact
+12863569|NCT04653493|backup|Naser Ahmadbeigi, PhD|+9821-82415103|n-ahmadbeigi@sina.tums.ac.ir||Contact
+12863613|NCT04637503|primary|Lung-Ji Chang, PhD|+86-8672-5195|c@szgimi.org||Contact
+12863618|NCT04637269|primary|Xi Zhang, MD phD|13808310064|zhangxxi@sina.com|+86|Contact
+12863619|NCT04637269|backup|Ruihao Huang|18984398751|1169731117@qq.com|+86|Contact
+12824392|NCT04605666|primary|Ren Lin, MD|+86-020-62787883|lansinglinren@hotmail.com||Contact
+12864031|NCT04666168|primary|Jianqiang Li, PhD & MD|008615511369555|limmune@gmail.com||Contact
+12864039|NCT04665076|primary|Jianqiang Li, PhD & MD|008615511369555|limmune@gmail.com||Contact
+12864078|NCT04661020|primary|He Huang, PhD|86-13605714822|hehuangyu@126.com||Contact
+12864079|NCT04661020|backup|Yongxian Hu, PhD|86-15957162012|huyongxian2000@aliyun.com||Contact
+12972273|NCT05633615|primary|Kat Gasic|210-614-8808|kgasic@swog.org||Contact
+12972274|NCT05633615|backup|Dana Sparks|210-614-8808|dsparks@swog.org||Contact
+12864184|NCT04626739|primary|Jianqiang Li, Phd&MD|86-311-82970975|hr@senlangbio.com||Contact
+12972282|NCT05587543|primary|Dongmei Ji, Doctorate|13564183928|jidongmei2000@hotmail.com||Contact
+12864342|NCT04610125|primary|Jianqiang Li, PhD&MD|008615511369555|limmune@gmail.com||Contact
+12864479|NCT04594135|primary|Kevin G Pinz, MS|6315386218|kevin.pinz@icellgene.com||Contact
+12973141|NCT05623488|primary|Abramson Cancer Center Clinical Trials Service|855-216-0098|PennCancerTrials@careboxhealth.com||Contact
+12973198|NCT05457010|primary|Clinical Information|240-327-0379|clinical@arcellx.com||Contact
+12973203|NCT05454241|primary|Ying Wang, doctor|+86-22-23909278|wangying1@ihcams.ac.cn||Contact
+12973207|NCT05442580|primary|Abramson Cancer Center Clinical Trials Service|855-216-0098|PennCancerTrials@careboxhealth.com||Contact
+12973387|NCT04877613|primary|Abramson Cancer Center Clinical Trials Service|855-216-0098|PennCancerTrials@careboxhealth.com||Contact
+12824823|NCT05621096|primary|Maribeth Hohenstein|402-559-9053|mahohens@unmc.edu||Contact
+12864946|NCT04546906|primary|Peihua Lu, PhD&MD|008618611636172|peihua_lu@126.com||Contact
+12864947|NCT04546906|backup|Jianqiang Li, PhD&MD|008615511369555|limmune@gmail.com||Contact
+12864958|NCT04541368|primary|He Huang, PhD|86-13605714822|hehuangyu@126.com||Contact
+12864959|NCT04541368|backup|Yongxian Hu, PhD|86-15957162012|huyongxian2000@aliyun.com||Contact
+12897542|NCT02587689|primary|Lin Yang, Ph.D.|86-512-65922190|lin.yang@persongen.com||Contact
+12973573|NCT03585764|primary|Abranmson Cancent Center Clinical Trials Service, MD|855-216-0098|PennCancerTrials@careboxhealth.com||Contact
+12973602|NCT03054298|primary|Abramson Cancer Center Clinical Trials Service|855-216-0098|PennCancerTrials@careboxhealth.com||Contact
+12897698|NCT02580747|primary|Weidong Han, Dr.|86-10-13651392893|hanwdrsw@sina.com||Contact
+12897699|NCT02580747|backup|Yao Wang, Dr.|86-10-13311390785|wangyao301@163.com||Contact
+12825270|NCT05070156|primary|Qing Xu|021-66213384|xuqingmd@aliyun.com||Contact
+12825271|NCT05070156|backup|Jianhua Chen|17321168230|jianhuachen15@163.com||Contact
+12825278|NCT05013372|primary|Shenmiao Yang, MD.|13439999810|yangshenmiao@hotmail.com||Contact
+12825279|NCT05013372|backup|Xiaojun Huang, MD. PhD.||||Contact
+12825289|NCT05621486|primary|Jin Li, MD,PhD|+86-13761222111|lijin@csco.org.cn||Contact
+12865373|NCT04532281|primary|He Huang, PhD|86-13605714822|hehuangyu@126.com||Contact
+12865374|NCT04532281|backup|Yongxian Hu, PhD|86-15957162012|huyongxian2000@aliyun.com||Contact
+12865376|NCT04532203|primary|He Huang, PhD|86-13605714822|hehuangyu@126.com||Contact
+12865377|NCT04532203|backup|Yongxian Hu, PhD|86-15957162012|huyongxian2000@aliyun.com||Contact
+12865456|NCT04718883|primary|JWCAR029 Medical|+86 21 50464201|JWCAR029Medical@jwtherapeutics.com||Contact
+12974108|NCT05091541|primary|Ming Wu|+86 0531-58287610|ming.wu@iasobio.com||Contact
+12974253|NCT04981691|primary|Jun Zhang, MD, PhD|0086-13818332497|junzhang10977@sjtu.edu.cn||Contact
+12974254|NCT04981691|backup|Yan Shi, MD, PhD|0086-13810561979|sy_rjh@aliyun.com||Contact
+12974355|NCT05106907|primary|Jun Li, Ph.D|18662604088|jli@ctigen.com||Contact
+12932096|NCT04385173|primary|Jianmin Zhang, MD|+86-13805722695|2307010@zju.edu.cn||Contact
+12865941|NCT04715217|primary|Liping Su, M.D.|+8613835158122|sulp2005@sohu.com||Contact
+12932150|NCT03706547|primary|Zheng Wei, M.D.|+(86)-21 64041990|wei.zheng@zs-hospital.sh.cn|2925|Contact
+12825978|NCT05431608|primary|Sham Mailankody, MBBS|646-608-3712|mailanks@mskcc.org||Contact
+12825979|NCT05431608|backup|Saad Usmani, MD, MBA|646-608-4165|usmanis@mskcc.org||Contact
+12825992|NCT05397496|primary|Novartis Pharmaceuticals|1-888-669-6682|novartis.email@novartis.com||Contact
+12825993|NCT05397496|backup|Novartis Pharmaceuticals|+41613241111|novartis.email@novartis.com||Contact
+12865980|NCT04714827|primary|Liping Su, M.D.|13835158122|sulp2005@sohu.com|+86|Contact
+12866007|NCT04714593|primary|Liping Su, M.D.|13835158122|sulp2005@sohu.com|+86|Contact
+12898221|NCT03740256|primary|Bora Lim, MD|713 798-1999|bora.lim@bcm.edu||Contact
+12898222|NCT03740256|backup|Jun Zhang|281-889-7394|jzhang22@houstonmethodist.org||Contact
+12974782|NCT05123209|primary|Fei Wu, MD|+8615801390058|wufei@immunochina.com||Contact
+12932277|NCT05309213|primary|Fei Wu, MD|+8615801390058|wufei@immunochina.com||Contact
+12932293|NCT04640909|primary|Paola Fazi|0670390528|p.fazi@gimema.it||Contact
+12932294|NCT04640909|backup|Enrico Crea|0670390514|e.crea@gimema.it||Contact
+12866317|NCT03271515|primary|gai liyun|086-13269099630|liyun_gai@doingtimes.com||Contact
+12866318|NCT03271515|backup|li gangyi|086-13901106501|gangyi_li@doingtimes.com||Contact
+12866330|NCT03271632|primary|Lung-Ji Chang|86-075586725195|c@szgimi.org||Contact
+12866376|NCT04702841|primary|Xingbing Wang|13856007984|wangxingbing@ustc.edu.cn||Contact
+12866377|NCT04702841|backup|Huimin Meng|0551-65728070|huimin.meng@persongen.com.cn||Contact
+12866507|NCT04700319|primary|Xingbing Wang|13856007984|wangxingbing@ustc.edu.cn||Contact
+12866508|NCT04700319|backup|Huimin Meng|0551-65728070|huimin.meng@persongen.com.cn||Contact
+12826651|NCT03013712|primary|Yan Zhou, PhD|+86-18981941992|zqlvzy319@163.com||Contact
+12866823|NCT04516551|primary|Xi Zhang, MD phD|13808310064|zhangxxi@sina.com|+86|Contact
+12866824|NCT04516551|backup|Ruihao Huang|18984398751|1169731117@qq.com|+86|Contact
+12866830|NCT04324996|primary|Min Liu, A.B|86-13668072999|gwzxliumin@foxmail.com||Contact
+12866831|NCT04324996|backup|Jimin Gao, M.D., Ph.D.|86-577-86699341|jimingao@yahoo.com||Contact
+12866880|NCT04513431|primary|Mei Wang, Medical PhD|+86-13601810867|13601810867@163.com||Contact
+12866881|NCT04513431|backup|Lin Tian, Medical PhD|13651760950|lin.tian@huadaocart.com||Contact
+12866933|NCT05639179|primary|Wang Sanbin, Doctor|13187424131|Sanbin1011@163.com|+86|Contact
+12975644|NCT05043571|primary|Allen Yeoh, M.D|+65 6772 2002|paeyej@nus.edu.sg||Contact
+12867107|NCT02954445|primary|Cheng Qian, MD, PhD|0086-023-68765461|cqian3184@163.com||Contact
+12867108|NCT02954445|backup|Shiqi Li, MD|0086-13206140093|yz2003can@126.com||Contact
+12932726|NCT03671460|primary|Chaoting Zhang, PhD|86-010-88196768|zhangchaoting1@163.com||Contact
+12867114|NCT02274584|primary|Jun Zhu, MD|+861088196596|zj@bjcancer.org||Contact
+12899147|NCT04561557|primary|Chuan Qin, MD|86-27-83663337|qinchuan712@126.com||Contact
+12899148|NCT04561557|backup|Chuan Qin, MD|86-27-83663332|chuanqin@tjh.tjmu.edu.cn||Contact
+12975760|NCT05030779|primary|He Huang, PhD|86-13605714822|hehuangyu@126.com||Contact
+12975761|NCT05030779|backup|Yongxian Hu, PhD|86-15957162012|huyongxian2000@aliyun.com||Contact
+12826882|NCT05544526|primary|CARMIGO Trial Coordinator|0207 679 9599|ctc.CARMIGO@ucl.ac.uk||Contact
+12826883|NCT05544526|backup|Karin Straathof||||Contact
+12867328|NCT05143151|primary|Li Yu|+8675521839178|liyu@vip.163.com||Contact
+12867329|NCT05143112|primary|Li Yu, Dr|+8675521839178|liyu@vip.163.com||Contact
+12932874|NCT03661554|primary|jishuai zhang, doctor|13661255147|zhangjs@pregene.com||Contact
+12975984|NCT05290155|primary|Xianmin G Song, MD|02163240090|shongxm@139.com||Contact
+12867406|NCT05149391|primary|Yuqin Song, PhD&MD|010- 88196118|SongYQ_VIP@163.com||Contact
+12867425|NCT04692948|primary|Xingbing Wang|13856007984|wangxingbing@ustc.edu.cn||Contact
+12867426|NCT04692948|backup|Huimin Meng|0551-65728070|huimin.meng@persongen.com.cn||Contact
+12867480|NCT04691349|primary|ShaoYan Hu|137-7187-0462|hushaoyan@suda.edu.cn||Contact
+12867481|NCT04691349|backup|HuiMin Meng|188-9680-2149|huimin.meng@persongen.com.cn||Contact
+12976082|NCT05281809|primary|John Lister, MD|412-578-4484|john.lister@ahn.org||Contact
+12976083|NCT05281809|backup|Laurie Dennis, RN, BS|412-330-6152|laurie.dennis@ahn.org||Contact
+12932978|NCT03758417|primary|Xiaohu Fan|13851733397|frank.fan@legendbiotech.com||Contact
+12932979|NCT03758417|backup|Qiong Wang|18051978283|wangqiong@legendbiotech.com||Contact
+12976108|NCT04796441|primary|Peihua MD Lu, PhD|008618611636172|peihua_lu@126.com||Contact
+12976109|NCT04796441|backup|Jianqiang MD Li, PhD|008615511369555|limmune@gmail.com||Contact
+12976116|NCT04796675|primary|Heng Mei|027-8572600|hmei@hust.edu.cn||Contact
+12976117|NCT04796675|backup|Chenggong Li|18868112136|chenggongli@hust.edu.cn||Contact
+12976120|NCT04803929|primary|Lai Jin|+86-18458227035|hjdl188@sina.com||Contact
+12976142|NCT04785833|primary|xiaowen tang|13913538266|xwtang1020@163.com||Contact
+12976143|NCT04785833|backup|huimin meng|18896802149|huimin.meng@persongen.com.cn||Contact
+12933016|NCT05420493|primary|Jingwang Bi, M.D|13066029387|jingwangbi@live.cn||Contact
+12933063|NCT03984968|primary|Sheng-Li Xue, M.D.|+86 512 67781139|slxue@suda.edu.cn||Contact
+12976280|NCT04790747|primary|He Huang, PhD|86-13605714822|huanghe@zju.edu.cn||Contact
+12899646|NCT04037566|primary|Guangxun GAO, Dr.|+86 29 84775203|gaoguangxun@fmmu.edu.cn||Contact
+12976281|NCT04790747|backup|Mingming Zhang, PhD|86-13656674208|mingmingzhang@zju.edu.cn||Contact
+12899647|NCT04037566|backup|Yu WANG, Dr.|+86 29 88764122|yu.wang@yufanbio.com||Contact
+12976386|NCT05474885|primary|Kevin Pinz|6315386218|kevin.pinz@icellgene.com||Contact
+12976387|NCT05474885|backup|Wei-Jia Wang, MD|011-86-13715679657|wangwj@zsph.com||Contact
+12868004|NCT05594797|primary|Xuedong Sun, M.D.|+8615811287219|sunxuedong@dashengbio.com||Contact
+12868012|NCT02933775|primary|Honghui Huang, MD||honghui_huang@163.com||Contact
+12868036|NCT05467254|primary|Mingming Zhang, MD|13656674208|mingmingzhang@zju.edu.cn||Contact
+12868037|NCT05467254|backup|He Huang, MD||||Contact
+12976477|NCT04433221|primary|Lung-Ji Chang, MD|86-(0755)86725195|c@szgimi.org||Contact
+12868124|NCT05467202|primary|Mingming Zhang, MD|13656674208|mingmingzhang@zju.edu.cn||Contact
+12976549|NCT05412329|primary|Juan Du, MD|+86-21-81885423|changzheng_pg@163.com||Contact
+12868381|NCT04206943|primary|Ercument Ovalı, MD|+905325729174|ercument.ovali@acibadem.com||Contact
+12868382|NCT04206943|backup|Siret Ratip, MD|+905326873789|siret.ratip@acibadem.com||Contact
+12868453|NCT05562024|primary|HuiMin Meng, Doctor|86-18015580390|huimin.meng@persongen.com||Contact
+12827211|NCT02050347|primary|Carlos A Ramos, MD|832-824-4817|caramos@bcm.edu||Contact
+12900078|NCT05350852|primary|Mingming z Zhang, Doctor|13656674208|mingmingzhang@zju.edu.cn||Contact
+12933408|NCT04384393|primary|Jun Li, Ph.D|+86-18662604088|jli@ctigen.com||Contact
+12933409|NCT04384393|backup|Ling He|+86-18626100886|lhe@ctigen.com||Contact
+12976926|NCT04951141|primary|Fei Wu|+8615801390058|wufei@immunochina.com||Contact
+12976989|NCT03060343|primary|Peng Muyun, MD, PhD|+86 18273159365|muyun880304@163.com||Contact
+12827296|NCT05445765|primary|Kevin Pinz, MS|6315386218|kevin.pinz@icellgene.com||Contact
+12900501|NCT05201781|primary|Study Contact|844-434-4210|Participate-In-This-Study@its.jnj.com||Contact
+12933989|NCT05665725|primary|The Ohio State Comprehensive Cancer Center|800-293-5066|OSUCCCClinicaltrials@osumc.edu||Contact
+12900768|NCT04008394|primary|Yu Hu, M.D. Ph.D|86-13986183871|dr_huyu@126.com||Contact
+12900769|NCT04008394|backup|Heng Mei, M.D. Ph.D|86-13886160811|hmei@hust.edu.cn||Contact
+12934021|NCT05648019|primary|Shui Yen Soh, MD|+65 6394 1045|soh.shui.yen@singhealth.com.sg||Contact
+12934022|NCT05648019|backup|Germaine Liew, BS|+65 6394 5025|germaine.liew.shimin@singhealth.com.sg||Contact
+12827532|NCT05141253|primary|Qinglei Gao, MD. PhD|15391566981|qingleigao@hotmail.com||Contact
+12869461|NCT05664217|primary|Nektar Recruitment|855-482-8676|StudyInquiry@nektar.com||Contact
+12900791|NCT05277987|primary|Tao LIU, PHD|13682481027|13682481027@163.com||Contact
+12869492|NCT05621291|primary|NCI Pediatric Leukemia, Lymphoma Transpl|(240) 760-6970|ncilltct@mail.nih.gov||Contact
+12869493|NCT05621291|backup|Nirali N Shah, M.D.|(240) 760-6970|shahnn@mail.nih.gov||Contact
+12900822|NCT04048434|primary|Sascha David, MD|+495115329357|david.sascha@mh-hannover.de||Contact
+12900823|NCT04048434|backup|Klaus Stahl, MD|+495115327623|stahl.klaus@mh-hannover.de||Contact
+12934150|NCT04657861|primary|He Huang, PhD|86-13605714822|hehuangyu@126.com||Contact
+12934151|NCT04657861|backup|Yongxian Hu, PhD|86-15957162012|huyongxian2000@aliyun.com||Contact
+12869652|NCT04960579|primary|Angie Schinkel|858-779-3103|clinicaltrials@poseida.com||Contact
+12977917|NCT04812691|primary|JWCAR029Medical Shanghai Ming Ju Biotechnology Co., Ltd|+86 21 50464201|JWCAR029Medical@jwtherapeutics.com||Contact
+12977969|NCT04787263|primary|Franco Locatelli, MD, PhD|0039 066859|franco.locatelli@opbg.net|2678|Contact
+12977970|NCT04787263|backup|Francesca Del Bufalo, MD|0039 066859|francesca.delbufalo@opbg.net|2739|Contact
+12978011|NCT04340167|primary|Jing Pan, Master|+8618911067969|panj@borenhospital.com||Contact
+12869725|NCT04637763|primary|Socorro Portella, MD|973 866 7567|SPortella@CaribouBio.com||Contact
+12978034|NCT04134325|primary|Catherine Cheng|919-445-4208|catherine_cheng@med.unc.edu||Contact
+12978035|NCT04134325|backup|Caroline Babinec|919-962-7426|caroline_babinec@med.unc.edu||Contact
+12869778|NCT04099797|primary|Bilal Omer, MD|832-824-6855|bomer@bcm.edu||Contact
+12869779|NCT04099797|backup|David Allen|832-824-4391|dlallen@bcm.edu||Contact
+12869780|NCT04013802|primary|John Craddock, MD|832-824-1583|jacraddo@txch.org||Contact
+12869781|NCT04013802|backup|Dustin McFadden|832-824-3855|Dustin.McFadden@bcm.edu||Contact
+12827770|NCT03029273|primary|Shiyue Li, MD|8620-83062896|lishiyue@188.com||Contact
+12827771|NCT03029273|backup|Chengzhi Zhou, MD|8620-83062832|doctorzcz@163.com||Contact
+12901247|NCT04003168|primary|Hongliang Fang, doctor|021-58552006|fanghongliang@dashengbio.com||Contact
+12978200|NCT05535673|primary|Jun Li, Ph.D.|18662604088|jli@ctigen.com|+86|Contact
+12978201|NCT05535673|backup|Mingzhi Zhang, Ph.D.|13838565629|mingzhi_zhang1@163.com|+86|Contact
+12869837|NCT02830724|primary|NCI SB Immunotherapy Recruitment Center|(866) 820-4505|IRC@nih.gov||Contact
+12869979|NCT04639739|primary|Xi Zhang, MD phD|13808310064|zhangxxi@sina.com|+86|Contact
+12869980|NCT04639739|backup|Ruihao Huang|18984398751|1169731117@qq.com|+86|Contact
+12934569|NCT04083495|primary|Catherine Cheng|919-445-4208|catherine_cheng@med.unc.edu||Contact
+12934570|NCT04083495|backup|Caroline Babinec|919-962-7426|caroline_babinec@med.unc.edu||Contact
+12827996|NCT04351022|primary|Xiaowen Tang, Ph.D|(0086)51267781856|xwtang1020@163.com||Contact
+12827997|NCT04351022|backup|Lei Yu, Ph.D|(0086)13818629089|ylyh188@163.com||Contact
+12978670|NCT05528887|primary|Ying Lu|86-13486090834|814871416@qq.com||Contact
+12978671|NCT05528887|backup|Dong Chen|86-13805888089|13805888089@163.com||Contact
+12934663|NCT05370547|primary|Weidong Han, Ph.D|+86-10-55499341|hanwdrsw@sina.com||Contact
+12978731|NCT05523661|primary|Xianmin Song, M.D.|021-63240090|shongxm@139.com||Contact
+12978732|NCT05523661|backup|Lianghong Fang, doctor|021-58552006|fanghongliang@dashengbio.com||Contact
+12828035|NCT04835519|primary|Jing Pan, MD/PhD|+8618911067969|panj@borenhospital.com||Contact
+12934688|NCT02134262|primary|Ken Ohmine, MD, PhD|+81-285-58-7353|omineken@jichi.ac.jp||Contact
+12934689|NCT02134262|backup|Keiya Ozawa, MD, PhD|+81-285-58-7353|kozawa@ms2.jichi.ac.jp||Contact
+12870209|NCT02930993|primary|Shidong Wei, MD|+86-13146634751|liqinghe9644679@163.com||Contact
+12934937|NCT05190185|primary|Zhiyu Wang, Doctor|+86-138 3119 5070|drwangzhiyu@hebmu.edu.cn||Contact
+12979058|NCT05478343|primary|Fei Wu|+8615801390058|wufei@imunopharm.com||Contact
+12901884|NCT04010877|primary|Lung-Ji Chang, Ph.D|86-075586725195|c@szgimi.org||Contact
+12870460|NCT04670055|primary|He Huang, PhD|86-13605714822|hehuangyu@126.com||Contact
+12870461|NCT04670055|backup|Yongxian Hu, PhD|86-15957162012|huyongxian2000@aliyun.com||Contact
+12979286|NCT05480501|primary|Fei Wu|+8615801390058|wufei@imunopharm.com||Contact
+12979326|NCT05472857|primary|Zhengmao Lu, MD|+86 21 50907211|luzhengmao82@126.com||Contact
+12979327|NCT05472857|backup|Ai Guoqiang, MD|86-18482022722|guoqiang.ai@immunofoco.com||Contact
+12901949|NCT04119024|primary|Jacob Naparstek|310-206-9926|JNaparstek@mednet.ucla.edu||Contact
+12870517|NCT04657965|primary|He Huang, PhD|86-13605714822|hehuangyu@126.com||Contact
+12870518|NCT04657965|backup|Yongxian Hu, PhD|86-15957162012|huyongxian2000@aliyun.com||Contact
+12870519|NCT04658004|primary|He Huang, PhD|86-13605714822|hehuangyu@126.com||Contact
+12870520|NCT04658004|backup|Yongxian Hu, PhD|86-15957162012|huyongxian2000@aliyun.com||Contact
+12979354|NCT05477927|primary|XIA HE, Ph.D|18583365730|18583365730@163.com||Contact
+12979355|NCT05477927|backup|DAN LI, Ph.D|13880025826|lidan@wchscu.cn||Contact
+12870553|NCT04665063|primary|Jianqiang Li, PhD & MD|008615511369555|limmune@gmail.com||Contact
+12828297|NCT02959151|primary|Wentao Li, doctor|+86 18017312650|liwentao98@126.com||Contact
+12828298|NCT02959151|backup|Xuejun Yu, master|+86 18616108610|yuxuejun@genechem.com.cn||Contact
+12902000|NCT04089215|primary|JWCAR029Medical|+86 21 50464201|JWCAR029Medical@jwtherapeutics.com||Contact
+12935149|NCT05391490|primary|David Gear|0207 670 5748|ctc.kcat19@ucl.ac.uk||Contact
+12935150|NCT05391490|backup|Alex Day||ctc.kcat19@ucl.ac.uk||Contact
+12935167|NCT05085418|primary|He Huang, PhD|86-13605714822|hehuangyu@126.com||Contact
+12935168|NCT05085418|backup|Yongxian Hu, PhD|86-15957162012|huyongxian2000@aliyun.com||Contact
+12979891|NCT05421663|primary|John Baird, M.D.|1-800-826-4673|cbmg27900@coh.org||Contact
+12979941|NCT04840875|primary|Jing Pan|+8618911067969|panj@borenhospital.com||Contact
+12902312|NCT04085159|primary|Lung-Ji Chang, PhD|86-075586725195|c@szgimi.org||Contact
+12902321|NCT04696731|primary|Allogene|415-604-5696|clinicaltrials@allogene.com||Contact
+12870959|NCT04638270|primary|Xi Zhang, MD phD|13808310064|zhangxxi@sina.com|+86|Contact
+12870960|NCT04638270|backup|Ruihao Huang|+86 18984398751|1169731117@qq.com||Contact
+12902386|NCT04004637|primary|Mingzhi Zhang, Doctor|+8613838565629|mingzhi_zhang@126.com||Contact
+12871035|NCT03455972|primary|chengcheng fu|0086-0512-67781856|fuzhengzheng@suda.edu.cn||Contact
+12902401|NCT05277753|primary|Lung-Ji Chang, Ph.D|86-0755-86725195|c@szgimi.org||Contact
+12828648|NCT02445222|primary|Novartis Pharmaceuticals|1-888-669-6682|||Contact
+12828649|NCT02445222|backup|Novartis Pharmaceuticals|+41613241111|||Contact
+12962810|NCT03323944|primary|Abramson Cancer Center Clinical Trials Service|855-216-0098|PennCancerTrials@careboxhealth.com||Contact
+12902427|NCT05590221|primary|Yuqin Song, PhD|+86 010-88121122|songyuqin622@163.com||Contact
+12902428|NCT05590221|backup|Medical JWCAR029|+86 21 50464201|JWCAR029Medical@jwtherapeutics.com||Contact
+12871166|NCT04626765|primary|Jianqiang Li, PhD&MD|+8631189928689|limmune@gmail.com||Contact
+12871167|NCT04626726|primary|Jianqiang Li, PhD&MD|+8631189928689|limmune@gmail.com||Contact
+12871219|NCT02903810|primary|Jiang Cao, Doctor|138-5243-2263|CaoJiangClinicalTrial@outlook.com|+86|Contact
+12871220|NCT02903810|backup|Qingzhu Jia, Doctor|152-2333-4184|jiaqingzhu0801@outlook.com|+86|Contact
+12980418|NCT04599556|primary|Yongxian Hu|+86-0571-87236476|huyongxian2000@aliyun.com||Contact
+12902700|NCT05546723|primary|Leland Metheny, MD|(216) 844-0139|Leland.Metheny@uhhospitals.org||Contact
+12902726|NCT05388695|primary|Liang Huang, PhD&MD|02783665555|lhuang@tjh.tjmu.edu.cn||Contact
+12902727|NCT05388695|backup|Jianqiang Li, PhD&MD|008615511369555|limmune@gmail.com||Contact
+12902743|NCT05312801|primary|Paolo F. Caimi, MD|216 445-4635|CAIMIP@ccf.org||Contact
+12871408|NCT04890236|primary|Edmund Waller, MD, PhD|404-778-6547|ewaller@emory.edu||Contact
+12871513|NCT04601181|primary|Xingbing Wang, M.D.|+8613856007984|wangxingbing@ustc.edu.cn||Contact
+12871514|NCT04601181|backup|Ling He|+8618626100886|lhe@ctigen.com||Contact
+12871536|NCT04599543|primary|He Huang, PhD|86-13605714822|hehuangyu@126.com||Contact
+12871537|NCT04599543|backup|Yongxian Hu, PhD|86-15957162012|huyongxian2000@aliyun.com||Contact
+12871684|NCT04603872|primary|He Huang, PhD|86-13605714822|hehuangyu@126.com||Contact
+12871685|NCT04603872|backup|Yongxian Hu, PhD|86-15957162012|huyongxian2000@aliyun.com||Contact
+12871691|NCT04626908|primary|He Huang, MD|86-13605714822|hehuangyu@126.com||Contact
+12871692|NCT04626908|backup|Yongxian Hu, MD|86-15957162012|huyongxian2000@aliyun.com||Contact
+12871697|NCT04626752|primary|Jianqiang Li, PhD&MD|+8631189928689|limmune@gmail.com||Contact
+12871698|NCT04626752|backup|Jianmin Luo, PhD&MD|+8631166002304|||Contact
+12935944|NCT05020392|primary|Heng Mei|027-8572600|hmei@hust.edu.cn||Contact
+12935945|NCT05020392|backup|Wenjing Luo|15927552323|weerfi@hust.edu.cn||Contact
+12981019|NCT04136275|primary|Matthew J. Frigault, MD|617-724-4000|mfrigault@partners.org||Contact
+12935954|NCT04881240|primary|Aimee C. Talleur, MD|866-278-5833|referralinfo@stjude.org||Contact
+12935994|NCT04512716|primary|Mark B Geyer, MD|646-608-3745|geyerm@mskcc.org||Contact
+12935995|NCT04512716|backup|Neeta Pandit-Taskar, MD|212-639-3046|pandit-n@mskcc.org||Contact
+12936010|NCT04146051|primary|Study Trial Central Mailbox|302-648-6497|trials@cartesiantx.com||Contact
+12936024|NCT03938987|primary|Zack Breckenridge|7803917687|zackariah.breckenridge@ahs.ca||Contact
+12871839|NCT04617704|primary|Weijun Fu|+8613816052522|fuweijun2010@hotmail.com|+8613816052522|Contact
+12829294|NCT04740203|primary|He Huang, PhD|86-13605714822|hehuangyu@126.com||Contact
+12829295|NCT04740203|backup|Mingming Zhang, PhD|86-13656674208|mingmingzhang@zju.edu.cn||Contact
+12871977|NCT04595162|primary|Hongmei Jing, Doctor|15611908428|hongmei_jing@163.com||Contact
+12829378|NCT05445011|primary|Heng Mei|027-8572600|hmei@hust.edu.cn||Contact
+12829379|NCT05445011|backup|Chenggong Li|18868112136|chenggongli@hust.edu.cn||Contact
+12872268|NCT04609241|primary|He Huang, PhD|86-13605714822|huangheyu@126.com||Contact
+12872269|NCT04609241|backup|Yongxian Hu, PhD|86-15957162012|huyongxian2000@aliyun.com||Contact
+12903596|NCT04082910|primary|Weidong Han, M.D.|+861066939711|hanwdrsw@sina.com||Contact
+12829591|NCT05326243|primary|Cherry Lo, MSC|886-2-8791-1789|cherry.lo@pellbmt.com|3111|Contact
+12829592|NCT05326243|backup|Hans Yang, PhD|886-2-8791-1789|Hans.Yang@pellbmt.com|3112|Contact
+12872601|NCT04991948|primary|Celyad Oncology Medical Monitor, MD, PhD|+3210394100|clinicaltrials@celyad.com||Contact
+12872701|NCT04546893|primary|Peihua Lu, PhD&MD|008618611636172|peihua_lu@126.com||Contact
+12872702|NCT04546893|backup|Jianqiang Li, PhD&MD|008615511369555|limmune@gmail.com||Contact
+12982051|NCT04684472|primary|pei shu, MD|+86(028)85423525|peishu1991@sina.com||Contact
+12982052|NCT04684472|backup|fuchun guo, MD|+86(028)85423525|FCguo0797@wchscu.cn||Contact
+12872720|NCT04539444|primary|Caixia Li, M.D.|+86 512 67781856|licaixia@suda.edu.cn||Contact
+12872721|NCT04539444|backup|Jia Chen, M.D.|+86 512 67781856|chenjiasuzhou@gmail.com||Contact
+12982071|NCT04689659|primary|Jing Pan, Master|+8618911067969|panj@borenhospital.com||Contact
+12872817|NCT04532268|primary|He Huang, PhD|86-13605714822|hehuangyu@126.com||Contact
+12872818|NCT04532268|backup|Yongxian Hu, PhD|86-15957162012|huyongxian2000@aliyun.com||Contact
+12904100|NCT04007978|primary|Yu Hu, M.D., Ph.D|86-13986183871|dr_huyu@126.com||Contact
+12904101|NCT04007978|backup|Heng Mei, M.D., Ph.D|86-13886160811|hmei@hust.edu.cn||Contact
+12936836|NCT00881920|primary|Carlos Ramos, MD|832-824-4817|caramos@txch.org||Contact
+12936837|NCT00881920|backup|Vicky Torrano|832-824-7821|vxtorran@txch.org||Contact
+12872886|NCT04553393|primary|Weidong Han, M.D.|+861055499341|hanwdrsw@sina.com||Contact
+12872932|NCT04550663|primary|Baorui Liu, M.D|+025-83106666 ext 61331|baoruiliu@nju.edu.cn|61331|Contact
+12872933|NCT04550663|backup|Jie Shen, M.D|+025-83106666|shenjie2008nju@163.com|61331|Contact
+12937026|NCT05626400|primary|Xian Zhang|008618611636172|xian_zhang@126.com||Contact
+12937027|NCT05626400|backup|Jianqiang Li, MD, PhD|008615511369555|limmune@gmail.com||Contact
+12873099|NCT04537442|primary|Fei Wu, MD|+8615801390058|wufei@immunochina.com||Contact
+12873166|NCT04534634|primary|xiaowen tang, Ph.D|1391353826|xwtang1020@163.com||Contact
+12873167|NCT04534634|backup|depei wu, Ph.D|86-0512677801856|drwudepei@163.com||Contact
+12937147|NCT05208853|primary|Huang He, PhD|86-13605714822|hehuangyu@126.com||Contact
+12937148|NCT05208853|backup|Yongxian Hu, PhD|86-15957162012|huyongxian2000@aliyun.com||Contact
+12904490|NCT04045847|primary|Zhinan Chen, PhD|029-84774547|znchen@fmmu.edu.cn||Contact
+12904491|NCT04045847|backup|Zhou Fei, Dr|029-84775323|feizhou@fmmu.edu.cn||Contact
+12982758|NCT04026100|primary|Jianyong Li, Ph.D.|025-83718836|lijianyonglm@126.com||Contact
+12873368|NCT03853616|primary|Alisa Yakushina|+4916098973562|Alisa.yakushina@miltenyi.com||Contact
+12873369|NCT03853616|backup|Christine Schubert|+49 2204 8306 6564|christine.schubert@miltenyi.com||Contact
+12983281|NCT03240328|primary|Li Linghua, Doctor|020-83710825|llheliza@126.com||Contact
+12983282|NCT03240328|backup|Cai Weiping, Bachelor|020-83710816|gz8hcwp@126.com||Contact
+12937508|NCT05106946|primary|Jun Li, Ph.D|18662604088|jli@ctigen.com||Contact
+12983654|NCT04690192|primary|Wei Liu, Dr.|086-022-23909282|liuwei@ihcams.ac.cn||Contact
+12983696|NCT04049513|primary|Robert Weinkove, MBBS, PhD|+64 4 918 5117|Robert.Weinkove@ccdhb.org.nz||Contact
+12983697|NCT04049513|backup|Tess Ostapowicz, BA|+64 4 918 5117|Tess.Ostapowicz@ccdhb.org.nz||Contact
+12830747|NCT05620342|primary|Catherine Cheng|919-445-4208|catherine_cheng@med.unc.edu||Contact
+12830748|NCT05620342|backup|Caroline Babinec|919-962-7426|caroline_babinec@med.unc.edu||Contact
+12874121|NCT04322292|primary|Gang An, PhD&MD|008613502181109|angang@ihcams.ac.cn||Contact
+12905262|NCT05225831|primary|Peihua Lu, PhD&MD|008618611636172|peihua_lu@126.com||Contact
+12905263|NCT05225831|backup|Jianqiang Li, PhD&MD|008615511369555|limmune@gmail.com||Contact
+12984526|NCT05483491|primary|Carrie Snyder|732-235-7356|cs1449@cinj.rutgers.edu||Contact
+12874951|NCT04264039|primary|Xi Zhang, MD|+8613808310064|zhangxxi@sina.com|+8613808310064|Contact
+12874952|NCT04264039|backup|Ruihao Huang|+86 18984398751|1169731117@qq.com||Contact
+12831029|NCT05257083|primary|Sarah Lonergan|+31 107033123|sarah.lonergan@emn.life||Contact
+12905745|NCT05393986|primary|lin Shen, MD,phD|861088196561|linshenpku@163.com||Contact
+12905746|NCT05393986|backup|Changsong Qi, MD, PhD|861088196561|xiwangpku@126.com||Contact
+12938296|NCT05429905|primary|Michaela Seng, MD|+65 6394 1989|michaela.seng@singhealth.com.sg||Contact
+12938297|NCT05429905|backup|Germaine Liew, BS|63945025|germaine.liew.shimin@singhealth.com.sg||Contact
+12938321|NCT04173988|primary|Zhai xiaowen, PhD|8618017590808|zhaixiaowendy@163.com||Contact
+12938322|NCT04173988|backup|wang hongsheng, PhD|8613916453373|hongsheng@hotmail.com||Contact
+12875286|NCT04844866|primary|Gregor Zadoyan, Dr.|+49 2204 8306|gregor.zadoyan@miltenyi.com|6639|Contact
+12875287|NCT04844866|backup|Silke Holtkamp, Dr.|+49 2204 8306|silke.holtkamp@miltenyi.com|6639|Contact
+12875289|NCT04815356|primary|Olena Sierra Ortiz|(240) 858-3185|olena.sierraortiz@nih.gov||Contact
+12875290|NCT04815356|backup|Robert J Kreitman, M.D.|(301) 480-6187|kreitmar@mail.nih.gov||Contact
+12854294|NCT05432401|primary|Heng Mei, MD|13886160811|mayheng@126.com||Contact
+12854295|NCT05432401|backup|Huimin Meng, MD|18015580390|huimin.meng@persongen.com.cn||Contact
+12831172|NCT05032820|primary|Megan Scott|240-599-5648|bmtctn1902@emmes.com|15648|Contact
+12831173|NCT05032820|backup|Adam Mendizabal, PhD||amendizabal@emmes.com||Contact
+12906075|NCT05458297|primary|Toll Free Number|1-888-577-8839|Trialsites@merck.com||Contact
+12906094|NCT05377827|primary|Geoffrey Uy, M.D.|314-747-7867|guy@wustl.edu||Contact
+12906096|NCT05353530|primary|Phuong Deleyrolle, RN|352-273-9000|phuong.deleyrolle@neurosurgery.ufl.edu||Contact
+12906139|NCT05081479|primary|Gunjan Shah, MD|646-608-3734|shahg@mskcc.org||Contact
+12906140|NCT05081479|backup|Alison Moskowitz, MD|646-608-3726|||Contact
+12875699|NCT05352542|primary|Jianming Xu|13910866712|jianmingxu2014@163.com||Contact
+12831267|NCT04792489|primary|Bryan Dumont|617-218-0044|clinicaltrials@miltenyi.com||Contact
+12831268|NCT04792489|backup|Paris Jamiel|617-218-0044|clinicaltrials@miltenyi.com||Contact
+12906443|NCT04648046|primary|Rebecca Hoh|415-476-4082|rebecca.hoh@ucsf.edu|139|Contact
+12906802|NCT04014881|primary|Yu Hu, M.D., Ph.D|86-13986183871|dr_huyu@126.com||Contact
+12906803|NCT04014881|backup|Heng Mei, M.D., Ph.D|86-13886160811|hmei@hust.edu.cn||Contact
+12939270|NCT05059912|primary|Caixia Li, M.D|+86 512 67781856|licaixia@suda.edu.cn||Contact
+12939271|NCT05059912|backup|Jia Chen, M.D|+86 512 67781856|chenjiasuzhou@gmail.com||Contact
+12906989|NCT05350787|primary|Mingming Zhang, Doctor|13656674208|mingmingzhang@zju.edu.cn||Contact
+12876460|NCT02862028|primary|Naiyan Han|+86 21 6023 6666|naiyan.han@simcgroup.com||Contact
+12907053|NCT04008251|primary|Yu Hu, M.D., Ph.D|86-13986183871|dr_huyu@126.com||Contact
+12907054|NCT04008251|backup|Heng Mei, M.D., Ph.D|86-13886160811|hmei@hust.edu.cn||Contact
+12907062|NCT04011293|primary|Chuanli Zhao, Dr.|‭+86 185 6008 7009‬|chuanlizhao@163.com||Contact
+12939578|NCT04976218|primary|Weidong Han, PhD|+86-10-66937463|hanwdrsw69@yahoo.com||Contact
+12939579|NCT04976218|backup|Kaichao Feng, MD|+86-10-66937231|timothyfkc@126.com||Contact
+12939620|NCT05038696|primary|Allen Yeoh, M.D|+65 6772 2002|paeyej@nus.edu.sg||Contact
+12876828|NCT02782351|primary|Jiang Cao, M.D., Ph.D.|8651685802291|zimu05067@163.com||Contact
+12876829|NCT02782351|backup|JunNian Zheng, M.D., Ph.D.||||Contact
+12876856|NCT05340829|primary|Ming Ming Zhang, Doctor|13656674208|mingmingzhang@zju.edu.cn||Contact
+12876896|NCT04975555|primary|Mayur Narkhede|205-934-2248|msnarkhede@uabmc.edu||Contact
+12831630|NCT02690545|primary|Catherine Cheng|919-445-4208|catherine_cheng@med.unc.edu||Contact
+12831631|NCT02690545|backup|Caroline Babinec|919-962-7426|caroline_babinec@med.unc.edu||Contact
+12939881|NCT05150522|primary|Li Yu|+8675521839178|liyu@vip.163.com||Contact
+12831803|NCT05577091|primary|Wei Zhang, Prof.|+861059976686|zhangwei02@bjtth.org||Contact
+12940231|NCT03576807|primary|JIANG CAO, DOCTOR|+86 1385243263|zimu05067@163.com||Contact
+12908308|NCT03931720|primary|Guangfu Li|+86 13615181959|lgf@atcgcell.com||Contact
+12908309|NCT03931720|backup|Xianfeng Feng|+86 15157190521|fxf@atcgcell.com||Contact
+12908362|NCT03919240|primary|Jia Chen, M.D., Ph.D.|+86 512 67781856|drchenjia@163.com||Contact
+12908363|NCT03919240|backup|Xiang Zhang, M.D.|+86 512 67781856|lcsy2013@sina.com||Contact
+12877671|NCT04264078|primary|Xi Zhang, MD|+8613808310064|zhangxxi@sina.com|+8613808310064|Contact
+12877672|NCT04264078|backup|Ruihao Huang|+8618984398751|1169731117@qq.com|+8618984398751|Contact
+12940686|NCT04952272|primary|Zhenfeng Zhang, MD, PhD|+862039195966|zhangzhf@gzhmu.edu.cn||Contact
+12940687|NCT04952272|backup|Bingjia He, MD|+862039195965|464677938@qq.com||Contact
+12878142|NCT04205838|primary|Caspian Oliai, MD|310-206-8477|coliai@mednet.ucla.edu|30870|Contact
+12832523|NCT05312411|primary|Catherine Albert, MD|206-987-2106|immunotherapy@seattlechildrens.org||Contact
+12832586|NCT05105152|primary|Adam Lamble, MD|206-986-2106|CBDCIntake@seattlechildrens.org||Contact
+12909111|NCT03796390|primary|Peihua Lu, PhD&MD|008618611636172|peihua_lu@126.com||Contact
+12909112|NCT03796390|backup|Jianqiang Li, PhD&MD|008615511369555|limmune@gmail.com||Contact
+12832690|NCT04571138|primary|Corinne Summers, MD|206-987-2106|CBDCIntake@seattlechildrens.org||Contact
+12909157|NCT05620732|primary|Li Yu, Dr|+8675521839178|liyu@vip.163.com||Contact
+12909204|NCT05495464|primary|Preetesh Jain, MD, PHD|(713) 563-8786|pjain@mdanderson.org||Contact
+12941365|NCT04969354|primary|Hailong Li, M.D/Ph.D|0086-17798835021|Justinlee719@163.com||Contact
+12941366|NCT04969354|backup|Qing Zhang, Ph.D|0086-516-83262238|qingzhang@xzhmu.edu.cn||Contact
+12909332|NCT03993743|primary|Zhi-Nan Chen, PhD|86-029-84774547|znchen@fmmu.edu.cn||Contact
+12909333|NCT03993743|backup|Kaishan Tao, Dr|86-029-84775259|taokaishan0686@163.com||Contact
+12878510|NCT05252572|primary|He Huang, PhD|+8613605714822|hehuangyu@126.com||Contact
+12878511|NCT05252572|backup|Yongxian Hu, PhD|+8615957162012|huyongxian2000@aliyun.com||Contact
+12832833|NCT03330691|primary|Colleen Annesley, MD|206-987-2106|CBDCIntake@seattlechildrens.org||Contact
+12832927|NCT05651100|primary|li xiangqun, doctor|086-15712867910|xiangqun_li@doingtimes.com||Contact
+12878844|NCT04156243|primary|Kevin Pinz|6315386218|kevin.pinz@icellgene.com||Contact
+12833019|NCT05416554|primary|Brian J Scott, MD|(650) 723-6409|bjscott@stanford.edu||Contact
+12879005|NCT02822326|primary|Xin Du, Dr.|+86 20 83827812|miyadu@hotmial.com|62122|Contact
+12879006|NCT02822326|backup|Peng Li, Dr.|+86 20 32015300|li_peng@gibh.ac.cn||Contact
+12941875|NCT04732845|primary|Benjamin Tomlinson, MD|1-800-641-2422|CTUReferral@UHhospitals.org||Contact
+12833788|NCT05436223|primary|Xuedong Sun, M.D.|+8615811287219|sunxuedong@dashengbio.com||Contact
+12879673|NCT04204161|primary|Yang Zhonghua|18938688105|zh.yang@bindebio.com||Contact
+12942416|NCT04430530|primary|Lung-Ji Chang, phD|+86-0755-8672-5195|c@szgimi.org||Contact
+12879839|NCT02728882|primary|Kangsheng Gu, PI|13805692145|13805692145@163.com||Contact
+12879840|NCT02728882|backup|Yang Jiao, Investigator|13966699766|graveboy@163.com||Contact
+12942520|NCT04429438|primary|Lung-Ji Chang, Ph.D|+86-0755 8672-5195|c@szgimi.org||Contact
+12833973|NCT04186520|primary|Medical College of Wisconsin Cancer Center Clinical Trials Office|866-680-0505|cccto@mcw.edu|8900|Contact
+12942629|NCT04850560|primary|Hui Liu, MD, PhD|13819198629|sylenliu@zju.edu.cn||Contact
+12942630|NCT04850560|backup|Wenbin Qian, MD, PhD|13605801032|qianwb@zju.edu.cn||Contact
+12910725|NCT05631912|primary|Weidong Han, Ph.D|+86-010-55499341|hanwdrsw@sina.com||Contact
+12910726|NCT05631912|backup|Yang liu, M.D|+86-010-66937463|liuyang301blood@163.com||Contact
+12880020|NCT05333302|primary|Elena Lukoyko, MD|+375291643075|lenalukojko@gmail.com||Contact
+12880021|NCT05333302|backup|Aleksandr Meleshko, PhD|+375296940023|meleshko@tut.by||Contact
+12834035|NCT05349266|primary|Ming Ming Zhang, Doctor|13656674208|mingmingzhang@zju.edu.cn||Contact
+12834036|NCT05336383|primary|Penny Fang, MD|(832) 260-1389|pfang@mdanderson.org||Contact
+12942829|NCT03463928|primary|Hejin Jia|86-10-55499341|jiahejin@163.com||Contact
+12910857|NCT05397184|primary|Robert Chiesa, Dr|020 7405 9200|Robert.Chiesa@gosh.nhs.uk|8434|Contact
+12910858|NCT05397184|backup|Agnieszka B Kubat, MSc|07502269573|a.kubat@ucl.ac.uk||Contact
+12942883|NCT04697940|primary|Weidong Han, M.D.|+861055499341|hanwdrsw@sina.com||Contact
+12834114|NCT04336501|primary|xiang yu zhao, MD|13520122292|xyz80421@126.com||Contact
+12834115|NCT04336501|backup|zheng li xu|13501338951|||Contact
+12910928|NCT05169489|primary|Clinical Trials Office|617-798-4270|clinicaltrials@2seventybio.com||Contact
+12943203|NCT02081937|primary|Quanshun Wang, Dr.|8610-66939486|wqs63@sohu.com||Contact
+12911085|NCT04404595|primary|Hong Ma, MD|Central Phone|clinicalUS@carsgen.com||Contact
+12880413|NCT02685670|primary|Zhi Cheng, M.D.|+(86)-139-3852-6995|clinicaltrials.chengzhi@outlook.com||Contact
+12943323|NCT05472610|primary|Zhang Yan, Ph. D|021-67091122|1r1-7v5o4ef29a@dingtalk.com||Contact
+12943324|NCT05472610|backup|Liang Lijuan, Bachelor|021-67091022|lianglijuan3710@dingtalk.com||Contact
+12880624|NCT04169932|primary|Tengfeng Ni, Master|+86 021- 66289710|nitengfeng@163.com||Contact
+12880677|NCT02652910|primary|Qingzhu Jia, M.D.|+(86)-152-2333-4184|jiaqingzhu0801@outlook.com||Contact
+12911331|NCT03720496|primary|Haifeng Lin|+86 13322060949|13322060949@163.com||Contact
+12911332|NCT03720496|backup|Bin Gao, Dr.|+86 022 59060560|bin.gao@timmune.com||Contact
+12943593|NCT05243212|primary|Hila Magen, MD|+97235308176|Hila.magen@sheba.health.gov.il||Contact
+12880803|NCT04163302|primary|Quanshun Wang|15692538521|wqs63@sohu.com||Contact
+12880804|NCT04163302|backup|Wenshuai Zheng|15701572628|18766179210@163.com||Contact
+12880819|NCT04289220|primary|Zongliu Hou|86-0871-63211157|hzl579@163.com||Contact
+12834850|NCT04816526|primary|Adam Chowdhury, MD, MBA|3013488698|adam.chowdhury@cartesiantx.com||Contact
+12943615|NCT05128786|primary|Yuhong Zhou, M.D.|+86-21-64041990|zhou.yuhong@zs-hospital.sh.cn|2968|Contact
+12943616|NCT05128786|backup|Wei Zhang, Ph.D.|+86-17721010028|wzhang@perhum.com||Contact
+12943660|NCT04782193|primary|Zhi Yang, PhD|86-13206140093|yangzhi@precision-biotech.com||Contact
+12943661|NCT04782193|backup|Sanbin Wang, MD||Sanbin1011@163.com||Contact
+12943662|NCT04781634|primary|Zhi Yang, PhD|86-13206140093|yangzhi@precision-biotech.com||Contact
+12943663|NCT04781634|backup|Sanbin Wang, MD||Sanbin1011@163.com||Contact
+12943664|NCT04776330|primary|Zhi Yang, PhD|86-13206140093|yangzhi@precision-biotech.com||Contact
+12943684|NCT04649983|primary|Zhi Yang, PhD|86-13206140093|yangzhi@precision-biotech.com||Contact
+12943685|NCT04649983|backup|Sanbin Wang, MD||Sanbin1011@163.com||Contact
+12943686|NCT04648475|primary|Zhi Yang, PhD|86-13206140093|yangzhi@precision-biotech.com||Contact
+12943687|NCT04648475|backup|Yingzi Zhang|86-18623351275|yingzi6526@163.com||Contact
+12943696|NCT04511871|primary|yuhong zhou, M.D.|+86-21-64041990|zhou.yuhong@zs-hospital.sh.cn|2968|Contact
+12943697|NCT04511871|backup|Wei Zhang, Ph.D.|+86-17721010028|wzhang@perhum.com||Contact
+12943710|NCT04348643|primary|Zhi Yang, PhD|86-13206140093|yangzhi@precision-biotech.com||Contact
+12943711|NCT04348643|backup|Yingzi Zhang|86-18623351275|yingzi6526@163.com||Contact
+12943720|NCT04272151|primary|Zhi Yang, PhD|86-13206140093|yangzhi@precision-biotech.com||Contact
+12943721|NCT04272151|backup|Yingzi Zhang|86-18623351275|yingzi6526@163.com||Contact
+12943722|NCT04272125|primary|Zhi Yang, PhD|86-13206140093|yangzhi@precision-biotech.com||Contact
+12943723|NCT04272125|backup|Yingzi Zhang|86-18623351275|yingzi6526@163.com||Contact
+12943724|NCT04271800|primary|Zhi Yang, PhD|86-13206140093|yangzhi@precision-biotech.com||Contact
+12943725|NCT04271800|backup|Yingzi Zhang|86-18623351275|yingzi6526@163.com||Contact
+12943726|NCT04271644|primary|Zhi Yang, PhD|86-13206140093|yangzhi@precision-biotech.com||Contact
+12943727|NCT04271410|primary|Zhi Yang, PhD|86-13206140093|yangzhi@precision-biotech.com||Contact
+12943728|NCT04265963|primary|Zhi Yang, PhD|86-13206140093|yangzhi@precision-biotech.com||Contact
+12943807|NCT04788472|primary|He Huang, PhD|86-13605714822|hehuangyu@126.com||Contact
+12943808|NCT04788472|backup|Mingming Zhang, PhD|86-13656674208|mingmingzhang@zju.edu.cn||Contact
+12911634|NCT05099237|primary|Hayley Brooks|0161 291 4409|hayley.brooks@mft.nhs.uk||Contact
+12881309|NCT05210907|primary|Hyoungjin Kang, PhD|+82-2-2072-3304|kanghj@snu.ac.kr||Contact
+12911862|NCT03943472|primary|Xuedong Sun|021-58552006|sunxuedong@dashengbio.com||Contact
+12911863|NCT03943472|backup|Weijun Fu|021-81885423|fuweijun2010@hotmail.com||Contact
+12881579|NCT03275493|primary|Xiaowen Tang, PhD|8651267781525|tangxiaowen@suda.edu.cn||Contact
+12881580|NCT03275493|backup|Lei Yu, PhD|8613818629089|ylyh188@163.com||Contact
+12911923|NCT03937544|primary|S Fadilah Abdul Wahid, MD, DrIntMed, PhD|+60391456450|sfadilah@ppukm.ukm.edu.my||Contact
+12835433|NCT05190653|primary|Reanne Booker, PhD(c)|403-990-1425|Reanne.booker@albertahealthservices.ca||Contact
+12944630|NCT02915445|primary|Wei Wang, Ph.D|+86 028 85164063|weiwang@scu.edu.cn||Contact
+12944724|NCT04703686|primary|Stéphanie Doyen, PhD|+33 (0)427012736|stephanie.doyen@lysarc.org||Contact
+12912391|NCT03881774|primary|Yongping Song, Dr.|+86-37165587795|songyongping2018@126.com||Contact
+12912392|NCT03881774|backup|Quanli Gao, Dr.|+86-37165587483|gaoquanli2015@126.com||Contact
+12835861|NCT03676504|primary|Prof. Dr. Michael Schmitt|+49-6221-566614|michael.schmitt@med.uni-heidelberg.de||Contact
+12882437|NCT02876978|primary|Li Zonghai, MD|86-21-54489926|zonghaili@carsgen.com|817|Contact
+12882438|NCT02876978|backup|Ruan Huaying, bachelor|86-21-54489926|huayingruan@carsgen.com|806|Contact
+12944844|NCT03366350|primary|YU HU, M.D., Ph.D|86-13986183871|dr_huyu@126.com||Contact
+12944845|NCT03366350|backup|HENG MEI, M.D., Ph.D|86-13886160811|mayheng@126.com||Contact
+12912743|NCT05170568|primary|Mingzhi Zhang, Doctor|037166295562|mingzhi_zhang@126.com||Contact
+12912744|NCT05170568|backup|Xiaojun Huang, Doctor|+86-13701389625|xjhrm@medmail.com.cn||Contact
+12945052|NCT04503980|primary|Juemin Fang|021-66302521|435254611@qq.com||Contact
+12912969|NCT05239702|primary|He Huang, PhD|+8613605714822|hehuangyu@126.com||Contact
+12912970|NCT05239702|backup|Yongxian Hu, PhD|+8615957162012|huyongxian2000@aliyun.com||Contact
+12836488|NCT03774654|primary|Carlos Ramos, MD|(832) 824-4817|caramos@bcm.edu||Contact
+12836489|NCT03774654|backup|Mahshid Azamian|832-824-7930|Mahshid.Azamian@bcm.edu||Contact
+12913149|NCT05620706|primary|Li Yu, Dr|+8675521839178|liyu@vip.163.com||Contact
+12883292|NCT02873390|primary|Bi Wang|86-13310088259|biwang0218@126.com||Contact
+12945418|NCT03488160|primary|Guolin Wu|13855105487|wgldoctor@sina.com||Contact
+12945419|NCT03488160|backup|Kaiyang Ding|13966672170|dingkaiy@126.com||Contact
+12913270|NCT03778346|primary|Bingmu Fang, M.D|0578-2780108|fbm636@163.com||Contact
+12913271|NCT03778346|backup|Yonghua Liu, M.D||liuyonghua2010@163.com||Contact
+12945435|NCT03540303|primary|Yongping Song, M.D|+86-371-65587199|songyongping2018@126.com||Contact
+12945436|NCT03540303|backup|Quanli Gao, M.D|+86-15038171966|gaoquanli2015@126.com||Contact
+12883543|NCT02729493|primary|Xianping Cheng, PI|13805512522|chengxianping@sina.com||Contact
+12883544|NCT02729493|backup|mo chen, Investigator|13605511023|chemo@sohu.com||Contact
+12883591|NCT02725125|primary|Yifu He, PI|18963789042|834638033@qq.com||Contact
+12883592|NCT02725125|backup|Jian Chen, Investigator|15395000136|42002390@qq.com||Contact
+12945724|NCT05459870|primary|Lung-Ji Chang, PhD|86-0755-86725195|c@szgimi.org||Contact
+12883692|NCT02710149|primary|Cheng Qian, MD, PhD|0086-023-68765461|cqian3184@163.com||Contact
+12883693|NCT02710149|backup|Zhi Yang, PhD|0086-13206140093|Lystch@qq.com||Contact
+12945784|NCT05585996|primary|Wenbin Qian, PhD|13605801032|qianwb@zju.edu.cn||Contact
+12945785|NCT05585996|backup|Wen Lei, PhD|18258448016|leiwen2017@zju.edu.cn||Contact
+12945800|NCT04706936|primary|Wenbin Qian|13605801032|qianwb@zju.edu.cn||Contact
+12883775|NCT03500991|primary|Nicholas Vitanza, MD|206-987-2106|CBDCIntake@seattlechildrens.org||Contact
+12883895|NCT04107142|primary|Peter Choo|+65 9732 8844|peterchoo@cytomed.sg||Contact
+12883896|NCT04107142|backup|Wee Kiat Tan|+65 9816 9085|weekiattan@cytomed.sg||Contact
+12946086|NCT05393804|primary|Gunjan Shah, MD|646-608-3734|ABMTTrials@mskcc.org||Contact
+12946087|NCT05393804|backup|Sergio Giralt, MD|646-608-3730|ABMTTrials@mskcc.org||Contact
+12884019|NCT02917083|primary|Carlos A Ramos, MD|832-824-4817|caramos@bcm.edu||Contact
+12884020|NCT02917083|backup|Vicky Torrano, RN|832-824-7821|vxtorran@txch.org||Contact
+12946152|NCT04952584|primary|Premal Lulla|(713) 798-0190|lulla@bcm.edu||Contact
+12946153|NCT04952584|backup|Anaid Reyes|(832) 824-3855|Anaid.Reyes@bcm.edu||Contact
+12884093|NCT04303247|primary|Xi Zhang, MD phD|13808310064|zhangxxi@sina.com|+86|Contact
+12884094|NCT04303247|backup|Ruihao Huang|18984398751|1169731117@qq.com|+86|Contact
+12884319|NCT04295018|primary|Daobin Zhou, PhD&MD|010-69155020|zhoudb@pumch.cn||Contact
+12884320|NCT04295018|backup|Lu Zhang|010-69155660|pumczhanglu@163.com||Contact
+12884321|NCT04295096|primary|Jun Zhu, M.D.|+86-021-36561999|zhuj@bohuhealthcare.com|8020|Contact
+12837538|NCT05256641|primary|Vlad Kustanovitch|310-206-5756|VKustanovich@mednet.ucla.edu||Contact
+12914475|NCT05359211|primary|SCCA Immunotherapy Intake|206-606-4668|immunotherapy@seattlecca.org||Contact
+12914476|NCT05359211|backup|SCCA Immunotherapy Intake|855-557-0555|||Contact
+12837588|NCT04735471|primary|Rose Lai, MD|6263181179|clinicaltrials@adicetbio.com||Contact
+12946555|NCT04489862|primary|Lu Wen|027-85872859|wenlu2808@126.com||Contact
+12946556|NCT04489862|backup|Xiaoli Lu|027-85872859|52548791@qq.com||Contact
+12946605|NCT05398614|primary|Liang Huang|027-83691785|tongjilunli@163.com||Contact
+12946606|NCT05398614|backup|Jianqiang Li|008615511369555|limmune@gmail.com||Contact
+12914661|NCT04889716|primary|Rachel Lundberg, PA-C|215-615-5858|Rachel.Lundberg@pennmedicine.upenn.edu||Contact
+12914662|NCT04889716|backup|Kaitlin Kennard, RN|215-615-5858|Kaitlin.Kennard@pennmedicine.upenn.edu||Contact
+12803587|NCT04410900|primary|Joshua A. Hill|206-667-6504|jahill3@fredhutch.org||Contact
+12914773|NCT04422912|primary|Cabaletta Bio|+1 267 759 3100|clinicaltrials@cabalettabio.com||Contact
+12837845|NCT05620680|primary|Yu Li, Dr|+8675521839178|liyu@vip.163.com||Contact
+12914900|NCT03277729|primary|SCCA Immunotherapy Intake|206-606-4668|immunotherapy@seattlecca.org||Contact
+12914901|NCT03277729|backup|SCCA Immunotherapy Intake|855-557-0555|||Contact
+12804181|NCT05650749|primary|Melissa Varghese|8455535358|Varghesem@chop.edu||Contact
+12804182|NCT05650749|backup|Yael Mosse, MD||mosse@chop.edu||Contact
+12946879|NCT03919526|primary|Xianmin Song, M.D.|021-63240090|shongxm@139.com||Contact
+12946880|NCT03919526|backup|Hongliang Fang, doctor|021-58552006|fanghongliang@dashengbio.com||Contact
+12946882|NCT05488132|primary|Kailin Xu, M.D., Ph.D.|15162166166|lihmd@163.com||Contact
+12915153|NCT04817774|primary|Sangamo Patient Advocacy|+1-510-307-7266|clinicaltrials@sangamo.com||Contact
+12915171|NCT04690595|primary|Ting-Ying (Hazel) Cheng, PhD|714-599-8077|hazel.cheng@pepromenebio.com||Contact
+12915172|NCT04690595|backup|Katrin Tiemann, PhD|626-359-8111|ktiemann@coh.org||Contact
+12946924|NCT03262298|primary|Liangding Hu, M.D.|+86-010-6694-7107|huliangding@sohu.com||Contact
+12804456|NCT04789408|primary|Medical Information|844-454-5483 (1-844-454-KITE)|medinfo@kitepharma.com||Contact
+12915241|NCT05632380|primary|Yan Xu, M.D., PH.D.|86-022-23909171|xuyan1@ihcams.ac.cn||Contact
+12915242|NCT05632380|backup|Dehui Zou, M.D., PH.D.||||Contact
+12804578|NCT03829540|primary|Huda Salman, MD|317-278-9504|hsalman@iu.edu||Contact
+12804579|NCT03829540|backup|Tiffanie Skillman, RN|(317) 278-5260|tskillma@iu.edu||Contact
+12885141|NCT05451212|primary|Cabaletta Bio|+1 267 759 3100|clinicaltrials@cabalettabio.com||Contact
+12947066|NCT05211557|primary|Liantao Li, M.D., Ph.D.|+86-516-85582530|liliantao@xzhmu.edu.cn||Contact
+12947067|NCT05211557|backup|Xin Ding, M.D., Ph.D.|+86-516-83355832|dingxin81@163.com||Contact
+12947076|NCT05477446|primary|ZHAO Wang, MD|86-63139862|wangzhao@ccmu.edu.cn||Contact
+12915379|NCT03912480|primary|Qin Huang, Doctor|13818333125|qxinyi1220@163.com||Contact
+12915408|NCT03910842|primary|Xiangling He|+86 13873102615|hexiangl@163.com||Contact
+12915409|NCT03910842|backup|Keke Chen|+86 13974931408|chenkeke1982@126.com||Contact
+12947154|NCT03222674|primary|Lung-Ji Chang|86-075586725195|c@szgimi.org||Contact
+12804861|NCT04196205|primary|Fei Li, M.D., Ph.D.|+86-139-7003-8386|yx021021@sina.com||Contact
+12838431|NCT04257578|primary|Ajay Gopal|206-606-2307|agopal@uw.edu||Contact
+12947269|NCT03208556|primary|Jun Zhu, MD|+86-10-88196596|zj@bjcancer.org||Contact
+12947270|NCT03208556|backup|Zhitao Ying, MD||yingzhitao001@163.com||Contact
+12947309|NCT02303821|primary|Amgen Call Center|866-572-6436|medinfo@amgen.com||Contact
+12805073|NCT02992834|primary|Jingting Jiang, Professor||jjtnew@163.com||Contact
+12947413|NCT05194709|primary|Peihua Lu, MD|+8613583991399|lyzlyylxm@163.com||Contact
+12805239|NCT03159819|primary|Xianbao Zhan, M.D.|86-021-31161441|zhanxianbao@126.com||Contact
+12947655|NCT03182816|primary|Zhiwei Zhang, Ph.D|0086-021-39595338|zhangzw@shcell.com||Contact
+12947661|NCT03185468|primary|Lung-Ji Chang, PhD|86-13671121909|c@szgimi.org||Contact
+12947662|NCT03185468|backup|Aifa Tang, PhD||tangaifa2004@163.com||Contact
+12854356|NCT05576181|primary|Jun Li, Ph.D|+86-18662604088|jli@ctigen.com||Contact
+12854357|NCT05576181|backup|Yongping Song, Ph.D|+86-13521186987|songyongping@medmail.com.cn||Contact
+12854359|NCT05640713|primary|Keshu zhou, Dr.|+86-13674902391|drzhouks77@163.com||Contact
+12854360|NCT05640713|backup|Jun Li, Ph.D|+86-18662604088|jli@ctigen.com||Contact
+12805398|NCT03696784|primary|Catherine Cheng|919-445-4208|catherine_cheng@med.unc.edu||Contact
+12805399|NCT03696784|backup|Kelly Hoye|919-445-9676|kelly_hoye@med.unc.edu||Contact
+12885325|NCT03635632|primary|Bilal Omer, MD|832-824-6855|bomer@bcm.edu||Contact
+12885326|NCT03635632|backup|David Allen|832-824-4391|dlallen@texaschildrens.org||Contact
+12805440|NCT05312476|primary|Caixia Li, M.D|+86 512 67781856|licaixia@suda.edu.cn||Contact
+12805455|NCT04088890|primary|Maria Iglesias|650-723-4247|miglesias@stanford.edu||Contact
+12805523|NCT05381181|primary|Wei Li, M.D|+8602164340008|wli@brlmed.com||Contact
+12915952|NCT04155749|primary|Arcellx, Inc.|240-327-0379|clinical@arcellx.com||Contact
+12885446|NCT04283006|primary|He Huang, MD|86-13605714822|hehuangyu@126.com||Contact
+12885447|NCT04283006|backup|Yongxian Hu, MD|86-15957162012|huyongxian2000@aliyun.com||Contact
+12805766|NCT04762485|primary|xiaowen tang, Ph.D|(0086)51267781856|xwtang1020@163.com||Contact
+12805767|NCT04762485|backup|Lin Yang, Ph.D|(0086)18896802149|ylyh188@163.com||Contact
+12805837|NCT03030976|primary|Qiang Guo, Doctor|86-21-63835620|bluedescent@126.com||Contact
+12805838|NCT03030976|backup|Xuejun Yu, Master|86-21-51320189|yuxuejun@genechem.com.cn|8306|Contact
+12806123|NCT03602157|primary|Catherine Cheng|919-445-4208|catherine_cheng@med.unc.edu||Contact
+12806124|NCT03602157|backup|Caroline Babinec|919-962-7426|caroline_babinec@med.unc.edu||Contact
+12806220|NCT05164770|primary|Xin Wang, PhD|86-531-13156012606|xinw@sdu.edu.cn||Contact
+12806221|NCT05164770|backup|Xiangxiang Zhou, PhD|86-531-15866695595|xiangxiangzhou@sdu.edu.cn||Contact
+12916501|NCT03690011|primary|LaQuisa Hill, MD|713-441-1450|LaQuisa.Hill@bcm.edu||Contact
+12916502|NCT03690011|backup|Martha Arredondo|832-824-1201|Martha.Arredondo@bcm.edu||Contact
+12916617|NCT05666700|primary|Simon Harrison|+61 03 8559 5373|Simon.Harrison@petermac.org||Contact
+12916618|NCT05666700|backup|Mark Dowling||Mark.Dowling@petermac.org||Contact
+12916669|NCT03854994|primary|Peixian Zhang|86-0871-63211268|px29@163.com||Contact
+12916751|NCT03631576|primary|Jianda Hu, Prof.M.D.Ph.D|86-13959169016|drjiandahu@163.com||Contact
+12806797|NCT03383952|primary|Xiulian Sun, MD.,Ph.D|(+86) 010-62420659|xiuliansun@ymcell.com||Contact
+12839158|NCT05464719|primary|Paolo Strati, MD|(713) 745-1776|pstrati@mdanderson.org||Contact
+12948747|NCT03672305|primary|Guozhong Ji, archiater|+86-13951031818|J58430@njmu.edu.cn||Contact
+12917066|NCT05404048|primary|Janneke W de Boer, MD|+31625573522|j.w.de.boer@umcg.nl||Contact
+12917067|NCT05404048|backup|Tom van Meerten, MD,PhD|+31 50 3612770|t.van.meerten@umcg.nl||Contact
+12806989|NCT03366324|primary|YU HU, M.D., Ph.D|86-13986183871|dr_huyu@126.com||Contact
+12806990|NCT03366324|backup|HENG MEI, M.D., Ph.D|86-13886160811|mayheng@126.com||Contact
+12839243|NCT05274451|primary|Heidi Gillenwater, MD|888-707-7917|clinicaltrials@lyell.com||Contact
+12948959|NCT05155215|primary|Fei Wu, MD|+8615801390058|wufei@immunochina.com||Contact
+12886364|NCT04162353|primary|Kevin Pinz, MS|6315386218|kevin.pinz@icellgene.com||Contact
+12886373|NCT04162119|primary|Quanshun Wang|15692538521|wqs63@sohu.com||Contact
+12886374|NCT04162119|backup|Wenshuai Zheng|15701572628|18766179210@163.com||Contact
+12886420|NCT04156269|primary|Kevin Pinz|6315386218|kevin.pinz@icellgene.com||Contact
+12917468|NCT03754764|primary|Hejin Jia|86-10-55499341|PLAGH@QQ.COM||Contact
+12917469|NCT03754764|backup|Zhitao Gao, Dr|86-010-66937917|zhitaogao@qq.com||Contact
+12807609|NCT05341492|primary|Zhang Zhenfeng, PhD|+862039195965|zhangzhf@gzhmu.edu.cn||Contact
+12949283|NCT04684563|primary|Abramson Cancer Center Clinical Trials Service|855-216-0098|PennCancerTrials@careboxhealth.com||Contact
+12807933|NCT02935257|primary|ALLCAR19 Trial Coordinator|02076799860|ctc.allcar19@ucl.ac.uk||Contact
+12839551|NCT03435796|primary|BMS Study Connect Contact Center www.BMSStudyConnect.com|855-907-3286|Clinical.Trials@bms.com||Contact
+12839552|NCT03435796|backup|First line of the email MUST contain the NCT# and Site #.||||Contact
+12808145|NCT05204160|primary|Ajay K Nooka, MD,MPH,FACP|(404) 778-1900|anooka@emory.edu||Contact
+12949516|NCT03664661|primary|Yongping Song, M.D|+86-371-65587199|songyongping2018@126.com||Contact
+12949517|NCT03664661|backup|Quanli Gao, M.D|+86-15038171966|gaoquanli2015@126.com||Contact
+12808299|NCT05023707|primary|Xiaowen Tang, Ph.D|(0086)51267781856|xwtang1020@163.com||Contact
+12808300|NCT05023707|backup|Lin Yang, Ph.D|(0086)18896802149|huimin.meng@persongen.com.cn||Contact
+12886916|NCT03601078|primary|BMS Study Connect Contact Center www.BMSStudyConnect.com|855-907-3286|Clinical.Trials@bms.com||Contact
+12886917|NCT03601078|backup|First line of the email MUST contain the NCT# and Site #.||||Contact
+12918071|NCT04288726|primary|Carlos Ramos, MD|832-824-4817|caramos@bcm.edu||Contact
+12918072|NCT04288726|backup|Vicky Torrano|(832) 824-7821|vtorrano@bcm.edu-||Contact
+12918143|NCT03685786|primary|Weihong Chen, M.D., Ph.D.|0086-755-83366388|whitney-cindy@hotmail.com|8199|Contact
+12918144|NCT03685786|backup|Xin Du, M.D., Ph.D.|0086-755-83366388|duxingz@medmail.com.cn|8197|Contact
+12808499|NCT03291444|primary|Sanfang Tu, M.D, Ph.D|86-20-62782322|doctortutu@163.com||Contact
+12808500|NCT03291444|backup|Yanjie He, M.D, Ph.D|86-20-61643190|hyjgzh2006@163.com||Contact
+12949712|NCT03648697|primary|JianJi Pan|0591-83660063|panjianji@126.com||Contact
+12949713|NCT03648697|backup|QiaoJuan Guo|15080013157|guoqiaojuan@163.com||Contact
+12887038|NCT05286164|primary|Ron Ram, Prof.|972-3-6947830|ronr@tlvmc.gov.il|7830|Contact
+12808721|NCT05605197|primary|Maoquan Li, doctor|021-66300114*3506|cjr.limaoquan@vip.163.com||Contact
+12808722|NCT05605197|backup|Shilong Han, doctor|021-66303247|||Contact
+12887197|NCT03614858|primary|Xiaowen Tang, Ph.D.|(0086)51267781856|tangxiaowen@suda.edu.cn||Contact
+12887198|NCT03614858|backup|Lei Yu, Ph.D.|8613818629089|ylyh188@163.com||Contact
+12887207|NCT05064787|primary|Kelly J Brassil, PhD|205-729-8706|research@packhealth.com||Contact
+12887208|NCT05064787|backup|Lindsey Jackson, MPH|205-729-8706|research@packhealth.com||Contact
+12949912|NCT03468153|primary|Weili Zhao, MD|64370045|zhao.weili@yahoo.com|610707|Contact
+12839809|NCT03882840|primary|Zhenfeng Zhang, MD,PhD|+862034153532|zhangzhf@gzhmu.edu.cn||Contact
+12839810|NCT03882840|backup|Peng Li, PhD||lipeng@invivobio.com.cn||Contact
+12839813|NCT03198546|primary|Zhenfeng Zhang, MD,PhD|0086-020-34153532|zhangzhf@gzhmu.edu.cn||Contact
+12839814|NCT03198546|backup|Peng Li, PhD|+86 20 32015300|lipeng@invivobio.com.cn||Contact
+12809021|NCT03196830|primary|Cai-Xia Li|86 512 67781856|licaixia@suda.edu.cn||Contact
+12950082|NCT03649529|primary|Haifeng Lin|+86 13322060949|13322060949@163.com||Contact
+12950083|NCT03649529|backup|Bin Gao|+86 13910899150|bin.gaoa@timmune.com||Contact
+12950141|NCT03615313|primary|Zhiwei Zhang, PhD|0086-021-59593168|zhangzw@shcell.com|8008|Contact
+12839896|NCT03590574|primary|Autolus Limited|+44 (0)203 911 4385|clinicaltrials@autolus.com||Contact
+12918634|NCT05318963|primary|Wei Liu|86-022-23909282|liuwei@ihcams.ac.cn||Contact
+12809219|NCT05381662|primary|Depei Wu, Ph.D|86-13328008851|slxue@suda.edu.cn||Contact
+12809468|NCT05248048|primary|Xuehu Xu, MD|13609020099|maxtiger@126.com|0086|Contact
+12809469|NCT05248048|backup|Nanqi Huang|13560316181|||Contact
+12809520|NCT04480788|primary|Mingzhi Zhang, Doctor|+8613838565629|mingzhi_zhang@126.com||Contact
+12840087|NCT05665062|primary|Clinical Operations|650.271.9888|clinicaltrialinfo@synthekine.com||Contact
+12840115|NCT05322330|primary|Caixia Li, M.D|+86 512 67781856|licaixia@suda.edu.cn||Contact
+12918968|NCT03932565|primary|Bingmu Fang, M.D|0578-2780108|fbm636@163.com||Contact
+12950493|NCT03398967|primary|Wenying Zhang|86-10-55499341|zhangwenying.1984@163.com||Contact
+12950494|NCT03125577|primary|Lung-Ji Chang, PhD|+86-0755 8672-5195|c@szgimi.org||Contact
+12887773|NCT02844062|primary|Zhixiong Lin, MD|+86-10-13905918963|lzx1967@sina.com||Contact
+12919083|NCT03642496|primary|He Peng cheng, Doctor|0086-18991232609|hepc@163.com|He Pengcheng|Contact
+12950696|NCT03142646|primary|Xin-an Lu, Dr.|86-189-1157-6946|luxinan@immunochina.com||Contact
+12950697|NCT03142646|backup|hui liu, MD|86-15801390058|espinas@163.com||Contact
+12840350|NCT05212584|primary|Kevin Pinz, MS|6315386218|kevin.pinz@icellgene.com||Contact
+12887970|NCT04237428|primary|Mingzhi Zhang, Doctor|+8613838565629|mingzhi_zhang@126.com||Contact
+12919320|NCT03574168|primary|Zhongwei Xu, MD, Phd|+86 010-69739722|willyxu001@bioceltech.com||Contact
+12810482|NCT05108805|primary|Vanderbilt-Ingram Service for Timely Access|800-811-8480|cip@vumc.org||Contact
+12810658|NCT03110640|primary|Kang Yu, M.D.|55578037|yukang62@126.com||Contact
+12919472|NCT03907527|primary|Amy R. Lankford, PhD|301-556-9900|clinicaltrials@precigen.com||Contact
+12810707|NCT05085444|primary|He Huang, PhD|86-13605714822|hehuangyu@126.com||Contact
+12810708|NCT05085444|backup|Yongxian Hu, PhD|86-15957162012|huyongxian2000@aliyun.com||Contact
+12919546|NCT03893019|primary|Christine Schubert|+49 2204 8306 6564|christines@miltenyibiotec.de||Contact
+12919547|NCT03893019|backup|Sandra Karitzky, Dr.|+49 2204 8306 6560|sandrak@miltenyibiotec.de||Contact
+12810778|NCT04287660|primary|Xiaowen Tang, Ph.D|86-512677801856|xwtang1020@163.com||Contact
+12810779|NCT04287660|backup|Depei Wu, Ph.D|86-512677801856|drwudepei@163.com||Contact
+12810880|NCT04007029|primary|Jacob Naparstek|310 206-9926|JNaparstek@mednet.ucla.edu||Contact
+12810967|NCT04194931|primary|Fei LI, M.D.;Ph.D.|+86-139-7003-8386|yx021021@sina.com||Contact
+12919785|NCT03563326|primary|Jian-Kun Hu, M.D. Ph.D.|02885422878|hujkwch@126.com||Contact
+12951210|NCT05396300|primary|Weijia Fang, M.D|13758211655|weijiafang@zju.edu.cn||Contact
+12951239|NCT05089266|primary|jie WANG|13910704669|zlhuxi@163.com||Contact
+12951240|NCT05089266|backup|jianchun DUAN|13811259820|||Contact
+12951328|NCT03618381|primary|Katie Albert, MD|206-987-2106|immunotherapy@seattlechildrens.org||Contact
+12841167|NCT05576220|primary|Sam Barend|917-902-4986|Sam@idion.us||Contact
+12920395|NCT05103631|primary|Tannaz Armaghany, MD|713-798-3750|Tannaz.Armaghany@bcm.edu||Contact
+12920396|NCT05103631|backup|Ramy Sweidan|832-824-4234|rxsweida@texaschildrens.org||Contact
+12920457|NCT04633148|primary|Antje Warth, Dr.|+493514466450|UC02-PSMA-01@avencell.com|0|Contact
+12920458|NCT04633148|backup|Martin Lorkowski, Dr.|+493514466450|UC02-PSMA-01@avencell.com|0|Contact
+12920471|NCT04442022|primary|Karyopharm Medical Information|(888) 209-9326|clinicaltrials@karyopharm.com||Contact
+12888296|NCT05627323|primary|Chimeric Therapeutics|1-866-430-1081|clinicaltrials@chimerictherapeutics.com||Contact
+12920515|NCT03448393|primary|NCI Pediatric Leukemia, Lymphoma Transpl|(240) 760-6970|ncilltct@mail.nih.gov||Contact
+12920516|NCT03448393|backup|Haneen Shalabi, D.O.|(240) 858-3339|haneen.shalabi@nih.gov||Contact
+12951654|NCT04545762|primary|Julie McCluggage, RN|(415) 514-8133|cancertrials@ucsf.edu||Contact
+12951670|NCT04419909|primary|Stephen J Schuster, MD|215.614.1846|schustes@pennmedicine.upenn.edu||Contact
+12888396|NCT05117008|primary|Medical College of Wisconsin Cancer Center Clinical Trials Office|866-680-0505|cccto@mcw.edu|8900|Contact
+12951671|NCT04419909|backup|Emerging Medicine|855-216-0098|PennCancerTrials@careboxhealth.com||Contact
+12888416|NCT04984356|primary|Eileen McNulty, MS|636-385-5306|emcnulty@wugen.com||Contact
+12841663|NCT05262673|primary|Lung-Ji Chang, Ph.D|86-0755-86725195|c@szgimi.org||Contact
+12811955|NCT05066022|primary|chengcheng Fu, PhD|0512-67781856|fuzhengzheng@suda.edu.cn||Contact
+12921092|NCT03767751|primary|YaJing Zhang|86-10-55499341|plagh@qq.com||Contact
+12811982|NCT04662294|primary|He Huang, PhD|86-13605714822|hehuangyu@126.com||Contact
+12811983|NCT04662294|backup|Yongxian Hu, PhD|86-15957162012|huyongxian2000@aliyun.com||Contact
+12921203|NCT03751293|primary|Peihua Lu, PhD&MD|+86-0316-3306393|peihua_lu@126.com||Contact
+12921346|NCT04077866|primary|Jianmin Zhang, MD|+86-13805722695|2307010@zju.edu.cn||Contact
+12842422|NCT05418088|primary|The Ohio State University Comprehensive Cancer Center|800-293-5066|OSUCCCClinicaltrials@osumc.edu||Contact
+12921466|NCT05268172|primary|liu quan, doctor|15995299079|Quanliu.lq@outlook.com||Contact
+12921467|NCT05268172|backup|jiang li qing, postgraduate|15261479578|jjiangliq@163.com||Contact
+12921807|NCT02186860|primary|Yao Sun, M.D., Ph.D.|+86-010-6694-7402|suny320@126.com||Contact
+12921808|NCT02186860|backup|Liangding Hu, M.D.|+86-010-6694-7107|huliangding@sohu.com||Contact
+12921964|NCT02259556|primary|Weidong Han, Ph.D|86-10-66937463|hanwdrsw@sina.com||Contact
+12921965|NCT02259556|backup|Quanshun Wang, Ph.D|86-10-66939486|wqs63@sohu.com||Contact
+12922064|NCT05239676|primary|He Huang, PhD|+8613605714822|hehuangyu@126.com||Contact
+12922065|NCT05239676|backup|Yongxian Hu, PhD|+8615957162012|huyongxian2000@aliyun.com||Contact
+12812613|NCT05066646|primary|Songbai Cai|+86 025-58287610|simon@iasobio.com||Contact
+12922609|NCT05371093|primary|Medical Information|844-454-5483(1-844-454-KITE)|medinfo@kitepharma.com||Contact
+12922612|NCT05364424|primary|Reference Study ID Number: GO43693 https://forpatients.roche.com/|888-662-6728|global-roche-genentech-trials@gene.com||Contact
+12922677|NCT04989803|primary|Medical Information|844-454-5483(1-844-454-KITE)|medinfo@kitepharma.com||Contact
+12922690|NCT04897321|primary|Chris DeRenzo, MD|866-278-5833|referralinfo@stjude.org||Contact
+12922760|NCT04196413|primary|Courtney Erickson, RN, BSN|650-497-7533|gd2cart@stanfordchildrens.org||Contact
+12922761|NCT04196413|backup|Ashley Jacobs, RN, BSN|650-497-7533|gd2cart@stanfordchildrens.org||Contact
+12888914|NCT02772198|primary|Amos Toren, MD,Phd|03-5302934|amos.toren@sheba.health.gov.il||Contact
+12888915|NCT02772198|backup|Elad Jacoby, MD|03-5302934|elad.jacoby@sheba.health.gov.il||Contact
+12952719|NCT03321123|primary|Jing Chen, MD, PhD|86 18930830632|chenjing@scmc.com.cn||Contact
+12952720|NCT03321123|backup|Benshang Li, MD, PhD|86 18101893712|libenshang@scmc.com.cn||Contact
+12953243|NCT05334823|primary|Tianyou Wang, M.D|010-59616161|wangtianyou@bch.com.cn||Contact
+12953244|NCT05334823|backup|Liang Huang, M.D|86-27-83665027|lhuang@tjh.tjmu.edu.cn||Contact
+12813016|NCT05310591|primary|Andre Baruchel, Pr|+331 40 03 53 88|andre.baruchel@aphp.fr||Contact
+12813017|NCT05310591|backup|Matthieu RESCHE-RIGON, Pr|+33142499742|matthieu.resche-rigon@u-paris.fr||Contact
+12953926|NCT04935580|primary|Juan Du, MD|+86-21-81885423|changzheng_pg@163.com||Contact
+12844789|NCT05239143|primary|Angie Schinkel|858-779-3103|clinicaltrials@poseida.com||Contact
+12813243|NCT05060796|primary|Zhenfeng Zhang, MD, PhD|0086-020-39195966|zhangzhf@gzhmu.edu.cn||Contact
+12813244|NCT05060796|backup|Bingjia He, MD|14748877800|||Contact
+12845058|NCT05568680|primary|Loretta Brozena, BSN, MBA|215-536-5250|loretta.brozena@verismotherapeutics.com||Contact
+12813392|NCT03407859|primary|Yuhua Li, Ph.D|86-20-61643188|liyuhua2011gz@163.com||Contact
+12813393|NCT03407859|backup|Sanfang Tu, Ph.D|86-20-62782322|doctortutu@163.com||Contact
+12954637|NCT05354375|primary|Hailong Li, M.D/Ph.D|0086-17798835021|Justinlee719@163.com||Contact
+12954638|NCT05354375|backup|Qing Zhang, Ph.D|0086-516-83262238|qingzhang@xzhmu.edu.cn||Contact
+12813515|NCT04191941|primary|Ming Zhou|+86 0731 83928147|zhouming_0321@163.com||Contact
+12813516|NCT04191941|backup|Bin Gao|+86 022 59060560|bin.gao@timmune.com|803|Contact
+12845703|NCT05028933|primary|yuying zhao|+86 15900830240|yuying.zhao@immunohead.com|0571-87237646|Contact
+12845704|NCT05028933|backup|Mengdie Liu|+86 18817438275|mengdie.liu@primium-smo.com|0571- 87235147|Contact
+12845736|NCT03975907|primary|Zonghai LI, MD|8621-54960239|zonghaili@carsgen.com||Contact
+12845737|NCT03975907|backup|Lifeng ZHANG|8621-54960239|lifengzhang@carsgen.com||Contact
+12955009|NCT04855253|primary|Cancer Center Clinical Trials Office|612-676-4200|ccinfo@umn.edu||Contact
+12923517|NCT03874897|primary|Lin Shen|861088196561|linshenpku@163.com||Contact
+12923518|NCT03874897|backup|Jifang Gong|861088196561|goodjf@163.com||Contact
+12955037|NCT04715191|primary|Andras Heczey|(832) 824-4233|axheczey@txch.org||Contact
+12955038|NCT04715191|backup|David Steffin|(832) 824-4233|dhsteffi@texaschildrens.org||Contact
+12955072|NCT04377932|primary|Andras Heczey|(832) 824-4233|axheczey@txch.org||Contact
+12955073|NCT04377932|backup|David Steffin, MD|(832) 824-4745|dhsteffi@texaschildrens.org||Contact
+12955091|NCT04049383|primary|Meredith Beversdorf, RN|414-266-5891|mbeversdorf@childrenswi.org||Contact
+12955092|NCT04049383|backup|Isabella Puls|414-266-4853|ipuls@mcw.edu||Contact
+12923546|NCT03929107|primary|Juying Wei, MD|(+86)13867476302|weijuy@hotmail.com||Contact
+12923547|NCT03929107|backup|Hui Liu, MD,PhD|(+86)13819198629|||Contact
+12955179|NCT03564977|primary|Peng Zhao, doctor|8653284961737|zp8102@126.com||Contact
+12955180|NCT03564977|backup|Ketao Lana||||Contact
+12955309|NCT03545815|primary|Wweidong Han, Dr.|86-10-13651392893|hanwdrsw@sina.com||Contact
+12846341|NCT05596266|primary|Zhiguo Chen, PhD|86-10-83198889|chenzhiguo@gmail.com||Contact
+12846342|NCT05596266|backup|Huyong Zheng, MD, PhD|010-59617621|zhenghuyong@bch.com.cn||Contact
+12846430|NCT05137275|primary|Jin Li, PhD|13761222111|lijin@csco.org.cn||Contact
+12923873|NCT05155189|primary|Qihan Fu|18268173309|ayfuqihan@126.com||Contact
+12955745|NCT03559439|primary|Ligen Liu|18017337037|llg3532@shtrhospital.com||Contact
+12955803|NCT04934774|primary|Kevin Pinz, MS|6315386218|kevin.pinz@icellgene.com||Contact
+12955804|NCT04934774|backup|Yupo Ma, MD/PhD|7024658132|yupo.ma@icellgene.com||Contact
+12956104|NCT04888442|primary|Xiaoxi zhou, M.D|86-27-83665027|cello316@163.com||Contact
+12956105|NCT04888442|backup|Liang Huang, M.D|86-27-63639810|lhuang@tjh.tjmu.edu.cn||Contact
+12814148|NCT03154775|primary|Aibin Liang, MD,Ph.D.|0086-021-66111019|lab7182@tongji.edu.cn||Contact
+12814149|NCT03154775|backup|Ping Li, MD,Ph.D.|0086-021-66111015|lilyforever76@126.com||Contact
+12956658|NCT04412174|primary|Peihua Lu, PhD&MD|+86-0316-3306393|Peihua_lu@126.com||Contact
+12814280|NCT03018093|primary|Li Yu|010-66937644|liyu301@vip.163.com||Contact
+12924254|NCT03902197|primary|Zhiguo Chen, PhD|86-10-83198889|chenzhiguo@gmail.com||Contact
+12924255|NCT03902197|backup|Yu Zhao, PhD|86-10-83198274|zhaoyu198387@gmail.com||Contact
+12957106|NCT03179007|primary|Zhiwei Zhang, Ph.D|0086-021-39595338|zhangzw@shcell.com||Contact
+12814811|NCT05105867|primary|Sanbin Wang, Professor|13187424131|Sanbin1011@163.com|+86|Contact
+12957818|NCT05626322|primary|Pfizer CT.gov Call Center|1-800-718-1021|ClinicalTrials.gov_Inquiries@pfizer.com||Contact
+12924380|NCT03881761|primary|Yongping Song, Dr.|+86-37165587795|songyongping2018@126.com||Contact
+12924381|NCT03881761|backup|Quanli Gao, Dr.|+86-37165587483|gaoquanli2015@126.com||Contact
+12957867|NCT05396885|primary|Clinical Information|240-327-0379|clinical@arcellx.com||Contact
+12815024|NCT03915184|primary|Nishan Rajakumaraswamy, MD|CentralNumber|clinicalUS@carsgen.com||Contact
+12815446|NCT04129099|primary|Junfang Yang, Bachelor|13522084342|Yangjunfang77@163.com||Contact
+12924593|NCT03711864|primary|Lu Zhang, M.D.|+86-18610728815|pumczhanglu@163.com||Contact
+12847737|NCT03373097|primary|Franco Locatelli, MD, PhD|066859|franco.locatelli@opbg.net|2678|Contact
+12847758|NCT05437341|primary|Lung-Ji Chang, PhD|86-0755-86725195|c@szgimi.org||Contact
+12847759|NCT05437328|primary|Lung-Ji Chang, PhD|86-0755-86725195|c@szgimi.org||Contact
+12847760|NCT05437315|primary|Lung-Ji Chang, PhD|86-0755-86725195|c@szgimi.org||Contact
+12847772|NCT05436509|primary|Lung-Ji Chang, PhD|86-0755-86725195|c@szgimi.org||Contact
+12847773|NCT05436496|primary|Lung-Ji Chang, PhD|86-0755-86725195|c@szgimi.org||Contact
+12816092|NCT04943016|primary|Jih-Luh Tang|886-0-72651057|tangntuh@gmail.com||Contact
+12848157|NCT01735604|primary|Han weidong, doctor|+86-10-66937463|hanwdrsw@sina.com||Contact
+12848158|NCT01735604|backup|Bo jian, doctor|+86-10-13801257802|boj301@sina.com||Contact
+12849226|NCT01864889|primary|weidong han, Dr.|86-10-13651392893|hanwdrsw@sina.com||Contact
+12849227|NCT01864889|backup|ying liu, Dr.|86-10-13910392619|liuyingdr@163.com||Contact
+12849228|NCT01864902|primary|Weidong Han, Dr.|86-10-13651392893|hanwdrsw@sina.com||Contact
+12849229|NCT01864902|backup|Xuliang Shen, Dr.|86-355-13015365546|shenxlcyp@sohu.com||Contact
+12849573|NCT05510596|primary|Clarisse CARRA-DALLIERE, Dr|0467337413|c-carra_dalliere@chu-montpellier.fr|+33|Contact
+12849574|NCT05510596|backup|Xavier AYRIGNAC, Dr|0467337413|x-ayrignac@chu-montpellier.fr|+33|Contact
+12849639|NCT05225363|primary|Lorna Rodriguez|626-359-8111|lorrodriguez@coh.org||Contact
+12924904|NCT05470777|primary|Sheng-Li Xue, M.D.|+86 512 67781139|slxue@suda.edu.cn||Contact
+12959532|NCT04473937|primary|Chirayu G Patel, MD, MPH|617-724-2340|cpatel@mgh.harvard.edu||Contact
+12959581|NCT04923919|primary|Wang Sanbin, Doctor|(86)13187424131|Sanbin1011@163.com||Contact
+12817089|NCT05634785|primary|Catherine Cheng|919-445-4208|catherine_cheng@med.unc.edu||Contact
+12817090|NCT05634785|backup|Caroline Babinec|919-962-7426|caroline_babinec@med.unc.edu||Contact
+12817168|NCT05366179|primary|Catherine Cheng|919-445-4208|catherine_cheng@med.unc.edu||Contact
+12817169|NCT05366179|backup|Caroline Babinec|919-962-7426|caroline_babinec@med.unc.edu||Contact
+12817266|NCT04995003|primary|Meenakshi Hegde, MD|832-824-4840|mghegde@bcm.edu||Contact
+12817267|NCT04995003|backup|Shoba Navai, MD|832-824-7482|Shoba.Navai@Bcm.Edu||Contact
+12817270|NCT04977024|primary|Chief Medical Officer|678-384-7220|info@geovax.com||Contact
+12817271|NCT04977024|backup|Director Clinical Operations||||Contact
+12853367|NCT03765177|primary|Natasha Kekre, MD|613-737-8899|nkekre@toh.on.ca|71064|Contact
+12853368|NCT03765177|backup|Alice Black|613-737-8899|aliblack@ohri.ca|71064|Contact
+12889291|NCT05659628|primary|Lixia Sheng, doctor|86-574-87085596|slx800408@163.com||Contact
+12889304|NCT02537977|primary|Aibin Liang, MD,Ph.D.|0086-021-66111019|lab7182@tongji.edu.cn||Contact
+12889305|NCT02537977|backup|Ping Li, MD,Ph.D.|0086-021-66111015|lilyforever76@126.com||Contact
+12889330|NCT05379569|primary|Yu Cai, MD|+86-13818583066|butterflymmyu@hotmail.com||Contact
+12889429|NCT05382377|primary|Jianming Xu, M.D|13910866712|jianmingxu2014@163.com||Contact
+12924983|NCT04257175|primary|Arnon Nagler, MD|+972-3-530 5830|Arnon.Nagler@sheba.health.gov.il||Contact
+12925014|NCT03931421|primary|Wenbin Qian, MD,PhD|(+86)13605801032|qianwenb@aliyun.com||Contact
+12925015|NCT03931421|backup|Hui Liu, MD,PhD|(+86)13819198629|||Contact
+12925031|NCT04823091|primary|Heng Mei|027-8572600|hmei@hust.edu.cn||Contact
+12925032|NCT04823091|backup|Chenggong Li|18868112136|chenggongli@hust.edu.cn||Contact
+12925176|NCT03814447|primary|Hui Zhao, doctor|021-64369181|ivy25502@hotmail.com||Contact
+12925177|NCT03814447|backup|Yincheng Teng, doctor|021-64369181|teng_yc@126.com||Contact
+12925185|NCT05164042|primary|Li Yu|+8675521839178|liyu@vip.163.com||Contact
+12925247|NCT03815383|primary|Jianyong Li, PhD|025-83718836,83714511|lijianyonglm@126.com||Contact
+12960249|NCT03528421|primary|Xin-an Lu, Dr|86-189-1157-6946|luxinan@immunochina.com||Contact
+12960333|NCT03927261|primary|Amy R. Lankford, PhD|301-556-9900|clinicaltrials@precigen.com||Contact
+12817414|NCT03721068|primary|Lori Stravers|919-966-4432|lori_stravers@med.unc.edu||Contact
+12817415|NCT03721068|backup|Catherine Cheng|919-445-4208|catherine_cheng@med.unc.edu||Contact
+12817419|NCT03672318|primary|Catherine Cheng|919-445-4208|catherine_cheng@med.unc.edu||Contact
+12817420|NCT03672318|backup|Kelly Hoye|919-445-9676|kelly_hoye@med.unc.edu||Contact
+12960479|NCT04581473|primary|Wei Wang, MD, Ph.D|86-21-54489926|weiwang@carsgen.com||Contact
+12960480|NCT04581473|backup|Yilin Wang|86-21-64501828|yilinwang@carsgen.com||Contact
+12817446|NCT03016377|primary|Catherine Cheng|919-445-4208|catherine_cheng@med.unc.edu||Contact
+12817447|NCT03016377|backup|Kelly Hoye|919-445-9676|kelly_hoye@med.unc.edu||Contact
+12960809|NCT03497533|primary|Ming Zhou|+86 0731 83928147|zhouming_0321@163.com||Contact
+12960810|NCT03497533|backup|Bin Gao|+86 022 59060560|bin.gao@timmune.com|803|Contact
+12817540|NCT03050190|primary|Lung-Ji Chang, PhD|+86-0755 8672-5195|c@szgimi.org||Contact
+12925557|NCT05176275|primary|Hua Zhang|86 0512 6797 2858|sdfyy8040@126.com||Contact
+12925558|NCT05176275|backup|Yicong Bian|86 0512 6797 2858|bianyicong@126.com||Contact
+12961214|NCT05202782|primary|Study Coordinator|3126951301|cancer@northwestern.edu||Contact
+12961255|NCT05191472|primary|Laurel Brechtel|(415) 502-1564|laurel.brechtel@ucsf.edu||Contact
+12961470|NCT04219163|primary|LaQuisa Hill, MD|713-441-1450|LaQuisa.Hill@bcm.edu||Contact
+12817696|NCT04121273|primary|Decai Yu, MD|8613701585023|yudecai@nju.edu.cn||Contact
+12817697|NCT04121273|backup|Wenfang Tian, PhD|8613675104348|tiancpu@163.com||Contact
+12961846|NCT05206357|primary|ABBVIE CALL CENTER|844-663-3742|abbvieclinicaltrials@abbvie.com||Contact
+12961918|NCT04577326|primary|Roisin O'Cearbhaill, MD|646-888-4227|cart@mskcc.org||Contact
+12961919|NCT04577326|backup|Adam Schoenfeld, MD|646-608-4042|||Contact
+12817770|NCT04884984|primary|Xiaowen Tang, Ph.D|(0086)51267781856|xwtang1020@163.com||Contact
+12817771|NCT04884984|backup|Lei Yu, Ph.D|(0086)13818629089|ylyh188@163.com||Contact
+12817893|NCT04863066|primary|Jinfang Zhao, MD|010-93332866|zhaojinfang13@163.com||Contact
+12817894|NCT04863066|backup|Xuanling Shi, MD||shixuanlingsk@mail.tsinghua.edu.cn||Contact
+12925615|NCT03790891|primary|Yao Hongxia|+86 13876081106|yaohongxia768@163.com||Contact
+12925616|NCT03790891|backup|Gao Bin|+86 13910899150|bin.gaoa@timmune.com||Contact
+12925732|NCT05438368|primary|Lung-Ji Chang, PhD|86-0755-86725195|c@szgimi.org||Contact
+12925739|NCT05234190|primary|Quell Therapeutics Clinical Trials|+44(0)2070969012|contact@quell-tx.com||Contact
+12925858|NCT03706326|primary|Size Chen, MD, PhD|+8613720956393|13720956393@139.com||Contact
+12925859|NCT03706326|backup|Zhizhou Huang, MSc|+8613268258980|hzhizhou@sina.com||Contact
+12925963|NCT03064269|primary|Sheng-Li Xue, MD|86-13328008851|slxue@suda.edu.cn||Contact
+12925964|NCT03064269|backup|Lei Yu, Ph.D|86-13818629089|ylyh188@163.com||Contact
+12926229|NCT03767725|primary|Weihong Chen, M.D.|86-755-83366388|whitney-cindy@hotmail.com|8199|Contact
+12926230|NCT03767725|backup|Xin Du, M.D.|86-755-83366388|duxingz@medmail.com.cn|8197|Contact
+12926253|NCT03916679|primary|Zhigang Zhang, M.D.|15088621550|zzg2011@zju.edu.cn||Contact
+12926254|NCT03916679|backup|Jianwei Zhou, M.D.|0571-89713634|jianwei-zhou@163.com||Contact
+12853527|NCT05638828|primary|Changsong Qi, Dr.|13811394004|xiwangpku@126.com||Contact
+12926561|NCT05275062|primary|Fei Wu, MD|+8615801390058|wufei@immunochina.com||Contact
+12853594|NCT05618041|primary|Shengmin Guo|008618633039369|guoshengmin@senlangbio.com||Contact
+12890127|NCT05588440|primary|Ariadne Jerue|858-761-8062|ajerue@oncternal.com||Contact
+12853813|NCT05641428|primary|T. (Tom) van Meerten|+31 (0)10 7041560|hdc@erasmusmc.nl||Contact
+12854122|NCT02958397|primary|Cheng Qian, MD, PhD|0086-023-68765461|cqian3184@163.com||Contact
+12854123|NCT02958397|backup|Shiqi Li, MD|0086-13206140093|Lystch@qq.com||Contact

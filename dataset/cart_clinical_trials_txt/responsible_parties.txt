@@ -1,0 +1,1038 @@
+id|nct_id|responsible_party_type|name|title|organization|affiliation|old_name_title
+31028598|NCT03614858|Sponsor|||||
+31028637|NCT05064787|Sponsor|||||
+31117829|NCT03287804|Sponsor|||||
+30824141|NCT03029338|Principal Investigator|Zou Dehui|Dr.||Institute of Hematology & Blood Diseases Hospital|
+30849825|NCT05287165|Sponsor|||||
+31207967|NCT04473937|Principal Investigator|Chirayu G. Patel|Principal Investigator||Massachusetts General Hospital|
+31208161|NCT04923919|Sponsor|||||
+31028970|NCT04712864|Sponsor|||||
+30850397|NCT04318327|Sponsor|||||
+30850471|NCT03241940|Sponsor-Investigator|Crystal Mackall, MD|Professor of Pediatrics||Stanford University|
+30850472|NCT03233854|Sponsor-Investigator|Crystal Mackall, MD|Professor of Pediatrics||Stanford University|
+30850534|NCT00085930|Principal Investigator|Andras Heczey|MD||Baylor College of Medicine|
+30850649|NCT04766840|Sponsor|||||
+31209784|NCT01953900|Principal Investigator|Sarah Whittle|Assistant Professor||Baylor College of Medicine|
+31209816|NCT03528421|Sponsor|||||
+31210027|NCT03927261|Sponsor|||||
+31118744|NCT03767751|Principal Investigator|Han weidong|Director of Molecular & Immunological Department,Biotherapeutic Department||Chinese PLA General Hospital|
+31119087|NCT03751293|Sponsor|||||
+30852362|NCT03086954|Sponsor|||||
+30852800|NCT03084380|Principal Investigator|Qingzhu Jia, M.D.|Secretary of research||Xinqiao Hospital of Chongqing|
+31119565|NCT04077866|Sponsor|||||
+31210471|NCT04581473|Sponsor|||||
+30854993|NCT05370430|Sponsor|||||
+30855148|NCT04381741|Sponsor|||||
+31120062|NCT05268172|Sponsor|||||
+30857025|NCT02980315|Sponsor|||||
+30942959|NCT03765177|Sponsor|||||
+30857324|NCT03030001|Sponsor|||||
+30857447|NCT05583201|Sponsor-Investigator|jianming xu|Leading Site Principal Investigator||The Affiliated Hospital of the Chinese Academy of Military Medical Sciences|
+30943242|NCT03682744|Sponsor|||||
+30943368|NCT05638828|Sponsor-Investigator|Shen Lin|Professor||Peking University|
+30943543|NCT05618041|Sponsor|||||
+30857884|NCT05241392|Principal Investigator|Yang Zhang|Clinical Professor||Beijing Tiantan Hospital|
+30944092|NCT05641428|Sponsor|||||
+30859378|NCT05509530|Principal Investigator|Kai Lin Xu，MD|Principal Investigator||Xuzhou Medical University|
+30860111|NCT04544592|Sponsor|||||
+30944795|NCT02958397|Principal Investigator|Shiqi Li|Principal Investigator of Biotherapy Center||Southwest Hospital, China|
+30861137|NCT04394650|Sponsor|||||
+30861154|NCT03081910|Principal Investigator|Rayne Rouce|Assistant Professor||Baylor College of Medicine|
+31211312|NCT03497533|Sponsor|||||
+31121503|NCT02186860|Sponsor|||||
+30861721|NCT04605666|Principal Investigator|Qifa Liu|Professor||Nanfang Hospital, Southern Medical University|
+30861724|NCT04531046|Sponsor|||||
+30945810|NCT05432401|Sponsor|||||
+30946087|NCT05576181|Sponsor|||||
+30946095|NCT05640713|Sponsor|||||
+30863061|NCT05621096|Principal Investigator|Christopher Dangelo|Assistant Professor, Division of Hematology/Oncology, Department of Internal Medicine||University of Nebraska|
+31122110|NCT02259556|Principal Investigator|Han weidong|Director||Chinese PLA General Hospital|
+30863869|NCT05070156|Principal Investigator|Qing Xu|Principle Investigator||Tongji University|
+30863880|NCT05013372|Principal Investigator|Xiao-Jun Huang|Prof.||Peking University People's Hospital|
+30863887|NCT04214886|Principal Investigator|Nasheed Hossain|MD, Assistant Professor||Loyola University|
+30863905|NCT05621486|Sponsor|||||
+30946566|NCT03960060|Sponsor|||||
+31122503|NCT05239676|Principal Investigator|He Huang|The President of The First Affiliated Hospital, College of Medicine, Zhejiang University||Zhejiang University|
+30865907|NCT05431608|Sponsor|||||
+30865919|NCT05397496|Sponsor|||||
+30947390|NCT01818323|Principal Investigator|John Maher|Consultant and Senior Lecturer in Immunology||King's College London|
+31123168|NCT01109095|Principal Investigator|Nabil Ahmed|Associate Professor||Baylor College of Medicine|
+30867161|NCT02663297|Sponsor|||||
+30867181|NCT02159495|Sponsor|||||
+30867905|NCT03013712|Sponsor|||||
+30868507|NCT05544526|Sponsor|||||
+31212218|NCT02443831|Sponsor|||||
+31123657|NCT05371093|Sponsor|||||
+31123659|NCT05364424|Sponsor|||||
+30868715|NCT03602612|Principal Investigator|James Kochenderfer, M.D.|Principal Investigator||National Cancer Institute (NCI)|
+31212262|NCT05202782|Sponsor|||||
+31123746|NCT04989803|Sponsor|||||
+31029716|NCT03617198|Sponsor|||||
+31029737|NCT02844062|Sponsor|||||
+31123768|NCT04897321|Sponsor|||||
+30948587|NCT05020444|Sponsor-Investigator|Marcela V. Maus, M.D.,Ph.D.|Sponsor Investigator||Massachusetts General Hospital|
+30948704|NCT04214392|Sponsor|||||
+31123872|NCT04196413|Sponsor-Investigator|Crystal Mackall, MD|Professor of Pediatrics and of Medicine||Stanford University|
+31212321|NCT05191472|Sponsor-Investigator|Alfred Chung, MD|Principal Investigator||University of California, San Francisco|
+30869478|NCT02050347|Principal Investigator|Carlos Ramos|Assistant Professor||Baylor College of Medicine|
+31212779|NCT04219163|Principal Investigator|LaQuisa Hill|Assistant Professor||Baylor College of Medicine|
+31213180|NCT05206357|Sponsor|||||
+30869650|NCT03287817|Sponsor|||||
+30869771|NCT05445765|Sponsor|||||
+31213280|NCT04577326|Sponsor|||||
+31030295|NCT04237428|Sponsor|||||
+30870382|NCT05141253|Principal Investigator|Qinglei Gao|Professor||Tongji Hospital|
+31213379|NCT03792633|Sponsor|||||
+30949893|NCT05432882|Sponsor|||||
+30949922|NCT02958384|Principal Investigator|Shiqi Li|Principal Investigator of Biotherapy Center||Southwest Hospital, China|
+30871232|NCT03029273|Principal Investigator|ShiYue Li|MD,Professor||Guangzhou Institute of Respiratory Disease|
+30950498|NCT04727008|Principal Investigator|Ting Niu|Director of Department of Hematology||West China Hospital|
+30871562|NCT04499573|Sponsor|||||
+31030781|NCT05627323|Sponsor|||||
+30871981|NCT04351022|Sponsor|||||
+30872067|NCT04835519|Sponsor|||||
+31030893|NCT05117008|Principal Investigator|Meera Mohan, MD|Assistant Professor||Medical College of Wisconsin|
+31030914|NCT04984356|Sponsor|||||
+30951619|NCT02963038|Sponsor|||||
+30951820|NCT02968472|Principal Investigator|Xun Lai|chief physician||The First People's Hospital of Yunnan|
+30873064|NCT02959151|Sponsor|||||
+30873153|NCT05362331|Sponsor|||||
+30824424|NCT02935257|Sponsor|||||
+30873551|NCT04827745|Sponsor|||||
+30873661|NCT02445222|Sponsor|||||
+30873700|NCT02976857|Sponsor|||||
+30873771|NCT04003649|Sponsor|||||
+30873855|NCT02975687|Principal Investigator|wang, jianxiang|Dr.||Institute of Hematology & Blood Diseases Hospital|
+30874305|NCT03430011|Sponsor|||||
+30953345|NCT02958410|Principal Investigator|Shiqi Li|Principal Investigator of Biotherapy Center||Southwest Hospital, China|
+30953393|NCT04717999|Sponsor|||||
+30953431|NCT02965092|Sponsor|||||
+31125566|NCT03874897|Principal Investigator|Shen Lin|Professor||Peking University|
+31031857|NCT05168748|Sponsor|||||
+30875392|NCT04740203|Principal Investigator|He Huang|Professor||Zhejiang University|
+31125669|NCT03929107|Sponsor-Investigator|Wenbin Qian|Doctor, Professor||First Affiliated Hospital of Zhejiang University|
+30875483|NCT00586391|Principal Investigator|Carlos Ramos|Assistant Professor||Baylor College of Medicine|
+30875628|NCT05445011|Principal Investigator|MEI HENG|Proferssor, Cheif Doctor||Wuhan Union Hospital, China|
+30954685|NCT05518253|Sponsor-Investigator|Weijia Fang, MD|Director,Principal Investigato||Zhejiang University|
+30954711|NCT05489991|Sponsor|||||
+30954731|NCT05468190|Sponsor|||||
+30954753|NCT05442515|Sponsor|||||
+30876036|NCT05326243|Sponsor|||||
+30954773|NCT05420545|Sponsor|||||
+30954774|NCT05420519|Sponsor|||||
+31032232|NCT02772198|Sponsor|||||
+30954792|NCT05400109|Sponsor-Investigator|Changchun Deng, MD|Medical Director, Lymphoma and CLL, UH Seidman Cancer Center Associate Professor, CWRU School of Medicine||Case Comprehensive Cancer Center|
+30955011|NCT05035407|Sponsor|||||
+30955030|NCT05003895|Sponsor|||||
+30876573|NCT03019055|Principal Investigator|Nirav Shah|Associate Professor||Medical College of Wisconsin|
+30955293|NCT04420754|Sponsor|||||
+30955295|NCT04416984|Sponsor|||||
+30955353|NCT04227275|Sponsor|||||
+30955428|NCT04029038|Sponsor|||||
+30955754|NCT02315612|Sponsor|||||
+30877937|NCT05620342|Sponsor|||||
+30878231|NCT05257083|Sponsor|||||
+30878399|NCT05032820|Sponsor-Investigator|Marcelo Pasquini, MD|Primary Investigator||Medical College of Wisconsin|
+30956550|NCT05539430|Sponsor|||||
+30878421|NCT05000450|Sponsor|||||
+30878499|NCT04855136|Sponsor|||||
+30878521|NCT04792489|Sponsor|||||
+30878682|NCT04467853|Principal Investigator|Jin Li|Director||Shanghai East Hospital|
+30956873|NCT01853631|Principal Investigator|Carlos Ramos|Professor||Baylor College of Medicine|
+30878817|NCT04093596|Sponsor|||||
+30879137|NCT02690545|Sponsor|||||
+30957306|NCT04601831|Principal Investigator|Kiran Kumar|Principal Investigator, Assistant Professor, Chief of Lymphoma & Pediatrics Radiation Oncology Service||University of Texas Southwestern Medical Center|
+30957340|NCT04316624|Principal Investigator|Zou Dehui|Chief Physician||Institute of Hematology & Blood Diseases Hospital|
+30957380|NCT04036019|Principal Investigator|Aibin Liang，MD，Ph.D.|Director，Department of Hematology||Shanghai Tongji Hospital, Tongji University School of Medicine|
+30879542|NCT05577091|Principal Investigator|Wei Zhang|Department of neurosurgery||Beijing Tiantan Hospital|
+31033399|NCT05659628|Sponsor|||||
+30932714|NCT01886976|Principal Investigator|Han weidong|principal investigator||Chinese PLA General Hospital|
+31033433|NCT02537977|Principal Investigator|Aibin Liang，MD，Ph.D.|Director，Department of Hematology||Shanghai Tongji Hospital, Tongji University School of Medicine|
+31033495|NCT05379569|Principal Investigator|Xianmin Song, MD|Department of Hematology，Director, Head of Otolaryngology, Principal Investigator,||Shanghai General Hospital, Shanghai Jiao Tong University School of Medicine|
+30880374|NCT05312411|Principal Investigator|Colleen Annesley|Medical Director, Seattle Children's Therapeutics||Seattle Children's Hospital|
+30880437|NCT05105152|Principal Investigator|Colleen Annesley|Medical Director, Seattle Children's Therapeutics||Seattle Children's Hospital|
+30880573|NCT04571138|Principal Investigator|Colleen Annesley|Medical Director, Seattle Children's Therapeutics||Seattle Children's Hospital|
+30880610|NCT04450069|Sponsor|||||
+31126748|NCT05155189|Principal Investigator|TingBo Liang|professor||Zhejiang University|
+30880779|NCT03684889|Principal Investigator|Colleen Annesley|Medical Director, Seattle Children's Therapeutics||Seattle Children's Hospital|
+30880846|NCT03330691|Principal Investigator|Colleen Annesley|Medical Director, Seattle Children's Therapeutics||Seattle Children's Hospital|
+30880858|NCT03244306|Principal Investigator|Colleen Annesley|Medical Director, Seattle Children's Therapeutics||Seattle Children's Hospital|
+30880866|NCT03186118|Principal Investigator|Colleen Annesley|Medical Director, Seattle Children's Therapeutics||Seattle Children's Hospital|
+31126843|NCT00924326|Principal Investigator|Steven Rosenberg, M.D.|Principal Investigator||National Cancer Institute (NCI)|
+30880960|NCT02028455|Principal Investigator|Colleen Annesley|Medical Director, Seattle Children's Therapeutics||Seattle Children's Hospital|
+30880981|NCT01683279|Principal Investigator|Colleen Annesley|Medical Director, Seattle Children's Therapeutics||Seattle Children's Hospital|
+31033753|NCT05382377|Sponsor-Investigator|jianming xu|Leading Site Principal Investigator||The Affiliated Hospital of the Chinese Academy of Military Medical Sciences|
+30881050|NCT03994705|Sponsor|||||
+30881202|NCT05651100|Sponsor|||||
+31033950|NCT05639972|Sponsor-Investigator|Christian Hinrichs|Co-director, Duncan and Nancy MacMillan Cancer Immunology and Metabolism Center of Excellence||Rutgers, The State University of New Jersey|
+30881419|NCT05416554|Sponsor|||||
+30881997|NCT05616468|Sponsor|||||
+31034748|NCT05588440|Sponsor|||||
+30959200|NCT05373147|Principal Investigator|LouJinxing|Chief Physician||Shanghai Mengchao Cancer Hospital|
+30883280|NCT02650999|Sponsor|||||
+30883450|NCT05436223|Sponsor|||||
+31127308|NCT03483688|Sponsor|||||
+31214892|NCT03323944|Sponsor|||||
+30883773|NCT04186520|Principal Investigator|Nirav Shah|Associate Professor||Medical College of Wisconsin|
+30883901|NCT05349266|Principal Investigator|He Huang|President/Proffessor||First Affiliated Hospital of Zhejiang University|
+30883912|NCT05336383|Sponsor|||||
+30883971|NCT04337606|Principal Investigator|Han weidong|Principal Investigator||Chinese PLA General Hospital|
+30884094|NCT04336501|Sponsor|||||
+30960073|NCT03085173|Sponsor|||||
+30960560|NCT04514029|Sponsor|||||
+31214989|NCT04795882|Sponsor|||||
+31036084|NCT05172596|Sponsor|||||
+30886384|NCT04816526|Sponsor|||||
+31127699|NCT03716856|Sponsor|||||
+30886653|NCT05531708|Sponsor|||||
+30886666|NCT05513612|Sponsor|||||
+31127732|NCT03902197|Sponsor|||||
+31128041|NCT03881761|Sponsor|||||
+30824678|NCT05204160|Principal Investigator|Ajay Nooka|Principal Investigator||Emory University|
+31037705|NCT03666000|Sponsor|||||
+30962396|NCT04691284|Sponsor|||||
+30962406|NCT04691713|Sponsor|||||
+30888579|NCT05190653|Principal Investigator|Reanne Booker|Principal Investigator||Alberta Health Services, Calgary|
+30889212|NCT04608487|Principal Investigator|Caron A. Jacobson, MD|Principal Investigator||Dana-Farber Cancer Institute|
+31038381|NCT04185038|Principal Investigator|Rebecca Gardner|Medical Director, Immunotherapy||Seattle Children's Hospital|
+30889292|NCT03676504|Principal Investigator|Prof. Dr. Michael Schmitt|Head of the GMP Core Facility University Hospital Heidelberg, Principal Investigator, Clinical Professor for Cellular Immunotherapy||University Hospital Heidelberg|
+31038550|NCT02723942|Sponsor|||||
+31038553|NCT05015972|Sponsor|||||
+31038570|NCT02715362|Sponsor|||||
+30962892|NCT05667506|Sponsor|||||
+30962955|NCT05266950|Sponsor|||||
+30962982|NCT05098613|Sponsor|||||
+30889770|NCT04562298|Sponsor|||||
+31038844|NCT02706782|Sponsor|||||
+30889937|NCT01593696|Principal Investigator|Nirali N. Shah, M.D.|Principal Investigator||National Cancer Institute (NCI)|
+31039043|NCT04154709|Sponsor-Investigator|Kai Lin Xu; Jun Nian Zheng|President||Xuzhou Medical University|
+30963315|NCT04723914|Sponsor-Investigator|YuLi|Professor||Shenzhen University General Hospital|
+31039160|NCT05344664|Sponsor|||||
+30963480|NCT02937844|Sponsor|||||
+30963496|NCT02937103|Principal Investigator|Shiqi Li|Researcher of Biotherapy Center||Southwest Hospital, China|
+30963542|NCT02935153|Principal Investigator|Shiqi Li|Researcher of Biotherapy Center||Southwest Hospital, China|
+30890673|NCT04406610|Sponsor|||||
+30963795|NCT02919046|Sponsor|||||
+31128775|NCT03711864|Principal Investigator|Lu Zhang|Attending doctor||Peking Union Medical College Hospital|
+31040299|NCT04033302|Sponsor|||||
+30964584|NCT05415475|Sponsor|||||
+30891225|NCT03696030|Sponsor|||||
+30891332|NCT03774654|Principal Investigator|Carlos Ramos|Associate Professor||Baylor College of Medicine|
+30964782|NCT05075603|Sponsor|||||
+31040883|NCT04169022|Sponsor|||||
+31040893|NCT04186052|Sponsor|||||
+30965126|NCT03768310|Principal Investigator|Rayne Rouce|Assistant Professor||Baylor College of Medicine|
+31041385|NCT04184414|Sponsor|||||
+31041436|NCT02813837|Sponsor|||||
+31041768|NCT05652920|Sponsor|||||
+31041781|NCT04236011|Principal Investigator|Weijun Fu|Director of Hematology Department||Shanghai Changzheng Hospital|
+31041937|NCT02794961|Sponsor-Investigator|Kai Lin Xu; Jun Nian Zheng|President||Xuzhou Medical University|
+30892409|NCT04390542|Sponsor|||||
+30965795|NCT05022849|Sponsor|||||
+30965820|NCT04923893|Sponsor|||||
+30965880|NCT04662099|Principal Investigator|MEI HENG|Proferssor, Cheif Doctor||Wuhan Union Hospital, China|
+30965981|NCT04181827|Sponsor|||||
+30965989|NCT04133636|Sponsor|||||
+30966158|NCT01430390|Sponsor|||||
+30966592|NCT04723901|Principal Investigator|YuLi|Professor||Shenzhen University General Hospital|
+30967093|NCT04655677|Sponsor|||||
+31043369|NCT02765243|Principal Investigator|Yang Lihua|Associate Director||Zhujiang Hospital|
+30967136|NCT04653649|Sponsor|||||
+30967137|NCT04653493|Sponsor|||||
+30967179|NCT04650724|Sponsor|||||
+30967219|NCT04637503|Sponsor|||||
+30967232|NCT04637269|Principal Investigator|Xi Zhang, MD|Chef of Hematology Department||Xinqiao Hospital of Chongqing|
+31004858|NCT04264078|Principal Investigator|Xi Zhang, MD|Chef of Hematology Department||Xinqiao Hospital of Chongqing|
+30893932|NCT05256641|Sponsor|||||
+30894001|NCT04735471|Sponsor|||||
+30894009|NCT04661384|Sponsor|||||
+31044581|NCT02735291|Sponsor|||||
+31044713|NCT02737085|Principal Investigator|Jieping Chen|Head of Hematology Department||Southwest Hospital, China|
+31045103|NCT02721407|Principal Investigator|Qingzhu Jia, M.D.|Director of Department of Cancer||Xinqiao Hospital of Chongqing|
+30894534|NCT05620680|Principal Investigator|YuLi|Professor||Shenzhen University General Hospital|
+31045450|NCT05260957|Sponsor-Investigator|Lazaros Lekakis|Associate Professor of Clinical||University of Miami|
+31045712|NCT04162340|Sponsor|||||
+31045829|NCT03999697|Sponsor|||||
+31045939|NCT05263817|Principal Investigator|He Huang|The President of The First Affiliated Hospital, College of Medicine, Zhejiang University||Zhejiang University|
+30968904|NCT04666168|Sponsor|||||
+31129827|NCT05470777|Principal Investigator|Sheng-Li Xue, MD|Professor||The First Affiliated Hospital of Soochow University|
+30968922|NCT04665076|Sponsor|||||
+30968996|NCT04661020|Principal Investigator|He Huang|Clinical Professor||Zhejiang University|
+30969240|NCT04626739|Sponsor|||||
+31046549|NCT02617134|Sponsor|||||
+30895963|NCT04650451|Sponsor|||||
+30895977|NCT04526834|Sponsor|||||
+31046842|NCT04156178|Sponsor|||||
+30896016|NCT04257578|Sponsor|||||
+30969572|NCT04610125|Sponsor|||||
+30969857|NCT04594135|Sponsor|||||
+30969945|NCT04213469|Sponsor|||||
+31047322|NCT04151186|Sponsor-Investigator|suhaichuan|professor||Tang-Du Hospital|
+31047843|NCT02624258|Sponsor|||||
+31216214|NCT03497819|Principal Investigator|Meng-Tao Zhou|Director||First Affiliated Hospital of Wenzhou Medical University|
+31130083|NCT04257175|Principal Investigator|Prof Arnon Nagler|M.D., M.Sc, Professor of Medicine Tel Aviv University, Director Hematology Division, Chaim Sheba Medical Center||Sheba Medical Center|
+30896973|NCT05315778|Sponsor|||||
+31048326|NCT04182581|Sponsor|||||
+31130174|NCT03931421|Principal Investigator|Wenbin Qian|clinical professor||First Affiliated Hospital of Zhejiang University|
+31048567|NCT02672501|Sponsor|||||
+31130203|NCT04823091|Principal Investigator|MEI HENG|Proferssor, Cheif Doctor||Wuhan Union Hospital, China|
+31049073|NCT02644655|Sponsor|||||
+30897563|NCT05464719|Sponsor|||||
+31049391|NCT04160195|Principal Investigator|James Kochenderfer, M.D.|Principal Investigator||National Cancer Institute (NCI)|
+30897638|NCT05274451|Sponsor|||||
+30971097|NCT04546906|Sponsor|||||
+30971131|NCT04541368|Principal Investigator|He Huang|Clinical Professor||Zhejiang University|
+30897876|NCT04432506|Sponsor|||||
+31049760|NCT05096234|Principal Investigator|David Miklos|Professor of Medicine (Blood and Marrow Transplantation and Cellular Therapy)||Stanford University|
+30897940|NCT04071366|Sponsor|||||
+30898022|NCT03435796|Sponsor|||||
+31050189|NCT04153799|Principal Investigator|Li Zhang, MD|Professor, Medical doctor||Sun Yat-sen University|
+30898159|NCT01087294|Sponsor|||||
+31170985|NCT04430530|Sponsor|||||
+30898444|NCT03882840|Sponsor|||||
+30898453|NCT03198546|Sponsor|||||
+31050599|NCT05574114|Sponsor|||||
+31050604|NCT05535855|Sponsor|||||
+31050694|NCT05010564|Principal Investigator|Bahey Salem MD|Assistant Professor||Baylor College of Medicine|
+30898623|NCT03590574|Sponsor|||||
+31050747|NCT04555551|Sponsor|||||
+31130603|NCT03814447|Principal Investigator|Zhao Hui|professor||Shanghai 6th People's Hospital|
+31130621|NCT05164042|Principal Investigator|YuLi|Professor||Shenzhen University General Hospital|
+30971769|NCT04532281|Principal Investigator|He Huang|Clinical Professor||Zhejiang University|
+30971771|NCT04532203|Principal Investigator|He Huang|Clinical Professor||Zhejiang University|
+31051479|NCT05298995|Principal Investigator|Franco Locatelli|Head of the Department of Pediatric Hematology/Oncology and Cell and Gene Therapy||Bambino Gesù Hospital and Research Institute|
+31130772|NCT03815383|Sponsor|||||
+30972144|NCT04718883|Sponsor|||||
+30899180|NCT05665062|Sponsor|||||
+30899213|NCT05322330|Sponsor|||||
+31217132|NCT01865617|Principal Investigator|Alexandre Hirayama|Research Associate||Fred Hutchinson Cancer Center|
+31217418|NCT05320081|Principal Investigator|Jianfeng Zhou|Director of the Division of Hematology||Huazhong University of Science and Technology|
+31217478|NCT04938115|Sponsor|||||
+30899846|NCT05212584|Sponsor|||||
+31217663|NCT03593109|Sponsor|||||
+31131457|NCT05176275|Principal Investigator|Miao Liyan|Chief Pharmacist||The First Affiliated Hospital of Soochow University|
+31217928|NCT04928105|Sponsor|||||
+31131580|NCT03790891|Sponsor|||||
+31053927|NCT04094766|Sponsor|||||
+31131791|NCT05438368|Sponsor|||||
+31131808|NCT05234190|Sponsor|||||
+30900457|NCT03330834|Principal Investigator|Li Zhang, MD|Professor||Sun Yat-sen University|
+30974489|NCT04715217|Sponsor|||||
+31132048|NCT03706326|Principal Investigator|Size Chen|Associate Professor||The First Affiliated Hospital of Guangdong Pharmaceutical University|
+30974650|NCT04714827|Sponsor|||||
+30974826|NCT04714593|Sponsor|||||
+31054895|NCT05325801|Principal Investigator|He Huang|Prof.||Zhejiang University|
+31055083|NCT02587689|Sponsor|||||
+31132261|NCT03064269|Sponsor|||||
+31055469|NCT02580747|Principal Investigator|Han weidong|PI||Chinese PLA General Hospital|
+30975862|NCT03271515|Sponsor|||||
+30975921|NCT03271632|Principal Investigator|Lung-Ji Chang|Principal Investigator||Shenzhen Geno-Immune Medical Institute|
+31132778|NCT04903080|Sponsor|||||
+30976100|NCT04702841|Sponsor|||||
+31132901|NCT03767725|Principal Investigator|Wei-Hong Chen, MD|professor, Chief physician, principal investigator||Shenzhen Second People's Hospital|
+31132968|NCT03916679|Sponsor|||||
+31056915|NCT03740256|Principal Investigator|Bora Lim|Associate Professor, Center for Cell and Gene Therapy||Baylor College of Medicine|
+30901823|NCT04148430|Sponsor|||||
+30901828|NCT03467256|Sponsor|||||
+30976638|NCT04700319|Sponsor|||||
+31133348|NCT04697290|Sponsor|||||
+31133604|NCT03289455|Sponsor|||||
+30976997|NCT02893189|Sponsor|||||
+30902552|NCT05576220|Sponsor|||||
+31058240|NCT02631044|Sponsor|||||
+31133807|NCT05275062|Sponsor|||||
+31218955|NCT04412889|Sponsor|||||
+31219000|NCT04447573|Sponsor|||||
+30977974|NCT04516551|Principal Investigator|Xi Zhang, MD|Chef of Hematology Department||Xinqiao Hospital of Chongqing|
+30977998|NCT04324996|Sponsor|||||
+31058916|NCT04067414|Principal Investigator|Qiu Lugui|principal investigator||Institute of Hematology & Blood Diseases Hospital|
+30978138|NCT04513431|Principal Investigator|Mei Wang|Director of Oncology||Ruijin Hospital|
+30824973|NCT05023707|Sponsor|||||
+30903936|NCT05269914|Sponsor|||||
+30903947|NCT05262673|Sponsor|||||
+30904025|NCT05052528|Sponsor-Investigator|Mehrdad Abedi, MD|Principal Investigator||University of California, Davis|
+30978284|NCT05639179|Sponsor|||||
+31219333|NCT03904069|Sponsor|||||
+30904197|NCT04260945|Sponsor|||||
+30904198|NCT04260932|Sponsor|||||
+31219391|NCT04506983|Sponsor|||||
+30904347|NCT03373071|Principal Investigator|Franco Locatelli|Haematology-Oncology Department Chief||Bambino Gesù Hospital and Research Institute|
+30978692|NCT02954445|Principal Investigator|Shiqi Li|Principal Investigator of Biotherapy Center||Southwest Hospital, China|
+31219506|NCT03380039|Sponsor|||||
+30978762|NCT02274584|Principal Investigator|Jun Zhu|Director||Peking University|
+31171148|NCT04861480|Sponsor|||||
+31059465|NCT04561557|Principal Investigator|Wei Wang|Professor of Neurology, President of Tongji Hospital||Tongji Hospital|
+31135168|NCT05181501|Sponsor|||||
+31219756|NCT03383965|Principal Investigator|Xiulian Sun|Principal Investigator||Immune Cell, Inc.|
+30979428|NCT05143151|Principal Investigator|YuLi|Professor||Shenzhen University General Hospital|
+30979431|NCT05143112|Principal Investigator|YuLi|Professor||Shenzhen University General Hospital|
+31220053|NCT05127135|Sponsor|||||
+30979571|NCT05149391|Principal Investigator|Jun Zhu|Professor||Peking University Cancer Hospital & Institute|
+30979640|NCT04692948|Sponsor|||||
+31135991|NCT03370198|Sponsor|||||
+31220253|NCT03349255|Sponsor|||||
+31136198|NCT03356782|Principal Investigator|Lung-Ji Chang|President||Shenzhen Geno-Immune Medical Institute|
+30979866|NCT04691349|Sponsor|||||
+31136261|NCT05239689|Principal Investigator|He Huang|The President of The First Affiliated Hospital, College of Medicine, Zhejiang University||Zhejiang University|
+31136442|NCT04503538|Sponsor|||||
+31061210|NCT00889954|Principal Investigator|Stephen Gottschalk|Associate Professor Pediatric Hematology/Oncology Center for Cell and Gene Therapy||Baylor College of Medicine|
+31061283|NCT04037566|Principal Investigator|Gao Guangxun|Director of Hematology Department||Xijing Hospital|
+31061294|NCT02541370|Principal Investigator|Han weidong|PI||Chinese PLA General Hospital|
+31220692|NCT05430945|Principal Investigator|He Huang|Clinical Professor||Zhejiang University|
+31137407|NCT03840317|Sponsor|||||
+31221215|NCT03322735|Sponsor|||||
+30907012|NCT05418088|Sponsor-Investigator|Sumithira Vasu|Principal Investigator||Ohio State University Comprehensive Cancer Center|
+30907191|NCT03098355|Sponsor|||||
+30981339|NCT05594797|Sponsor|||||
+30981357|NCT02933775|Sponsor|||||
+30981425|NCT05467254|Principal Investigator|He Huang|Professor||Zhejiang University|
+31221912|NCT03312205|Sponsor|||||
+30981638|NCT05467202|Principal Investigator|He Huang|Professor||Zhejiang University|
+31222049|NCT05044039|Sponsor|||||
+31138415|NCT03811457|Sponsor|||||
+31171232|NCT04429438|Sponsor|||||
+30982171|NCT04206943|Sponsor|||||
+30982297|NCT05562024|Sponsor|||||
+30908932|NCT03761056|Sponsor|||||
+31222445|NCT03281551|Sponsor|||||
+31138619|NCT05463640|Principal Investigator|He Huang|Professor||Zhejiang University|
+31222561|NCT03356795|Principal Investigator|Lung-Ji Chang|President||Shenzhen Geno-Immune Medical Institute|
+31138696|NCT03798509|Sponsor|||||
+31138796|NCT03799913|Principal Investigator|Zhigang Zhang|Dr||Zhejiang University|
+31063170|NCT05350852|Principal Investigator|He Huang|President/Proffessor||Zhejiang University|
+31063232|NCT03825718|Sponsor|||||
+31223057|NCT04500431|Principal Investigator|Aibin Liang，MD，Ph.D.|Vice President of Tongji Hospital||Shanghai Tongji Hospital, Tongji University School of Medicine|
+31223120|NCT03121625|Sponsor|||||
+31139120|NCT03720457|Sponsor|||||
+31063922|NCT05201781|Sponsor|||||
+31223302|NCT03344705|Sponsor|||||
+30984152|NCT05664217|Sponsor|||||
+30984176|NCT05621291|Sponsor|||||
+30984379|NCT04960579|Sponsor|||||
+30984443|NCT04637763|Sponsor|||||
+30984468|NCT04530565|Sponsor|||||
+30984536|NCT04099797|Principal Investigator|Bilal Omer|Assistant Professor||Baylor College of Medicine|
+30984542|NCT04013802|Principal Investigator|John Craddock|Associate Professor||Baylor College of Medicine|
+31064630|NCT04008394|Principal Investigator|MEI HENG|Principal Investigator||Wuhan Union Hospital, China|
+31139952|NCT03628612|Sponsor|||||
+30984644|NCT02830724|Sponsor|||||
+31064773|NCT05277987|Principal Investigator|LiuTao|Principal Investigator||Shenzhen Fifth People's Hospital|
+30984975|NCT04639739|Principal Investigator|Xi Zhang, MD|Chef of Hematology Department||Xinqiao Hospital of Chongqing|
+31064925|NCT04048434|Sponsor|||||
+31223852|NCT05016063|Principal Investigator|Xi Zhang, MD|Chef of Hematology Department||Xinqiao Hospital of Chongqing|
+31065211|NCT05306080|Sponsor|||||
+30985557|NCT02930993|Principal Investigator|Jinwen Sun|director of Department of General Surgery and Surgical Oncology||China Meitan General Hospital|
+31140779|NCT03198052|Sponsor|||||
+31224233|NCT03076437|Sponsor|||||
+31140928|NCT03298828|Principal Investigator|Xiaoyun Shang|Principal Investigator||Third Military Medical University|
+30914637|NCT05239143|Sponsor|||||
+30986293|NCT04670055|Principal Investigator|He Huang|Clinical Professor||Zhejiang University|
+30914785|NCT04205409|Sponsor|||||
+30986377|NCT04657965|Principal Investigator|He Huang|Clinical Professor||Zhejiang University|
+30986379|NCT04658004|Principal Investigator|He Huang|Clinical Professor||Zhejiang University|
+30986479|NCT04665063|Sponsor|||||
+31066682|NCT04003168|Sponsor|||||
+31141517|NCT02456350|Sponsor|||||
+30915233|NCT05568680|Sponsor|||||
+30915394|NCT03548207|Sponsor|||||
+30987231|NCT04638270|Principal Investigator|Xi Zhang, MD|Chef of Hematology Department||Xinqiao Hospital of Chongqing|
+31067606|NCT03573700|Sponsor|||||
+30987384|NCT03455972|Sponsor|||||
+30916948|NCT03585517|Sponsor|||||
+30987613|NCT04627740|Principal Investigator|Qingzhu Jia, M.D.|Secretary||Xinqiao Hospital of Chongqing|
+30987649|NCT04626765|Sponsor|||||
+30987657|NCT04626726|Sponsor|||||
+31142257|NCT03207178|Sponsor|||||
+30917127|NCT05028933|Principal Investigator|Weijia Fang, MD|professor||Zhejiang University|
+30917177|NCT03975907|Sponsor|||||
+30987780|NCT02903810|Principal Investigator|Jiang Cao|Director of Hematology||Xuzhou Medical University|
+31068297|NCT02547948|Sponsor|||||
+31068312|NCT04010877|Sponsor|||||
+31142601|NCT03118180|Principal Investigator|He Huang|Professor||Zhejiang University|
+30988143|NCT04890236|Principal Investigator|Edmund Waller|Principal Investigator||Emory University|
+31068615|NCT04119024|Sponsor|||||
+30988422|NCT04601181|Sponsor|||||
+30988484|NCT04599543|Principal Investigator|He Huang|Clinical Professor||Zhejiang University|
+31068909|NCT04089215|Sponsor|||||
+31142884|NCT03185494|Principal Investigator|Han weidong|PI||Chinese PLA General Hospital|
+30988803|NCT04603872|Principal Investigator|He Huang|Clinical Professor||Zhejiang University|
+30988819|NCT04626908|Sponsor-Investigator|He Huang|Clinical Professor||Zhejiang University|
+30988825|NCT04626752|Sponsor|||||
+30989150|NCT04617704|Principal Investigator|Weijun Fu|Director of Hematology Department||Shanghai Changzheng Hospital|
+31143429|NCT05008575|Principal Investigator|Xi Zhang, MD|chef of hemotology department||Xinqiao Hospital of Chongqing|
+31143722|NCT03361748|Sponsor|||||
+30989521|NCT04595162|Sponsor|||||
+30920316|NCT05596266|Sponsor|||||
+30920422|NCT05137275|Principal Investigator|Jin Li|Director||Shanghai East Hospital|
+31070405|NCT04085159|Sponsor|||||
+31070440|NCT04696731|Sponsor|||||
+31070662|NCT04004637|Sponsor|||||
+31070724|NCT05277753|Sponsor|||||
+31070815|NCT05590221|Sponsor|||||
+31144903|NCT03114670|Principal Investigator|Chen Hu|Affiliated Hospital to Academy of Military Medical Sciences||Affiliated Hospital to Academy of Military Medical Sciences|
+31144929|NCT04440436|Sponsor|||||
+30990316|NCT04609241|Principal Investigator|He Huang|Clinical Professor||Zhejiang University|
+31071638|NCT05546723|Sponsor|||||
+31071714|NCT05388695|Sponsor|||||
+31225691|NCT05179603|Sponsor|||||
+31071743|NCT05312801|Sponsor|||||
+31225715|NCT03283631|Sponsor-Investigator|Gary Archer Ph.D.|Assistant Professor of Neurosurgery||Duke University|
+31146487|NCT03726515|Sponsor|||||
+30990944|NCT04572308|Sponsor|||||
+31225841|NCT03267173|Sponsor|||||
+31225921|NCT03258047|Principal Investigator|Wenbin Qian|Doctor||First Affiliated Hospital of Zhejiang University|
+31147357|NCT04097301|Sponsor|||||
+31072667|NCT02664363|Sponsor-Investigator|Daniel Landi|Assistant Professor of Pediatrics and Neurosurgery||Duke University|
+31171446|NCT04850560|Sponsor|||||
+30922343|NCT04359784|Sponsor|||||
+31226060|NCT04966143|Sponsor|||||
+30991296|NCT04991948|Sponsor|||||
+31147927|NCT04385173|Sponsor|||||
+31072870|NCT03958656|Principal Investigator|James Kochenderfer, M.D.|Principal Investigator||National Cancer Institute (NCI)|
+31148085|NCT03706547|Sponsor-Investigator|Peng Liu|Professor||Shanghai Zhongshan Hospital|
+31148345|NCT05309213|Sponsor|||||
+31148383|NCT04640909|Sponsor|||||
+30922641|NCT03373097|Principal Investigator|Franco Locatelli|Haematology-Oncology Department Chief||Bambino Gesù Hospital and Research Institute|
+31148498|NCT01192464|Principal Investigator|Helen Heslop|Professor||Baylor College of Medicine|
+30922693|NCT05437341|Sponsor|||||
+30922694|NCT05437328|Sponsor|||||
+30922695|NCT05437315|Sponsor|||||
+30991503|NCT04546893|Sponsor|||||
+30922716|NCT05436509|Sponsor|||||
+30922717|NCT05436496|Sponsor|||||
+30991564|NCT04539444|Sponsor|||||
+31149380|NCT03671460|Sponsor|||||
+30991820|NCT04532268|Principal Investigator|He Huang|Clinical Professor||Zhejiang University|
+31149640|NCT03464916|Sponsor|||||
+31074216|NCT03851146|Sponsor|||||
+31149761|NCT03661554|Sponsor|||||
+31150028|NCT03758417|Sponsor|||||
+31226735|NCT04430595|Sponsor|||||
+30992018|NCT04553393|Principal Investigator|Han weidong|Professor||Chinese PLA General Hospital|
+31150130|NCT03318861|Sponsor|||||
+31150190|NCT05420493|Sponsor|||||
+31150384|NCT03984968|Principal Investigator|Sheng-Li Xue, MD|Professor||The First Affiliated Hospital of Soochow University|
+30992160|NCT04550663|Principal Investigator|Baorui Liu|Professor of Medicine||The Affiliated Nanjing Drum Tower Hospital of Nanjing University Medical School|
+31226936|NCT04864821|Sponsor|||||
+31151240|NCT04384393|Sponsor|||||
+31151393|NCT04176913|Principal Investigator|WEI XU|Chief Physician of hematology department||The First Affiliated Hospital with Nanjing Medical University|
+31075149|NCT04082910|Principal Investigator|Han weidong|Principal Investigator||Chinese PLA General Hospital|
+31152367|NCT01355965|Sponsor|||||
+31153058|NCT03952923|Sponsor|||||
+31153251|NCT05665725|Sponsor-Investigator|Timothy Voorhees|Principal Investigator||Ohio State University Comprehensive Cancer Center|
+31153316|NCT05648019|Sponsor|||||
+31153612|NCT04657861|Principal Investigator|He Huang|Clinical Professor||Zhejiang University|
+30992622|NCT04537442|Sponsor|||||
+31227470|NCT04853277|Principal Investigator|Kenneth Meehan|Staff Physician||Dartmouth-Hitchcock Medical Center|
+31153800|NCT03605238|Principal Investigator|Wei Shihui|Professor of Neuro-Ophthalmology||Chinese PLA General Hospital|
+31076311|NCT04007978|Principal Investigator|MEI HENG|Principal Investigator||Wuhan Union Hospital, China|
+31154356|NCT04083495|Sponsor|||||
+31154388|NCT03873805|Sponsor|||||
+31154406|NCT03648372|Sponsor|||||
+31154561|NCT02132624|Sponsor|||||
+31154595|NCT05370547|Principal Investigator|Han weidong|Director of Biotherapeutic Department||Chinese PLA General Hospital|
+31154676|NCT02134262|Principal Investigator|Keiya Ozawa|Professor||Jichi Medical University|
+30992811|NCT04534634|Principal Investigator|Xiaowen Tang|Chief Physician||The First Affiliated Hospital of Soochow University|
+31154890|NCT03579888|Sponsor|||||
+30924798|NCT01735604|Principal Investigator|Han weidong|PI||Chinese PLA General Hospital|
+31155246|NCT05190185|Sponsor|||||
+31227831|NCT03232619|Sponsor|||||
+31155594|NCT03181126|Sponsor|||||
+31227882|NCT04792593|Sponsor|||||
+31155741|NCT05391490|Sponsor|||||
+31155794|NCT05085418|Principal Investigator|He Huang|Clinical Professor||Zhejiang University|
+31155824|NCT03068416|Sponsor|||||
+31227951|NCT05473221|Principal Investigator|He Huang|Professor||Zhejiang University|
+31156127|NCT04443829|Sponsor|||||
+31156934|NCT05020392|Principal Investigator|MEI HENG|Proferssor, Cheif Doctor||Wuhan Union Hospital, China|
+31156951|NCT04881240|Sponsor|||||
+31157006|NCT04512716|Sponsor|||||
+30812920|NCT04410900|Sponsor|||||
+31157043|NCT04146051|Sponsor|||||
+30812978|NCT04025216|Sponsor|||||
+31157065|NCT03938987|Sponsor|||||
+31077772|NCT04045847|Sponsor|||||
+31228128|NCT04745559|Sponsor|||||
+31088066|NCT03980288|Principal Investigator|TingBo Liang|Professor||Zhejiang University|
+31228161|NCT05554575|Sponsor|||||
+31228163|NCT01318317|Sponsor|||||
+31228176|NCT04325841|Sponsor|||||
+30813545|NCT05650749|Sponsor-Investigator|Stephan Grupp MD PhD|Chief, Cell Therapy and Transplant Section Director, Susan S. and Stephen P. Kelly Center for Cancer Immunotherapy Medical Director, Cell and Gene Therapy Lab||Children's Hospital of Philadelphia|
+30813618|NCT05480449|Sponsor-Investigator|Stephan Grupp MD PhD|Chief, Cell Therapy and Transplant Section Director, Susan S. and Stephen P. Kelly Center for Cancer Immunotherapy Medical Director, Cell and Gene Therapy Lab||Children's Hospital of Philadelphia|
+30813819|NCT04789408|Sponsor|||||
+31228313|NCT05538195|Sponsor|||||
+30813902|NCT04318678|Sponsor|||||
+30813984|NCT03829540|Sponsor-Investigator|Huda Salman|Director, Hematologic Malignancies Service and Director, CAR T Cellular Therapy Program||Indiana University|
+31158709|NCT03674463|Sponsor|||||
+30814498|NCT01460901|Principal Investigator|Doug Myers|Principal Investigator||Children's Mercy Hospital Kansas City|
+30814516|NCT04888468|Sponsor|||||
+30814538|NCT04556266|Sponsor|||||
+31159376|NCT03559764|Sponsor|||||
+31159655|NCT00881920|Principal Investigator|Carlos Ramos|Assistant Professor||Baylor College of Medicine|
+30993661|NCT03853616|Sponsor|||||
+30815290|NCT04196205|Principal Investigator|LiFei|M.D.,Ph.D.||The First Affiliated Hospital of Nanchang University|
+31160189|NCT05626400|Sponsor|||||
+31229198|NCT05515185|Sponsor|||||
+31229224|NCT05514327|Principal Investigator|Ruanjing|Docter||Peking Union Medical College Hospital|
+31160494|NCT05208853|Principal Investigator|He Huang|Clinical Professor||Zhejiang University|
+31229316|NCT03173417|Sponsor|||||
+31079985|NCT05225831|Sponsor|||||
+30816011|NCT02992834|Sponsor-Investigator|jiangjingting|Professor||The First People's Hospital of Changzhou|
+31229677|NCT04280133|Principal Investigator|Patrick C. Johnson, MD|Principal Investigator||Massachusetts General Hospital|
+31161264|NCT05106946|Sponsor|||||
+30816382|NCT03159819|Principal Investigator|Bin Wang|Attending physician||Changhai Hospital|
+31080620|NCT05393986|Sponsor|||||
+31230191|NCT05422521|Sponsor|||||
+30817085|NCT03696784|Sponsor|||||
+30996581|NCT04322292|Principal Investigator|AnGang|Deputy Chief Physician||Institute of Hematology & Blood Diseases Hospital|
+30817242|NCT05312476|Sponsor|||||
+30817312|NCT04088890|Sponsor|||||
+31080931|NCT05458297|Sponsor|||||
+31080949|NCT05377827|Sponsor|||||
+31080953|NCT05353530|Sponsor|||||
+31081003|NCT05081479|Sponsor|||||
+31081043|NCT04778579|Sponsor-Investigator|Sara V. Latorre|Clinical Research Manager||Institut d'Investigacions Biomèdiques August Pi i Sunyer|
+31081097|NCT04404660|Sponsor|||||
+30817544|NCT05381181|Sponsor|||||
+31081207|NCT03144583|Sponsor-Investigator|Sara V. Latorre|Clinical Research Manager||Institut d'Investigacions Biomèdiques August Pi i Sunyer|
+31081448|NCT04696432|Sponsor|||||
+31081455|NCT04648046|Sponsor-Investigator|Steven Deeks|Professor||University of California, San Francisco|
+31081484|NCT04557436|Sponsor|||||
+31081496|NCT04510051|Sponsor|||||
+30996859|NCT01218867|Principal Investigator|Steven Rosenberg, M.D.|Principal Investigator||National Cancer Institute (NCI)|
+31163016|NCT03525782|Principal Investigator|Size Chen|Professor||The First Affiliated Hospital of Guangdong Pharmaceutical University|
+30818313|NCT04762485|Sponsor|||||
+31163222|NCT05429905|Sponsor|||||
+31163259|NCT04173988|Principal Investigator|Xiaowen Zhai|vice president||Children's Hospital of Fudan University|
+30997103|NCT04317885|Principal Investigator|Aibin Liang，MD，Ph.D.|Director, Department of Hematology||Shanghai Tongji Hospital, Tongji University School of Medicine|
+31231256|NCT03191773|Sponsor|||||
+30818485|NCT03030976|Sponsor|||||
+31231452|NCT03182803|Sponsor|||||
+31082283|NCT03502577|Sponsor|||||
+31164446|NCT02932956|Principal Investigator|Andras Heczey|Assistant Professor||Baylor College of Medicine|
+30997693|NCT02792114|Sponsor|||||
+31164475|NCT02290951|Sponsor|||||
+31082669|NCT04014881|Principal Investigator|MEI HENG|Principal Investigator||Wuhan Union Hospital, China|
+31231776|NCT05385263|Sponsor|||||
+31231855|NCT05085431|Principal Investigator|He Huang|Clinical Professor||Zhejiang University|
+30819268|NCT03602157|Sponsor|||||
+31164862|NCT05059912|Sponsor|||||
+30819305|NCT03049449|Principal Investigator|James Kochenderfer, M.D.|Principal Investigator||National Cancer Institute (NCI)|
+30819547|NCT05164770|Principal Investigator|Wang Xin|Director of Department of Hematology||Shandong Provincial Hospital|
+31232260|NCT04846439|Sponsor|||||
+31232313|NCT02659943|Principal Investigator|James Kochenderfer, M.D.|Principal Investigator||National Cancer Institute (NCI)|
+30998605|NCT04264039|Principal Investigator|Xi Zhang, MD|Chef of Hematology Department||Xinqiao Hospital of Chongqing|
+30998970|NCT04844866|Sponsor|||||
+30998974|NCT04815356|Sponsor|||||
+31165662|NCT04976218|Principal Investigator|Han weidong|Director of Bio-therapeutic Department||Chinese PLA General Hospital|
+31171749|NCT01475058|Principal Investigator|Cameron Turtle|Principal Investigator||Fred Hutchinson Cancer Center|
+30999008|NCT04483778|Principal Investigator|Colleen Annesley|Medical Director, Seattle Children's Therapeutics||Seattle Children's Hospital|
+31165762|NCT05038696|Sponsor|||||
+31232505|NCT05017883|Sponsor|||||
+30999416|NCT05625594|Sponsor|||||
+31083702|NCT05350787|Principal Investigator|He Huang|President/Proffessor||Zhejiang University|
+30999470|NCT05352542|Sponsor-Investigator|jianming xu|Leading Site Principal Investigator||The Affiliated Hospital of the Chinese Academy of Military Medical Sciences|
+30999767|NCT00840853|Principal Investigator|Carlos Ramos|Professor||Baylor College of Medicine|
+31166311|NCT05150522|Principal Investigator|YuLi|Professor||Shenzhen University General Hospital|
+31083995|NCT04008251|Sponsor|||||
+31084040|NCT04011293|Principal Investigator|Chunyan Ji|Professor||Shandong University|
+30821027|NCT03126864|Sponsor|||||
+31166628|NCT03638167|Principal Investigator|Rebecca Gardner|Medical Director, Immunotherapy||Seattle Children's Hospital|
+31166645|NCT03598179|Principal Investigator|JianYong Li|Professor||The First Affiliated Hospital with Nanjing Medical University|
+30821348|NCT03383952|Principal Investigator|Xiulian Sun|Principal Investigator||Immune Cell, Inc.|
+31167097|NCT03576807|Sponsor-Investigator|Xin Wang|The clinical research of targeted CD20-CART cells treatment for refractory or recurrence B lymphocyte lymphoma||Shanghai Longyao Biotechnology Inc., Ltd.|
+30821547|NCT01583686|Principal Investigator|Steven Rosenberg, M.D.|Principal Investigator||National Cancer Institute (NCI)|
+31233355|NCT05131763|Sponsor|||||
+31233387|NCT05097443|Principal Investigator|Wang Xin|Director of Department of Hematology||Shandong Provincial Hospital|
+31001403|NCT02862028|Sponsor|||||
+31167583|NCT02194374|Sponsor|||||
+30821930|NCT03366324|Sponsor|||||
+31001623|NCT05199961|Sponsor|||||
+30930767|NCT01864889|Principal Investigator|Han weidong|PI||Chinese PLA General Hospital|
+30930768|NCT01864902|Principal Investigator|Han weidong|PI||Chinese PLA General Hospital|
+31001779|NCT05654077|Sponsor|||||
+31168164|NCT03672253|Sponsor|||||
+31168173|NCT02905188|Principal Investigator|Tannaz Armaghnay|Assistant Professor||Baylor College of Medicine|
+31002394|NCT02782351|Sponsor-Investigator|Kai Lin Xu; Jun Nian Zheng|President||Xuzhou Medical University|
+31168272|NCT04952272|Sponsor|||||
+31002444|NCT05340829|Sponsor-Investigator|He Huang|President/Proffessor||Zhejiang University|
+31002505|NCT04975555|Principal Investigator|Mayur Narkhede|Assistant Professor||University of Alabama at Birmingham|
+31233902|NCT03090659|Sponsor|||||
+31002543|NCT04226989|Sponsor-Investigator|He Huang|Clinical Professor||Zhejiang University|
+31234017|NCT05302037|Sponsor|||||
+31085879|NCT03980691|Principal Investigator|Linghua LI|Vice Chief physician||Guangzhou 8th People's Hospital|
+30931487|NCT05510596|Sponsor|||||
+30931567|NCT05225363|Sponsor|||||
+31169380|NCT04969354|Sponsor|||||
+30931772|NCT04074330|Sponsor|||||
+31169968|NCT04732845|Sponsor-Investigator|Benjamin Tomlinson|Principal Investigator||Case Comprehensive Cancer Center|
+31170119|NCT03434769|Sponsor-Investigator|Benjamin Tomlinson|Principal Investigator||Case Comprehensive Cancer Center|
+30823701|NCT05341492|Sponsor|||||
+30823711|NCT03310008|Sponsor|||||
+31003585|NCT04860817|Sponsor|||||
+31004252|NCT05323201|Sponsor|||||
+31005550|NCT04205838|Sponsor|||||
+31171957|NCT03463928|Principal Investigator|Han weidong|Director of Molecular & Immunological Department, Biotherapeutic Department, Chinese PLA General Hospital||Chinese PLA General Hospital|
+31172122|NCT04697940|Sponsor-Investigator|Han weidong|Professor||Chinese PLA General Hospital|
+31006091|NCT04844086|Sponsor|||||
+31089347|NCT05371132|Sponsor|||||
+31235453|NCT05633615|Sponsor|||||
+31235462|NCT05587543|Principal Investigator|Ji Dongmei|Chief Doctor||Fudan University|
+31172539|NCT04828174|Principal Investigator|Xianmin Song, MD|principal investigator||Shanghai General Hospital, Shanghai Jiao Tong University School of Medicine|
+31235706|NCT02442297|Principal Investigator|Nabil Ahmed|Assistant Professor||Baylor College of Medicine|
+31089774|NCT03931720|Sponsor|||||
+31006580|NCT05252572|Principal Investigator|He Huang|The President of The First Affiliated Hospital, College of Medicine, Zhejiang University||Zhejiang University|
+31090012|NCT03919240|Sponsor|||||
+31173047|NCT02081937|Principal Investigator|Quanshun Wang|Dr.||Chinese PLA General Hospital|
+30825623|NCT03291444|Sponsor|||||
+31091161|NCT03879382|Sponsor|||||
+31007138|NCT02846584|Principal Investigator|Jieping Chen|Head of Hematology Department||Southwest Hospital, China|
+31173368|NCT05472610|Sponsor|||||
+31007227|NCT00902044|Principal Investigator|Nabil Ahmed|Associate Professor, Pediatric Hematology Oncology, Center for Cell and Gene Therapy||Baylor College of Medicine|
+31173698|NCT05243212|Principal Investigator|Dr. Hila Magen|Head of Multiple Myeloma Unit in Sheba Medical Center||Sheba Medical Center|
+31173720|NCT05128786|Sponsor|||||
+31007343|NCT02842138|Principal Investigator|Jun Zhu|Principal Investigator||Peking University|
+31173786|NCT04782193|Sponsor|||||
+31173787|NCT04781634|Sponsor|||||
+31173788|NCT04776330|Sponsor|||||
+31173814|NCT04649983|Sponsor|||||
+31173815|NCT04648475|Sponsor|||||
+31173843|NCT04511871|Sponsor|||||
+31173862|NCT04348643|Sponsor|||||
+31173872|NCT04272151|Sponsor|||||
+31173873|NCT04272125|Sponsor|||||
+31173874|NCT04271800|Sponsor|||||
+31173875|NCT04271644|Sponsor|||||
+31173876|NCT04271410|Sponsor|||||
+31173877|NCT04265963|Sponsor|||||
+31236394|NCT05623488|Sponsor|||||
+31236474|NCT05457010|Sponsor|||||
+31236477|NCT05454241|Sponsor-Investigator|Ying Wang|Professor||Institute of Hematology & Blood Diseases Hospital|
+31236482|NCT05442580|Sponsor|||||
+31236489|NCT05432635|Sponsor|||||
+31174089|NCT04788472|Principal Investigator|He Huang|Professor||Zhejiang University|
+31007611|NCT04156243|Sponsor|||||
+31236720|NCT04877613|Sponsor|||||
+31236824|NCT04499339|Sponsor|||||
+31236829|NCT04484012|Sponsor|||||
+31007840|NCT05016778|Principal Investigator|He Huang|Chief Physician||Zhejiang University|
+31237075|NCT03585764|Sponsor|||||
+31237085|NCT03549442|Sponsor|||||
+31237124|NCT03288493|Sponsor|||||
+31237164|NCT03054298|Sponsor|||||
+31237174|NCT02935543|Sponsor|||||
+31237237|NCT02277522|Sponsor|||||
+31237246|NCT02030847|Sponsor|||||
+31237256|NCT01837602|Sponsor|||||
+31008146|NCT02822326|Sponsor|||||
+31092455|NCT03796390|Sponsor|||||
+31175947|NCT02915445|Principal Investigator|Wei Wang|Dr||Sichuan University|
+31092554|NCT05620732|Principal Investigator|YuLi|Professor||Shenzhen University General Hospital|
+31238328|NCT05091541|Sponsor|||||
+31176248|NCT04703686|Sponsor|||||
+31092646|NCT05495464|Sponsor|||||
+31238552|NCT04981691|Principal Investigator|Jun Zhang|Chief of Department of Oncology||Ruijin Hospital|
+30936299|NCT04693676|Sponsor|||||
+31238723|NCT05106907|Sponsor|||||
+31176598|NCT03366350|Sponsor|||||
+30936403|NCT03117751|Sponsor|||||
+30936431|NCT01840566|Sponsor|||||
+31092970|NCT03993743|Principal Investigator|Chen Zhinan|Director of National Translational Science Center for Molecular Medicine||Air Force Military Medical University, China|
+31177059|NCT04503980|Sponsor|||||
+30826210|NCT05605197|Sponsor|||||
+31239386|NCT04436029|Sponsor|||||
+31239445|NCT05123209|Sponsor|||||
+31177780|NCT03488160|Sponsor|||||
+31177833|NCT03540303|Sponsor|||||
+31010064|NCT04204161|Sponsor|||||
+31178741|NCT05459870|Sponsor|||||
+31178869|NCT05585996|Sponsor|||||
+31178919|NCT04706936|Sponsor|||||
+31010563|NCT02728882|Sponsor|||||
+31010707|NCT02713984|Sponsor-Investigator|Zhi Yang|Researcher of Biotherpy Center||Southwest Hospital, China|
+31240628|NCT04429451|Principal Investigator|Lung-Ji Chang|President||Shenzhen Geno-Immune Medical Institute|
+31240868|NCT05043571|Sponsor|||||
+31011151|NCT05333302|Sponsor|||||
+31179634|NCT05393804|Sponsor|||||
+31179716|NCT04952584|Principal Investigator|Premal Lulla|Assistant Professor||Baylor College of Medicine|
+31241052|NCT05030779|Principal Investigator|He Huang|Clinical Professor||Zhejiang University|
+31179908|NCT02601313|Sponsor|||||
+31180131|NCT03473496|Sponsor|||||
+31241402|NCT05290155|Principal Investigator|Xianmin Song, MD|principal investigator||Shanghai General Hospital, Shanghai Jiao Tong University School of Medicine|
+31241648|NCT05281809|Sponsor-Investigator|John Lister|Chief, Division of Hematology and Cellular Therapy at Allegheny Health Network||Allegheny Singer Research Institute (also known as Allegheny Health Network Research Institute)|
+30827115|NCT03196830|Sponsor|||||
+31241692|NCT04796441|Sponsor|||||
+31012221|NCT02685670|Principal Investigator|Chengzhi|Director of Department of Hematology||The Second Affiliated Hospital of Henan University of Traditional Chinese Medicine|
+31241699|NCT04796675|Principal Investigator|MEI HENG|Proferssor, Cheif Doctor||Wuhan Union Hospital, China|
+31241703|NCT04803929|Sponsor|||||
+31241729|NCT04785833|Sponsor|||||
+31241910|NCT05199519|Sponsor|||||
+31241936|NCT04790747|Principal Investigator|He Huang|Professor||Zhejiang University|
+31242112|NCT05474885|Sponsor|||||
+31180851|NCT04489862|Principal Investigator|Xiaorong Dong|Director||Wuhan Union Hospital, China|
+31242245|NCT04433221|Sponsor|||||
+31012802|NCT04169932|Sponsor|||||
+31180993|NCT05398614|Sponsor|||||
+31242364|NCT05412329|Principal Investigator|Juan Du|Clinical Professor||Shanghai Changzheng Hospital|
+31181215|NCT03710421|Sponsor|||||
+31013027|NCT02652910|Principal Investigator|Qingzhu Jia, M.D.|Director of Department of Cancer||Xinqiao Hospital of Chongqing|
+30827526|NCT04877080|Sponsor|||||
+30827528|NCT05381662|Sponsor|||||
+31242638|NCT04977193|Sponsor|||||
+31013488|NCT04163302|Principal Investigator|Quanshun Wang|Chief of Hematology Department of Hainan Hospital of PLA General Hospital; Vice Chief of Hematology Department of PLA General Hospital||Chinese PLA General Hospital|
+31013552|NCT04289220|Sponsor|||||
+31095429|NCT05631912|Principal Investigator|Han weidong|Director of Biotherapeutic Department||Chinese PLA General Hospital|
+31181595|NCT03919526|Principal Investigator|Xianmin Song, MD|principal investigator||Shanghai General Hospital, Shanghai Jiao Tong University School of Medicine|
+31181598|NCT05488132|Principal Investigator|Kai Lin Xu，MD|President||Xuzhou Medical University|
+31095551|NCT05397184|Sponsor|||||
+31181630|NCT03265106|Sponsor|||||
+31181666|NCT03262298|Sponsor|||||
+31242954|NCT04951141|Sponsor|||||
+31095636|NCT05169489|Sponsor|||||
+31014355|NCT03624036|Sponsor|||||
+31014369|NCT05210907|Sponsor|||||
+31243049|NCT03060343|Sponsor-Investigator|Yu Fenglei|Chief of the Thoracic Surgery Department||Second Xiangya Hospital of Central South University|
+31095829|NCT04539366|Sponsor|||||
+31182029|NCT05211557|Sponsor|||||
+31182045|NCT05477446|Principal Investigator|Zhao Wang|Head of hematology, Principal Investigator, Clinical Professor||Beijing Friendship Hospital|
+31095850|NCT04404595|Sponsor|||||
+31095890|NCT04231747|Sponsor|||||
+31015106|NCT03275493|Sponsor|||||
+31182240|NCT03222674|Principal Investigator|Lung-Ji Chang|President||Shenzhen Geno-Immune Medical Institute|
+31096095|NCT02414269|Sponsor|||||
+31096106|NCT02208362|Sponsor|||||
+31096219|NCT03870945|Sponsor|||||
+31096446|NCT03720496|Sponsor|||||
+31182579|NCT03208556|Principal Investigator|Jun Zhu|Professor||Peking University|
+31182707|NCT02303821|Sponsor|||||
+31244489|NCT04427449|Principal Investigator|Lung-Ji Chang|President||Shenzhen Geno-Immune Medical Institute|
+31244494|NCT04812691|Sponsor|||||
+31244567|NCT04787263|Sponsor|||||
+31182954|NCT05194709|Sponsor|||||
+31244645|NCT04340167|Sponsor|||||
+31244684|NCT04134325|Sponsor|||||
+31097098|NCT05099237|Sponsor|||||
+31244922|NCT05535673|Principal Investigator|Mingzhi Zhang|Principal Investigator||Zhengzhou University|
+31183165|NCT02439788|Principal Investigator|Andras Heczey|Assistant Professor||Baylor College of Medicine|
+30828376|NCT05248048|Sponsor|||||
+31245337|NCT04892277|Sponsor|||||
+31097726|NCT03943472|Sponsor|||||
+31183462|NCT03182816|Sponsor|||||
+31183474|NCT03185468|Principal Investigator|Lung-Ji Chang|President||Shenzhen Geno-Immune Medical Institute|
+31245529|NCT05528887|Sponsor|||||
+31245608|NCT05523661|Principal Investigator|Xianmin Song, MD|principal investigator||Shanghai General Hospital, Shanghai Jiao Tong University School of Medicine|
+31097992|NCT03937544|Principal Investigator|Prof. Dr S Fadilah Abdul Wahid|Head of Pusat Terapi Sel / Principal Investigator||National University of Malaysia|
+30828520|NCT04480788|Sponsor|||||
+31183727|NCT02706392|Principal Investigator|David Maloney|Professor, Clinical Research Division||Fred Hutchinson Cancer Center|
+31183733|NCT02416466|Sponsor|||||
+31017584|NCT02876978|Sponsor|||||
+31017611|NCT04303520|Sponsor|||||
+30828665|NCT03166878|Principal Investigator|Han weidong|Director of Molecular & Immunological Department, Bio-therapeutic Department||Chinese PLA General Hospital|
+31246085|NCT05478343|Sponsor|||||
+31246444|NCT05480501|Sponsor|||||
+31246492|NCT05472857|Sponsor|||||
+31246544|NCT05477927|Principal Investigator|Yongsheng Wang|Director of Institute of Drug Clinical Trial of West China Hospital||Sichuan University|
+31247233|NCT04973527|Sponsor|||||
+31184592|NCT02535364|Sponsor|||||
+31247542|NCT05421663|Sponsor|||||
+31247609|NCT04840875|Sponsor|||||
+31184750|NCT03070327|Sponsor|||||
+31099469|NCT03890198|Sponsor|||||
+31099491|NCT03881774|Sponsor|||||
+31248575|NCT04219319|Principal Investigator|WEI XU|Chief Physician of hematology department||The First Affiliated Hospital with Nanjing Medical University|
+31019207|NCT02873390|Sponsor|||||
+31248917|NCT04599556|Principal Investigator|He Huang|The President of The First Affiliated Hospital, College of Medicine, Zhejiang University||Zhejiang University|
+30829929|NCT04268706|Sponsor|||||
+31249702|NCT02348216|Sponsor|||||
+31019908|NCT02729493|Sponsor|||||
+31250373|NCT03994913|Sponsor|||||
+31020069|NCT02725125|Sponsor|||||
+31250503|NCT04136275|Sponsor-Investigator|Marcela V. Maus, M.D.,Ph.D.|Sponsor Investigator||Massachusetts General Hospital|
+31100287|NCT03448978|Sponsor|||||
+31020380|NCT02710149|Principal Investigator|Shiqi Li|Researcher of Biotherapy Center||Southwest Hospital, China|
+31185917|NCT03672305|Principal Investigator|LiTao|Principal Investigator||The Second Hospital of Nanjing Medical University|
+31251472|NCT03651128|Sponsor|||||
+31020569|NCT03500991|Principal Investigator|Rebecca Gardner|Medical Director, Immunotherapy||Seattle Children's Hospital|
+31020930|NCT04107142|Sponsor|||||
+31252421|NCT04150913|Sponsor-Investigator|Marcela V. Maus, M.D.,Ph.D.|Sponsor-Investigator||Massachusetts General Hospital|
+31186284|NCT03473457|Sponsor|||||
+31252647|NCT01454596|Principal Investigator|Steven Rosenberg, M.D.|Principal Investigator||National Cancer Institute (NCI)|
+31252689|NCT02215967|Principal Investigator|James Kochenderfer, M.D.|Principal Investigator||National Cancer Institute (NCI)|
+31186342|NCT05155215|Sponsor|||||
+31021248|NCT02917083|Principal Investigator|Carlos Ramos|Associate Professor||Baylor College of Medicine|
+31021415|NCT04303247|Principal Investigator|Xi Zhang, MD|Chef of Hematology Department||Xinqiao Hospital of Chongqing|
+31186465|NCT03672851|Sponsor|||||
+31100795|NCT05170568|Sponsor|||||
+31253706|NCT04684459|Principal Investigator|Yongsheng Wang|Director of Institute of Drug Clinical Trial of West China Hospital||Sichuan University|
+31253941|NCT04684472|Sponsor-Investigator|Liqun Zou|Professor of Department of Medical Oncology||Sichuan University|
+31021972|NCT04295018|Sponsor|||||
+31021973|NCT04295096|Sponsor-Investigator|Jun Zhu|Chief Physician||Zhaxin Hospital of Integrated Traditional Chinese and Western Medicine, Shanghai|
+31022049|NCT02575261|Sponsor|||||
+30831493|NCT05108805|Principal Investigator|Olalekan Oluwole|Sponsor Investigator||Vanderbilt-Ingram Cancer Center|
+31254077|NCT04689659|Sponsor|||||
+31186793|NCT04684563|Sponsor|||||
+31254457|NCT04034446|Principal Investigator|wang, jianxiang|Professor||Institute of Hematology & Blood Diseases Hospital|
+31022458|NCT03483103|Sponsor|||||
+31022631|NCT04093648|Principal Investigator|Andras Heczey|Assistant Professor||Baylor College of Medicine|
+31101428|NCT05239702|Principal Investigator|He Huang|The President of The First Affiliated Hospital, College of Medicine, Zhejiang University||Zhejiang University|
+31255660|NCT04026100|Sponsor|||||
+31187407|NCT03664661|Sponsor|||||
+30832199|NCT03110640|Principal Investigator|Kang YU|Principal Investigator||First Affiliated Hospital of Wenzhou Medical University|
+30832293|NCT03393936|Sponsor|||||
+31187615|NCT03658655|Sponsor|||||
+30832334|NCT05085444|Principal Investigator|He Huang|Clinical Professor||Zhejiang University|
+31101904|NCT05620706|Principal Investigator|YuLi|Professor||Shenzhen University General Hospital|
+31256806|NCT03240328|Principal Investigator|Linghua LI|Vice Chief physician||Guangzhou 8th People's Hospital|
+31257048|NCT05240950|Principal Investigator|Wei Zhang|Director of Colorectal Surgery Department||Changhai Hospital|
+30832507|NCT04287660|Sponsor|||||
+31023890|NCT05451212|Sponsor|||||
+30832541|NCT04270461|Sponsor|||||
+31257342|NCT04690192|Sponsor-Investigator|Zou Dehui|Principal Investigator||Institute of Hematology & Blood Diseases Hospital|
+31257393|NCT04049513|Sponsor|||||
+31257470|NCT03103971|Sponsor|||||
+31023975|NCT05077527|Sponsor|||||
+31102188|NCT03778346|Sponsor|||||
+31187960|NCT03648697|Sponsor|||||
+31024086|NCT04340154|Sponsor|||||
+30832695|NCT04088864|Sponsor|||||
+31024156|NCT03635632|Principal Investigator|Bilal Omer|Assistant Professor||Baylor College of Medicine|
+30832757|NCT04007029|Sponsor|||||
+30832976|NCT04194931|Principal Investigator|LiFei,M.D., Ph.D.|M.D.,Ph.D.||The First Affiliated Hospital of Nanchang University|
+31024480|NCT04283006|Sponsor-Investigator|He Huang|Clinical Professor||Zhejiang University|
+31188361|NCT03468153|Principal Investigator|Zhao Weili|Professor||Ruijin Hospital|
+31188409|NCT02529813|Sponsor|||||
+31259189|NCT05483491|Sponsor-Investigator|Christian Hinrichs|Chief, Section of Cancer Immunotherapy||Rutgers, The State University of New Jersey|
+31188832|NCT03649529|Sponsor|||||
+31188994|NCT03615313|Sponsor|||||
+30834284|NCT05066022|Principal Investigator|Fu chengcheng PhD|Principal Investigator||The First Affiliated Hospital of Soochow University|
+31026365|NCT03744676|Sponsor|||||
+30834323|NCT04662294|Principal Investigator|He Huang|Clinical Professor||Zhejiang University|
+31026453|NCT04162353|Sponsor|||||
+31026477|NCT04162119|Principal Investigator|Quanshun Wang|Chief of Hematology Department of Hainan Hospital of PLA General Hospital; Vice Chief of Hematology Department of PLA General Hospital||Chinese PLA General Hospital|
+31026638|NCT04156269|Sponsor|||||
+30834693|NCT04014894|Principal Investigator|MEI HENG|Principal Investigator||Wuhan Union Hospital, China|
+30834909|NCT03155191|Sponsor|||||
+31189484|NCT03612739|Sponsor|||||
+31189678|NCT03146234|Sponsor|||||
+31027693|NCT03741127|Sponsor|||||
+31027703|NCT03601078|Sponsor|||||
+30835715|NCT05066646|Sponsor|||||
+31028052|NCT05286164|Sponsor|||||
+31190000|NCT03398967|Principal Investigator|Han weidong|Director of Molecular & Immunological Department, Biotherapeutic Department||Chinese PLA General Hospital|
+31190004|NCT03125577|Principal Investigator|Lung-Ji Chang|President||Shenzhen Geno-Immune Medical Institute|
+31104811|NCT05359211|Sponsor|||||
+31105005|NCT04889716|Sponsor|||||
+31105170|NCT04422912|Sponsor|||||
+31105423|NCT03277729|Sponsor|||||
+31190435|NCT03939026|Sponsor|||||
+30836447|NCT04488354|Sponsor|||||
+31105777|NCT05352828|Sponsor|||||
+31105845|NCT04817774|Sponsor|||||
+31105862|NCT04690595|Sponsor|||||
+31190544|NCT03142646|Sponsor|||||
+30836649|NCT05310591|Sponsor|||||
+31106071|NCT05632380|Principal Investigator|Zou Dehui|principal investigator||Institute of Hematology & Blood Diseases Hospital|
+31106342|NCT03912480|Sponsor|||||
+31106399|NCT03910842|Sponsor|||||
+31106433|NCT05571540|Sponsor|||||
+30837076|NCT05063682|Sponsor|||||
+30837149|NCT05060796|Sponsor|||||
+31107066|NCT04155749|Sponsor|||||
+30837269|NCT03097770|Principal Investigator|Han weidong|PI||Chinese PLA General Hospital|
+30837458|NCT03599375|Sponsor-Investigator|jiuwei cui|chief||The First Hospital of Jilin University|
+30837541|NCT03407859|Sponsor|||||
+30837772|NCT04191941|Sponsor|||||
+31108071|NCT03690011|Principal Investigator|LaQuisa Hill|Assistant Professor||Baylor College of Medicine|
+31108117|NCT02431988|Sponsor|||||
+31191146|NCT05396300|Sponsor-Investigator|Weijia Fang, MD|MD||Zhejiang University|
+31191182|NCT05089266|Sponsor|||||
+31191213|NCT04768608|Principal Investigator|Weijia Fang, MD|Professor||Zhejiang University|
+31108448|NCT05666700|Sponsor|||||
+31191231|NCT04652219|Sponsor-Investigator|Weijia Fang, MD|director||Zhejiang University|
+31108604|NCT03854994|Sponsor|||||
+31191300|NCT03618381|Principal Investigator|Colleen Annesley|Medical Director, Seattle Children's Therapeutics||Seattle Children's Hospital|
+30838571|NCT04249947|Sponsor|||||
+31108897|NCT03631576|Principal Investigator|Jianda Hu|Director of the department of Hematology||Fujian Medical University|
+30838591|NCT05619861|Sponsor|||||
+30839032|NCT03154775|Sponsor|||||
+31109612|NCT05404048|Sponsor|||||
+30839311|NCT03018093|Sponsor|||||
+31191710|NCT04545762|Sponsor-Investigator|C. Babis Andreadis|Principal Investigator||University of California, San Francisco|
+31191729|NCT04419909|Sponsor|||||
+31110431|NCT03754764|Principal Investigator|Han weidong|Director of Molecular & Immunological Department,Biotherapeutic Department||Chinese PLA General Hospital|
+30840020|NCT05105867|Sponsor|||||
+30840306|NCT03915184|Sponsor|||||
+31192115|NCT02850536|Sponsor|||||
+31111919|NCT04288726|Principal Investigator|Carlos Ramos|Associate Professor||Baylor College of Medicine|
+31112087|NCT03685786|Sponsor|||||
+31112871|NCT05318963|Sponsor-Investigator|Qiu Lugui|Leading site Principal Investigator||Institute of Hematology & Blood Diseases Hospital|
+30841266|NCT03818165|Sponsor|||||
+30841554|NCT04129099|Sponsor|||||
+31113929|NCT03932565|Sponsor|||||
+30842236|NCT04916860|Sponsor|||||
+31114242|NCT03642496|Sponsor|||||
+30842697|NCT04943016|Sponsor|||||
+30842993|NCT02744287|Sponsor|||||
+30843020|NCT04037241|Sponsor|||||
+31193674|NCT05117138|Sponsor|||||
+31114999|NCT03574168|Sponsor|||||
+31193738|NCT03327285|Principal Investigator|Xiaojun Huang,MD|Chair||Peking University People's Hospital|
+30844016|NCT05634785|Sponsor|||||
+30844098|NCT05366179|Sponsor|||||
+31115346|NCT03907527|Sponsor|||||
+30844206|NCT04995003|Principal Investigator|Meenakshi Hegde, M.D.|Associate Professor||Baylor College of Medicine|
+30844212|NCT04977024|Sponsor|||||
+30844438|NCT03721068|Sponsor|||||
+30844445|NCT03672318|Sponsor|||||
+30844505|NCT03016377|Sponsor|||||
+31194034|NCT03321123|Sponsor|||||
+30844768|NCT03050190|Principal Investigator|Lung-Ji Chang|President||Shenzhen Geno-Immune Medical Institute|
+31115529|NCT03893019|Sponsor|||||
+31115651|NCT03338972|Principal Investigator|Damian Green|Associate Professor||Fred Hutchinson Cancer Center|
+31115751|NCT03884751|Sponsor|||||
+31116120|NCT03563326|Sponsor-Investigator|Jian-Kun Hu|Vice director of Gastrointestinal Surgery department, West China Hospital; Director of Institute of Gastric Cancer, State Key Laboratory of Biotherapy, West China Hospital||West China Hospital|
+31194757|NCT02981628|Sponsor|||||
+31194817|NCT05334823|Sponsor|||||
+30845112|NCT04121273|Principal Investigator|Beicheng Sun|Director of Hepatobiliary Surgery||The Affiliated Nanjing Drum Tower Hospital of Nanjing University Medical School|
+31195557|NCT03302403|Sponsor-Investigator|Kang YU|Head of Department of Hematology||First Affiliated Hospital of Wenzhou Medical University|
+31196581|NCT04935580|Principal Investigator|Juan Du|Director of Hematology Department||Shanghai Changzheng Hospital|
+31197773|NCT03252171|Sponsor|||||
+31198307|NCT05354375|Sponsor|||||
+31198686|NCT04855253|Sponsor|||||
+31198711|NCT04715191|Principal Investigator|Andras Heczey|Assistant Professor||Baylor College of Medicine|
+30845213|NCT04884984|Sponsor|||||
+31198753|NCT04377932|Principal Investigator|Andras Heczey|Associate Professor||Baylor College of Medicine|
+31198769|NCT04240808|Sponsor|||||
+31198786|NCT04049383|Principal Investigator|Julie-An M. Talano|Professor||Medical College of Wisconsin|
+31198960|NCT03564977|Sponsor|||||
+31199185|NCT03545815|Principal Investigator|Han weidong|Director||Chinese PLA General Hospital|
+30845237|NCT03825731|Sponsor|||||
+31116995|NCT05103631|Principal Investigator|Tannaz Armaghnay|Assistant Professor||Baylor College of Medicine|
+31116996|NCT05094206|Principal Investigator|Nirav Shah|Associate Professor||Medical College of Wisconsin|
+31200066|NCT03060356|Sponsor|||||
+31117069|NCT04633148|Sponsor|||||
+31117093|NCT04464200|Sponsor|||||
+31117095|NCT04442022|Sponsor|||||
+31200349|NCT03559439|Principal Investigator|Liu Ligen|Principal Investigator||Shanghai Tong Ren Hospital|
+31200493|NCT04934774|Sponsor|||||
+31117120|NCT04196491|Sponsor|||||
+31117172|NCT03448393|Sponsor|||||
+31201240|NCT04888442|Sponsor|||||
+30845412|NCT04863066|Sponsor|||||
+31202644|NCT04412174|Sponsor|||||
+31203419|NCT02706405|Principal Investigator|Alexandre Hirayama|Research Associate||Fred Hutchinson Cancer Center|
+31203512|NCT03179007|Sponsor|||||
+31203523|NCT02761915|Sponsor|||||
+30846372|NCT04822974|Sponsor|||||
+30846617|NCT04780529|Sponsor|||||
+30846900|NCT04796688|Principal Investigator|MEI HENG|Proferssor, Cheif Doctor||Wuhan Union Hospital, China|
+30847092|NCT02247609|Principal Investigator|Jun Zhu|Director||Peking University|
+30847255|NCT05613348|Sponsor|||||
+30847691|NCT01897415|Sponsor|||||
+31204693|NCT05626322|Sponsor|||||
+31204743|NCT05396885|Sponsor|||||
+31205056|NCT02107963|Sponsor|||||
+31206386|NCT02203825|Sponsor|||||
+30848192|NCT05123001|Sponsor|||||
+30848287|NCT05577000|Sponsor-Investigator|Thomas Martin, MD|Principal Investigator||University of California, San Francisco|
+30848412|NCT04767308|Principal Investigator|Jianfeng Zhou|Principal Investigator||Huazhong University of Science and Technology|

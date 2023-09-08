@@ -1,0 +1,110 @@
+id|nct_id|name
+3592984|NCT04714827|Clinical Study Report (CSR)
+3592994|NCT04714593|Clinical Study Report (CSR)
+3615184|NCT04732845|Study Protocol
+3615185|NCT04732845|Statistical Analysis Plan (SAP)
+3615186|NCT04732845|Clinical Study Report (CSR)
+3583014|NCT05032820|Study Protocol
+3583052|NCT04855136|Study Protocol
+3583053|NCT04855136|Statistical Analysis Plan (SAP)
+3583054|NCT04855136|Clinical Study Report (CSR)
+3593770|NCT05621291|Study Protocol
+3593771|NCT05621291|Statistical Analysis Plan (SAP)
+3593772|NCT05621291|Informed Consent Form (ICF)
+3626987|NCT02348216|Study Protocol
+3626988|NCT02348216|Statistical Analysis Plan (SAP)
+3627160|NCT04136275|Study Protocol
+3627161|NCT04136275|Statistical Analysis Plan (SAP)
+3627162|NCT04136275|Informed Consent Form (ICF)
+3627487|NCT04150913|Study Protocol
+3627488|NCT04150913|Statistical Analysis Plan (SAP)
+3627489|NCT04150913|Informed Consent Form (ICF)
+3617996|NCT05089266|Clinical Study Report (CSR)
+3605204|NCT04231747|Study Protocol
+3605205|NCT04231747|Statistical Analysis Plan (SAP)
+3605206|NCT04231747|Informed Consent Form (ICF)
+3605207|NCT04231747|Clinical Study Report (CSR)
+3605208|NCT04231747|Analytic Code
+3595513|NCT04815356|Study Protocol
+3595514|NCT04815356|Statistical Analysis Plan (SAP)
+3595515|NCT04815356|Informed Consent Form (ICF)
+3585011|NCT04608487|Study Protocol
+3585012|NCT04608487|Statistical Analysis Plan (SAP)
+3585013|NCT04608487|Informed Consent Form (ICF)
+3574246|NCT04410900|Study Protocol
+3574247|NCT04410900|Statistical Analysis Plan (SAP)
+3574248|NCT04410900|Analytic Code
+3574525|NCT04318678|Study Protocol
+3574526|NCT04318678|Statistical Analysis Plan (SAP)
+3574527|NCT04318678|Informed Consent Form (ICF)
+3575106|NCT03049449|Study Protocol
+3575107|NCT03049449|Statistical Analysis Plan (SAP)
+3575108|NCT03049449|Informed Consent Form (ICF)
+3620078|NCT02107963|Study Protocol
+3620079|NCT02107963|Statistical Analysis Plan (SAP)
+3620080|NCT02107963|Informed Consent Form (ICF)
+3586436|NCT01087294|Study Protocol
+3586437|NCT01087294|Statistical Analysis Plan (SAP)
+3620546|NCT04473937|Study Protocol
+3620547|NCT04473937|Statistical Analysis Plan (SAP)
+3620548|NCT04473937|Informed Consent Form (ICF)
+3608251|NCT04196491|Study Protocol
+3608252|NCT04196491|Statistical Analysis Plan (SAP)
+3608253|NCT04196491|Informed Consent Form (ICF)
+3608254|NCT04196491|Clinical Study Report (CSR)
+3608255|NCT04196491|Analytic Code
+3608266|NCT03448393|Study Protocol
+3608267|NCT03448393|Statistical Analysis Plan (SAP)
+3608268|NCT03448393|Informed Consent Form (ICF)
+3598660|NCT03744676|Study Protocol
+3598661|NCT03744676|Statistical Analysis Plan (SAP)
+3598662|NCT03744676|Informed Consent Form (ICF)
+3598663|NCT03744676|Clinical Study Report (CSR)
+3598664|NCT03744676|Analytic Code
+3622302|NCT03904069|Study Protocol
+3622303|NCT03904069|Statistical Analysis Plan (SAP)
+3622304|NCT03904069|Informed Consent Form (ICF)
+3622305|NCT03904069|Clinical Study Report (CSR)
+3609666|NCT03931421|Study Protocol
+3609667|NCT03931421|Clinical Study Report (CSR)
+3588987|NCT04074330|Study Protocol
+3588988|NCT04074330|Statistical Analysis Plan (SAP)
+3588989|NCT04074330|Informed Consent Form (ICF)
+3588990|NCT04074330|Clinical Study Report (CSR)
+3623415|NCT05514327|Study Protocol
+3623416|NCT05514327|Statistical Analysis Plan (SAP)
+3623417|NCT05514327|Informed Consent Form (ICF)
+3623418|NCT05514327|Clinical Study Report (CSR)
+3623486|NCT04280133|Study Protocol
+3623487|NCT04280133|Statistical Analysis Plan (SAP)
+3623488|NCT04280133|Informed Consent Form (ICF)
+3600922|NCT04160195|Study Protocol
+3600923|NCT04160195|Statistical Analysis Plan (SAP)
+3600924|NCT04160195|Informed Consent Form (ICF)
+3590268|NCT05020444|Study Protocol
+3590269|NCT05020444|Statistical Analysis Plan (SAP)
+3590270|NCT05020444|Informed Consent Form (ICF)
+3590854|NCT05442515|Study Protocol
+3590855|NCT05442515|Statistical Analysis Plan (SAP)
+3590856|NCT05442515|Informed Consent Form (ICF)
+3590935|NCT05035407|Study Protocol
+3590936|NCT05035407|Statistical Analysis Plan (SAP)
+3590937|NCT05035407|Informed Consent Form (ICF)
+3590945|NCT05003895|Study Protocol
+3590946|NCT05003895|Statistical Analysis Plan (SAP)
+3590947|NCT05003895|Informed Consent Form (ICF)
+3591190|NCT02315612|Study Protocol
+3591191|NCT02315612|Statistical Analysis Plan (SAP)
+3591192|NCT02315612|Informed Consent Form (ICF)
+3580615|NCT04394650|Study Protocol
+3580616|NCT04394650|Statistical Analysis Plan (SAP)
+3580617|NCT04394650|Informed Consent Form (ICF)
+3580618|NCT04394650|Clinical Study Report (CSR)
+3580619|NCT04394650|Analytic Code
+3581418|NCT03602612|Study Protocol
+3581419|NCT03602612|Statistical Analysis Plan (SAP)
+3581420|NCT03602612|Informed Consent Form (ICF)
+3612996|NCT03648372|Study Protocol
+3612997|NCT03648372|Statistical Analysis Plan (SAP)
+3612998|NCT03648372|Informed Consent Form (ICF)
+3612999|NCT03648372|Clinical Study Report (CSR)

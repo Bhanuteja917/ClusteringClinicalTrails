@@ -1,0 +1,72 @@
+id|nct_id|document_type|has_protocol|has_icf|has_sap|document_date|url
+2802966|NCT03289455|Study Protocol|t|f|f|2019-05-10|https://ClinicalTrials.gov/ProvidedDocs/55/NCT03289455/Prot_000.pdf
+2802967|NCT03289455|Statistical Analysis Plan|f|f|t|2020-07-30|https://ClinicalTrials.gov/ProvidedDocs/55/NCT03289455/SAP_001.pdf
+2812090|NCT02706405|Study Protocol and Statistical Analysis Plan|t|f|t|2021-12-22|https://ClinicalTrials.gov/ProvidedDocs/05/NCT02706405/Prot_SAP_000.pdf
+2812096|NCT02761915|Study Protocol|t|f|f|2019-10-18|https://ClinicalTrials.gov/ProvidedDocs/15/NCT02761915/Prot_000.pdf
+2776638|NCT05108805|Informed Consent Form|f|t|f|2022-06-23|https://ClinicalTrials.gov/ProvidedDocs/05/NCT05108805/ICF_000.pdf
+2794851|NCT04160195|Study Protocol and Statistical Analysis Plan|t|f|t|2020-05-27|https://ClinicalTrials.gov/ProvidedDocs/95/NCT04160195/Prot_SAP_000.pdf
+2794852|NCT04160195|Informed Consent Form|f|t|f|2020-06-30|https://ClinicalTrials.gov/ProvidedDocs/95/NCT04160195/ICF_001.pdf
+2786391|NCT01593696|Study Protocol and Statistical Analysis Plan|t|f|t|2018-01-12|https://ClinicalTrials.gov/ProvidedDocs/96/NCT01593696/Prot_SAP_000.pdf
+2786392|NCT01593696|Informed Consent Form: Standard Consent|f|t|f|2016-05-04|https://ClinicalTrials.gov/ProvidedDocs/96/NCT01593696/ICF_001.pdf
+2786393|NCT01593696|Informed Consent Form: Screening Consent|f|t|f|2016-05-04|https://ClinicalTrials.gov/ProvidedDocs/96/NCT01593696/ICF_002.pdf
+2778757|NCT04381741|Study Protocol and Statistical Analysis Plan|t|f|t|2020-03-20|https://ClinicalTrials.gov/ProvidedDocs/41/NCT04381741/Prot_SAP_000.pdf
+2778758|NCT04381741|Informed Consent Form|f|t|f|2020-03-20|https://ClinicalTrials.gov/ProvidedDocs/41/NCT04381741/ICF_001.pdf
+2795881|NCT02664363|Study Protocol and Statistical Analysis Plan|t|f|t|2018-04-02|https://ClinicalTrials.gov/ProvidedDocs/63/NCT02664363/Prot_SAP_000.pdf
+2795905|NCT03958656|Study Protocol and Statistical Analysis Plan|t|f|t|2020-04-14|https://ClinicalTrials.gov/ProvidedDocs/56/NCT03958656/Prot_SAP_000.pdf
+2795906|NCT03958656|Informed Consent Form|f|t|f|2020-06-16|https://ClinicalTrials.gov/ProvidedDocs/56/NCT03958656/ICF_001.pdf
+2787858|NCT03330834|Study Protocol and Statistical Analysis Plan|t|f|t|2017-08-12|https://ClinicalTrials.gov/ProvidedDocs/34/NCT03330834/Prot_SAP_000.pdf
+2813361|NCT01865617|Study Protocol|t|f|f|2021-06-01|https://ClinicalTrials.gov/ProvidedDocs/17/NCT01865617/Prot_000.pdf
+2805671|NCT04097301|Study Protocol and Statistical Analysis Plan|t|f|t|2020-01-08|https://ClinicalTrials.gov/ProvidedDocs/01/NCT04097301/Prot_SAP_000.pdf
+2788697|NCT03761056|Study Protocol|t|f|f|2022-03-25|https://ClinicalTrials.gov/ProvidedDocs/56/NCT03761056/Prot_000.pdf
+2788698|NCT03761056|Statistical Analysis Plan: Statistical analysis plan|f|f|t|2019-09-25|https://ClinicalTrials.gov/ProvidedDocs/56/NCT03761056/SAP_001.pdf
+2788699|NCT03761056|Statistical Analysis Plan: Translational Statistical analysis plan|f|f|t|2021-02-25|https://ClinicalTrials.gov/ProvidedDocs/56/NCT03761056/SAP_002.pdf
+2788853|NCT04205409|Informed Consent Form|f|t|f|2021-10-04|https://ClinicalTrials.gov/ProvidedDocs/09/NCT04205409/ICF_000.pdf
+2806044|NCT01192464|Informed Consent Form|f|t|f|2018-03-27|https://ClinicalTrials.gov/ProvidedDocs/64/NCT01192464/ICF_000.pdf
+2814228|NCT01318317|Study Protocol and Statistical Analysis Plan|t|f|t|2014-06-10|https://ClinicalTrials.gov/ProvidedDocs/17/NCT01318317/Prot_SAP_000.pdf
+2780665|NCT03602612|Study Protocol and Statistical Analysis Plan|t|f|t|2021-04-26|https://ClinicalTrials.gov/ProvidedDocs/12/NCT03602612/Prot_SAP_000.pdf
+2780666|NCT03602612|Informed Consent Form|f|t|f|2021-05-25|https://ClinicalTrials.gov/ProvidedDocs/12/NCT03602612/ICF_001.pdf
+2814649|NCT02659943|Study Protocol and Statistical Analysis Plan|t|f|t|2020-09-17|https://ClinicalTrials.gov/ProvidedDocs/43/NCT02659943/Prot_SAP_000.pdf
+2814650|NCT02659943|Informed Consent Form|f|t|f|2020-09-17|https://ClinicalTrials.gov/ProvidedDocs/43/NCT02659943/ICF_001.pdf
+2806580|NCT03318861|Study Protocol|t|f|f|2017-09-11|https://ClinicalTrials.gov/ProvidedDocs/61/NCT03318861/Prot_000.pdf
+2806581|NCT03318861|Statistical Analysis Plan|f|f|t|2019-03-26|https://ClinicalTrials.gov/ProvidedDocs/61/NCT03318861/SAP_001.pdf
+2814954|NCT02442297|Informed Consent Form|f|t|f|2022-09-14|https://ClinicalTrials.gov/ProvidedDocs/97/NCT02442297/ICF_000.pdf
+2815075|NCT03288493|Study Protocol and Statistical Analysis Plan|t|f|t|2019-09-20|https://ClinicalTrials.gov/ProvidedDocs/93/NCT03288493/Prot_SAP_000.pdf
+2815088|NCT02935543|Study Protocol and Statistical Analysis Plan|t|f|t|2017-03-15|https://ClinicalTrials.gov/ProvidedDocs/43/NCT02935543/Prot_SAP_000.pdf
+2815115|NCT02030847|Study Protocol and Statistical Analysis Plan|t|f|t|2017-04-14|https://ClinicalTrials.gov/ProvidedDocs/47/NCT02030847/Prot_SAP_001.pdf
+2799111|NCT05404048|Study Protocol and Statistical Analysis Plan|t|f|t|2022-01-12|https://ClinicalTrials.gov/ProvidedDocs/48/NCT05404048/Prot_SAP_000.pdf
+2782678|NCT03019055|Study Protocol and Statistical Analysis Plan|t|f|t|2019-06-18|https://ClinicalTrials.gov/ProvidedDocs/55/NCT03019055/Prot_SAP_000.pdf
+2782679|NCT03019055|Informed Consent Form|f|t|f|2019-07-09|https://ClinicalTrials.gov/ProvidedDocs/55/NCT03019055/ICF_001.pdf
+2800567|NCT03338972|Study Protocol and Statistical Analysis Plan|t|f|t|2020-10-07|https://ClinicalTrials.gov/ProvidedDocs/72/NCT03338972/Prot_SAP_000.pdf
+2817108|NCT02348216|Study Protocol|t|f|f|2019-02-11|https://ClinicalTrials.gov/ProvidedDocs/16/NCT02348216/Prot_000.pdf
+2817109|NCT02348216|Statistical Analysis Plan|f|f|t|2019-07-08|https://ClinicalTrials.gov/ProvidedDocs/16/NCT02348216/SAP_001.pdf
+2782968|NCT05032820|Study Protocol and Statistical Analysis Plan|t|f|t|2022-03-10|https://ClinicalTrials.gov/ProvidedDocs/20/NCT05032820/Prot_SAP_000.pdf
+2782969|NCT05032820|Informed Consent Form: Informed Consent to Participate in Research|f|t|f|2022-07-11|https://ClinicalTrials.gov/ProvidedDocs/20/NCT05032820/ICF_001.pdf
+2782970|NCT05032820|Informed Consent Form: Pregnancy Partner Informed Consent Form|f|t|f|2022-03-03|https://ClinicalTrials.gov/ProvidedDocs/20/NCT05032820/ICF_002.pdf
+2800778|NCT03287804|Study Protocol|t|f|f|2018-06-27|https://ClinicalTrials.gov/ProvidedDocs/04/NCT03287804/Prot_000.pdf
+2800779|NCT03287804|Statistical Analysis Plan|f|f|t|2020-04-21|https://ClinicalTrials.gov/ProvidedDocs/04/NCT03287804/SAP_001.pdf
+2817876|NCT01454596|Study Protocol and Statistical Analysis Plan|t|f|t|2018-06-28|https://ClinicalTrials.gov/ProvidedDocs/96/NCT01454596/Prot_SAP_000.pdf
+2817877|NCT01454596|Informed Consent Form|f|t|f|2018-07-10|https://ClinicalTrials.gov/ProvidedDocs/96/NCT01454596/ICF_001.pdf
+2817887|NCT02215967|Study Protocol and Statistical Analysis Plan|t|f|t|2017-09-21|https://ClinicalTrials.gov/ProvidedDocs/67/NCT02215967/Prot_SAP_000.pdf
+2817888|NCT02215967|Informed Consent Form|f|t|f|2017-10-16|https://ClinicalTrials.gov/ProvidedDocs/67/NCT02215967/ICF_001.pdf
+2809725|NCT02601313|Study Protocol|t|f|f|2018-10-29|https://ClinicalTrials.gov/ProvidedDocs/13/NCT02601313/Prot_000.pdf
+2809726|NCT02601313|Statistical Analysis Plan|f|f|t|2019-07-08|https://ClinicalTrials.gov/ProvidedDocs/13/NCT02601313/SAP_001.pdf
+2792209|NCT01218867|Study Protocol and Statistical Analysis Plan|t|f|t|2015-07-01|https://ClinicalTrials.gov/ProvidedDocs/67/NCT01218867/Prot_SAP_000.pdf
+2792210|NCT01218867|Informed Consent Form|f|t|f|2015-07-15|https://ClinicalTrials.gov/ProvidedDocs/67/NCT01218867/ICF_001.pdf
+2775385|NCT03049449|Study Protocol and Statistical Analysis Plan|t|f|t|2020-10-19|https://ClinicalTrials.gov/ProvidedDocs/49/NCT03049449/Prot_SAP_000.pdf
+2775386|NCT03049449|Informed Consent Form|f|t|f|2020-10-09|https://ClinicalTrials.gov/ProvidedDocs/49/NCT03049449/ICF_001.pdf
+2810053|NCT02706392|Study Protocol and Statistical Analysis Plan|t|f|t|2021-09-16|https://ClinicalTrials.gov/ProvidedDocs/92/NCT02706392/Prot_SAP_000.pdf
+2783459|NCT02028455|Study Protocol|t|f|f|2020-06-04|https://ClinicalTrials.gov/ProvidedDocs/55/NCT02028455/Prot_000.pdf
+2783460|NCT02028455|Statistical Analysis Plan|f|f|t|2021-02-09|https://ClinicalTrials.gov/ProvidedDocs/55/NCT02028455/SAP_001.pdf
+2810117|NCT02535364|Study Protocol|t|f|f|2016-07-14|https://ClinicalTrials.gov/ProvidedDocs/64/NCT02535364/Prot_000.pdf
+2810118|NCT02535364|Statistical Analysis Plan|f|f|t|2016-11-09|https://ClinicalTrials.gov/ProvidedDocs/64/NCT02535364/SAP_001.pdf
+2775613|NCT01583686|Study Protocol and Statistical Analysis Plan|t|f|t|2018-04-12|https://ClinicalTrials.gov/ProvidedDocs/86/NCT01583686/Prot_SAP_000.pdf
+2775614|NCT01583686|Informed Consent Form|f|t|f|2018-05-01|https://ClinicalTrials.gov/ProvidedDocs/86/NCT01583686/ICF_001.pdf
+2784124|NCT02650999|Study Protocol and Statistical Analysis Plan|t|f|t|2018-10-21|https://ClinicalTrials.gov/ProvidedDocs/99/NCT02650999/Prot_SAP_000.pdf
+2784125|NCT02650999|Informed Consent Form|f|t|f|2018-12-20|https://ClinicalTrials.gov/ProvidedDocs/99/NCT02650999/ICF_001.pdf
+2792870|NCT00902044|Informed Consent Form|f|t|f|2020-03-30|https://ClinicalTrials.gov/ProvidedDocs/44/NCT00902044/ICF_000.pdf
+2793183|NCT03624036|Study Protocol|t|f|f|2021-09-01|https://ClinicalTrials.gov/ProvidedDocs/36/NCT03624036/Prot_000.pdf
+2793184|NCT03624036|Statistical Analysis Plan|f|f|t|2021-01-21|https://ClinicalTrials.gov/ProvidedDocs/36/NCT03624036/SAP_001.pdf
+2801886|NCT00924326|Study Protocol and Statistical Analysis Plan|t|f|t|2018-08-23|https://ClinicalTrials.gov/ProvidedDocs/26/NCT00924326/Prot_SAP_000.pdf
+2801887|NCT00924326|Informed Consent Form|f|t|f|2020-06-24|https://ClinicalTrials.gov/ProvidedDocs/26/NCT00924326/ICF_002.pdf
+2793591|NCT03483103|Study Protocol|t|f|f|2021-08-16|https://ClinicalTrials.gov/ProvidedDocs/03/NCT03483103/Prot_000.pdf
+2793592|NCT03483103|Statistical Analysis Plan|f|f|t|2021-07-29|https://ClinicalTrials.gov/ProvidedDocs/03/NCT03483103/SAP_001.pdf
