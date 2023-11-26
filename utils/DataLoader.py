@@ -31,18 +31,15 @@ class DataLoader:
 
         extracted_data = {
             "NCT ID": self._try_except(identification, 'nctId'),
-            "Official Title": self._try_except(identification, 'officialTitle'),
-            "Description": self._try_except(description, 'detailedDescription'),
-            "Conditions": self._try_except(conditions, 'conditions', join=True),
-            "Keywords": self._try_except(conditions, 'keywords', join=True),
             "Study Type": self._try_except(design, 'studyType'),
-            "Phases": self._try_except(design, 'phases', join=True),
-            "Primary Purpose": primary_purpose,
+            "Standard Ages": self._try_except(eligibility, 'stdAges', join=True),
+            "Official Title": self._try_except(identification, 'officialTitle'),
+            "Conditions": self._try_except(conditions, 'conditions', join=True),
             "Eligibility Criteria": self._try_except(eligibility, 'eligibilityCriteria'),
-            "Is Healthy Volunteers": self._try_except(eligibility, 'healthyVolunteers'),
             "Sex": self._try_except(eligibility, 'sex'),
-            "Minimum Age": self._try_except(eligibility, 'minimumAge'),
-            "Standard Ages": self._try_except(eligibility, 'stdAges', join=True)
+            "Keywords": self._try_except(conditions, 'keywords', join=True),
+            "Phases": self._try_except(design, 'phases', join=True),
+            "Is Healthy Volunteers": self._try_except(eligibility, 'healthyVolunteers'),
         }
 
         return extracted_data
