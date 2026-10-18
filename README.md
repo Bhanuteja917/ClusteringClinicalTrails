@@ -9,11 +9,10 @@ Data preparation for clustering clinical-trial records. This repository holds th
 | Path | What it is |
 |---|---|
 | `dataset/cart_clinical_trials_txt/` | Raw pipe-delimited exports, one file per table |
-| `dataset/cart_clinical_trials_csv/` | The same 48 tables converted to CSV |
+| `dataset/cart_clinical_trials_csv/` | The same 47 tables converted to CSV, plus `ctg-studies.csv` (a study-level export from ClinicalTrials.gov) |
 | `dataset/txtToCsv.py` | Converts the raw `.txt` files to CSV |
 | `dataset/extractAttributes.py` | Reads every CSV header and regenerates `dataset/README.md`, the data dictionary |
 | `dataset/README.md` | Generated data dictionary: attributes of every table |
-| `ctg-studies.csv` | Study-level export from ClinicalTrials.gov |
 
 ## Re-generate the data dictionary
 
